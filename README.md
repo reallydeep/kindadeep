@@ -170,7 +170,7 @@
 
 # Deep Patel 👑 🌊 — Portfolio
 
-> **Interactive deep-ocean themed personal portfolio** — a single-file experience featuring GPU-accelerated ocean visuals, live OSINT data, pixel art, and full section-based navigation.
+> **Interactive deep-ocean themed personal portfolio** — a single-file experience featuring GPU-accelerated ocean visuals, live OSINT intelligence, real-time war probability scoring, pixel art, and full section-based navigation.
 
 [![Live Site](https://img.shields.io/badge/🌊_Live_Site-kindadeep.vercel.app-4fc3f7?style=for-the-badge)](https://kindadeep.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dspatel00-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dspatel00)
@@ -199,38 +199,63 @@
 
 | Widget | Source | Desktop | Mobile |
 |--------|--------|---------|--------|
-| 📡 OSINT Feed | danielrosehill/Iran-Israel-War-2026-OSINT-Data (GitHub) | Fixed bottom widget | Slide-up drawer |
-| 📺 Live News | YouTube iframes — 13 channels (ME Cams, NBC, BBC, Al Jazeera…) | Fixed bottom-left widget | Slide-up drawer |
-| 🎵 Deep's Mix | Spotify Embed API | Fixed bottom-right widget | Slide-up drawer |
+| 📺 Live News | YouTube iframes — 13 channels (ME Cams, NBC, BBC, Al Jazeera…) | Fixed bottom-left (red) | Slide-up drawer |
+| 📡 OSINT Feed | danielrosehill/Iran-Israel-War-2026-OSINT-Data | Fixed bottom-center (blue) | Slide-up drawer |
+| ⚠ War Probability | mohd-faizy/War-Probability-OSINT · GDELT-2 API | Fixed bottom (purple) | Slide-up drawer |
+| 🎵 Deep's Mix | Spotify Embed API | Fixed bottom-right (green) | Slide-up drawer |
+
+---
 
 ### 📡 OSINT Feed — Iran-Israel War Data
 
-The OSINT widget fetches live structured data directly from [`danielrosehill/Iran-Israel-War-2026-OSINT-Data`](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data) via `raw.githubusercontent.com` — no backend, no API key required.
+Fetches live structured data from [`danielrosehill/Iran-Israel-War-2026-OSINT-Data`](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data) via `raw.githubusercontent.com` — no backend, no API key required.
 
 **Two tabs of wave-level intelligence:**
 - **TP4 · 2026** — Operation True Promise 4 (Feb 28 – ongoing), 27+ waves across 12 countries
-- **TP3 · 2025** — Operation True Promise 3, the 12-day Twelve-Day War (Jun 13–24, 2025), 22 waves
+- **TP3 · 2025** — Operation True Promise 3, the Twelve-Day War (Jun 13–24, 2025), 22 waves
 
-**Each wave card displays:**
-- UTC timestamp · IRGC source attribution · wave number
-- Full operation description and targeting summary
-- 💀 KIA / 🩸 WIA casualty counts
-- 🛡 Interception systems deployed (Arrow-3, THAAD, David's Sling, Iron Dome…)
-- Weapon type tags: ⚡ HYPERSONIC · 🚀 BALLISTIC MISSILE · 🛸 DRONE · ⚠ CLUSTER · ✈ CRUISE
-- Country flag emojis for every targeted nation
+**Each wave card shows:** UTC timestamp · wave number · description · 💀 KIA / 🩸 WIA · 🛡 interception systems · weapon tags (⚡ HYPERSONIC · 🚀 BM · 🛸 DRONE · ⚠ CLUSTER) · country flags
 
-> ⚠️ Data credit: [Daniel Rosehill](https://github.com/danielrosehill). AI-assisted dataset — may contain inaccuracies. Cross-reference before use.
+> ⚠️ Data credit: [Daniel Rosehill](https://github.com/danielrosehill). AI-assisted — may contain inaccuracies. Cross-reference before use.
+
+---
+
+### ⚠ War Probability Engine
+
+A browser-native port of [`mohd-faizy/War-Probability-OSINT`](https://github.com/mohd-faizy/War-Probability-OSINT) — the full ML feature engineering and inference pipeline reimplemented in vanilla JS. No Python, no backend, no API keys.
+
+**Pipeline:**
+1. Fetches last 6h of conflict articles from GDELT-2 (public, no auth)
+2. Computes article-volume z-score + negative-sentiment density from 26 keyword signals
+3. Seeds 6 military/financial anomaly features against conflict-aware baselines (stable within a UTC day)
+4. Feeds 8-feature vector through a sigmoid weighted by RF importances from `train_model.py`
+5. Outputs: probability % · risk level · confidence % · per-signal bar chart
+
+| # | Feature | Source |
+|---|---------|--------|
+| 0 | Military flight surge | 🔘 Simulated |
+| 1 | Tanker/refueler ratio | 🔘 Simulated |
+| 2 | Govt foot traffic anomaly | 🔘 Simulated |
+| 3 | GDELT news sentiment | 🟢 GDELT-2 Live |
+| 4 | Article volume spike | 🟢 GDELT-2 Live |
+| 5 | Brent crude z-score | 🔘 Simulated |
+| 6 | Defense stock z-score | 🔘 Simulated |
+| 7 | Gold price z-score | 🔘 Simulated |
+
+> ⚠️ Engine credit: [mohd-faizy](https://github.com/mohd-faizy). Not a prediction. Educational use only.
+
+---
 
 ### 📱 Mobile Experience
 - Responsive breakpoints at `768px` (mobile) and `769px–1024px` (tablet)
-- `html` and `body` locked to `overflow:hidden` on mobile — `#dive` is the sole scroll context
-- `overscroll-behavior-y:contain` on `#dive` prevents iOS rubber-band bleed to body
-- Slide-up drawer panels for News, OSINT, and Spotify widgets
+- `html` + `body` locked to `overflow:hidden` — `#dive` is the sole scroll context
+- `overscroll-behavior-y:contain` prevents iOS rubber-band bleed to body
+- Slide-up drawers for all 4 widgets: News · OSINT · Threat · Spotify
 - `content-visibility` **not used** — removed to prevent section height miscalculation on mobile reflow
 - Touch-optimized tap targets (44px min) throughout
 
 ### 🪟 Modals & Interactive Overlays
-- Experience modal — Bergen Logistics / Cloud X Systems + SML Group 3-tier career timeline
+- Experience modal — Bergen Logistics / Cloud X Systems + SML Group career timeline
 - Education modal — Rutgers University B.A. IT & Informatics, GPA 3.70
 - Skills Reef — interactive tag cloud across 14 categories
 - Project cards — BOL Verification System, ClipBot Telegram automation
@@ -260,7 +285,7 @@ No build step. No node_modules. No framework. Everything is in `index.html`.
 1. Push `index.html` to your GitHub repo
 2. Import the repo at [vercel.com/new](https://vercel.com/new)
 3. Framework preset: **Other** · Root directory: `/` · Output: `/`
-4. Deploy — live immediately at your Vercel URL
+4. Deploy — live at your Vercel URL immediately
 
 Vercel auto-redeploys on every `git push`.
 
@@ -269,22 +294,19 @@ Vercel auto-redeploys on every `git push`.
 ```bash
 git clone https://github.com/reallydeep/reallydeep.github.io
 cd reallydeep.github.io
-
 cp path/to/index.html index.html
-
 git add index.html preview.png README.md
 git commit -m "feat: deploy portfolio"
 git push origin main
 ```
 
-Then: Repo → **Settings** → **Pages** → Source: `main` / `/ (root)` → Save.
-Live at `https://reallydeep.github.io` within ~2 minutes.
+Repo → **Settings** → **Pages** → Source: `main` / `/ (root)` → Save. Live in ~2 minutes.
 
 ---
 
 ## 📎 Resume PDF
 
-The Resume button links to your GitHub profile by default. To point it at a real PDF:
+The Resume button links to GitHub by default. To point it at a real PDF:
 
 1. Add `deep-patel-resume.pdf` to the repo root
 2. Find the Resume anchor in `index.html` and update the `href`:
@@ -299,10 +321,11 @@ The Resume button links to your GitHub profile by default. To point it at a real
 | Layer | Tech |
 |-------|------|
 | Structure | HTML5 |
-| Styling | Vanilla CSS3 — custom properties, keyframe animations, media queries, `scroll-snap` |
+| Styling | Vanilla CSS3 — custom properties, keyframe animations, `scroll-snap` |
 | Logic | Vanilla JavaScript — ES5/ES6, no frameworks |
 | Font | Press Start 2P — Google Fonts |
 | OSINT Data | GitHub raw JSON — [`danielrosehill/Iran-Israel-War-2026-OSINT-Data`](https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data) |
+| War Probability | JS port of [`mohd-faizy/War-Probability-OSINT`](https://github.com/mohd-faizy/War-Probability-OSINT) + GDELT-2 |
 | News | YouTube iframes — 13 live channels |
 | Music | Spotify Embed API |
 | Hosting | Vercel |
@@ -312,24 +335,16 @@ The Resume button links to your GitHub profile by default. To point it at a real
 ## 🧪 Local Testing
 
 ```bash
-# Quickest — open directly (Spotify works; YouTube and OSINT need CORS headers)
-open index.html
-
-# Better — serve over HTTP for full widget support
-python3 -m http.server 8080
-# → http://localhost:8080
-
-# VS Code users
-# Right-click index.html → "Open with Live Server"
+open index.html                  # Spotify works; GDELT/YouTube need CORS headers
+python3 -m http.server 8080      # Full widget support at http://localhost:8080
 ```
 
-**Widget behavior by origin:**
-
-| Widget | `file://` | `http://localhost` | `https://` (deployed) |
-|--------|-----------|--------------------|-----------------------|
-| 🎵 Spotify | ✅ Works | ✅ Works | ✅ Works |
-| 📡 OSINT (GitHub fetch) | ⚠ CORS blocked | ✅ Works | ✅ Works |
-| 📺 YouTube News | ⚠ Mixed content | ✅ Works | ✅ Works |
+| Widget | `file://` | `localhost` | `https://` |
+|--------|-----------|-------------|------------|
+| 🎵 Spotify | ✅ | ✅ | ✅ |
+| 📡 OSINT | ⚠ CORS | ✅ | ✅ |
+| ⚠ War Probability | ⚠ CORS | ✅ | ✅ |
+| 📺 YouTube News | ⚠ Mixed content | ✅ | ✅ |
 
 ---
 
@@ -347,9 +362,9 @@ python3 -m http.server 8080
 
 ## 📬 Contact
 
-**Deep Snehal Patel** — Technical Business Analyst · WMS/EDI · Bergen Logistics / Cloud X Systems
+**Deep Snehal Patel** — Technical Business Analyst · WMS/EDI 
+
 - 🔗 [linkedin.com/in/dspatel00](https://linkedin.com/in/dspatel00)
 - 🐙 [github.com/reallydeep](https://github.com/reallydeep)
----
 
-<p align="center">Built with 🌊 and zero frameworks · 2026</p>
+---
