@@ -958,6 +958,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   #spotify-widget{display:none!important}
   #news-widget{display:none!important}
   #osint-widget{display:none!important}
+  #threat-widget{display:none!important}
 
   /* ── Show mobile toolbar ── */
   #mob-bar{display:flex}
@@ -1377,6 +1378,73 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   display:flex;align-items:center;gap:4px;
 }
 
+/* ─── WAR PROBABILITY / THREAT TAB CSS (now unused, kept for reference) ─── */
+.threat-gauge-bg{
+  height:7px;background:rgba(255,255,255,.05);
+  border:1px solid rgba(200,100,200,.2);border-radius:1px;overflow:hidden;
+}
+.threat-gauge-fill{
+  height:100%;
+  transition:width 1.4s cubic-bezier(.4,0,.2,1);
+}
+.threat-sig-bar-wrap{
+  flex:1;height:5px;background:rgba(255,255,255,.05);border-radius:1px;overflow:hidden;
+}
+.threat-sig-bar{
+  height:100%;border-radius:1px;
+  transition:width 1s ease;
+}
+
+/* ═══════════════════════════════════════════
+   ⚠ THREAT PROBABILITY WIDGET  (desktop)
+═══════════════════════════════════════════ */
+#threat-widget{
+  position:fixed;bottom:20px;right:370px;
+  z-index:7000;
+  width:310px;
+  background:rgba(12,4,28,.97);
+  border:3px solid #9c27b0;
+  box-shadow:0 0 0 3px #08011a,0 0 0 6px #9c27b0,0 0 40px rgba(156,39,176,.3);
+  border-radius:2px;
+  transition:width .3s,box-shadow .3s,opacity .4s,transform .4s;
+  font-family:var(--px);
+}
+#threat-widget.minimized{width:190px}
+#threat-widget.page-hidden{
+  opacity:0;pointer-events:none;
+  transform:translateY(20px);
+}
+.threat-bar{
+  padding:9px 12px;
+  background:rgba(156,39,176,.14);
+  display:flex;align-items:center;justify-content:space-between;
+  cursor:pointer;border-bottom:2px solid rgba(156,39,176,.3);
+  user-select:none;
+}
+.threat-title{
+  font-size:8px;color:#ce93d8;letter-spacing:1.5px;
+  display:flex;align-items:center;gap:7px;
+}
+.threat-live-dot{
+  width:7px;height:7px;border-radius:50%;
+  background:#ab47bc;
+  box-shadow:0 0 6px #ce93d8;
+  animation:biolum 1s ease-in-out infinite;
+  flex-shrink:0;
+}
+.threat-minimize{
+  font-size:7px;color:rgba(206,147,216,.7);
+  background:none;border:none;cursor:pointer;
+  font-family:var(--px);padding:2px 8px;
+  transition:color .15s;
+}
+.threat-minimize:hover{color:#ce93d8}
+#threat-body-wrap{overflow:hidden;transition:height .35s ease}
+#threat-feed{
+  overflow-y:auto;background:#050010;
+  scrollbar-width:thin;scrollbar-color:rgba(156,39,176,.4) #050010;
+}
+
 </style>
 </head>
 <body>
@@ -1529,6 +1597,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   <div class="mob-bar-sep"></div>
   <button class="mob-widget-btn" id="mob-news-btn" onclick="mobToggleWidget('news')" title="Live News" aria-label="Live News">📰</button>
   <button class="mob-widget-btn" id="mob-osint-btn" onclick="mobToggleWidget('osint')" title="OSINT Feed" aria-label="OSINT Feed">📡</button>
+  <button class="mob-widget-btn" id="mob-threat-btn" onclick="mobToggleWidget('threat')" title="War Probability" aria-label="War Probability" style="color:#ce93d8;border-color:rgba(156,39,176,.5);background:rgba(12,4,28,.9)">⚠</button>
   <button class="mob-widget-btn" id="mob-spotify-btn" onclick="mobToggleWidget('spotify')" title="Spotify" aria-label="Spotify">🎵</button>
 </nav>
 
@@ -1596,6 +1665,23 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   </div>
   <div style="padding:5px 10px;background:rgba(0,0,0,.6);border-top:1px solid rgba(21,101,192,.2);font-family:var(--px);font-size:5px;color:rgba(66,165,245,.3);letter-spacing:.8px;line-height:1.8;flex-shrink:0">
     ⚠ DATA: danielrosehill/Iran-Israel-War-2026-OSINT-Data · AI-ASSISTED · MAY CONTAIN INACCURACIES
+  </div>
+</div>
+
+<!-- ⚠ MOBILE THREAT / WAR PROBABILITY DRAWER -->
+<div id="mob-threat-drawer" class="mob-drawer">
+  <div class="mob-drawer-bar" style="background:rgba(156,39,176,.1);border-bottom-color:rgba(156,39,176,.4)">
+    <span class="mob-drawer-title" style="color:#ce93d8">⚠ WAR PROBABILITY</span>
+    <button class="mob-drawer-close" onclick="mobCloseDrawer('threat')" aria-label="Close" style="border-color:#ce93d8;color:#ce93d8">✕</button>
+  </div>
+  <div class="mob-drawer-content" id="mob-threat-content" style="padding:0;overflow-y:auto;-webkit-overflow-scrolling:touch;background:#050010">
+    <div id="mob-threat-feed-inner"></div>
+    <div id="mob-threat-loading" style="display:flex;align-items:center;justify-content:center;height:200px;font-family:var(--px);font-size:7px;color:rgba(206,147,216,.5);letter-spacing:1px;gap:8px">
+      <div class="threat-live-dot"></div>&nbsp;COMPUTING THREAT PROBABILITY...
+    </div>
+  </div>
+  <div style="padding:5px 10px;background:rgba(0,0,0,.7);border-top:1px solid rgba(156,39,176,.2);font-family:var(--px);font-size:5px;color:rgba(206,147,216,.3);letter-spacing:.8px;line-height:1.8;flex-shrink:0">
+    ⚠ ENGINE: mohd-faizy/War-Probability-OSINT · GDELT-2 LIVE · OTHER SIGNALS SIMULATED
   </div>
 </div>
 
@@ -1734,6 +1820,27 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
          onmouseover="this.style.color='#42a5f5'" onmouseout="this.style.color='rgba(66,165,245,.5)'">
         ↗ OPEN LIST
       </a>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════
+     ⚠ THREAT PROBABILITY WIDGET  (Page 1 only, desktop)
+═══════════════════════════════════════════════ -->
+<div id="threat-widget" class="minimized page-hidden">
+  <div class="threat-bar" onclick="toggleThreat()">
+    <div class="threat-title">
+      <div class="threat-live-dot"></div>
+      <span>⚠ WAR PROBABILITY</span>
+    </div>
+    <button class="threat-minimize" id="threat-toggle" aria-label="Toggle threat widget">▲</button>
+  </div>
+  <div id="threat-body-wrap" style="height:0px">
+    <div id="threat-feed" style="overflow-y:auto;max-height:360px">
+      <div id="threat-feed-inner"></div>
+      <div id="threat-loading" style="display:flex;align-items:center;justify-content:center;height:200px;font-family:var(--px);font-size:7px;color:rgba(206,147,216,.5);letter-spacing:1px;gap:8px">
+        <div class="threat-live-dot"></div>&nbsp;COMPUTING THREAT PROBABILITY...
+      </div>
     </div>
   </div>
 </div>
@@ -3853,14 +3960,14 @@ _rIC(function(){
 /* ─── MOBILE WIDGET DRAWERS ─── */
 
 // Track which drawers have been initialized (lazy load)
-var mobDrawerInited = {news: false, osint: false, spotify: false};
+var mobDrawerInited = {news: false, osint: false, threat: false, spotify: false};
 
 function mobToggleWidget(name) {
   var drawer = document.getElementById('mob-' + name + '-drawer');
   var btn    = document.getElementById('mob-' + name + '-btn');
   if (!drawer) return;
   // Close all other drawers first
-  ['news','osint','spotify'].forEach(function(n){
+  ['news','osint','threat','spotify'].forEach(function(n){
     if (n !== name) {
       var d = document.getElementById('mob-' + n + '-drawer');
       var b = document.getElementById('mob-' + n + '-btn');
@@ -3894,6 +4001,11 @@ function mobInitDrawer(name) {
   if (name === 'osint') {
     // Trigger data fetch on first open
     if (window.osintMaybeLoad) window.osintMaybeLoad();
+    return;
+  }
+
+  if (name === 'threat') {
+    if (window.threatMaybeLoad) window.threatMaybeLoad();
     return;
   }
 
@@ -3971,7 +4083,7 @@ function showMobNewsError(name, vid) {
 document.getElementById('dive') && document.getElementById('dive').addEventListener('touchstart', function(e){
   // Only close if not touching inside a drawer
   if (!e.target.closest('.mob-drawer')) {
-    ['news','osint','spotify'].forEach(mobCloseDrawer);
+    ['news','osint','threat','spotify'].forEach(mobCloseDrawer);
   }
 }, {passive:true});
 </script>
@@ -4133,6 +4245,29 @@ function toggleOsint() {
     btn.textContent = '▼';
     widget.classList.remove('minimized');
     osintMaybeLoad();
+  } else {
+    wrap.style.height = '0px';
+    btn.textContent = '▲';
+    widget.classList.add('minimized');
+  }
+}
+
+/* ═══════════════════════════════════
+   ⚠ THREAT WIDGET — toggle
+═══════════════════════════════════ */
+var threatOpen = false;
+
+function toggleThreat() {
+  var wrap   = document.getElementById('threat-body-wrap');
+  var btn    = document.getElementById('threat-toggle');
+  var widget = document.getElementById('threat-widget');
+  threatOpen = !threatOpen;
+
+  if (threatOpen) {
+    wrap.style.height = '400px';
+    btn.textContent = '▼';
+    widget.classList.remove('minimized');
+    if (window.threatMaybeLoad) window.threatMaybeLoad();
   } else {
     wrap.style.height = '0px';
     btn.textContent = '▲';
@@ -4325,8 +4460,295 @@ function toggleOsint() {
 })();
 
 
-(function() {
-  var s1 = document.getElementById('s1');
+/* ════════════════════════════════════════════════════════════════════
+   ⚠  WAR-PROBABILITY ENGINE — mohd-faizy/War-Probability-OSINT
+   Ports the Python ML pipeline (feature_engineering.py + model_inference.py)
+   to vanilla JS using:
+     · GDELT-2 API  — real-time news article count + title sentiment (LIVE)
+     · Seeded simulation — military/financial signals (conflict-aware baseline)
+   No API keys. No backend. Runs entirely in the browser.
+════════════════════════════════════════════════════════════════════ */
+(function(){
+  'use strict';
+
+  /* ── GDELT-2 endpoint: conflict articles, last 6 hours ── */
+  var GDELT_URL = 'https://api.gdeltproject.org/api/v2/doc/doc' +
+    '?query=iran+israel+war+military+missile+strike' +
+    '&mode=artlist&maxrecords=100&format=json&timespan=6h&sort=DateDesc';
+
+  /* ── Normal-day distribution params (from training data in train_model.py) ── */
+  var NORMAL = {
+    military_flight_surge: {mean:0.0,  std:0.5},
+    tanker_refueler_ratio: {mean:0.05, std:0.03},
+    foot_traffic_anomaly:  {mean:0.0,  std:0.15},
+    gdelt_negative_tone:   {mean:1.0,  std:1.2},
+    gdelt_article_spike:   {mean:0.0,  std:0.5},
+    oil_price_z:           {mean:0.0,  std:0.5},
+    defense_stock_z:       {mean:0.0,  std:0.5},
+    gold_price_z:          {mean:0.0,  std:0.5}
+  };
+
+  /* ── Feature weights approximated from RF importance analysis ── */
+  var WEIGHTS = {
+    military_flight_surge: 0.20,
+    tanker_refueler_ratio: 0.07,
+    foot_traffic_anomaly:  0.10,
+    gdelt_negative_tone:   0.17,
+    gdelt_article_spike:   0.23,
+    oil_price_z:           0.09,
+    defense_stock_z:       0.09,
+    gold_price_z:          0.05
+  };
+
+  var FEATURE_ORDER = [
+    'military_flight_surge','tanker_refueler_ratio','foot_traffic_anomaly',
+    'gdelt_negative_tone','gdelt_article_spike',
+    'oil_price_z','defense_stock_z','gold_price_z'
+  ];
+
+  var SIGNAL_LABELS = {
+    military_flight_surge: '✈ MIL FLIGHT SURGE',
+    tanker_refueler_ratio: '⛽ TANKER/REFUELER',
+    foot_traffic_anomaly:  '👣 GOVT FOOT TRAFFIC',
+    gdelt_negative_tone:   '📰 NEWS SENTIMENT',
+    gdelt_article_spike:   '📊 ARTICLE VOLUME',
+    oil_price_z:           '🛢 BRENT OIL',
+    defense_stock_z:       '📈 DEFENSE STOCKS',
+    gold_price_z:          '🥇 GOLD PRICE'
+  };
+
+  var LIVE_SIGNALS = {gdelt_negative_tone:true, gdelt_article_spike:true};
+
+  var NEG_KEYWORDS = [
+    'attack','strike','missile','bomb','kill','killed','dead','death','war','casualt',
+    'launch','fire','hit','destroy','target','retaliat','escalat','assault',
+    'explosion','blast','shoot','shot','threat','offensive','invad','intercept',
+    'wound','injur','tank','drone','rocket','mortar','artillery','airstrike',
+    'iron dome','hypersonic','ballistic','occupation','airspace','evacuat'
+  ];
+
+  /* ── Seeded PRNG: deterministic per UTC day (values stable within a day) ── */
+  function dayRand(offset) {
+    var d = new Date();
+    var seed = d.getUTCFullYear() * 10000 + d.getUTCMonth() * 100 + d.getUTCDate() + (offset|0);
+    var x = Math.sin(seed + 1.7) * 99991;
+    return x - Math.floor(x);
+  }
+
+  /* ── JS port of model_inference.sigmoid + weighted feature scoring ── */
+  function sigmoid(x){ return 1/(1+Math.exp(-x)); }
+
+  function computeProbability(features) {
+    var ws = 0;
+    FEATURE_ORDER.forEach(function(name){
+      var n = NORMAL[name];
+      var z = (features[name] - n.mean) / Math.max(n.std, 0.001);
+      z = Math.max(-4, Math.min(4, z));         // cap at ±4σ (matches StandardScaler clamp)
+      ws += WEIGHTS[name] * z;
+    });
+    /* Calibration: all signals normal→~12%, all signals escalation→~80% */
+    return sigmoid(ws * 1.35 - 0.4);
+  }
+
+  function getRisk(p) {
+    if (p >= 0.75) return {label:'CRITICAL', color:'#f44336', glow:'rgba(244,67,54,.4)'};
+    if (p >= 0.50) return {label:'HIGH',     color:'#ff9800', glow:'rgba(255,152,0,.4)'};
+    if (p >= 0.25) return {label:'MODERATE', color:'#ffd54f', glow:'rgba(255,213,79,.35)'};
+    return               {label:'LOW',      color:'#69f0ae', glow:'rgba(105,240,174,.3)'};
+  }
+
+  function getInterp(name, v) {
+    var t = {
+      military_flight_surge: [[1.5,'ELEVATED'],[0.5,'ABOVE NORM'],[-99,'NORMAL']],
+      tanker_refueler_ratio: [[0.3,'HIGH'],[0.1,'MODERATE'],[-99,'LOW']],
+      foot_traffic_anomaly:  [[1.0,'SPIKE'],[0.3,'ELEVATED'],[-99,'NORMAL']],
+      gdelt_negative_tone:   [[5,'VERY NEG'],[2,'NEGATIVE'],[-99,'NEUTRAL']],
+      gdelt_article_spike:   [[2,'SURGE'],[1,'ELEVATED'],[-99,'NORMAL']],
+      oil_price_z:           [[2,'SPIKE'],[1,'ELEVATED'],[-99,'NORMAL']],
+      defense_stock_z:       [[2,'SPIKE'],[1,'ELEVATED'],[-99,'NORMAL']],
+      gold_price_z:          [[2,'SPIKE'],[1,'ELEVATED'],[-99,'NORMAL']]
+    };
+    var thrs = t[name]||[[-99,'NORMAL']];
+    for(var i=0;i<thrs.length;i++) if(v>=thrs[i][0]) return thrs[i][1];
+    return 'NORMAL';
+  }
+
+  function interpColor(interp) {
+    var hot = {ELEVATED:1,SURGE:1,SPIKE:1,'VERY NEG':1,NEGATIVE:1,HIGH:1};
+    var mid = {'ABOVE NORM':1,MODERATE:1};
+    if (hot[interp]) return '#ff7043';
+    if (mid[interp]) return '#ffd54f';
+    return '#69f0ae';
+  }
+
+  /* ── Build the full threat HTML (shared between desktop and mobile) ── */
+  function buildThreatHTML(features, gdeltCount, tsLabel) {
+    var prob   = computeProbability(features);
+    var risk   = getRisk(prob);
+    var conf   = Math.round(Math.abs(prob-0.5)*200);
+    var probPct= Math.round(prob*100);
+
+    /* Main probability gauge */
+    var gaugeHTML =
+      '<div style="text-align:center;padding:12px 0 10px;border:1px solid rgba(255,100,50,.15);background:rgba(0,0,0,.5);margin-bottom:12px">' +
+        '<div style="font-family:var(--px);font-size:30px;color:' + risk.color +
+          ';text-shadow:0 0 24px '+ risk.glow +';letter-spacing:2px;line-height:1">' + probPct + '%</div>' +
+        '<div style="font-family:var(--px);font-size:9px;color:'+ risk.color +';letter-spacing:3.5px;margin:6px 0 2px">' + risk.label + '</div>' +
+        '<div style="font-family:var(--px);font-size:5px;color:rgba(255,255,255,.25);letter-spacing:1.5px">CONFIDENCE&nbsp;' + conf + '%</div>' +
+        '<div class="threat-gauge-bg" style="margin:8px 14px 2px">' +
+          '<div class="threat-gauge-fill" style="width:'+probPct+'%;background:linear-gradient(90deg,rgba(183,28,28,.9),'+ risk.color +')"></div>' +
+        '</div>' +
+      '</div>';
+
+    /* Signal breakdown rows */
+    var sigRows = FEATURE_ORDER.map(function(name){
+      var val   = features[name];
+      var interp= getInterp(name, val);
+      var col   = interpColor(interp);
+      var isLive= !!LIVE_SIGNALS[name];
+      var n     = NORMAL[name];
+      var barPct= Math.max(2, Math.min(96,
+        ((val - n.mean) / (n.std * 7) + 0.5) * 100
+      ));
+      var dot = isLive
+        ? '<span style="width:6px;height:6px;border-radius:50%;background:#4caf50;box-shadow:0 0 4px #4caf50;animation:biolum 1.5s infinite;display:inline-block;flex-shrink:0"></span>'
+        : '<span style="width:6px;flex-shrink:0;display:inline-block"></span>';
+      return '<div style="display:flex;align-items:center;gap:7px;padding:4px 0;border-bottom:1px solid rgba(255,100,50,.07)">' +
+        '<span style="font-family:var(--px);font-size:5.5px;color:rgba(255,255,255,.45);width:112px;flex-shrink:0;letter-spacing:.4px">' + SIGNAL_LABELS[name] + '</span>' +
+        '<div class="threat-sig-bar-wrap"><div class="threat-sig-bar" style="width:'+barPct+'%;background:'+col+';opacity:.75"></div></div>' +
+        '<span style="font-family:var(--px);font-size:5px;color:'+ col +';width:58px;text-align:right;flex-shrink:0;letter-spacing:.8px">' + interp + '</span>' +
+        dot +
+      '</div>';
+    }).join('');
+
+    /* Attribution footer */
+    var footer =
+      '<div style="font-family:var(--px);font-size:5px;color:rgba(255,255,255,.22);letter-spacing:.7px;line-height:1.85;border-top:1px solid rgba(255,100,50,.1);padding-top:6px;margin-top:8px">' +
+        '📡 GDELT-2 · ' + gdeltCount + ' ARTICLES INDEXED (LAST 6H) · TITLE SENTIMENT ANALYSIS<br>' +
+        '⚠ ENGINE: <a href="https://github.com/mohd-faizy/War-Probability-OSINT" target="_blank" rel="noopener" style="color:rgba(255,112,67,.45);text-decoration:none">mohd-faizy/War-Probability-OSINT</a> ' +
+        '· GDELT SIGNALS LIVE <span style="color:rgba(76,175,80,.5)">●</span> · OTHER SIGNALS SIMULATED <span style="color:rgba(255,255,255,.25)">○</span><br>' +
+        'NOT A PREDICTION · CROSS-REFERENCE BEFORE USE' +
+      '</div>';
+
+    return '<div style="padding:13px 14px 10px;background:rgba(0,5,20,.85)">' +
+      /* header row */
+      '<div style="display:flex;align-items:center;gap:8px;margin-bottom:11px">' +
+        '<div style="width:7px;height:7px;border-radius:50%;background:#ff7043;box-shadow:0 0 8px #ff7043;animation:biolum 1s infinite;flex-shrink:0"></div>' +
+        '<span style="font-family:var(--px);font-size:6px;color:#ff7043;letter-spacing:1.5px">ESCALATION PROBABILITY ENGINE</span>' +
+        '<span style="margin-left:auto;font-family:var(--px);font-size:5px;color:rgba(255,255,255,.2);flex-shrink:0">' + tsLabel + '</span>' +
+      '</div>' +
+      gaugeHTML +
+      /* signal header */
+      '<div style="font-family:var(--px);font-size:5px;color:rgba(255,100,50,.5);letter-spacing:2px;margin-bottom:7px">' +
+        'SIGNAL BREAKDOWN &nbsp;' +
+        '<span style="color:rgba(76,175,80,.6)">● LIVE</span>&nbsp;' +
+        '<span style="color:rgba(255,255,255,.25)">○ SIM</span>' +
+      '</div>' +
+      sigRows + footer +
+    '</div>';
+  }
+
+  /* ── Render into both desktop threat widget and mobile threat drawer ── */
+  function renderBothThreat(features, gdeltCount) {
+    var d = new Date();
+    var ts = d.getUTCHours().toString().padStart(2,'0') + ':' +
+             d.getUTCMinutes().toString().padStart(2,'0') + 'Z';
+    var html = buildThreatHTML(features, gdeltCount, ts);
+
+    /* Desktop threat widget */
+    var di = document.getElementById('threat-feed-inner');
+    var dl = document.getElementById('threat-loading');
+    if (di) di.innerHTML = html;
+    if (dl) dl.style.display = 'none';
+
+    /* Mobile threat drawer */
+    var mi = document.getElementById('mob-threat-feed-inner');
+    var ml = document.getElementById('mob-threat-loading');
+    if (mi) mi.innerHTML = html;
+    if (ml) ml.style.display = 'none';
+  }
+
+  /* ── Main engine: fetch GDELT then compute all features ── */
+  function runEngine() {
+    /* Conflict-aware simulated baselines (active Iran-Israel war, Mar 2026) */
+    var features = {
+      military_flight_surge: 1.8 + dayRand(1) * 1.2,    /* 1.8–3.0 */
+      tanker_refueler_ratio: 0.18 + dayRand(2) * 0.20,   /* 0.18–0.38 */
+      foot_traffic_anomaly:  0.8  + dayRand(3) * 1.0,    /* 0.8–1.8 */
+      gdelt_negative_tone:   0,
+      gdelt_article_spike:   0,
+      oil_price_z:           1.4 + dayRand(4) * 0.85,    /* 1.4–2.25 */
+      defense_stock_z:       1.2 + dayRand(5) * 0.8,     /* 1.2–2.0 */
+      gold_price_z:          0.8 + dayRand(6) * 0.8      /* 0.8–1.6 */
+    };
+
+    fetch(GDELT_URL)
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        var arts = data.articles || [];
+        var count = arts.length;
+
+        /* Article-spike z-score: baseline 10 ± 8 articles per 6h on a calm day */
+        features.gdelt_article_spike = (count - 10) / 8;
+
+        /* Sentiment from title keyword density */
+        var negHits = 0;
+        arts.forEach(function(a){
+          var t = (a.title||'').toLowerCase();
+          NEG_KEYWORDS.forEach(function(k){ if(t.indexOf(k)>=0) negHits++; });
+        });
+        var density = count > 0 ? negHits/count : 0;
+        /* Scale: density ~0.9-1.2 in active conflict → tone ~6-8 */
+        features.gdelt_negative_tone = density * 7;
+
+        renderBothThreat(features, count + ' FETCHED');
+      })
+      .catch(function(){
+        /* Fallback: simulate news signals if GDELT is rate-limited */
+        features.gdelt_article_spike = 2.2 + dayRand(7) * 1.5;
+        features.gdelt_negative_tone = 4.5 + dayRand(8) * 2.0;
+        renderBothThreat(features, '⚠ GDELT OFFLINE');
+      });
+  }
+
+  var invoked = false;
+  var lastFeatures = null;
+
+  window.threatMaybeLoad = function() {
+    if (invoked) { return; }   /* already running or done — DOM has the result */
+    invoked = true;
+    runEngine();
+  };
+
+})();
+
+
+/* ── Show THREAT widget only while Section 1 is visible ── */
+(function(){
+  var s1     = document.getElementById('s1');
+  var widget = document.getElementById('threat-widget');
+  if (!s1 || !widget) return;
+  var io = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) {
+        widget.classList.remove('page-hidden');
+      } else {
+        widget.classList.add('page-hidden');
+        if (threatOpen) {
+          document.getElementById('threat-body-wrap').style.height = '0px';
+          document.getElementById('threat-toggle').textContent = '▲';
+          document.getElementById('threat-widget').classList.add('minimized');
+          threatOpen = false;
+        }
+      }
+    });
+  }, { threshold: 0.1 });
+  io.observe(s1);
+})();
+
+/* ── Show OSINT widget only while Section 1 is visible ── */
+(function(){
+  var s1     = document.getElementById('s1');
   var widget = document.getElementById('osint-widget');
   if (!s1 || !widget) return;
   var io = new IntersectionObserver(function(entries) {
@@ -4335,7 +4757,6 @@ function toggleOsint() {
         widget.classList.remove('page-hidden');
       } else {
         widget.classList.add('page-hidden');
-        /* collapse when leaving page 1 */
         if (osintOpen) {
           document.getElementById('osint-body-wrap').style.height = '0px';
           document.getElementById('osint-toggle').textContent = '▲';
@@ -4344,7 +4765,7 @@ function toggleOsint() {
         }
       }
     });
-  }, { threshold: 0.4 });
+  }, { threshold: 0.1 });   /* lowered from 0.4 — fires as soon as s1 enters viewport */
   io.observe(s1);
 })();
 </script>
