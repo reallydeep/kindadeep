@@ -170,17 +170,6 @@
   <text x="430" y="70" font-family="'Courier New', monospace" font-size="10"
         fill="#4fc3f7" text-anchor="middle" letter-spacing="6">&#9658; PORTFOLIO v2026 &#9668;</text>
 
-  <!-- HUD LABELS -->
-  <text x="12"  y="25"  font-family="'Courier New', monospace" font-size="7"
-        fill="#4fc3f7" opacity=".7" letter-spacing="1">SYS:ONLINE</text>
-  <text x="848" y="25"  font-family="'Courier New', monospace" font-size="7"
-        fill="#4fc3f7" opacity=".7" letter-spacing="1" text-anchor="end">DEPTH:&#8734;</text>
-  <text x="12"  y="170" font-family="'Courier New', monospace" font-size="7"
-        fill="#4fc3f7" opacity=".5" letter-spacing="1">&#9654; PRESS START</text>
-  <text x="848" y="170" font-family="'Courier New', monospace" font-size="7"
-        fill="#4fc3f7" opacity=".5" letter-spacing="1" text-anchor="end">NJ, USA</text>
-</svg>
-nner.svg…]()
 
 
 # 🌊 Deep Patel — Portfolio
