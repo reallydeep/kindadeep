@@ -216,7 +216,7 @@ Fetches live structured data from [`danielrosehill/Iran-Israel-War-2026-OSINT-Da
 
 **Each wave card shows:** UTC timestamp · wave number · description · 💀 KIA / 🩸 WIA · 🛡 interception systems · weapon tags (⚡ HYPERSONIC · 🚀 BM · 🛸 DRONE · ⚠ CLUSTER) · country flags
 
-> ⚠️ Data credit: [Daniel Rosehill](https://github.com/danielrosehill). AI-assisted — may contain inaccuracies. Cross-reference before use.
+> ⚠️ Data credit: [Daniel Rosehill](https://github.com/danielrosehill). Cross-reference before use.
 
 ---
 
