@@ -168,7 +168,7 @@
   <text x="430" y="70" font-family="'Courier New', monospace" font-size="10"
         fill="#4fc3f7" text-anchor="middle" letter-spacing="6">&#9658; PORTFOLIO v2026 &#9668;</text>
 
-# 🌊 Deep Patel — Portfolio
+# Deep Patel 👑 🌊 — Portfolio
 
 > **Interactive deep-ocean themed personal portfolio** — a single-file experience featuring GPU-accelerated ocean visuals, live OSINT data, pixel art, and full section-based navigation.
 
