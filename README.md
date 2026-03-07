@@ -1,5 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/f0ceb646-2de7-47ad-8faf-4089267316e1)
-ba<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180" shape-rendering="crispEdges">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"   stop-color="#020b18"/>
