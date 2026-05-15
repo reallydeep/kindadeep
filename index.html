@@ -1691,21 +1691,8 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <button class="mob-drawer-close" onclick="mobCloseDrawer('news')" aria-label="Close">✕</button>
   </div>
   <!-- Channel tab strip -->
-  <div id="mob-news-tabs" style="display:flex;overflow-x:auto;gap:4px;padding:6px 8px;flex-shrink:0;background:rgba(0,0,0,.4);border-bottom:2px solid rgba(255,0,0,.2);scrollbar-width:none;-webkit-overflow-scrolling:touch">
-    <button class="mob-ntab active" data-vid="4E-iFtUM2kk" data-si="V1qonWO-OcDrFimR" data-name="🔴 ME CAMS" onclick="mobSwitchNews(this)">🔴 ME</button>
-    <button class="mob-ntab" data-vid="11mdFpvFvqU" data-si="eV6mf772e6GXkTI6" data-name="🔵 UA CAMS" onclick="mobSwitchNews(this)">🔵 UA</button>
-    <button class="mob-ntab" data-vid="enKWyZH6dVI" data-si="ibouFhf5U2_0yZUZ" data-name="NBC" onclick="mobSwitchNews(this)">NBC</button>
-    <button class="mob-ntab" data-vid="_03-Efdda7s" data-si="fN0C0u_D45okVoi1" data-name="ABC" onclick="mobSwitchNews(this)">ABC</button>
-    <button class="mob-ntab" data-vid="iipR5yUp36o" data-si="mnNM3rVo5dl3a5Dv" data-name="ABC 24/7" onclick="mobSwitchNews(this)">24/7</button>
-    <button class="mob-ntab" data-vid="j_uT9ejcxmE" data-si="3qBTWJ-jfxx1IEFd" data-name="BBC" onclick="mobSwitchNews(this)">BBC</button>
-    <button class="mob-ntab" data-vid="iEpJwprxDdk" data-si="yevX4pj_jh9M_g_k" data-name="BLOOMBERG" onclick="mobSwitchNews(this)">BLMBRG</button>
-    <button class="mob-ntab" data-vid="zlt9KDUdvUY" data-si="cKxsGY9v7HbOCxvS" data-name="FOX" onclick="mobSwitchNews(this)">FOX</button>
-    <button class="mob-ntab" data-vid="gCNeDWCI0vo" data-si="vRKm8I3KwDYyAqN9" data-name="AL JAZEERA" onclick="mobSwitchNews(this)">AJ</button>
-    <button class="mob-ntab" data-vid="6SDfqvJaCQM" data-si="9Wq-6HaK8ipLiQIu" data-name="SKY NEWS" onclick="mobSwitchNews(this)">SKY</button>
-    <button class="mob-ntab" data-vid="Ap-UM1O9RBU" data-si="-U2GYrSVrvRUBcru" data-name="FRANCE 24" onclick="mobSwitchNews(this)">FR24</button>
-    <button class="mob-ntab" data-vid="5g_jyNSI1hk" data-si="YoC2Dz05uJPofCop" data-name="INDIA TV" onclick="mobSwitchNews(this)">IND</button>
-    <button class="mob-ntab" data-vid="ynxkMxmxapI" data-si="gfNWQIdiCQQr32jM" data-name="REUTERS" onclick="mobSwitchNews(this)">RTR</button>
-  </div>
+  <!-- Mobile channel tabs are rendered from window.NEWS_SOURCES (see LIVE NEWS ENGINE script). -->
+  <div id="mob-news-tabs" style="display:flex;overflow-x:auto;gap:4px;padding:6px 8px;flex-shrink:0;background:rgba(0,0,0,.4);border-bottom:2px solid rgba(255,0,0,.2);scrollbar-width:none;-webkit-overflow-scrolling:touch"></div>
   <!-- Video area -->
   <div style="flex:1;position:relative;background:#000;min-height:0">
     <div id="mob-news-loading" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--px);font-size:8px;color:#ff4444;letter-spacing:1px;z-index:2">⬛ LOADING STREAM...</div>
@@ -1789,21 +1776,8 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <button class="news-minimize" id="news-toggle" aria-label="Toggle news widget">▲</button>
   </div>
   
-  <div id="news-tabs-wrap" style="display:none">
-    <button class="ntab intel active" data-vid="4E-iFtUM2kk" data-si="V1qonWO-OcDrFimR" data-name="🔴 ME CAMS" onclick="switchNews(this)">🔴 ME CAMS</button>
-    <button class="ntab intel" data-vid="11mdFpvFvqU" data-si="eV6mf772e6GXkTI6" data-name="🔵 UA CAMS" onclick="switchNews(this)">🔵 UA CAMS</button>
-    <button class="ntab" data-vid="enKWyZH6dVI" data-si="ibouFhf5U2_0yZUZ" data-name="NBC" onclick="switchNews(this)">NBC</button>
-    <button class="ntab" data-vid="_03-Efdda7s" data-si="fN0C0u_D45okVoi1" data-name="ABC" onclick="switchNews(this)">ABC</button>
-    <button class="ntab" data-vid="iipR5yUp36o" data-si="mnNM3rVo5dl3a5Dv" data-name="ABC 24/7" onclick="switchNews(this)">ABC 24/7</button>
-    <button class="ntab" data-vid="j_uT9ejcxmE" data-si="3qBTWJ-jfxx1IEFd" data-name="BBC" onclick="switchNews(this)">BBC</button>
-    <button class="ntab" data-vid="iEpJwprxDdk" data-si="yevX4pj_jh9M_g_k" data-name="BLOOMBERG" onclick="switchNews(this)">BLOOMBERG</button>
-    <button class="ntab" data-vid="zlt9KDUdvUY" data-si="cKxsGY9v7HbOCxvS" data-name="FOX" onclick="switchNews(this)">FOX</button>
-    <button class="ntab" data-vid="gCNeDWCI0vo" data-si="vRKm8I3KwDYyAqN9" data-name="AL JAZEERA" onclick="switchNews(this)">AL JAZEERA</button>
-    <button class="ntab" data-vid="6SDfqvJaCQM" data-si="9Wq-6HaK8ipLiQIu" data-name="SKY NEWS" onclick="switchNews(this)">SKY NEWS</button>
-    <button class="ntab" data-vid="Ap-UM1O9RBU" data-si="-U2GYrSVrvRUBcru" data-name="FRANCE 24" onclick="switchNews(this)">FRANCE 24</button>
-    <button class="ntab" data-vid="5g_jyNSI1hk" data-si="YoC2Dz05uJPofCop" data-name="INDIA TV" onclick="switchNews(this)">INDIA TV</button>
-    <button class="ntab" data-vid="ynxkMxmxapI" data-si="gfNWQIdiCQQr32jM" data-name="REUTERS" onclick="switchNews(this)">REUTERS</button>
-  </div>
+  <!-- Channel tabs are rendered from window.NEWS_SOURCES (see the LIVE NEWS ENGINE script). -->
+  <div id="news-tabs-wrap" style="display:none"></div>
   <div id="news-iframe-wrap" style="height:0px">
     <div id="news-loading">⬛ LOADING STREAM...</div>
     <div id="news-error" style="display:none;position:absolute;inset:0;background:rgba(10,4,4,.95);flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:20px;text-align:center;z-index:2">
@@ -4123,43 +4097,40 @@ function mobCloseDrawer(name) {
 
 // Mobile news channel switcher
 function mobSwitchNews(btn) {
-  var vid    = btn.dataset.vid;
-  var name   = btn.dataset.name;
+  var src    = (typeof newsSourceFromBtn === 'function') ? newsSourceFromBtn(btn) : null;
+  if (!src) return;
   var frame  = document.getElementById('mob-news-frame');
   var label  = document.getElementById('mob-news-chan-name');
   var loader = document.getElementById('mob-news-loading');
   var errBox = document.getElementById('mob-news-error');
-  // Update tabs
   document.querySelectorAll('.mob-ntab').forEach(function(b){ b.classList.remove('active'); });
   btn.classList.add('active');
-  if (label) label.textContent = name;
+  if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
   if (loader) loader.style.display = 'flex';
   if (!frame) return;
-  var si = btn.dataset.si || '';
-  frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&autoplay=1&mute=1&rel=0';
+  frame.src = newsBuildEmbed(src, {autoplay:true});
   frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
-  // Hide loader after 4s
   setTimeout(function(){ if (loader) loader.style.display = 'none'; }, 4000);
-  // Check for blocked embeds after 5s
+  /* Best-effort blocked-embed detection (cross-origin throws are expected) */
   setTimeout(function(){
     try {
       var doc = frame.contentDocument || frame.contentWindow.document;
       if (doc && (doc.body.innerHTML === '' || doc.title.indexOf('403') !== -1)) {
-        showMobNewsError(name, vid);
+        showMobNewsError(src.name, newsWatchUrl(src));
       }
-    } catch(e) { /* cross-origin is expected */ }
+    } catch(e) {}
   }, 5000);
 }
 
-function showMobNewsError(name, vid) {
+function showMobNewsError(name, watchUrl) {
   var errBox  = document.getElementById('mob-news-error');
   var errName = document.getElementById('mob-news-err-name');
   var errLink = document.getElementById('mob-news-err-link');
   var loader  = document.getElementById('mob-news-loading');
   if (loader) loader.style.display = 'none';
   if (errName) errName.textContent = name;
-  if (errLink) errLink.href = 'https://www.youtube.com/watch?v=' + vid;
+  if (errLink) errLink.href = watchUrl;
   if (errBox) errBox.style.display = 'flex';
 }
 
@@ -4228,7 +4199,81 @@ document.getElementById('dive') && document.getElementById('dive').addEventListe
   sections.forEach(function(s){ io.observe(s); });
 })();
 
-/* ─── LIVE NEWS WIDGET ─── */
+/* ════════════════════════════════════════════════════════════════════
+   📺 LIVE NEWS ENGINE
+   Single source of truth for every channel. Edit window.NEWS_SOURCES
+   below to add, remove, or reorder streams. Both the desktop and the
+   mobile tab strips are rendered from this array on load.
+
+   Two source kinds:
+     · Fixed stream:   { name, short, vid:'YT_VIDEO_ID', si?:'…' }
+     · Channel live:   { name, short, channelId:'UC…' }   (uses YouTube's
+       live_stream embed; auto-plays the channel's current live).
+   Optional flags:
+     · intel:true      adds the .intel pixel-color variant to the tab.
+═══════════════════════════════════════════════════════════════════════ */
+window.NEWS_SOURCES = [
+  { name:'BBC',        short:'BBC',    channelId:'UCCj956IF62FbT7Gouszaj9w' },
+  { name:'AL JAZEERA', short:'AJ',     vid:'gCNeDWCI0vo' },
+  { name:'NBC',        short:'NBC',    vid:'H-3qXu7Ri70', si:'VIIjFRPC3oaxgXI' },
+  { name:'ABC',        short:'ABC',    channelId:'UCBi2mrWuNuyYy4gbM6fU18Q' },
+  { name:'REUTERS',    short:'RTR',    channelId:'UChqUTb7kYRX8-EiaN3XFrSQ' },
+  { name:'SKY NEWS',   short:'SKY',    channelId:'UCkFclpi8U9VJjfxLYoms7Aw' },
+  { name:'FRANCE 24',  short:'FR24',   channelId:'UCCCPCZNChQdGa9EkATeye4g' },
+  { name:'INDIA TV',   short:'IND',    vid:'Nq2wYlWFucg', si:'vY5Pqik8ZESH6xm7' },
+  { name:'BLOOMBERG',  short:'BLMBRG', vid:'iEpJwprxDdk', si:'2P6ewxpSD7PoNuiB' },
+  { name:'FOX',        short:'FOX',    vid:'HBh_6Atb1xs', si:'l-5wIBeMAgvcOXxc' },
+  { name:'🔴 ME CAMS', short:'🔴 ME',  vid:'oxT5R6I0N6E', si:'0LEx41zaI7QnEMik', intel:true },
+  { name:'🔵 UA CAMS', short:'🔵 UA',  vid:'e2gC37ILQmk', si:'SOVv65ua9JG1mj6n', intel:true }
+];
+
+/* Build a YouTube embed URL for a given source object */
+function newsBuildEmbed(src, opts){
+  opts = opts || {};
+  var tail = '&rel=0';
+  if (opts.autoplay) tail = '&autoplay=1&mute=1' + tail;
+  if (src.channelId) {
+    return 'https://www.youtube.com/embed/live_stream?channel=' + src.channelId + tail;
+  }
+  var si = src.si ? '?si=' + src.si : '?';
+  return 'https://www.youtube.com/embed/' + src.vid + si + tail;
+}
+
+/* Public-facing YouTube watch URL (used by the "blocked stream" fallback) */
+function newsWatchUrl(src){
+  if (src.channelId) return 'https://www.youtube.com/channel/' + src.channelId + '/live';
+  return 'https://www.youtube.com/watch?v=' + src.vid;
+}
+
+/* Resolve the source object backing a rendered tab button */
+function newsSourceFromBtn(btn){
+  var idx = btn && btn.dataset ? parseInt(btn.dataset.idx, 10) : 0;
+  return window.NEWS_SOURCES[idx] || window.NEWS_SOURCES[0];
+}
+
+/* Render both the desktop and mobile tab strips from NEWS_SOURCES */
+function renderNewsTabs(){
+  var desk = document.getElementById('news-tabs-wrap');
+  var mob  = document.getElementById('mob-news-tabs');
+  if (desk) {
+    desk.innerHTML = window.NEWS_SOURCES.map(function(s, i){
+      var cls = 'ntab' + (s.intel ? ' intel' : '') + (i === 0 ? ' active' : '');
+      return '<button class="' + cls + '" data-idx="' + i + '" onclick="switchNews(this)">' + s.name + '</button>';
+    }).join('');
+  }
+  if (mob) {
+    mob.innerHTML = window.NEWS_SOURCES.map(function(s, i){
+      var cls = 'mob-ntab' + (i === 0 ? ' active' : '');
+      return '<button class="' + cls + '" data-idx="' + i + '" onclick="mobSwitchNews(this)">' + (s.short || s.name) + '</button>';
+    }).join('');
+  }
+}
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', renderNewsTabs);
+} else {
+  renderNewsTabs();
+}
+
 function toggleNews() {
   const wrap = document.getElementById('news-iframe-wrap');
   const tabs = document.getElementById('news-tabs-wrap');
@@ -4237,13 +4282,11 @@ function toggleNews() {
   const widget = document.getElementById('news-widget');
   const collapsed = parseInt(wrap.style.height) === 0;
   if (collapsed) {
-    /* Expanding — load stream into iframe for the first time */
+    /* First open: load the active source into the iframe */
     var activeBtn = document.querySelector('.ntab.active');
     var frame = document.getElementById('news-frame');
     if (activeBtn && frame && !frame.src.includes('youtube')) {
-      var vid = activeBtn.dataset.vid;
-      var si  = activeBtn.dataset.si || '';
-      frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&rel=0';
+      frame.src = newsBuildEmbed(newsSourceFromBtn(activeBtn));
       frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
     }
   }
@@ -4255,29 +4298,23 @@ function toggleNews() {
 }
 
 function switchNews(btn) {
-  const vid   = btn.dataset.vid;
-  const name  = btn.dataset.name;
-  const frame = document.getElementById('news-frame');
-  const label = document.getElementById('news-chan-name');
-  const load  = document.getElementById('news-loading');
-  const errBox = document.getElementById('news-error');
-  document.querySelectorAll('.ntab').forEach(b => b.classList.remove('active'));
+  var src   = newsSourceFromBtn(btn);
+  var frame = document.getElementById('news-frame');
+  var label = document.getElementById('news-chan-name');
+  var load  = document.getElementById('news-loading');
+  var errBox = document.getElementById('news-error');
+  document.querySelectorAll('.ntab').forEach(function(b){ b.classList.remove('active'); });
   btn.classList.add('active');
-  if (label) label.textContent = name;
+  if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
-  if (load) { load.style.display = 'flex'; }
-  /* Build embed URL with permissive params to maximise embed success */
-  var si = btn.dataset.si || '';
-  var si = btn.dataset.si || ''; frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&autoplay=1&mute=1&rel=0'; frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+  if (load) load.style.display = 'flex';
+  frame.src = newsBuildEmbed(src, {autoplay:true});
   frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
   /* Hide loader after 3s regardless */
   setTimeout(function(){ if (load) load.style.display = 'none'; }, 3000);
-  /* Detect Error 153 / blocked embeds after 5s by checking iframe accessible */
-  var watchUrl = 'https://www.youtube.com/watch?v=' + vid;
-  btn.dataset.watch = watchUrl;
   if (errBox) {
-    errBox.dataset.watchurl = watchUrl;
-    errBox.dataset.channame = name;
+    errBox.dataset.watchurl = newsWatchUrl(src);
+    errBox.dataset.channame = src.name;
   }
 }
 
@@ -4288,10 +4325,9 @@ function newsStreamError() {
   var activeBtn = document.querySelector('.ntab.active');
   if (load) load.style.display = 'none';
   if (errBox && activeBtn) {
-    var chanName = activeBtn.dataset.name;
-    var watchUrl = 'https://www.youtube.com/watch?v=' + activeBtn.dataset.vid;
-    document.getElementById('news-err-name').textContent = chanName;
-    document.getElementById('news-err-link').href = watchUrl;
+    var src = newsSourceFromBtn(activeBtn);
+    document.getElementById('news-err-name').textContent = src.name;
+    document.getElementById('news-err-link').href = newsWatchUrl(src);
     errBox.style.display = 'flex';
   }
 }
