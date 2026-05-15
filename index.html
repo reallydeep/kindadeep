@@ -1526,6 +1526,23 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 }
 .osint-retry-btn:hover{background:rgba(21,101,192,.35);color:#90caf9}
 
+/* ─── Phase-2 polish: cross-widget consistency & a11y nits ─── */
+/* Hide the always-visible Spotify caption when the widget is collapsed
+   so all four function bars share an identical collapsed footprint. */
+#spotify-widget.minimized .spotify-caption{display:none}
+/* News loading text gets a subtle pulse so the state reads as "alive". */
+#news-loading{animation:newsPulse 1.4s ease-in-out infinite}
+@keyframes newsPulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){#news-loading{animation:none}}
+/* Stronger focus ring for keyboard users (was barely visible on the
+   pixel-art aesthetic). */
+.ntab:focus-visible,.mob-ntab:focus-visible,
+.news-minimize:focus-visible,.osint-minimize:focus-visible,
+.spotify-minimize:focus-visible,.threat-minimize:focus-visible,
+.osint-retry-btn:focus-visible{
+  outline:2px solid #4fc3f7;outline-offset:1px;
+}
+
 </style>
 </head>
 <body>
@@ -1832,7 +1849,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
       style="display:block;border:none">
     </iframe>
   </div>
-  <div style="padding:5px 12px;font-size:6px;color:rgba(29,185,84,.45);text-align:center;border-top:1px solid rgba(29,185,84,.12);letter-spacing:1px">▶ CLICK PLAY IN WIDGET ABOVE</div>
+  <div class="spotify-caption" style="padding:5px 12px;font-size:6px;color:rgba(29,185,84,.45);text-align:center;border-top:1px solid rgba(29,185,84,.12);letter-spacing:1px">▶ CLICK PLAY IN WIDGET ABOVE</div>
 </div>
 
 
@@ -4103,8 +4120,9 @@ function mobSwitchNews(btn) {
   var label  = document.getElementById('mob-news-chan-name');
   var loader = document.getElementById('mob-news-loading');
   var errBox = document.getElementById('mob-news-error');
-  document.querySelectorAll('.mob-ntab').forEach(function(b){ b.classList.remove('active'); });
+  document.querySelectorAll('.mob-ntab').forEach(function(b){ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
   btn.classList.add('active');
+  btn.setAttribute('aria-selected','true');
   if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
   if (loader) loader.style.display = 'flex';
@@ -4256,15 +4274,19 @@ function renderNewsTabs(){
   var desk = document.getElementById('news-tabs-wrap');
   var mob  = document.getElementById('mob-news-tabs');
   if (desk) {
+    desk.setAttribute('role','tablist');
+    desk.setAttribute('aria-label','Live news channels');
     desk.innerHTML = window.NEWS_SOURCES.map(function(s, i){
       var cls = 'ntab' + (s.intel ? ' intel' : '') + (i === 0 ? ' active' : '');
-      return '<button class="' + cls + '" data-idx="' + i + '" onclick="switchNews(this)">' + s.name + '</button>';
+      return '<button class="' + cls + '" role="tab" data-idx="' + i + '" aria-label="Switch to ' + s.name + '" aria-selected="' + (i === 0) + '" onclick="switchNews(this)">' + s.name + '</button>';
     }).join('');
   }
   if (mob) {
+    mob.setAttribute('role','tablist');
+    mob.setAttribute('aria-label','Live news channels');
     mob.innerHTML = window.NEWS_SOURCES.map(function(s, i){
       var cls = 'mob-ntab' + (i === 0 ? ' active' : '');
-      return '<button class="' + cls + '" data-idx="' + i + '" onclick="mobSwitchNews(this)">' + (s.short || s.name) + '</button>';
+      return '<button class="' + cls + '" role="tab" data-idx="' + i + '" aria-label="' + s.name + '" aria-selected="' + (i === 0) + '" onclick="mobSwitchNews(this)">' + (s.short || s.name) + '</button>';
     }).join('');
   }
 }
@@ -4303,8 +4325,9 @@ function switchNews(btn) {
   var label = document.getElementById('news-chan-name');
   var load  = document.getElementById('news-loading');
   var errBox = document.getElementById('news-error');
-  document.querySelectorAll('.ntab').forEach(function(b){ b.classList.remove('active'); });
+  document.querySelectorAll('.ntab').forEach(function(b){ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
   btn.classList.add('active');
+  btn.setAttribute('aria-selected','true');
   if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
   if (load) load.style.display = 'flex';
