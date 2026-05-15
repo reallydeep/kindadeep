@@ -45,6 +45,15 @@
   --purple:#ce93d8;
   --text-dim:#b3e5fc;
   --void:#020510;
+  /* ─── Unified function-bar dock system (LIVE NEWS / OSINT / WAR PROB / DEEP'S MIX) ─── */
+  --fbar-w:228px;        /* collapsed bar width — identical for all 4 */
+  --fbar-w-open:344px;   /* expanded panel width — identical for all 4 */
+  --fbar-h:38px;         /* collapsed header min-height — identical for all 4 */
+  --fbar-gap:18px;       /* spacing between adjacent docked bars */
+  --fbar-edge:24px;      /* distance from viewport edge */
+  --fbar-bottom:20px;    /* distance from viewport bottom (shared baseline) */
+  /* Half-slot shift so OSINT + WAR PROB sit as a symmetric centered pair */
+  --fbar-pair-shift:calc((var(--fbar-w-open) + var(--fbar-gap)) / 2);
 }
 svg{shape-rendering:crispEdges}
 html{font-family:var(--px);scroll-behavior:smooth}
@@ -268,16 +277,16 @@ body::after{
 .mm-seg{width:2px;height:16px;opacity:.4}
 
 #spotify-widget{
-  position:fixed;bottom:20px;right:24px;
+  position:fixed;bottom:var(--fbar-bottom);right:var(--fbar-edge);
   z-index:7000;
-  width:320px;
+  width:var(--fbar-w-open);
   background:rgba(10,14,46,.97);
   border:3px solid #1db954;
   box-shadow:0 0 0 3px #020510,0 0 0 6px #1db954,0 0 40px rgba(29,185,84,.25);
   border-radius:2px;
   transition:width .3s,box-shadow .3s;
 }
-#spotify-widget.minimized{width:200px}
+#spotify-widget.minimized{width:var(--fbar-w)}
 .spotify-bar{
   padding:9px 12px;
   background:rgba(29,185,84,.12);
@@ -320,16 +329,16 @@ body::after{
    📺 LIVE NEWS WIDGET
 ═══════════════════════════════════════════ */
 #news-widget{
-  position:fixed;bottom:20px;left:24px;
+  position:fixed;bottom:var(--fbar-bottom);left:var(--fbar-edge);
   z-index:7000;
-  width:340px;
+  width:var(--fbar-w-open);
   background:rgba(10,6,6,.97);
   border:3px solid #ff0000;
   box-shadow:0 0 0 3px #1a0000,0 0 0 6px #ff0000,0 0 40px rgba(255,0,0,.2);
   border-radius:2px;
   transition:width .3s,box-shadow .3s;
 }
-#news-widget.minimized{width:210px}
+#news-widget.minimized{width:var(--fbar-w)}
 .news-bar{
   padding:9px 12px;
   background:rgba(255,0,0,.14);
@@ -1313,9 +1322,9 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
    📡 OSINT FEED WIDGET
 ═══════════════════════════════════════════ */
 #osint-widget{
-  position:fixed;bottom:20px;left:50%;transform:translateX(-50%);
+  position:fixed;bottom:var(--fbar-bottom);left:50%;transform:translateX(calc(-50% - var(--fbar-pair-shift)));
   z-index:7000;
-  width:400px;
+  width:var(--fbar-w-open);
   background:rgba(4,10,32,.97);
   border:3px solid #1565c0;
   box-shadow:0 0 0 3px #00050a,0 0 0 6px #1565c0,0 0 40px rgba(21,101,192,.3);
@@ -1323,10 +1332,10 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   transition:width .3s,box-shadow .3s,opacity .4s,transform .4s;
   font-family:var(--px);
 }
-#osint-widget.minimized{width:240px}
+#osint-widget.minimized{width:var(--fbar-w)}
 #osint-widget.page-hidden{
   opacity:0;pointer-events:none;
-  transform:translateX(-50%) translateY(20px);
+  transform:translateX(calc(-50% - var(--fbar-pair-shift))) translateY(20px);
 }
 .osint-bar{
   padding:9px 12px;
@@ -1399,9 +1408,9 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
    ⚠ THREAT PROBABILITY WIDGET  (desktop)
 ═══════════════════════════════════════════ */
 #threat-widget{
-  position:fixed;bottom:20px;right:370px;
+  position:fixed;bottom:var(--fbar-bottom);left:50%;transform:translateX(calc(-50% + var(--fbar-pair-shift)));
   z-index:7000;
-  width:310px;
+  width:var(--fbar-w-open);
   background:rgba(12,4,28,.97);
   border:3px solid #9c27b0;
   box-shadow:0 0 0 3px #08011a,0 0 0 6px #9c27b0,0 0 40px rgba(156,39,176,.3);
@@ -1409,10 +1418,10 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   transition:width .3s,box-shadow .3s,opacity .4s,transform .4s;
   font-family:var(--px);
 }
-#threat-widget.minimized{width:190px}
+#threat-widget.minimized{width:var(--fbar-w)}
 #threat-widget.page-hidden{
   opacity:0;pointer-events:none;
-  transform:translateY(20px);
+  transform:translateX(calc(-50% + var(--fbar-pair-shift))) translateY(20px);
 }
 .threat-bar{
   padding:9px 12px;
@@ -1443,6 +1452,95 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 #threat-feed{
   overflow-y:auto;background:#050010;
   scrollbar-width:thin;scrollbar-color:rgba(156,39,176,.4) #050010;
+}
+
+/* ═══════════════════════════════════════════
+   UNIFIED FUNCTION-BAR DOCK SYSTEM
+   Normalizes the 4 corner widgets (LIVE NEWS /
+   OSINT / WAR PROBABILITY / DEEP'S MIX) so every
+   collapsed bar is pixel-identical in width &
+   height with even spacing. Aesthetic, per-widget
+   colors, glow & hover are intentionally untouched.
+═══════════════════════════════════════════ */
+.news-bar,.osint-bar,.spotify-bar,.threat-bar{
+  min-height:var(--fbar-h);
+  box-sizing:border-box;
+  gap:8px;
+}
+/* Titles never grow the bar or wrap — kills content-based width */
+.news-title,.osint-title,.spotify-title,.threat-title{
+  min-width:0;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+}
+.news-minimize,.osint-minimize,.spotify-minimize,.threat-minimize{
+  flex-shrink:0;
+}
+/* Secondary OSINT badge is noise in the collapsed bar — hide it there only */
+#osint-widget.minimized #osint-count-badge{display:none}
+/* Smooth, GPU-friendly width transition shared by all 4 */
+#news-widget,#osint-widget,#spotify-widget,#threat-widget{
+  will-change:width;
+}
+/* Tablet (769–1024px): scale the dock down so the bottom row never collides */
+@media(min-width:769px) and (max-width:1024px){
+  :root{
+    --fbar-w:190px;
+    --fbar-w-open:250px;
+    --fbar-gap:14px;
+    --fbar-edge:16px;
+  }
+}
+/* Ultrawide (≥1920px): keep proportions tidy, slightly larger touch targets */
+@media(min-width:1920px){
+  :root{
+    --fbar-w:248px;
+    --fbar-w-open:360px;
+    --fbar-edge:36px;
+  }
+}
+
+/* ─── OSINT skeleton loader (cyberpunk shimmer) ─── */
+.osint-skel-wrap{padding:0}
+.osint-skel{
+  border-bottom:1px solid rgba(21,101,192,.18);
+  padding:11px 12px 10px;background:rgba(0,5,20,.6);
+}
+.osint-skel .ln{
+  height:7px;border-radius:1px;margin:6px 0;
+  background:linear-gradient(90deg,rgba(21,101,192,.10) 25%,rgba(66,165,245,.30) 50%,rgba(21,101,192,.10) 75%);
+  background-size:200% 100%;
+  animation:osintShimmer 1.3s linear infinite;
+}
+.osint-skel .ln.s1{width:46%}
+.osint-skel .ln.s2{width:92%}
+.osint-skel .ln.s3{width:74%}
+@keyframes osintShimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+@media(prefers-reduced-motion:reduce){.osint-skel .ln{animation:none}}
+.osint-retry-btn{
+  font-family:var(--px);font-size:7px;color:#42a5f5;
+  background:rgba(21,101,192,.15);border:1px solid rgba(66,165,245,.4);
+  padding:6px 14px;letter-spacing:1px;cursor:pointer;
+  transition:background .15s,color .15s;margin-top:8px;
+}
+.osint-retry-btn:hover{background:rgba(21,101,192,.35);color:#90caf9}
+
+/* ─── Phase-2 polish: cross-widget consistency & a11y nits ─── */
+/* Hide the always-visible Spotify caption when the widget is collapsed
+   so all four function bars share an identical collapsed footprint. */
+#spotify-widget.minimized .spotify-caption{display:none}
+/* News loading text gets a subtle pulse so the state reads as "alive". */
+#news-loading{animation:newsPulse 1.4s ease-in-out infinite}
+@keyframes newsPulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){#news-loading{animation:none}}
+/* Stronger focus ring for keyboard users (was barely visible on the
+   pixel-art aesthetic). */
+.ntab:focus-visible,.mob-ntab:focus-visible,
+.news-minimize:focus-visible,.osint-minimize:focus-visible,
+.spotify-minimize:focus-visible,.threat-minimize:focus-visible,
+.osint-retry-btn:focus-visible{
+  outline:2px solid #4fc3f7;outline-offset:1px;
 }
 
 </style>
@@ -1610,21 +1708,8 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <button class="mob-drawer-close" onclick="mobCloseDrawer('news')" aria-label="Close">✕</button>
   </div>
   <!-- Channel tab strip -->
-  <div id="mob-news-tabs" style="display:flex;overflow-x:auto;gap:4px;padding:6px 8px;flex-shrink:0;background:rgba(0,0,0,.4);border-bottom:2px solid rgba(255,0,0,.2);scrollbar-width:none;-webkit-overflow-scrolling:touch">
-    <button class="mob-ntab active" data-vid="4E-iFtUM2kk" data-si="V1qonWO-OcDrFimR" data-name="🔴 ME CAMS" onclick="mobSwitchNews(this)">🔴 ME</button>
-    <button class="mob-ntab" data-vid="11mdFpvFvqU" data-si="eV6mf772e6GXkTI6" data-name="🔵 UA CAMS" onclick="mobSwitchNews(this)">🔵 UA</button>
-    <button class="mob-ntab" data-vid="enKWyZH6dVI" data-si="ibouFhf5U2_0yZUZ" data-name="NBC" onclick="mobSwitchNews(this)">NBC</button>
-    <button class="mob-ntab" data-vid="_03-Efdda7s" data-si="fN0C0u_D45okVoi1" data-name="ABC" onclick="mobSwitchNews(this)">ABC</button>
-    <button class="mob-ntab" data-vid="iipR5yUp36o" data-si="mnNM3rVo5dl3a5Dv" data-name="ABC 24/7" onclick="mobSwitchNews(this)">24/7</button>
-    <button class="mob-ntab" data-vid="j_uT9ejcxmE" data-si="3qBTWJ-jfxx1IEFd" data-name="BBC" onclick="mobSwitchNews(this)">BBC</button>
-    <button class="mob-ntab" data-vid="iEpJwprxDdk" data-si="yevX4pj_jh9M_g_k" data-name="BLOOMBERG" onclick="mobSwitchNews(this)">BLMBRG</button>
-    <button class="mob-ntab" data-vid="zlt9KDUdvUY" data-si="cKxsGY9v7HbOCxvS" data-name="FOX" onclick="mobSwitchNews(this)">FOX</button>
-    <button class="mob-ntab" data-vid="gCNeDWCI0vo" data-si="vRKm8I3KwDYyAqN9" data-name="AL JAZEERA" onclick="mobSwitchNews(this)">AJ</button>
-    <button class="mob-ntab" data-vid="6SDfqvJaCQM" data-si="9Wq-6HaK8ipLiQIu" data-name="SKY NEWS" onclick="mobSwitchNews(this)">SKY</button>
-    <button class="mob-ntab" data-vid="Ap-UM1O9RBU" data-si="-U2GYrSVrvRUBcru" data-name="FRANCE 24" onclick="mobSwitchNews(this)">FR24</button>
-    <button class="mob-ntab" data-vid="5g_jyNSI1hk" data-si="YoC2Dz05uJPofCop" data-name="INDIA TV" onclick="mobSwitchNews(this)">IND</button>
-    <button class="mob-ntab" data-vid="ynxkMxmxapI" data-si="gfNWQIdiCQQr32jM" data-name="REUTERS" onclick="mobSwitchNews(this)">RTR</button>
-  </div>
+  <!-- Mobile channel tabs are rendered from window.NEWS_SOURCES (see LIVE NEWS ENGINE script). -->
+  <div id="mob-news-tabs" style="display:flex;overflow-x:auto;gap:4px;padding:6px 8px;flex-shrink:0;background:rgba(0,0,0,.4);border-bottom:2px solid rgba(255,0,0,.2);scrollbar-width:none;-webkit-overflow-scrolling:touch"></div>
   <!-- Video area -->
   <div style="flex:1;position:relative;background:#000;min-height:0">
     <div id="mob-news-loading" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:var(--px);font-size:8px;color:#ff4444;letter-spacing:1px;z-index:2">⬛ LOADING STREAM...</div>
@@ -1708,21 +1793,8 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <button class="news-minimize" id="news-toggle" aria-label="Toggle news widget">▲</button>
   </div>
   
-  <div id="news-tabs-wrap" style="display:none">
-    <button class="ntab intel active" data-vid="4E-iFtUM2kk" data-si="V1qonWO-OcDrFimR" data-name="🔴 ME CAMS" onclick="switchNews(this)">🔴 ME CAMS</button>
-    <button class="ntab intel" data-vid="11mdFpvFvqU" data-si="eV6mf772e6GXkTI6" data-name="🔵 UA CAMS" onclick="switchNews(this)">🔵 UA CAMS</button>
-    <button class="ntab" data-vid="enKWyZH6dVI" data-si="ibouFhf5U2_0yZUZ" data-name="NBC" onclick="switchNews(this)">NBC</button>
-    <button class="ntab" data-vid="_03-Efdda7s" data-si="fN0C0u_D45okVoi1" data-name="ABC" onclick="switchNews(this)">ABC</button>
-    <button class="ntab" data-vid="iipR5yUp36o" data-si="mnNM3rVo5dl3a5Dv" data-name="ABC 24/7" onclick="switchNews(this)">ABC 24/7</button>
-    <button class="ntab" data-vid="j_uT9ejcxmE" data-si="3qBTWJ-jfxx1IEFd" data-name="BBC" onclick="switchNews(this)">BBC</button>
-    <button class="ntab" data-vid="iEpJwprxDdk" data-si="yevX4pj_jh9M_g_k" data-name="BLOOMBERG" onclick="switchNews(this)">BLOOMBERG</button>
-    <button class="ntab" data-vid="zlt9KDUdvUY" data-si="cKxsGY9v7HbOCxvS" data-name="FOX" onclick="switchNews(this)">FOX</button>
-    <button class="ntab" data-vid="gCNeDWCI0vo" data-si="vRKm8I3KwDYyAqN9" data-name="AL JAZEERA" onclick="switchNews(this)">AL JAZEERA</button>
-    <button class="ntab" data-vid="6SDfqvJaCQM" data-si="9Wq-6HaK8ipLiQIu" data-name="SKY NEWS" onclick="switchNews(this)">SKY NEWS</button>
-    <button class="ntab" data-vid="Ap-UM1O9RBU" data-si="-U2GYrSVrvRUBcru" data-name="FRANCE 24" onclick="switchNews(this)">FRANCE 24</button>
-    <button class="ntab" data-vid="5g_jyNSI1hk" data-si="YoC2Dz05uJPofCop" data-name="INDIA TV" onclick="switchNews(this)">INDIA TV</button>
-    <button class="ntab" data-vid="ynxkMxmxapI" data-si="gfNWQIdiCQQr32jM" data-name="REUTERS" onclick="switchNews(this)">REUTERS</button>
-  </div>
+  <!-- Channel tabs are rendered from window.NEWS_SOURCES (see the LIVE NEWS ENGINE script). -->
+  <div id="news-tabs-wrap" style="display:none"></div>
   <div id="news-iframe-wrap" style="height:0px">
     <div id="news-loading">⬛ LOADING STREAM...</div>
     <div id="news-error" style="display:none;position:absolute;inset:0;background:rgba(10,4,4,.95);flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:20px;text-align:center;z-index:2">
@@ -1756,7 +1828,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 <!-- ═══════════════════════════════════════════════
      SPOTIFY WIDGET
 ═══════════════════════════════════════════════ -->
-<div id="spotify-widget">
+<div id="spotify-widget" class="minimized">
   <div class="spotify-bar" onclick="toggleSpotify()">
     <div class="spotify-title">
       <span style="animation:biolum 1.5s ease-in-out infinite;display:inline-block">🎵</span>
@@ -1777,7 +1849,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
       style="display:block;border:none">
     </iframe>
   </div>
-  <div style="padding:5px 12px;font-size:6px;color:rgba(29,185,84,.45);text-align:center;border-top:1px solid rgba(29,185,84,.12);letter-spacing:1px">▶ CLICK PLAY IN WIDGET ABOVE</div>
+  <div class="spotify-caption" style="padding:5px 12px;font-size:6px;color:rgba(29,185,84,.45);text-align:center;border-top:1px solid rgba(29,185,84,.12);letter-spacing:1px">▶ CLICK PLAY IN WIDGET ABOVE</div>
 </div>
 
 
@@ -3809,6 +3881,7 @@ function toggleSpotify() {
   var wrap = document.getElementById('spotify-iframe-wrap');
   var btn  = document.getElementById('sp-toggle');
   var frame = document.getElementById('sp-frame');
+  var widget = document.getElementById('spotify-widget');
   if (parseInt(wrap.style.height) === 0) {
     // First open: swap about:blank → real src so player initializes at full height
     if (!spLoaded && frame && frame.dataset.src) {
@@ -3817,9 +3890,11 @@ function toggleSpotify() {
     }
     wrap.style.height = '352px';
     btn.textContent = '▼';
+    widget.classList.remove('minimized');
   } else {
     wrap.style.height = '0px';
     btn.textContent = '▲';
+    widget.classList.add('minimized');
   }
 }
 
@@ -4039,43 +4114,41 @@ function mobCloseDrawer(name) {
 
 // Mobile news channel switcher
 function mobSwitchNews(btn) {
-  var vid    = btn.dataset.vid;
-  var name   = btn.dataset.name;
+  var src    = (typeof newsSourceFromBtn === 'function') ? newsSourceFromBtn(btn) : null;
+  if (!src) return;
   var frame  = document.getElementById('mob-news-frame');
   var label  = document.getElementById('mob-news-chan-name');
   var loader = document.getElementById('mob-news-loading');
   var errBox = document.getElementById('mob-news-error');
-  // Update tabs
-  document.querySelectorAll('.mob-ntab').forEach(function(b){ b.classList.remove('active'); });
+  document.querySelectorAll('.mob-ntab').forEach(function(b){ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
   btn.classList.add('active');
-  if (label) label.textContent = name;
+  btn.setAttribute('aria-selected','true');
+  if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
   if (loader) loader.style.display = 'flex';
   if (!frame) return;
-  var si = btn.dataset.si || '';
-  frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&autoplay=1&mute=1&rel=0';
+  frame.src = newsBuildEmbed(src, {autoplay:true});
   frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
-  // Hide loader after 4s
   setTimeout(function(){ if (loader) loader.style.display = 'none'; }, 4000);
-  // Check for blocked embeds after 5s
+  /* Best-effort blocked-embed detection (cross-origin throws are expected) */
   setTimeout(function(){
     try {
       var doc = frame.contentDocument || frame.contentWindow.document;
       if (doc && (doc.body.innerHTML === '' || doc.title.indexOf('403') !== -1)) {
-        showMobNewsError(name, vid);
+        showMobNewsError(src.name, newsWatchUrl(src));
       }
-    } catch(e) { /* cross-origin is expected */ }
+    } catch(e) {}
   }, 5000);
 }
 
-function showMobNewsError(name, vid) {
+function showMobNewsError(name, watchUrl) {
   var errBox  = document.getElementById('mob-news-error');
   var errName = document.getElementById('mob-news-err-name');
   var errLink = document.getElementById('mob-news-err-link');
   var loader  = document.getElementById('mob-news-loading');
   if (loader) loader.style.display = 'none';
   if (errName) errName.textContent = name;
-  if (errLink) errLink.href = 'https://www.youtube.com/watch?v=' + vid;
+  if (errLink) errLink.href = watchUrl;
   if (errBox) errBox.style.display = 'flex';
 }
 
@@ -4144,7 +4217,85 @@ document.getElementById('dive') && document.getElementById('dive').addEventListe
   sections.forEach(function(s){ io.observe(s); });
 })();
 
-/* ─── LIVE NEWS WIDGET ─── */
+/* ════════════════════════════════════════════════════════════════════
+   📺 LIVE NEWS ENGINE
+   Single source of truth for every channel. Edit window.NEWS_SOURCES
+   below to add, remove, or reorder streams. Both the desktop and the
+   mobile tab strips are rendered from this array on load.
+
+   Two source kinds:
+     · Fixed stream:   { name, short, vid:'YT_VIDEO_ID', si?:'…' }
+     · Channel live:   { name, short, channelId:'UC…' }   (uses YouTube's
+       live_stream embed; auto-plays the channel's current live).
+   Optional flags:
+     · intel:true      adds the .intel pixel-color variant to the tab.
+═══════════════════════════════════════════════════════════════════════ */
+window.NEWS_SOURCES = [
+  { name:'BBC',        short:'BBC',    channelId:'UCCj956IF62FbT7Gouszaj9w' },
+  { name:'AL JAZEERA', short:'AJ',     vid:'gCNeDWCI0vo' },
+  { name:'NBC',        short:'NBC',    vid:'H-3qXu7Ri70', si:'VIIjFRPC3oaxgXI' },
+  { name:'ABC',        short:'ABC',    channelId:'UCBi2mrWuNuyYy4gbM6fU18Q' },
+  { name:'REUTERS',    short:'RTR',    channelId:'UChqUTb7kYRX8-EiaN3XFrSQ' },
+  { name:'SKY NEWS',   short:'SKY',    channelId:'UCkFclpi8U9VJjfxLYoms7Aw' },
+  { name:'FRANCE 24',  short:'FR24',   channelId:'UCCCPCZNChQdGa9EkATeye4g' },
+  { name:'INDIA TV',   short:'IND',    vid:'Nq2wYlWFucg', si:'vY5Pqik8ZESH6xm7' },
+  { name:'BLOOMBERG',  short:'BLMBRG', vid:'iEpJwprxDdk', si:'2P6ewxpSD7PoNuiB' },
+  { name:'FOX',        short:'FOX',    vid:'HBh_6Atb1xs', si:'l-5wIBeMAgvcOXxc' },
+  { name:'🔴 ME CAMS', short:'🔴 ME',  vid:'oxT5R6I0N6E', si:'0LEx41zaI7QnEMik', intel:true },
+  { name:'🔵 UA CAMS', short:'🔵 UA',  vid:'e2gC37ILQmk', si:'SOVv65ua9JG1mj6n', intel:true }
+];
+
+/* Build a YouTube embed URL for a given source object */
+function newsBuildEmbed(src, opts){
+  opts = opts || {};
+  var tail = '&rel=0';
+  if (opts.autoplay) tail = '&autoplay=1&mute=1' + tail;
+  if (src.channelId) {
+    return 'https://www.youtube.com/embed/live_stream?channel=' + src.channelId + tail;
+  }
+  var si = src.si ? '?si=' + src.si : '?';
+  return 'https://www.youtube.com/embed/' + src.vid + si + tail;
+}
+
+/* Public-facing YouTube watch URL (used by the "blocked stream" fallback) */
+function newsWatchUrl(src){
+  if (src.channelId) return 'https://www.youtube.com/channel/' + src.channelId + '/live';
+  return 'https://www.youtube.com/watch?v=' + src.vid;
+}
+
+/* Resolve the source object backing a rendered tab button */
+function newsSourceFromBtn(btn){
+  var idx = btn && btn.dataset ? parseInt(btn.dataset.idx, 10) : 0;
+  return window.NEWS_SOURCES[idx] || window.NEWS_SOURCES[0];
+}
+
+/* Render both the desktop and mobile tab strips from NEWS_SOURCES */
+function renderNewsTabs(){
+  var desk = document.getElementById('news-tabs-wrap');
+  var mob  = document.getElementById('mob-news-tabs');
+  if (desk) {
+    desk.setAttribute('role','tablist');
+    desk.setAttribute('aria-label','Live news channels');
+    desk.innerHTML = window.NEWS_SOURCES.map(function(s, i){
+      var cls = 'ntab' + (s.intel ? ' intel' : '') + (i === 0 ? ' active' : '');
+      return '<button class="' + cls + '" role="tab" data-idx="' + i + '" aria-label="Switch to ' + s.name + '" aria-selected="' + (i === 0) + '" onclick="switchNews(this)">' + s.name + '</button>';
+    }).join('');
+  }
+  if (mob) {
+    mob.setAttribute('role','tablist');
+    mob.setAttribute('aria-label','Live news channels');
+    mob.innerHTML = window.NEWS_SOURCES.map(function(s, i){
+      var cls = 'mob-ntab' + (i === 0 ? ' active' : '');
+      return '<button class="' + cls + '" role="tab" data-idx="' + i + '" aria-label="' + s.name + '" aria-selected="' + (i === 0) + '" onclick="mobSwitchNews(this)">' + (s.short || s.name) + '</button>';
+    }).join('');
+  }
+}
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', renderNewsTabs);
+} else {
+  renderNewsTabs();
+}
+
 function toggleNews() {
   const wrap = document.getElementById('news-iframe-wrap');
   const tabs = document.getElementById('news-tabs-wrap');
@@ -4153,13 +4304,11 @@ function toggleNews() {
   const widget = document.getElementById('news-widget');
   const collapsed = parseInt(wrap.style.height) === 0;
   if (collapsed) {
-    /* Expanding — load stream into iframe for the first time */
+    /* First open: load the active source into the iframe */
     var activeBtn = document.querySelector('.ntab.active');
     var frame = document.getElementById('news-frame');
     if (activeBtn && frame && !frame.src.includes('youtube')) {
-      var vid = activeBtn.dataset.vid;
-      var si  = activeBtn.dataset.si || '';
-      frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&rel=0';
+      frame.src = newsBuildEmbed(newsSourceFromBtn(activeBtn));
       frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
     }
   }
@@ -4171,29 +4320,24 @@ function toggleNews() {
 }
 
 function switchNews(btn) {
-  const vid   = btn.dataset.vid;
-  const name  = btn.dataset.name;
-  const frame = document.getElementById('news-frame');
-  const label = document.getElementById('news-chan-name');
-  const load  = document.getElementById('news-loading');
-  const errBox = document.getElementById('news-error');
-  document.querySelectorAll('.ntab').forEach(b => b.classList.remove('active'));
+  var src   = newsSourceFromBtn(btn);
+  var frame = document.getElementById('news-frame');
+  var label = document.getElementById('news-chan-name');
+  var load  = document.getElementById('news-loading');
+  var errBox = document.getElementById('news-error');
+  document.querySelectorAll('.ntab').forEach(function(b){ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
   btn.classList.add('active');
-  if (label) label.textContent = name;
+  btn.setAttribute('aria-selected','true');
+  if (label) label.textContent = src.name;
   if (errBox) errBox.style.display = 'none';
-  if (load) { load.style.display = 'flex'; }
-  /* Build embed URL with permissive params to maximise embed success */
-  var si = btn.dataset.si || '';
-  var si = btn.dataset.si || ''; frame.src = 'https://www.youtube.com/embed/' + vid + '?si=' + si + '&autoplay=1&mute=1&rel=0'; frame.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+  if (load) load.style.display = 'flex';
+  frame.src = newsBuildEmbed(src, {autoplay:true});
   frame.setAttribute('referrerpolicy', 'strict-origin-when-cross-origin');
   /* Hide loader after 3s regardless */
   setTimeout(function(){ if (load) load.style.display = 'none'; }, 3000);
-  /* Detect Error 153 / blocked embeds after 5s by checking iframe accessible */
-  var watchUrl = 'https://www.youtube.com/watch?v=' + vid;
-  btn.dataset.watch = watchUrl;
   if (errBox) {
-    errBox.dataset.watchurl = watchUrl;
-    errBox.dataset.channame = name;
+    errBox.dataset.watchurl = newsWatchUrl(src);
+    errBox.dataset.channame = src.name;
   }
 }
 
@@ -4204,10 +4348,9 @@ function newsStreamError() {
   var activeBtn = document.querySelector('.ntab.active');
   if (load) load.style.display = 'none';
   if (errBox && activeBtn) {
-    var chanName = activeBtn.dataset.name;
-    var watchUrl = 'https://www.youtube.com/watch?v=' + activeBtn.dataset.vid;
-    document.getElementById('news-err-name').textContent = chanName;
-    document.getElementById('news-err-link').href = watchUrl;
+    var src = newsSourceFromBtn(activeBtn);
+    document.getElementById('news-err-name').textContent = src.name;
+    document.getElementById('news-err-link').href = newsWatchUrl(src);
     errBox.style.display = 'flex';
   }
 }
@@ -4377,9 +4520,43 @@ function toggleThreat() {
       return tb < ta ? -1 : tb > ta ? 1 : 0;
     });
     var html = sorted.map(function(w){ return buildCard(w, op); }).join('');
-    innerEl.innerHTML = html || '<div style="padding:20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.4);text-align:center">NO WAVE DATA</div>';
+    innerEl.innerHTML = html || '<div style="padding:24px 20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.45);text-align:center;letter-spacing:1px;line-height:2">📡 NO INTEL DATA<br><span style="font-size:6px;color:rgba(66,165,245,.3)">FEED REACHED · 0 INCIDENTS</span></div>';
     if (loadEl) loadEl.style.display = 'none';
-    if (countEl) countEl.textContent = sorted.length + ' WAVES';
+    if (countEl) countEl.textContent = sorted.length + (sorted.length === 1 ? ' WAVE' : ' WAVES');
+  }
+
+  /* Show animated skeleton placeholders while a fetch is in flight */
+  function showSkeleton() {
+    var rows = '';
+    for (var i = 0; i < 5; i++) {
+      rows += '<div class="osint-skel"><div class="ln s1"></div><div class="ln s2"></div><div class="ln s3"></div></div>';
+    }
+    ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.innerHTML = '<div class="osint-skel-wrap">' + rows + '</div>';
+    });
+    ['osint-loading','mob-osint-loading'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
+  }
+
+  /* Distinct error state with a working RETRY (failure is not cached) */
+  function showError(op, label) {
+    delete cache[op];
+    var html = '<div style="padding:26px 18px;font-family:var(--px);font-size:7px;color:rgba(255,110,110,.7);text-align:center;letter-spacing:1px;line-height:2">' +
+      '⚠ ' + label +
+      '<div><button class="osint-retry-btn" onclick="osintRetry()">↻ RETRY</button></div>' +
+      '<div style="margin-top:8px;font-size:6px"><a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" rel="noopener" style="color:rgba(66,165,245,.6);text-decoration:none">↗ VIEW SOURCE ON GITHUB</a></div>' +
+      '</div>';
+    ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.innerHTML = html;
+    });
+    ['osint-loading','mob-osint-loading'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
   }
 
   /* Fetch one operation's JSON, cache it, then render both desktop + mobile */
@@ -4388,23 +4565,39 @@ function toggleThreat() {
       renderBoth(op);
       return;
     }
-    fetch(URLS[op])
-      .then(function(r){ return r.json(); })
+    showSkeleton();
+
+    /* Abort a hung request so the UI never freezes on the spinner */
+    var ctrl = (typeof AbortController !== 'undefined') ? new AbortController() : null;
+    var timed = false;
+    var timer = setTimeout(function(){
+      timed = true;
+      if (ctrl) ctrl.abort();
+    }, 9000);
+
+    fetch(URLS[op], ctrl ? { signal: ctrl.signal } : undefined)
+      .then(function(r){
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
       .then(function(data){
-        cache[op] = data.waves || [];
+        clearTimeout(timer);
+        /* Upstream schema renamed `waves` → `incidents` (kept fallback for safety) */
+        var list = data && (data.incidents || data.waves);
+        cache[op] = Array.isArray(list) ? list : [];
         renderBoth(op);
       })
       .catch(function(err){
+        clearTimeout(timer);
         console.warn('OSINT fetch failed:', err);
-        var msgs = [
-          document.getElementById('osint-loading'),
-          document.getElementById('mob-osint-loading')
-        ];
-        msgs.forEach(function(el){
-          if (el) el.innerHTML = '<div style="padding:20px;font-family:var(--px);font-size:7px;color:rgba(255,80,80,.6);text-align:center;letter-spacing:1px">⚠ FETCH FAILED · <a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" style="color:#42a5f5">VIEW ON GITHUB</a></div>';
-        });
+        showError(op, timed ? 'CONNECTION TIMED OUT' : 'INTEL FEED UNAVAILABLE');
       });
   }
+
+  /* Public: manual retry from the error state */
+  window.osintRetry = function() {
+    fetchOp(activeTab);
+  };
 
   /* Render to both desktop and mobile surfaces */
   function renderBoth(op) {
