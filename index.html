@@ -45,6 +45,15 @@
   --purple:#ce93d8;
   --text-dim:#b3e5fc;
   --void:#020510;
+  /* ─── Unified function-bar dock system (LIVE NEWS / OSINT / WAR PROB / DEEP'S MIX) ─── */
+  --fbar-w:228px;        /* collapsed bar width — identical for all 4 */
+  --fbar-w-open:344px;   /* expanded panel width — identical for all 4 */
+  --fbar-h:38px;         /* collapsed header min-height — identical for all 4 */
+  --fbar-gap:18px;       /* spacing between adjacent docked bars */
+  --fbar-edge:24px;      /* distance from viewport edge */
+  --fbar-bottom:20px;    /* distance from viewport bottom (shared baseline) */
+  /* Half-slot shift so OSINT + WAR PROB sit as a symmetric centered pair */
+  --fbar-pair-shift:calc((var(--fbar-w-open) + var(--fbar-gap)) / 2);
 }
 svg{shape-rendering:crispEdges}
 html{font-family:var(--px);scroll-behavior:smooth}
@@ -268,16 +277,16 @@ body::after{
 .mm-seg{width:2px;height:16px;opacity:.4}
 
 #spotify-widget{
-  position:fixed;bottom:20px;right:24px;
+  position:fixed;bottom:var(--fbar-bottom);right:var(--fbar-edge);
   z-index:7000;
-  width:320px;
+  width:var(--fbar-w-open);
   background:rgba(10,14,46,.97);
   border:3px solid #1db954;
   box-shadow:0 0 0 3px #020510,0 0 0 6px #1db954,0 0 40px rgba(29,185,84,.25);
   border-radius:2px;
   transition:width .3s,box-shadow .3s;
 }
-#spotify-widget.minimized{width:200px}
+#spotify-widget.minimized{width:var(--fbar-w)}
 .spotify-bar{
   padding:9px 12px;
   background:rgba(29,185,84,.12);
@@ -320,16 +329,16 @@ body::after{
    📺 LIVE NEWS WIDGET
 ═══════════════════════════════════════════ */
 #news-widget{
-  position:fixed;bottom:20px;left:24px;
+  position:fixed;bottom:var(--fbar-bottom);left:var(--fbar-edge);
   z-index:7000;
-  width:340px;
+  width:var(--fbar-w-open);
   background:rgba(10,6,6,.97);
   border:3px solid #ff0000;
   box-shadow:0 0 0 3px #1a0000,0 0 0 6px #ff0000,0 0 40px rgba(255,0,0,.2);
   border-radius:2px;
   transition:width .3s,box-shadow .3s;
 }
-#news-widget.minimized{width:210px}
+#news-widget.minimized{width:var(--fbar-w)}
 .news-bar{
   padding:9px 12px;
   background:rgba(255,0,0,.14);
@@ -1313,9 +1322,9 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
    📡 OSINT FEED WIDGET
 ═══════════════════════════════════════════ */
 #osint-widget{
-  position:fixed;bottom:20px;left:50%;transform:translateX(-50%);
+  position:fixed;bottom:var(--fbar-bottom);left:50%;transform:translateX(calc(-50% - var(--fbar-pair-shift)));
   z-index:7000;
-  width:400px;
+  width:var(--fbar-w-open);
   background:rgba(4,10,32,.97);
   border:3px solid #1565c0;
   box-shadow:0 0 0 3px #00050a,0 0 0 6px #1565c0,0 0 40px rgba(21,101,192,.3);
@@ -1323,10 +1332,10 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   transition:width .3s,box-shadow .3s,opacity .4s,transform .4s;
   font-family:var(--px);
 }
-#osint-widget.minimized{width:240px}
+#osint-widget.minimized{width:var(--fbar-w)}
 #osint-widget.page-hidden{
   opacity:0;pointer-events:none;
-  transform:translateX(-50%) translateY(20px);
+  transform:translateX(calc(-50% - var(--fbar-pair-shift))) translateY(20px);
 }
 .osint-bar{
   padding:9px 12px;
@@ -1399,9 +1408,9 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
    ⚠ THREAT PROBABILITY WIDGET  (desktop)
 ═══════════════════════════════════════════ */
 #threat-widget{
-  position:fixed;bottom:20px;right:370px;
+  position:fixed;bottom:var(--fbar-bottom);left:50%;transform:translateX(calc(-50% + var(--fbar-pair-shift)));
   z-index:7000;
-  width:310px;
+  width:var(--fbar-w-open);
   background:rgba(12,4,28,.97);
   border:3px solid #9c27b0;
   box-shadow:0 0 0 3px #08011a,0 0 0 6px #9c27b0,0 0 40px rgba(156,39,176,.3);
@@ -1409,10 +1418,10 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   transition:width .3s,box-shadow .3s,opacity .4s,transform .4s;
   font-family:var(--px);
 }
-#threat-widget.minimized{width:190px}
+#threat-widget.minimized{width:var(--fbar-w)}
 #threat-widget.page-hidden{
   opacity:0;pointer-events:none;
-  transform:translateY(20px);
+  transform:translateX(calc(-50% + var(--fbar-pair-shift))) translateY(20px);
 }
 .threat-bar{
   padding:9px 12px;
@@ -1444,6 +1453,78 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   overflow-y:auto;background:#050010;
   scrollbar-width:thin;scrollbar-color:rgba(156,39,176,.4) #050010;
 }
+
+/* ═══════════════════════════════════════════
+   UNIFIED FUNCTION-BAR DOCK SYSTEM
+   Normalizes the 4 corner widgets (LIVE NEWS /
+   OSINT / WAR PROBABILITY / DEEP'S MIX) so every
+   collapsed bar is pixel-identical in width &
+   height with even spacing. Aesthetic, per-widget
+   colors, glow & hover are intentionally untouched.
+═══════════════════════════════════════════ */
+.news-bar,.osint-bar,.spotify-bar,.threat-bar{
+  min-height:var(--fbar-h);
+  box-sizing:border-box;
+  gap:8px;
+}
+/* Titles never grow the bar or wrap — kills content-based width */
+.news-title,.osint-title,.spotify-title,.threat-title{
+  min-width:0;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+}
+.news-minimize,.osint-minimize,.spotify-minimize,.threat-minimize{
+  flex-shrink:0;
+}
+/* Secondary OSINT badge is noise in the collapsed bar — hide it there only */
+#osint-widget.minimized #osint-count-badge{display:none}
+/* Smooth, GPU-friendly width transition shared by all 4 */
+#news-widget,#osint-widget,#spotify-widget,#threat-widget{
+  will-change:width;
+}
+/* Tablet (769–1024px): scale the dock down so the bottom row never collides */
+@media(min-width:769px) and (max-width:1024px){
+  :root{
+    --fbar-w:190px;
+    --fbar-w-open:250px;
+    --fbar-gap:14px;
+    --fbar-edge:16px;
+  }
+}
+/* Ultrawide (≥1920px): keep proportions tidy, slightly larger touch targets */
+@media(min-width:1920px){
+  :root{
+    --fbar-w:248px;
+    --fbar-w-open:360px;
+    --fbar-edge:36px;
+  }
+}
+
+/* ─── OSINT skeleton loader (cyberpunk shimmer) ─── */
+.osint-skel-wrap{padding:0}
+.osint-skel{
+  border-bottom:1px solid rgba(21,101,192,.18);
+  padding:11px 12px 10px;background:rgba(0,5,20,.6);
+}
+.osint-skel .ln{
+  height:7px;border-radius:1px;margin:6px 0;
+  background:linear-gradient(90deg,rgba(21,101,192,.10) 25%,rgba(66,165,245,.30) 50%,rgba(21,101,192,.10) 75%);
+  background-size:200% 100%;
+  animation:osintShimmer 1.3s linear infinite;
+}
+.osint-skel .ln.s1{width:46%}
+.osint-skel .ln.s2{width:92%}
+.osint-skel .ln.s3{width:74%}
+@keyframes osintShimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+@media(prefers-reduced-motion:reduce){.osint-skel .ln{animation:none}}
+.osint-retry-btn{
+  font-family:var(--px);font-size:7px;color:#42a5f5;
+  background:rgba(21,101,192,.15);border:1px solid rgba(66,165,245,.4);
+  padding:6px 14px;letter-spacing:1px;cursor:pointer;
+  transition:background .15s,color .15s;margin-top:8px;
+}
+.osint-retry-btn:hover{background:rgba(21,101,192,.35);color:#90caf9}
 
 </style>
 </head>
@@ -1756,7 +1837,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 <!-- ═══════════════════════════════════════════════
      SPOTIFY WIDGET
 ═══════════════════════════════════════════════ -->
-<div id="spotify-widget">
+<div id="spotify-widget" class="minimized">
   <div class="spotify-bar" onclick="toggleSpotify()">
     <div class="spotify-title">
       <span style="animation:biolum 1.5s ease-in-out infinite;display:inline-block">🎵</span>
@@ -3809,6 +3890,7 @@ function toggleSpotify() {
   var wrap = document.getElementById('spotify-iframe-wrap');
   var btn  = document.getElementById('sp-toggle');
   var frame = document.getElementById('sp-frame');
+  var widget = document.getElementById('spotify-widget');
   if (parseInt(wrap.style.height) === 0) {
     // First open: swap about:blank → real src so player initializes at full height
     if (!spLoaded && frame && frame.dataset.src) {
@@ -3817,9 +3899,11 @@ function toggleSpotify() {
     }
     wrap.style.height = '352px';
     btn.textContent = '▼';
+    widget.classList.remove('minimized');
   } else {
     wrap.style.height = '0px';
     btn.textContent = '▲';
+    widget.classList.add('minimized');
   }
 }
 
@@ -4377,9 +4461,43 @@ function toggleThreat() {
       return tb < ta ? -1 : tb > ta ? 1 : 0;
     });
     var html = sorted.map(function(w){ return buildCard(w, op); }).join('');
-    innerEl.innerHTML = html || '<div style="padding:20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.4);text-align:center">NO WAVE DATA</div>';
+    innerEl.innerHTML = html || '<div style="padding:24px 20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.45);text-align:center;letter-spacing:1px;line-height:2">📡 NO INTEL DATA<br><span style="font-size:6px;color:rgba(66,165,245,.3)">FEED REACHED · 0 INCIDENTS</span></div>';
     if (loadEl) loadEl.style.display = 'none';
-    if (countEl) countEl.textContent = sorted.length + ' WAVES';
+    if (countEl) countEl.textContent = sorted.length + (sorted.length === 1 ? ' WAVE' : ' WAVES');
+  }
+
+  /* Show animated skeleton placeholders while a fetch is in flight */
+  function showSkeleton() {
+    var rows = '';
+    for (var i = 0; i < 5; i++) {
+      rows += '<div class="osint-skel"><div class="ln s1"></div><div class="ln s2"></div><div class="ln s3"></div></div>';
+    }
+    ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.innerHTML = '<div class="osint-skel-wrap">' + rows + '</div>';
+    });
+    ['osint-loading','mob-osint-loading'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
+  }
+
+  /* Distinct error state with a working RETRY (failure is not cached) */
+  function showError(op, label) {
+    delete cache[op];
+    var html = '<div style="padding:26px 18px;font-family:var(--px);font-size:7px;color:rgba(255,110,110,.7);text-align:center;letter-spacing:1px;line-height:2">' +
+      '⚠ ' + label +
+      '<div><button class="osint-retry-btn" onclick="osintRetry()">↻ RETRY</button></div>' +
+      '<div style="margin-top:8px;font-size:6px"><a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" rel="noopener" style="color:rgba(66,165,245,.6);text-decoration:none">↗ VIEW SOURCE ON GITHUB</a></div>' +
+      '</div>';
+    ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.innerHTML = html;
+    });
+    ['osint-loading','mob-osint-loading'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
   }
 
   /* Fetch one operation's JSON, cache it, then render both desktop + mobile */
@@ -4388,23 +4506,39 @@ function toggleThreat() {
       renderBoth(op);
       return;
     }
-    fetch(URLS[op])
-      .then(function(r){ return r.json(); })
+    showSkeleton();
+
+    /* Abort a hung request so the UI never freezes on the spinner */
+    var ctrl = (typeof AbortController !== 'undefined') ? new AbortController() : null;
+    var timed = false;
+    var timer = setTimeout(function(){
+      timed = true;
+      if (ctrl) ctrl.abort();
+    }, 9000);
+
+    fetch(URLS[op], ctrl ? { signal: ctrl.signal } : undefined)
+      .then(function(r){
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
       .then(function(data){
-        cache[op] = data.waves || [];
+        clearTimeout(timer);
+        /* Upstream schema renamed `waves` → `incidents` (kept fallback for safety) */
+        var list = data && (data.incidents || data.waves);
+        cache[op] = Array.isArray(list) ? list : [];
         renderBoth(op);
       })
       .catch(function(err){
+        clearTimeout(timer);
         console.warn('OSINT fetch failed:', err);
-        var msgs = [
-          document.getElementById('osint-loading'),
-          document.getElementById('mob-osint-loading')
-        ];
-        msgs.forEach(function(el){
-          if (el) el.innerHTML = '<div style="padding:20px;font-family:var(--px);font-size:7px;color:rgba(255,80,80,.6);text-align:center;letter-spacing:1px">⚠ FETCH FAILED · <a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" style="color:#42a5f5">VIEW ON GITHUB</a></div>';
-        });
+        showError(op, timed ? 'CONNECTION TIMED OUT' : 'INTEL FEED UNAVAILABLE');
       });
   }
+
+  /* Public: manual retry from the error state */
+  window.osintRetry = function() {
+    fetchOp(activeTab);
+  };
 
   /* Render to both desktop and mobile surfaces */
   function renderBoth(op) {
