@@ -41,7 +41,15 @@ jobs:
           git add data/osint-feed.json
           if git diff --staged --quiet; then
             echo "No feed changes; nothing to commit."
-          else
-            git commit -m "chore: refresh OSINT feed"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh OSINT feed"
+          # Another run (cron/dispatch) may push between our checkout and push.
+          # Rebase onto the latest main and retry so a race never fails the job.
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push attempt $i lost a race; retrying..."
+            sleep 5
+          done
+          echo "::error::could not push feed after retries"
+          exit 1
