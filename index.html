@@ -1735,12 +1735,13 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <span class="mob-drawer-title">📡 OSINT FEED</span>
     <button class="mob-drawer-close" onclick="mobCloseDrawer('osint')" aria-label="Close">✕</button>
   </div>
-  <!-- Tab bar -->
-  <div style="display:flex;gap:0;border-bottom:2px solid rgba(21,101,192,.4);background:rgba(0,0,0,.5);flex-shrink:0">
-    <button onclick="osintSetTab('tp4')" id="mob-otab-tp4" style="font-family:var(--px);font-size:7px;padding:8px 14px;background:rgba(21,101,192,.35);color:#42a5f5;border:none;border-right:1px solid rgba(21,101,192,.3);cursor:pointer;letter-spacing:1px">TP4 · 2026</button>
-    <button onclick="osintSetTab('tp3')" id="mob-otab-tp3" style="font-family:var(--px);font-size:7px;padding:8px 14px;background:transparent;color:rgba(66,165,245,.4);border:none;border-right:1px solid rgba(21,101,192,.3);cursor:pointer;letter-spacing:1px">TP3 · 2025</button>
+  <!-- Live wire status bar -->
+  <div style="display:flex;align-items:center;gap:8px;border-bottom:2px solid rgba(21,101,192,.4);background:rgba(0,0,0,.5);flex-shrink:0;padding:8px 12px">
+    <div class="osint-live-dot"></div>
+    <span style="font-family:var(--px);font-size:7px;color:#42a5f5;letter-spacing:1px">LIVE WIRE</span>
+    <span id="mob-osint-updated" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);letter-spacing:.5px"></span>
     <div style="flex:1"></div>
-    <div id="mob-osint-wave-count" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);padding:8px 10px;letter-spacing:.5px"></div>
+    <div id="mob-osint-wave-count" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);letter-spacing:.5px"></div>
   </div>
   <div class="mob-drawer-content" id="mob-osint-content" style="padding:0;overflow-y:auto;-webkit-overflow-scrolling:touch">
     <div id="mob-osint-feed-inner"></div>
@@ -1749,7 +1750,7 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     </div>
   </div>
   <div style="padding:5px 10px;background:rgba(0,0,0,.6);border-top:1px solid rgba(21,101,192,.2);font-family:var(--px);font-size:5px;color:rgba(66,165,245,.3);letter-spacing:.8px;line-height:1.8;flex-shrink:0">
-    ⚠ DATA: danielrosehill/Iran-Israel-War-2026-OSINT-Data · AI-ASSISTED · MAY CONTAIN INACCURACIES
+    ⚠ SOURCE: PUBLIC TELEGRAM OSINT CHANNELS · UNVERIFIED · MAY CONTAIN INACCURACIES
   </div>
 </div>
 
@@ -1861,17 +1862,18 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
     <div class="osint-title">
       <div class="osint-live-dot"></div>
       <span>📡 OSINT FEED</span>
-      <span id="osint-count-badge" style="font-size:6px;color:rgba(66,165,245,.5)">· REAL TWEETS</span>
+      <span id="osint-count-badge" style="font-size:6px;color:rgba(66,165,245,.5)">· WAR WIRE</span>
     </div>
     <button class="osint-minimize" id="osint-toggle" aria-label="Toggle OSINT feed">▲</button>
   </div>
   <div id="osint-body-wrap" style="height:0px">
-    <!-- Tab bar: TP4 / TP3 -->
-    <div id="osint-tabs" style="display:flex;gap:0;border-bottom:2px solid rgba(21,101,192,.4);background:rgba(0,0,0,.5)">
-      <button onclick="osintSetTab('tp4')" id="otab-tp4" style="font-family:var(--px);font-size:7px;padding:7px 14px;background:rgba(21,101,192,.35);color:#42a5f5;border:none;border-right:1px solid rgba(21,101,192,.3);cursor:pointer;letter-spacing:1px;transition:background .15s">TP4 · 2026</button>
-      <button onclick="osintSetTab('tp3')" id="otab-tp3" style="font-family:var(--px);font-size:7px;padding:7px 14px;background:transparent;color:rgba(66,165,245,.4);border:none;border-right:1px solid rgba(21,101,192,.3);cursor:pointer;letter-spacing:1px;transition:background .15s">TP3 · 2025</button>
+    <!-- Live wire status bar -->
+    <div id="osint-tabs" style="display:flex;align-items:center;gap:8px;border-bottom:2px solid rgba(21,101,192,.4);background:rgba(0,0,0,.5);padding:7px 12px">
+      <div class="osint-live-dot"></div>
+      <span style="font-family:var(--px);font-size:7px;color:#42a5f5;letter-spacing:1px">LIVE WIRE</span>
+      <span id="osint-updated" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);letter-spacing:.5px"></span>
       <div style="flex:1"></div>
-      <div id="osint-wave-count" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);padding:7px 10px;letter-spacing:.5px;align-self:center"></div>
+      <div id="osint-wave-count" style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);letter-spacing:.5px"></div>
     </div>
     <div id="osint-feed" style="overflow-y:auto;max-height:320px;background:#000;scrollbar-width:thin;scrollbar-color:rgba(21,101,192,.5) #000">
       <div id="osint-feed-inner" style="padding:0"></div>
@@ -1880,18 +1882,14 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
       </div>
     </div>
     <div style="padding:5px 10px;background:rgba(0,0,0,.6);border-top:1px solid rgba(21,101,192,.2);font-family:var(--px);font-size:5px;color:rgba(66,165,245,.3);letter-spacing:.8px;line-height:1.8">
-      ⚠ DATA: <a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" rel="noopener" style="color:rgba(66,165,245,.5);text-decoration:none">danielrosehill/Iran-Israel-War-2026-OSINT-Data</a> · AI-ASSISTED · MAY CONTAIN INACCURACIES · CROSS-REFERENCE BEFORE USE
+      ⚠ SOURCE: PUBLIC TELEGRAM OSINT CHANNELS · UNVERIFIED · MAY CONTAIN INACCURACIES · CROSS-REFERENCE BEFORE USE
     </div>
     <div class="osint-footer" style="justify-content:space-between">
       <div class="osint-count">
         <div class="osint-live-dot" style="width:5px;height:5px"></div>
         <span style="font-size:7px;color:rgba(66,165,245,.6)">LIVE · AUTO-UPDATES</span>
       </div>
-      <a href="https://x.com/i/lists/1485584291077799936" target="_blank" rel="noopener noreferrer"
-         style="font-size:6px;color:rgba(66,165,245,.5);text-decoration:none;border:1px solid rgba(66,165,245,.2);padding:2px 7px;letter-spacing:1px;transition:all .2s"
-         onmouseover="this.style.color='#42a5f5'" onmouseout="this.style.color='rgba(66,165,245,.5)'">
-        ↗ OPEN LIST
-      </a>
+      <span style="font-size:6px;color:rgba(66,165,245,.4);border:1px solid rgba(66,165,245,.2);padding:2px 7px;letter-spacing:1px">↻ AUTO · 10M</span>
     </div>
   </div>
 </div>
@@ -4419,110 +4417,84 @@ function toggleThreat() {
 }
 
 /* ════════════════════════════════════════════════════
-   📡 OSINT FEED ENGINE — danielrosehill/Iran-Israel-War-2026-OSINT-Data
+   📡 OSINT FEED ENGINE : public Telegram OSINT channels (data/osint-feed.json)
 ════════════════════════════════════════════════════ */
 (function(){
   'use strict';
 
-  var URLS = {
-    tp4: 'https://raw.githubusercontent.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data/main/data/tp4-2026/waves.json',
-    tp3: 'https://raw.githubusercontent.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data/main/data/tp3-2025/waves.json'
-  };
+  var FEED_URL = 'data/osint-feed.json';
 
-  var cache = {};       // tp4 / tp3 → parsed waves array
-  var activeTab = 'tp4';
+  var items = null;     // cached feed items array
   var loaded = false;
 
-  /* Country code → flag emoji */
-  var FLAGS = {IL:'🇮🇱',IQ:'🇮🇶',BH:'🇧🇭',AE:'🇦🇪',QA:'🇶🇦',JO:'🇯🇴',OM:'🇴🇲',KW:'🇰🇼',
-               SA:'🇸🇦',CY:'🇨🇾',TR:'🇹🇷',IO:'🌊',SY:'🇸🇾',LB:'🇱🇧',YE:'🇾🇪'};
-
-  /* Weapon type → short pixel tag */
-  function getWeaponTags(w) {
-    var tags = [];
-    var t = w.weapons && w.weapons.types || {};
-    var c = w.weapons && w.weapons.categories || {};
-    if (t.fattah_used) tags.push({label:'⚡ HYPERSONIC', color:'#f48fb1'});
-    if (c.bm_cluster_warhead) tags.push({label:'⚠ CLUSTER', color:'#ff9800'});
-    if (w.weapons && w.weapons.ballistic_missiles_used) tags.push({label:'🚀 BM', color:'#4fc3f7'});
-    if (w.weapons && w.weapons.cruise_missiles_used) tags.push({label:'✈ CRUISE', color:'#80deea'});
-    if (w.weapons && w.weapons.drones_used) tags.push({label:'🛸 DRONE', color:'#ce93d8'});
-    return tags;
+  /* Escape feed text before injecting as HTML (defends against injection) */
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
   }
 
-  /* Format UTC timestamp to readable */
-  function fmtTime(iso) {
-    if (!iso) return '—';
+  /* Compact relative age, e.g. 12m / 3h / 2d */
+  function relTime(iso) {
+    if (!iso) return '';
+    var t = new Date(iso).getTime();
+    if (isNaN(t)) return '';
+    var diff = Math.floor((Date.now() - t) / 1000);
+    if (diff < 60)    return diff + 's';
+    if (diff < 3600)  return Math.floor(diff / 60) + 'm';
+    if (diff < 86400) return Math.floor(diff / 3600) + 'h';
+    return Math.floor(diff / 86400) + 'd';
+  }
+
+  /* Feed generation time → HH:MMZ */
+  function fmtUpdated(iso) {
+    if (!iso) return '';
     try {
       var d = new Date(iso);
-      var months = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
-      return d.getUTCDate() + ' ' + months[d.getUTCMonth()] + ' ' +
-             String(d.getUTCHours()).padStart(2,'0') + ':' +
+      return String(d.getUTCHours()).padStart(2,'0') + ':' +
              String(d.getUTCMinutes()).padStart(2,'0') + 'Z';
-    } catch(e) { return iso.slice(0,10); }
+    } catch(e) { return ''; }
   }
 
-  /* Build a single wave card HTML */
-  function buildCard(wave, op) {
-    var tags = getWeaponTags(wave);
-    var countries = (wave.targets && wave.targets.landings_countries || [])
-      .map(function(c){ return FLAGS[c] || c; }).join(' ');
-    var ts = fmtTime(wave.timing && wave.timing.announced_utc);
-    var desc = wave.description || (wave.targets && wave.targets.targets) || '—';
-    var damage = (wave.impact && wave.impact.damage) || '';
-    var fatal = wave.impact && wave.impact.fatalities;
-    var injured = wave.impact && wave.impact.injuries;
-    var iSystems = (wave.interception && wave.interception.interception_systems || []).join(' · ') || '';
-    var opLabel = op === 'tp4' ? 'TP4·2026' : 'TP3·2025';
-    var dotColor = op === 'tp4' ? '#f48fb1' : '#ffd700';
-
-    var casualtyLine = '';
-    if (fatal || injured) {
-      casualtyLine = '<div style="font-family:var(--px);font-size:6px;color:#ff7043;letter-spacing:.8px;margin-top:5px">' +
-        (fatal ? '💀 ' + fatal + ' KIA  ' : '') + (injured ? '🩸 ' + injured + ' WIA' : '') + '</div>';
-    }
-
-    var interceptLine = iSystems ? '<div style="font-family:var(--px);font-size:6px;color:rgba(105,240,174,.6);letter-spacing:.8px;margin-top:4px">🛡 ' + iSystems + '</div>' : '';
-
-    var tagHTML = tags.map(function(t){
-      return '<span style="font-family:var(--px);font-size:5px;color:' + t.color + ';border:1px solid ' +
-             t.color.replace(')',', .4)').replace('rgb','rgba') + ';padding:2px 5px;letter-spacing:.5px;margin-right:4px">' + t.label + '</span>';
-    }).join('');
+  /* Build a single tweet-style card from a Telegram feed item */
+  function buildCard(it) {
+    var media = it.has_media
+      ? '<span style="font-family:var(--px);font-size:5px;color:#80deea;border:1px solid rgba(128,222,234,.4);padding:2px 5px;letter-spacing:.5px">🖼 MEDIA</span>'
+      : '';
+    var text = esc(it.text).replace(/\n/g, '<br>');
 
     return '<div style="border-bottom:1px solid rgba(21,101,192,.25);padding:10px 12px 9px;background:rgba(0,5,20,.6);transition:background .15s" ' +
            'onmouseover="this.style.background=\'rgba(21,101,192,.1)\'" onmouseout="this.style.background=\'rgba(0,5,20,.6)\'">' +
-      /* header row */
+      /* header row: channel handle + relative time */
       '<div style="display:flex;align-items:center;gap:7px;margin-bottom:5px">' +
-        '<div style="width:7px;height:7px;border-radius:50%;background:' + dotColor + ';box-shadow:0 0 6px ' + dotColor + ';flex-shrink:0"></div>' +
-        '<span style="font-family:var(--px);font-size:7px;color:#42a5f5;letter-spacing:1px">IRGC · ' + opLabel + ' · WAVE ' + wave.wave_number + '</span>' +
-        '<span style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);margin-left:auto">' + ts + '</span>' +
+        '<div style="width:7px;height:7px;border-radius:50%;background:#42a5f5;box-shadow:0 0 6px #42a5f5;flex-shrink:0"></div>' +
+        '<span style="font-family:var(--px);font-size:7px;color:#42a5f5;letter-spacing:1px">✈ @' + esc(it.channel) + '</span>' +
+        '<span style="font-family:var(--px);font-size:6px;color:rgba(66,165,245,.4);margin-left:auto">' + relTime(it.timestamp) + '</span>' +
       '</div>' +
-      /* description */
-      '<div style="font-family:var(--px);font-size:7px;color:rgba(255,255,255,.8);line-height:1.9;letter-spacing:.3px">' + desc + '</div>' +
-      /* damage */
-      (damage && damage !== desc ? '<div style="font-family:var(--px);font-size:6px;color:rgba(255,255,255,.45);line-height:1.8;letter-spacing:.3px;margin-top:4px">' + damage + '</div>' : '') +
-      casualtyLine + interceptLine +
-      /* footer row */
+      /* post text */
+      '<div style="font-family:var(--px);font-size:7px;color:rgba(255,255,255,.8);line-height:1.9;letter-spacing:.3px">' + text + '</div>' +
+      /* footer row: media badge + telegram link */
       '<div style="display:flex;align-items:center;gap:6px;margin-top:6px;flex-wrap:wrap">' +
-        (tagHTML ? '<span>' + tagHTML + '</span>' : '') +
-        (countries ? '<span style="font-size:12px;letter-spacing:2px;margin-left:auto">' + countries + '</span>' : '') +
+        media +
+        '<a href="' + esc(it.url) + '" target="_blank" rel="noopener noreferrer" ' +
+          'style="font-family:var(--px);font-size:5px;color:rgba(66,165,245,.6);text-decoration:none;letter-spacing:.5px;margin-left:auto" ' +
+          'onmouseover="this.style.color=\'#42a5f5\'" onmouseout="this.style.color=\'rgba(66,165,245,.6)\'">↗ TELEGRAM</a>' +
       '</div>' +
     '</div>';
   }
 
-  /* Render waves into target element */
-  function renderFeed(waves, op, innerEl, countEl, loadEl) {
+  /* Render feed items into a target element */
+  function renderFeed(list, innerEl, countEl, loadEl) {
     if (!innerEl) return;
-    /* sort newest first */
-    var sorted = waves.slice().sort(function(a,b){
-      var ta = (a.timing && a.timing.announced_utc) || '';
-      var tb = (b.timing && b.timing.announced_utc) || '';
+    /* sort newest first (server already sorts, but keep deterministic) */
+    var sorted = list.slice().sort(function(a,b){
+      var ta = a.timestamp || '', tb = b.timestamp || '';
       return tb < ta ? -1 : tb > ta ? 1 : 0;
     });
-    var html = sorted.map(function(w){ return buildCard(w, op); }).join('');
-    innerEl.innerHTML = html || '<div style="padding:24px 20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.45);text-align:center;letter-spacing:1px;line-height:2">📡 NO INTEL DATA<br><span style="font-size:6px;color:rgba(66,165,245,.3)">FEED REACHED · 0 INCIDENTS</span></div>';
+    var html = sorted.map(buildCard).join('');
+    innerEl.innerHTML = html || '<div style="padding:24px 20px;font-family:var(--px);font-size:7px;color:rgba(66,165,245,.45);text-align:center;letter-spacing:1px;line-height:2">📡 NO INTEL DATA<br><span style="font-size:6px;color:rgba(66,165,245,.3)">FEED REACHED · 0 POSTS</span></div>';
     if (loadEl) loadEl.style.display = 'none';
-    if (countEl) countEl.textContent = sorted.length + (sorted.length === 1 ? ' WAVE' : ' WAVES');
+    if (countEl) countEl.textContent = sorted.length + (sorted.length === 1 ? ' POST' : ' POSTS');
   }
 
   /* Show animated skeleton placeholders while a fetch is in flight */
@@ -4542,12 +4514,11 @@ function toggleThreat() {
   }
 
   /* Distinct error state with a working RETRY (failure is not cached) */
-  function showError(op, label) {
-    delete cache[op];
+  function showError(label) {
+    items = null;
     var html = '<div style="padding:26px 18px;font-family:var(--px);font-size:7px;color:rgba(255,110,110,.7);text-align:center;letter-spacing:1px;line-height:2">' +
       '⚠ ' + label +
       '<div><button class="osint-retry-btn" onclick="osintRetry()">↻ RETRY</button></div>' +
-      '<div style="margin-top:8px;font-size:6px"><a href="https://github.com/danielrosehill/Iran-Israel-War-2026-OSINT-Data" target="_blank" rel="noopener" style="color:rgba(66,165,245,.6);text-decoration:none">↗ VIEW SOURCE ON GITHUB</a></div>' +
       '</div>';
     ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
       var el = document.getElementById(id);
@@ -4559,12 +4530,18 @@ function toggleThreat() {
     });
   }
 
-  /* Fetch one operation's JSON, cache it, then render both desktop + mobile */
-  function fetchOp(op) {
-    if (cache[op]) {
-      renderBoth(op);
-      return;
-    }
+  /* Update the "UPD HH:MMZ" label on both surfaces */
+  function setUpdated(iso) {
+    var t = fmtUpdated(iso);
+    ['osint-updated','mob-osint-updated'].forEach(function(id){
+      var el = document.getElementById(id);
+      if (el) el.textContent = t ? 'UPD ' + t : '';
+    });
+  }
+
+  /* Fetch the committed feed JSON, cache it, then render both surfaces */
+  function fetchFeed() {
+    if (items) { renderBoth(); return; }
     showSkeleton();
 
     /* Abort a hung request so the UI never freezes on the spinner */
@@ -4575,38 +4552,41 @@ function toggleThreat() {
       if (ctrl) ctrl.abort();
     }, 9000);
 
-    fetch(URLS[op], ctrl ? { signal: ctrl.signal } : undefined)
+    var opts = { cache: 'no-store' };
+    if (ctrl) opts.signal = ctrl.signal;
+
+    fetch(FEED_URL + '?t=' + Date.now(), opts)
       .then(function(r){
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
       })
       .then(function(data){
         clearTimeout(timer);
-        /* Upstream schema renamed `waves` → `incidents` (kept fallback for safety) */
-        var list = data && (data.incidents || data.waves);
-        cache[op] = Array.isArray(list) ? list : [];
-        renderBoth(op);
+        items = (data && Array.isArray(data.items)) ? data.items : [];
+        setUpdated(data && data.generated_utc);
+        renderBoth();
       })
       .catch(function(err){
         clearTimeout(timer);
         console.warn('OSINT fetch failed:', err);
-        showError(op, timed ? 'CONNECTION TIMED OUT' : 'INTEL FEED UNAVAILABLE');
+        showError(timed ? 'CONNECTION TIMED OUT' : 'INTEL FEED UNAVAILABLE');
       });
   }
 
   /* Public: manual retry from the error state */
   window.osintRetry = function() {
-    fetchOp(activeTab);
+    items = null;
+    fetchFeed();
   };
 
   /* Render to both desktop and mobile surfaces */
-  function renderBoth(op) {
-    renderFeed(cache[op], op,
+  function renderBoth() {
+    renderFeed(items,
       document.getElementById('osint-feed-inner'),
       document.getElementById('osint-wave-count'),
       document.getElementById('osint-loading')
     );
-    renderFeed(cache[op], op,
+    renderFeed(items,
       document.getElementById('mob-osint-feed-inner'),
       document.getElementById('mob-osint-wave-count'),
       document.getElementById('mob-osint-loading')
@@ -4615,39 +4595,7 @@ function toggleThreat() {
 
   /* Public: called when widget opens */
   window.osintMaybeLoad = function() {
-    if (!loaded) { loaded = true; fetchOp(activeTab); }
-  };
-
-  /* Public: tab switch */
-  window.osintSetTab = function(op) {
-    activeTab = op;
-
-    /* Update both desktop + mobile tab buttons */
-    ['','mob-'].forEach(function(prefix){
-      var t4 = document.getElementById(prefix + 'otab-tp4');
-      var t3 = document.getElementById(prefix + 'otab-tp3');
-      if (!t4 || !t3) return;
-      var activeStyle = 'rgba(21,101,192,.35)';
-      var inactiveStyle = 'transparent';
-      var activeColor = '#42a5f5';
-      var inactiveColor = 'rgba(66,165,245,.4)';
-      t4.style.background = op === 'tp4' ? activeStyle : inactiveStyle;
-      t4.style.color       = op === 'tp4' ? activeColor : inactiveColor;
-      t3.style.background  = op === 'tp3' ? activeStyle : inactiveStyle;
-      t3.style.color       = op === 'tp3' ? activeColor : inactiveColor;
-    });
-
-    /* Show loading spinners while switching */
-    ['osint-loading','mob-osint-loading'].forEach(function(id){
-      var el = document.getElementById(id);
-      if (el) el.style.display = cache[op] ? 'none' : 'flex';
-    });
-    ['osint-feed-inner','mob-osint-feed-inner'].forEach(function(id){
-      var el = document.getElementById(id);
-      if (el && !cache[op]) el.innerHTML = '';
-    });
-
-    fetchOp(op);
+    if (!loaded) { loaded = true; fetchFeed(); }
   };
 
 })();
