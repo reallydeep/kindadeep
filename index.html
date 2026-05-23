@@ -47,13 +47,13 @@
   --void:#020510;
   /* ─── Unified function-bar dock system (NEWS / OSINT / MARKET / WAR PROB / MIX) ─── */
   --fbar-w:188px;        /* collapsed bar width — identical for all 5 */
-  --fbar-w-open:300px;   /* expanded panel width — identical for all 5 */
+  --fbar-w-open:344px;   /* expanded panel width: original full size (one open at a time) */
   --fbar-h:38px;         /* collapsed header min-height — identical for all 5 */
   --fbar-gap:16px;       /* spacing between adjacent docked bars */
   --fbar-edge:20px;      /* distance from viewport edge */
   --fbar-bottom:20px;    /* distance from viewport bottom (shared baseline) */
   /* Center-to-center spacing for the 3 centered bars (OSINT / MARKET / WAR PROB) */
-  --fbar-slot:316px;
+  --fbar-slot:288px;
 }
 svg{shape-rendering:crispEdges}
 html{font-family:var(--px);scroll-behavior:smooth}
@@ -1558,31 +1558,31 @@ body{-webkit-text-size-adjust:100%;text-size-adjust:100%}
    layer over a collapsed neighbor (the open one is bumped above via z-index). */
 @media(min-width:769px) and (max-width:1024px){
   :root{
-    --fbar-w:132px;
-    --fbar-w-open:210px;
+    --fbar-w:120px;
+    --fbar-w-open:250px;
     --fbar-gap:8px;
     --fbar-edge:10px;
-    --fbar-slot:142px;
+    --fbar-slot:190px;
   }
 }
-/* Laptop (1025–1365px): tightened so an open panel never overlaps the edge bars. */
+/* Laptop (1025–1365px): collapsed bars stay tidy; one open panel keeps a healthy size. */
 @media(min-width:1025px) and (max-width:1365px){
   :root{
-    --fbar-w:152px;
-    --fbar-w-open:232px;
-    --fbar-gap:10px;
-    --fbar-edge:12px;
-    --fbar-slot:212px;
+    --fbar-w:158px;
+    --fbar-w-open:300px;
+    --fbar-gap:12px;
+    --fbar-edge:14px;
+    --fbar-slot:236px;
   }
 }
 /* Ultrawide (≥1920px): keep proportions tidy, slightly larger touch targets */
 @media(min-width:1920px){
   :root{
-    --fbar-w:230px;
-    --fbar-w-open:340px;
+    --fbar-w:220px;
+    --fbar-w-open:360px;
     --fbar-gap:18px;
     --fbar-edge:36px;
-    --fbar-slot:360px;
+    --fbar-slot:320px;
   }
 }
 
@@ -4023,12 +4023,64 @@ document.addEventListener('keydown', e => {
 });
 /* ─── SPOTIFY TOGGLE ─── */
 var spLoaded = false;
+/* ═══════════════════════════════════
+   Dock coordinator: only one panel open at a time
+═══════════════════════════════════ */
+function collapseDock(name) {
+  if (name === 'news') {
+    var w = document.getElementById('news-iframe-wrap');
+    if (w && parseInt(w.style.height) !== 0) {
+      w.style.height = '0px';
+      var tabs = document.getElementById('news-tabs-wrap'); if (tabs) tabs.style.display = 'none';
+      var foot = document.querySelector('.news-now-label'); if (foot) foot.style.display = 'none';
+      var b = document.getElementById('news-toggle'); if (b) b.textContent = '▲';
+      document.getElementById('news-widget').classList.add('minimized');
+    }
+  } else if (name === 'spotify') {
+    var sw = document.getElementById('spotify-iframe-wrap');
+    if (sw && parseInt(sw.style.height) !== 0) {
+      sw.style.height = '0px';
+      var sb = document.getElementById('sp-toggle'); if (sb) sb.textContent = '▲';
+      document.getElementById('spotify-widget').classList.add('minimized');
+    }
+  } else if (name === 'osint') {
+    if (osintOpen) {
+      osintOpen = false;
+      document.getElementById('osint-body-wrap').style.height = '0px';
+      document.getElementById('osint-toggle').textContent = '▲';
+      document.getElementById('osint-widget').classList.add('minimized');
+    }
+  } else if (name === 'market') {
+    if (marketOpen) {
+      marketOpen = false;
+      document.getElementById('market-body-wrap').style.height = '0px';
+      document.getElementById('market-toggle').textContent = '▲';
+      document.getElementById('market-widget').classList.add('minimized');
+      if (window.marketOnClose) window.marketOnClose();
+    }
+  } else if (name === 'threat') {
+    if (threatOpen) {
+      threatOpen = false;
+      document.getElementById('threat-body-wrap').style.height = '0px';
+      document.getElementById('threat-toggle').textContent = '▲';
+      document.getElementById('threat-widget').classList.add('minimized');
+    }
+  }
+}
+
+function dockCollapseOthers(except) {
+  ['news','spotify','osint','market','threat'].forEach(function(n){
+    if (n !== except) collapseDock(n);
+  });
+}
+
 function toggleSpotify() {
   var wrap = document.getElementById('spotify-iframe-wrap');
   var btn  = document.getElementById('sp-toggle');
   var frame = document.getElementById('sp-frame');
   var widget = document.getElementById('spotify-widget');
   if (parseInt(wrap.style.height) === 0) {
+    dockCollapseOthers('spotify');
     // First open: swap about:blank → real src so player initializes at full height
     if (!spLoaded && frame && frame.dataset.src) {
       spLoaded = true;
@@ -4455,6 +4507,7 @@ function toggleNews() {
   const widget = document.getElementById('news-widget');
   const collapsed = parseInt(wrap.style.height) === 0;
   if (collapsed) {
+    dockCollapseOthers('news');
     /* First open: load the active source into the iframe */
     var activeBtn = document.querySelector('.ntab.active');
     var frame = document.getElementById('news-frame');
@@ -4535,6 +4588,7 @@ function toggleOsint() {
   osintOpen = !osintOpen;
 
   if (osintOpen) {
+    dockCollapseOthers('osint');
     wrap.style.height = '420px';
     btn.textContent = '▼';
     widget.classList.remove('minimized');
@@ -4558,6 +4612,7 @@ function toggleMarket() {
   marketOpen = !marketOpen;
 
   if (marketOpen) {
+    dockCollapseOthers('market');
     wrap.style.height = '420px';
     btn.textContent = '▼';
     widget.classList.remove('minimized');
@@ -4582,6 +4637,7 @@ function toggleThreat() {
   threatOpen = !threatOpen;
 
   if (threatOpen) {
+    dockCollapseOthers('threat');
     wrap.style.height = '400px';
     btn.textContent = '▼';
     widget.classList.remove('minimized');
