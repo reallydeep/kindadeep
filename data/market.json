@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-05-23T12:53:35Z",
+ "generated_utc": "2026-05-23T16:45:54Z",
  "countries": [
   {
    "code": "US",
@@ -7,11 +7,116 @@
    "flag": "🇺🇸",
    "indices": [
     {
-     "symbol": "^DJI",
+     "symbol": "^spx",
+     "name": "S&P 500",
+     "price": 7473.5,
+     "change_pct": 0.37,
+     "currency": "USD"
+    },
+    {
+     "symbol": "^dji",
      "name": "Dow Jones",
      "price": 50579.7,
-     "change_pct": 2.13,
+     "change_pct": 0.58,
      "currency": "USD"
+    },
+    {
+     "symbol": "^ndq",
+     "name": "Nasdaq",
+     "price": 26343.97,
+     "change_pct": 0.19,
+     "currency": "USD"
+    }
+   ]
+  },
+  {
+   "code": "JP",
+   "name": "JAPAN",
+   "flag": "🇯🇵",
+   "indices": [
+    {
+     "symbol": "^nkx",
+     "name": "Nikkei 225",
+     "price": 63339.07,
+     "change_pct": 2.68,
+     "currency": "JPY"
+    }
+   ]
+  },
+  {
+   "code": "IN",
+   "name": "INDIA",
+   "flag": "🇮🇳",
+   "indices": [
+    {
+     "symbol": "^snx",
+     "name": "SENSEX",
+     "price": 75415.35,
+     "change_pct": 0.31,
+     "currency": "INR"
+    }
+   ]
+  },
+  {
+   "code": "RU",
+   "name": "RUSSIA",
+   "flag": "🇷🇺",
+   "indices": [
+    {
+     "symbol": "^moex",
+     "name": "MOEX",
+     "price": 2625.69,
+     "change_pct": -1.45,
+     "currency": "RUB"
+    },
+    {
+     "symbol": "^rts",
+     "name": "RTS",
+     "price": 1161.58,
+     "change_pct": -2.03,
+     "currency": "USD"
+    }
+   ]
+  },
+  {
+   "code": "CN",
+   "name": "CHINA",
+   "flag": "🇨🇳",
+   "indices": [
+    {
+     "symbol": "^shc",
+     "name": "Shanghai",
+     "price": 4112.9,
+     "change_pct": 0.87,
+     "currency": "CNY"
+    },
+    {
+     "symbol": "^hsi",
+     "name": "Hang Seng",
+     "price": 25606.03,
+     "change_pct": 0.86,
+     "currency": "HKD"
+    }
+   ]
+  },
+  {
+   "code": "UK",
+   "name": "LONDON",
+   "flag": "🇬🇧",
+   "indices": [
+    {
+     "symbol": "^ukx",
+     "name": "FTSE 100",
+     "price": 10466.3,
+     "change_pct": 0.22,
+     "currency": "GBP"
+    },
+    {
+     "symbol": "^ftm",
+     "name": "FTSE 250",
+     "price": 23167.47,
+     "change_pct": 0.96,
+     "currency": "GBP"
     }
    ]
   }
