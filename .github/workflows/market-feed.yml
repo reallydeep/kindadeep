@@ -1,0 +1,55 @@
+name: Refresh market feed
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (GitHub cron is best-effort and may drift)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "scripts/fetch_market.py"
+      - ".github/workflows/market-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build feed
+        run: python scripts/fetch_market.py
+
+      - name: Commit feed if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/market.json
+          if git diff --staged --quiet; then
+            echo "No market changes; nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh market feed"
+          # Another run (cron/dispatch) may push between our checkout and push.
+          # Rebase onto the latest main and retry so a race never fails the job.
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push attempt $i lost a race; retrying..."
+            sleep 5
+          done
+          echo "::error::could not push market feed after retries"
+          exit 1
