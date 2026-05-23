@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-23T10:02:51Z",
- "count": 38,
+ "generated_utc": "2026-05-23T11:21:39Z",
+ "count": 37,
  "items": [
+  {
+   "id": "66e9db0ff005f1d5f3b2b00e505368f1",
+   "url": "https://t.me/OSINTWarfare/4991",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Exclusive footage shared by @clashreport shows a Turkish-made Bayraktar Akıncı UCAV operated by the Sudanese Armed Forces engaging and downing an aerial target using an Eren air-to-air loitering munition.  Clash Report described the target as a drone, although…",
+   "timestamp": "2026-05-23T11:20:27+00:00",
+   "has_media": true
+  },
   {
    "id": "a9ef8e024f8cee1588aa7bd2f686c03e",
    "url": "https://t.me/OSINTWarfare/4990",
@@ -90,24 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "Russia conducted launches of intercontinental, hypersonic, and air-launched cruise missiles during the second phase of its strategic nuclear forces exercises.\n• A nuclear-powered submarine conducted a submerged launch of an R-29RMU2 Sineva submarine-launched ballistic missile (SLBM).\n• The frigate Admiral Gorshkov (454), an Admiral Gorshkov-class (Project 22350) guided-missile frigate, launched a 3M22 Zircon hypersonic missile from the Barents Sea.\n• An RS-24 Yars intercontinental ballistic missile (ICBM) was launched from the Plesetsk Cosmodrome toward a designated range in Kamchatka.\n• At the Kapustin Yar test range, a Belarusian military unit carried out a live launch of a ballistic missile from the Iskander-M system.\n• Tu-95MS strategic bombers took part in the exercise, launching air-launched cruise missiles, while a MiG-31I interceptor launched a Kh-47M2 Kinzhal air-launched aeroballistic missile.",
    "timestamp": "2026-05-22T01:39:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7c82f5dd33acb5c4444bd08e5e38d8b5",
-   "url": "https://t.me/OSINTWarfare/4972",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Cuban Revolutionary Armed Forces (FAR) conducted air defense exercises involving the launch of a 5V27D surface-to-air missile from a modernized S-125-2BM Pechora system.\nThe Belarusian company ALEVKURP assisted in upgrading Cuba’s existing S-125M1 fleet to the 2BM standard. The modernization package included solid-state digital processors, an enhanced digital SNR-125 radar, encrypted digital radio command systems, and expanded target engagement capabilities beyond conventional aircraft targets.",
-   "timestamp": "2026-05-22T00:49:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "babd9f1c976cff5bad973dabe4e2202f",
-   "url": "https://t.me/OSINTWarfare/4969",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The first Gaza Flotilla activists have arrived in Turkey following their detention in Israel. Most of the activists were severely beaten by Israeli police.\nAt this point, repeatedly attempting these missions seems pointless when nothing is achieved, especially knowing that their own governments are unwilling to impose sanctions or take meaningful action.",
-   "timestamp": "2026-05-22T00:21:58+00:00",
    "has_media": true
   },
   {
