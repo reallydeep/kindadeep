@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-23T21:26:05Z",
- "count": 37,
+ "generated_utc": "2026-05-23T22:12:06Z",
+ "count": 38,
  "items": [
+  {
+   "id": "f833ece3188c1f73592a1063c3e2a304",
+   "url": "https://t.me/warmonitors/44154",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nFars News Agency, which is close to the Revolutionary Guards: Contrary to Trump's words, even in the event of an agreement, the Strait of Hormuz will remain under Iranian management.",
+   "timestamp": "2026-05-23T21:52:30+00:00",
+   "has_media": false
+  },
   {
    "id": "36ff9dbee5a12fd44f918eb5adf355ed",
    "url": "https://t.me/OSINTWarfare/5000",
