@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-23T05:53:56Z",
- "count": 36,
+ "generated_utc": "2026-05-23T08:03:10Z",
+ "count": 37,
  "items": [
+  {
+   "id": "ea82743ab6afe1d49031221d798b2d08",
+   "url": "https://t.me/OSINTWarfare/4989",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Exclusive footage shared by\n@clashreport\nshows a Turkish-made Bayraktar Akıncı UCAV operated by the Sudanese Armed Forces engaging and downing an aerial target using an Eren air-to-air loitering munition.\nClash Report described the target as a drone, although the footage suggests it may actually be an aircraft rather than a UAV.",
+   "timestamp": "2026-05-23T07:53:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "18d14bb9d83501cac926d263ae51e66d",
+   "url": "https://t.me/OSINTWarfare/4988",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of the detection and direction-finding station, as well as the information processing station from an Iranian Army 1L222M “Avtobaza-M” electronic intelligence (ELINT) complex, destroyed near Tehran as a result of U.S. or Israeli Air Force strikes during Operation “Epic Fury.”\nCoordinates: 35.551353, 51.447718.\nSeveral “Avtobaza” electronic intelligence complexes were delivered to Iran back in 2011. It is an electronic reconnaissance system that passively detects and direction-finds emissions from radars, communication systems, and navigation systems at ranges of up to 150–400 km, transmitting this information to air defense systems.",
+   "timestamp": "2026-05-23T05:55:04+00:00",
+   "has_media": true
+  },
   {
    "id": "e43dcf9d789a97fc6f81c389281405b7",
    "url": "https://t.me/OSINTWarfare/4985",
@@ -81,15 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "The first Gaza Flotilla activists have arrived in Turkey following their detention in Israel. Most of the activists were severely beaten by Israeli police.\nAt this point, repeatedly attempting these missions seems pointless when nothing is achieved, especially knowing that their own governments are unwilling to impose sanctions or take meaningful action.",
    "timestamp": "2026-05-22T00:21:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2e3a55ece175da045dd6ad39f8b5ce7e",
-   "url": "https://t.me/OSINTWarfare/4966",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Officer cadets from the Georges Namoano Military Academy and personnel of the Special and Rapid Intervention Brigade (BSIR) undergoing drone operations and specialized combat training.",
-   "timestamp": "2026-05-21T23:42:38+00:00",
    "has_media": true
   },
   {
