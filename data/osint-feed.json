@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-23T14:03:02Z",
- "count": 36,
+ "generated_utc": "2026-05-23T15:13:06Z",
+ "count": 37,
  "items": [
+  {
+   "id": "36ff9dbee5a12fd44f918eb5adf355ed",
+   "url": "https://t.me/OSINTWarfare/5000",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Shield AI has been selected to integrate its Hivemind autonomy software into the U.S.-developed Low-Cost Uncrewed Combat Attack System (LUCAS) one-way attack UAV (OWA-UAV).\nHivemind serves as an AI “pilot” for LUCAS, enabling groups of drones to coordinate their movements, execute unpredictable flight patterns, and adapt in real time to changing battlefield conditions.",
+   "timestamp": "2026-05-23T14:12:06+00:00",
+   "has_media": true
+  },
   {
    "id": "c1975401e9880095f7c2c257b3bcf29b",
    "url": "https://t.me/OSINTWarfare/4995",
