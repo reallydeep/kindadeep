@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-23T12:10:50Z",
- "count": 37,
+ "generated_utc": "2026-05-23T14:03:02Z",
+ "count": 36,
  "items": [
+  {
+   "id": "c1975401e9880095f7c2c257b3bcf29b",
+   "url": "https://t.me/OSINTWarfare/4995",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of a UAV shot down by the Sudanese Armed Forces after it violated Sudanese airspace from Ethiopia. A Pratt & Whitney engine can be seen among the debris; I’ll leave it to aviation specialists to identify the platform.",
+   "timestamp": "2026-05-23T12:27:30+00:00",
+   "has_media": true
+  },
   {
    "id": "66e9db0ff005f1d5f3b2b00e505368f1",
    "url": "https://t.me/OSINTWarfare/4991",
@@ -81,24 +90,6 @@
    "channel": "OSINTWarfare",
    "text": "A Malian reconnaissance unit identified a Jama’at Nusrat al-Islam wal-Muslimin (JNIM) militant site in the Koulikoro region. Russian Africa Corps Aviation conducted an airstrike, successfully destroying the target.\nFollow us on:\nInstagram\n|\nX",
    "timestamp": "2026-05-22T12:23:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4bec8b2bcb6bbf282fac27b55803ae0d",
-   "url": "https://t.me/OSINTWarfare/4978",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF’s 551st Brigade, operating under the command of the 146th Division, identified five Hezbollah fighters entering a building in the town of Mansouri in southern Lebanon. The fighters were eliminated in a coordinated airstrike carried out in cooperation with the Air Force.",
-   "timestamp": "2026-05-22T11:20:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4d47f3f3851f770c84dd3b915a7bcb9f",
-   "url": "https://t.me/OSINTWarfare/4973",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia conducted launches of intercontinental, hypersonic, and air-launched cruise missiles during the second phase of its strategic nuclear forces exercises.\n• A nuclear-powered submarine conducted a submerged launch of an R-29RMU2 Sineva submarine-launched ballistic missile (SLBM).\n• The frigate Admiral Gorshkov (454), an Admiral Gorshkov-class (Project 22350) guided-missile frigate, launched a 3M22 Zircon hypersonic missile from the Barents Sea.\n• An RS-24 Yars intercontinental ballistic missile (ICBM) was launched from the Plesetsk Cosmodrome toward a designated range in Kamchatka.\n• At the Kapustin Yar test range, a Belarusian military unit carried out a live launch of a ballistic missile from the Iskander-M system.\n• Tu-95MS strategic bombers took part in the exercise, launching air-launched cruise missiles, while a MiG-31I interceptor launched a Kh-47M2 Kinzhal air-launched aeroballistic missile.",
-   "timestamp": "2026-05-22T01:39:37+00:00",
    "has_media": true
   },
   {
