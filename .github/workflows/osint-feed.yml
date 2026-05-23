@@ -1,0 +1,47 @@
+name: Refresh OSINT feed
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (GitHub cron is best-effort and may drift)
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "scripts/fetch_osint.py"
+      - ".github/workflows/osint-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: osint-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Build feed
+        run: python scripts/fetch_osint.py
+
+      - name: Commit feed if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/osint-feed.json
+          if git diff --staged --quiet; then
+            echo "No feed changes; nothing to commit."
+          else
+            git commit -m "chore: refresh OSINT feed"
+            git push
+          fi
