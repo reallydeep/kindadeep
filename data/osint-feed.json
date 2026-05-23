@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-23T08:03:10Z",
- "count": 37,
+ "generated_utc": "2026-05-23T10:02:51Z",
+ "count": 38,
  "items": [
+  {
+   "id": "a9ef8e024f8cee1588aa7bd2f686c03e",
+   "url": "https://t.me/OSINTWarfare/4990",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force conducted airstrikes in the Al-Baqbouq area of Tyre, in southern Lebanon.",
+   "timestamp": "2026-05-23T09:46:10+00:00",
+   "has_media": true
+  },
   {
    "id": "ea82743ab6afe1d49031221d798b2d08",
    "url": "https://t.me/OSINTWarfare/4989",
