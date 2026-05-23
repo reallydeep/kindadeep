@@ -1,0 +1,63 @@
+{
+ "generated_utc": "2026-05-23T02:45:00Z",
+ "countries": [
+  {
+   "code": "US",
+   "name": "USA",
+   "flag": "🇺🇸",
+   "indices": [
+    {"symbol": "^GSPC", "name": "S&P 500", "price": 7473.47, "change_pct": 0.88, "currency": "USD"},
+    {"symbol": "^DJI", "name": "Dow Jones", "price": 50579.7, "change_pct": 0.0, "currency": "USD"},
+    {"symbol": "^IXIC", "name": "Nasdaq", "price": 26343.97, "change_pct": 0.0, "currency": "USD"},
+    {"symbol": "^RUT", "name": "Russell 2000", "price": 2869.23, "change_pct": 0.0, "currency": "USD"}
+   ]
+  },
+  {
+   "code": "JP",
+   "name": "JAPAN",
+   "flag": "🇯🇵",
+   "indices": [
+    {"symbol": "^N225", "name": "Nikkei 225", "price": 63339.07, "change_pct": 4.15, "currency": "JPY"}
+   ]
+  },
+  {
+   "code": "IN",
+   "name": "INDIA",
+   "flag": "🇮🇳",
+   "indices": [
+    {"symbol": "^NSEI", "name": "NIFTY 50", "price": 23719.3, "change_pct": 0.29, "currency": "INR"},
+    {"symbol": "^BSESN", "name": "SENSEX", "price": 75415.35, "change_pct": 0.13, "currency": "INR"},
+    {"symbol": "^NSEBANK", "name": "Bank Nifty", "price": 54055.35, "change_pct": 0.0, "currency": "INR"}
+   ]
+  },
+  {
+   "code": "RU",
+   "name": "RUSSIA",
+   "flag": "🇷🇺",
+   "indices": [
+    {"symbol": "IMOEX.ME", "name": "MOEX", "price": 2222.51, "change_pct": -0.19, "currency": "RUB"},
+    {"symbol": "RTSI.ME", "name": "RTS", "price": 1144.79, "change_pct": 1.09, "currency": "USD"}
+   ]
+  },
+  {
+   "code": "CN",
+   "name": "CHINA",
+   "flag": "🇨🇳",
+   "indices": [
+    {"symbol": "000001.SS", "name": "Shanghai", "price": 4112.9, "change_pct": -0.45, "currency": "CNY"},
+    {"symbol": "399001.SZ", "name": "Shenzhen", "price": 15597.3, "change_pct": 0.0, "currency": "CNY"},
+    {"symbol": "000300.SS", "name": "CSI 300", "price": 4845.1, "change_pct": 0.0, "currency": "CNY"},
+    {"symbol": "^HSI", "name": "Hang Seng", "price": 25606.03, "change_pct": 0.0, "currency": "HKD"}
+   ]
+  },
+  {
+   "code": "UK",
+   "name": "LONDON",
+   "flag": "🇬🇧",
+   "indices": [
+    {"symbol": "^FTSE", "name": "FTSE 100", "price": 10466.26, "change_pct": 2.66, "currency": "GBP"},
+    {"symbol": "^FTMC", "name": "FTSE 250", "price": 23167.47, "change_pct": 0.0, "currency": "GBP"}
+   ]
+  }
+ ]
+}
