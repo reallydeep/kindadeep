@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-05-24T20:41:18Z",
- "count": 40,
+ "generated_utc": "2026-05-24T21:39:32Z",
+ "count": 39,
  "items": [
   {
    "id": "65ab9ed739051fd76eed632d306b1612",
@@ -117,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "Wreckage of a UAV shot down by the Sudanese Armed Forces after it violated Sudanese airspace from Ethiopia. A Pratt & Whitney engine can be seen among the debris; I’ll leave it to aviation specialists to identify the platform.",
    "timestamp": "2026-05-23T12:27:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "66e9db0ff005f1d5f3b2b00e505368f1",
-   "url": "https://t.me/OSINTWarfare/4991",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Exclusive footage shared by @clashreport shows a Turkish-made Bayraktar Akıncı UCAV operated by the Sudanese Armed Forces engaging and downing an aerial target using an Eren air-to-air loitering munition.  Clash Report described the target as a drone, although…",
-   "timestamp": "2026-05-23T11:20:27+00:00",
    "has_media": true
   },
   {
