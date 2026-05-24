@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-24T17:42:12Z",
- "count": 39,
+ "generated_utc": "2026-05-24T18:48:42Z",
+ "count": 40,
  "items": [
+  {
+   "id": "65ab9ed739051fd76eed632d306b1612",
+   "url": "https://t.me/OSINTWarfare/5013",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows two modernized Kh-101 (Product 504AP) cruise missiles releasing L-504 countermeasures before impact on targets in Kyiv.",
+   "timestamp": "2026-05-24T18:23:10+00:00",
+   "has_media": true
+  },
   {
    "id": "0ca3098caa201ebbae488695865fcef8",
    "url": "https://t.me/OSINTWarfare/5012",
