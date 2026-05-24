@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-24T13:22:50Z",
- "count": 38,
+ "generated_utc": "2026-05-24T14:46:00Z",
+ "count": 39,
  "items": [
+  {
+   "id": "0ca3098caa201ebbae488695865fcef8",
+   "url": "https://t.me/OSINTWarfare/5012",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from the large-scale Russian missile and drone attack on the Ukrainian capital, Kyiv. The video shows several impacts from Kh-101 and Iskander-K cruise missiles, as well as Geran-2 drones, alongside the activity of Ukrainian air defenses.\nThe footage also captures notable moments of the modernized Russian Kh-101 (Product 504AP) cruise missiles deploying L-504 countermeasures shortly before striking their targets.",
+   "timestamp": "2026-05-24T14:19:03+00:00",
+   "has_media": false
+  },
   {
    "id": "9f8aa9d593983fcb68caaf99c89d2c5a",
    "url": "https://t.me/warmonitors/44158",
