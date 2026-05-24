@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-24T00:12:51Z",
- "count": 37,
+ "generated_utc": "2026-05-24T04:39:34Z",
+ "count": 36,
  "items": [
+  {
+   "id": "4511f0eac478ce7dd602701f7991ec06",
+   "url": "https://t.me/OSINTWarfare/5011",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier footage shows the impact of two Russian cruise missiles striking Kyiv.",
+   "timestamp": "2026-05-24T02:18:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "89ca9c33dbdf37a6bfc737e662b87a0a",
+   "url": "https://t.me/OSINTWarfare/5009",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A fragment of a PAC-3 MSE interceptor, launched from a MIM-104F Patriot system, lying on a road in Kyiv.",
+   "timestamp": "2026-05-24T01:52:08+00:00",
+   "has_media": true
+  },
   {
    "id": "082ec49fcc588840670f00e66e253ef4",
    "url": "https://t.me/OSINTWarfare/5006",
@@ -63,33 +81,6 @@
    "channel": "OSINTWarfare",
    "text": "Exclusive footage shared by @clashreport shows a Turkish-made Bayraktar Akıncı UCAV operated by the Sudanese Armed Forces engaging and downing an aerial target using an Eren air-to-air loitering munition.  Clash Report described the target as a drone, although…",
    "timestamp": "2026-05-23T11:20:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a9ef8e024f8cee1588aa7bd2f686c03e",
-   "url": "https://t.me/OSINTWarfare/4990",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force conducted airstrikes in the Al-Baqbouq area of Tyre, in southern Lebanon.",
-   "timestamp": "2026-05-23T09:46:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ea82743ab6afe1d49031221d798b2d08",
-   "url": "https://t.me/OSINTWarfare/4989",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Exclusive footage shared by\n@clashreport\nshows a Turkish-made Bayraktar Akıncı UCAV operated by the Sudanese Armed Forces engaging and downing an aerial target using an Eren air-to-air loitering munition.\nClash Report described the target as a drone, although the footage suggests it may actually be an aircraft rather than a UAV.",
-   "timestamp": "2026-05-23T07:53:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "18d14bb9d83501cac926d263ae51e66d",
-   "url": "https://t.me/OSINTWarfare/4988",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Wreckage of the detection and direction-finding station, as well as the information processing station from an Iranian Army 1L222M “Avtobaza-M” electronic intelligence (ELINT) complex, destroyed near Tehran as a result of U.S. or Israeli Air Force strikes during Operation “Epic Fury.”\nCoordinates: 35.551353, 51.447718.\nSeveral “Avtobaza” electronic intelligence complexes were delivered to Iran back in 2011. It is an electronic reconnaissance system that passively detects and direction-finds emissions from radars, communication systems, and navigation systems at ranges of up to 150–400 km, transmitting this information to air defense systems.",
-   "timestamp": "2026-05-23T05:55:04+00:00",
    "has_media": true
   },
   {
