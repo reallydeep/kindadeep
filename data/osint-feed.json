@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-24T07:39:45Z",
- "count": 36,
+ "generated_utc": "2026-05-24T09:30:40Z",
+ "count": 37,
  "items": [
+  {
+   "id": "9155870fe9826b5f2d5ebb4e9c3d529a",
+   "url": "https://t.me/warmonitors/44156",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nOdds on a permanent ceasefire between US and Iran now up to 64% chance.",
+   "timestamp": "2026-05-24T09:17:30+00:00",
+   "has_media": true
+  },
   {
    "id": "4511f0eac478ce7dd602701f7991ec06",
    "url": "https://t.me/OSINTWarfare/5011",
