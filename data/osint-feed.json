@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-25T10:43:40Z",
+ "generated_utc": "2026-05-25T13:50:06Z",
  "count": 40,
  "items": [
+  {
+   "id": "aa5ab3f5174bacc37726cf9d28fcf3b4",
+   "url": "https://t.me/OSINTWarfare/5017",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n- According to Mehr News Agency, air defense activity was reported on Qeshm Island, southern Iran, moments ago. The nature of the activity remains unknown, with no official statement yet issued by authorities.\n@GeoPWatch",
+   "timestamp": "2026-05-25T12:52:07+00:00",
+   "has_media": true
+  },
   {
    "id": "207458cf73f9fabf74b21e0e99a0de20",
    "url": "https://t.me/OSINTWarfare/5015",
@@ -117,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Shield AI has been selected to integrate its Hivemind autonomy software into the U.S.-developed Low-Cost Uncrewed Combat Attack System (LUCAS) one-way attack UAV (OWA-UAV).\nHivemind serves as an AI “pilot” for LUCAS, enabling groups of drones to coordinate their movements, execute unpredictable flight patterns, and adapt in real time to changing battlefield conditions.",
    "timestamp": "2026-05-23T14:12:06+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c1975401e9880095f7c2c257b3bcf29b",
-   "url": "https://t.me/OSINTWarfare/4995",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Wreckage of a UAV shot down by the Sudanese Armed Forces after it violated Sudanese airspace from Ethiopia. A Pratt & Whitney engine can be seen among the debris; I’ll leave it to aviation specialists to identify the platform.",
-   "timestamp": "2026-05-23T12:27:30+00:00",
    "has_media": true
   },
   {
