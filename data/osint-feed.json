@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-25T22:50:19Z",
+ "generated_utc": "2026-05-25T23:54:23Z",
  "count": 46,
  "items": [
+  {
+   "id": "8f23e00f868be4c8e8c066a883a402bf",
+   "url": "https://t.me/OSINTWarfare/5025",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Ukrainian surface-to-air missile successfully intercepting a Russian Kh-101 cruise missile over Kyiv. The missile then crashed into an empty tennis court.",
+   "timestamp": "2026-05-25T23:47:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b611c888d6a5e3c675b4b22abfe3e23c",
+   "url": "https://t.me/OSINTWarfare/5024",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 19-05-2026 showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck in the settlement of Misgav Am in northern Israel.",
+   "timestamp": "2026-05-25T23:14:22+00:00",
+   "has_media": false
+  },
   {
    "id": "cf9099ac5413f049db2281ca2590b2e7",
    "url": "https://t.me/warmonitors/44160",
@@ -172,24 +190,6 @@
    "text": "Russia used an Oreshnik intermediate-range ballistic missile (IRBM) against the Kyiv region, with the impact area identified near Bila Tserkva.  Footage also appears to show the missile’s post-boost separation phase, with multiple reentry vehicles descending…",
    "timestamp": "2026-05-24T00:01:08+00:00",
    "has_media": false
-  },
-  {
-   "id": "04b6a4e55af7e165154feca45bf1d8a8",
-   "url": "https://t.me/OSINTWarfare/5005",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the impact of a Russian Iskander-M ballistic missile in Kyiv.",
-   "timestamp": "2026-05-23T23:22:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7474efac438767881847ddef34707863",
-   "url": "https://t.me/OSINTWarfare/5004",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia used an Oreshnik intermediate-range ballistic missile (IRBM) against the Kyiv region, with the impact area identified near Bila Tserkva.\nFootage also appears to show the missile’s post-boost separation phase, with multiple reentry vehicles descending toward the target area.",
-   "timestamp": "2026-05-23T23:13:49+00:00",
-   "has_media": true
   },
   {
    "id": "f833ece3188c1f73592a1063c3e2a304",
