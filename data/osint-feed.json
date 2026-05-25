@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-25T20:47:22Z",
- "count": 43,
+ "generated_utc": "2026-05-25T21:54:51Z",
+ "count": 44,
  "items": [
+  {
+   "id": "873413e3bbac19ace39e175998c16416",
+   "url": "https://t.me/OSINTWarfare/5022",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Last night, two IRGC Navy speedboats were reportedly targeted by U.S. fighter jets off the coast of Larak Island in the Persian Gulf, killing four sailors.\nEarlier, Iranian air defenses were activated over Bandar Abbas in response to hostile UAV activity.\nThe IRGC Navy reportedly targeted U.S. Navy assets in the Strait of Hormuz and the Sea of Oman using anti-ship cruise missiles.",
+   "timestamp": "2026-05-25T21:54:43+00:00",
+   "has_media": true
+  },
   {
    "id": "9deb61bbd70aab76f3af9b9234d02a4e",
    "url": "https://t.me/OSINTWarfare/5021",
