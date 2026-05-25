@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-25T16:11:14Z",
- "count": 42,
+ "generated_utc": "2026-05-25T17:58:32Z",
+ "count": 43,
  "items": [
+  {
+   "id": "9deb61bbd70aab76f3af9b9234d02a4e",
+   "url": "https://t.me/OSINTWarfare/5021",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah began using FPV drones equipped with thermal cameras during Sunday night’s operation targeting Israeli troops in the southern Lebanese town of Al-Bayada.",
+   "timestamp": "2026-05-25T16:21:36+00:00",
+   "has_media": false
+  },
   {
    "id": "b5e2d89740e8f55999c53c96c898cd30",
    "url": "https://t.me/OSINTWarfare/5020",
