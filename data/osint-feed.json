@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-05-25T13:50:06Z",
- "count": 40,
+ "generated_utc": "2026-05-25T16:11:14Z",
+ "count": 42,
  "items": [
+  {
+   "id": "b5e2d89740e8f55999c53c96c898cd30",
+   "url": "https://t.me/OSINTWarfare/5020",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows U.S. Army forces launching ATACMS and/or Precision Strike Missile (PrSM) tactical ballistic missiles from M142 HIMARS launchers toward Iran during the latest phase of the conflict. The launch is believed to have taken place from a neighboring country, most likely Kuwait.",
+   "timestamp": "2026-05-25T16:07:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "36fb452c51880d883ed39deefa02fe19",
+   "url": "https://t.me/OSINTWarfare/5019",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "After getting slammed by Hezbollah FPV drones, they decided to target some buildings, perhaps to feed their god complex and feel superior again.",
+   "timestamp": "2026-05-25T14:28:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e428a08080dcb35120c6f29af92979f4",
+   "url": "https://t.me/OSINTWarfare/5018",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n- According to Mehr News Agency, air defense activity was reported on Qeshm Island, southern Iran, moments ago. The nature of the activity remains unknown, with no official statement yet issued by authorities.  @GeoPWatch",
+   "timestamp": "2026-05-25T14:00:14+00:00",
+   "has_media": false
+  },
   {
    "id": "aa5ab3f5174bacc37726cf9d28fcf3b4",
    "url": "https://t.me/OSINTWarfare/5017",
@@ -118,15 +145,6 @@
    "text": "⚡\nFars News Agency, which is close to the Revolutionary Guards: Contrary to Trump's words, even in the event of an agreement, the Strait of Hormuz will remain under Iranian management.",
    "timestamp": "2026-05-23T21:52:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "36ff9dbee5a12fd44f918eb5adf355ed",
-   "url": "https://t.me/OSINTWarfare/5000",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Shield AI has been selected to integrate its Hivemind autonomy software into the U.S.-developed Low-Cost Uncrewed Combat Attack System (LUCAS) one-way attack UAV (OWA-UAV).\nHivemind serves as an AI “pilot” for LUCAS, enabling groups of drones to coordinate their movements, execute unpredictable flight patterns, and adapt in real time to changing battlefield conditions.",
-   "timestamp": "2026-05-23T14:12:06+00:00",
-   "has_media": true
   },
   {
    "id": "a3b772f23fb0a269742130d089c04de5",
