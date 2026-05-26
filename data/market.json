@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-05-26T05:52:24Z",
+ "generated_utc": "2026-05-26T09:44:36Z",
  "countries": [
   {
    "code": "US",
@@ -37,8 +37,8 @@
     {
      "symbol": "^nkx",
      "name": "Nikkei 225",
-     "price": 64988.2,
-     "change_pct": -0.26,
+     "price": 64996.09,
+     "change_pct": -0.25,
      "currency": "JPY"
     }
    ]
@@ -51,8 +51,8 @@
     {
      "symbol": "^snx",
      "name": "SENSEX",
-     "price": 76540.25,
-     "change_pct": 0.07,
+     "price": 75989.27,
+     "change_pct": -0.65,
      "currency": "INR"
     }
    ]
@@ -65,15 +65,15 @@
     {
      "symbol": "^moex",
      "name": "MOEX",
-     "price": 2598.2,
-     "change_pct": -1.05,
+     "price": 2594.34,
+     "change_pct": -0.15,
      "currency": "RUB"
     },
     {
      "symbol": "^rts",
      "name": "RTS",
-     "price": 1144.01,
-     "change_pct": -1.51,
+     "price": 1142.27,
+     "change_pct": -0.15,
      "currency": "USD"
     }
    ]
@@ -86,15 +86,15 @@
     {
      "symbol": "^shc",
      "name": "Shanghai",
-     "price": 4113.94,
-     "change_pct": -0.93,
+     "price": 4145.37,
+     "change_pct": -0.17,
      "currency": "CNY"
     },
     {
      "symbol": "^hsi",
      "name": "Hang Seng",
-     "price": 25591.16,
-     "change_pct": -0.06,
+     "price": 25599.45,
+     "change_pct": -0.03,
      "currency": "HKD"
     }
    ]
@@ -107,15 +107,15 @@
     {
      "symbol": "^ukx",
      "name": "FTSE 100",
-     "price": 10466.3,
-     "change_pct": 0.22,
+     "price": 10531.1,
+     "change_pct": 0.62,
      "currency": "GBP"
     },
     {
      "symbol": "^ftm",
      "name": "FTSE 250",
-     "price": 23167.47,
-     "change_pct": 0.96,
+     "price": 23344.93,
+     "change_pct": 0.77,
      "currency": "GBP"
     }
    ]
