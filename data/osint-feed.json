@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-05-26T16:29:06Z",
+ "generated_utc": "2026-05-26T18:41:38Z",
  "count": 46,
  "items": [
+  {
+   "id": "f5cb455ed2cbe4c8bd6fa7c047812fe8",
+   "url": "https://t.me/OSINTWarfare/5037",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "As part of preparations for Republic Day, marking the founding of the First Armenian Republic, Iranian-made Majid short-range air defense (SHORAD) systems (export designation AD-08) and Chinese CH-4B Rainbow unmanned combat aerial vehicles (UCAVs) were observed in Yerevan.\nThe Majid SHORAD has previously downed various UAVs, including American MQ-9A Reaper and Israeli Hermes 900 platforms, and has also damaged a U.S. Air Force F-35A Multirole Fighter.\nThe Chinese CH-4B UCAV is broadly comparable in role to the American MQ-9A Reaper. Their acquisition stems from the bitter experience in the recent conflict with Azerbaijan over Nagorno-Karabakh.",
+   "timestamp": "2026-05-26T18:39:55+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bce1d635c036a9d2ef798c4bd00359af",
+   "url": "https://t.me/OSINTWarfare/5036",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 20-05-2026 showing the targeting of the newly established headquarters of the IDF’s 401st “Iron Tracks” Brigade in the town of Debel, southern Lebanon, using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-05-26T18:13:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8cb3ba58787895a898bb8d1c1473b8e1",
+   "url": "https://t.me/OSINTWarfare/5035",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 20-05-2026 showing the targeting of the newly established headquarters of the IDF’s 401st “Iron Tracks” Brigade in the town of Debel, southern Lebanon, using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-05-26T18:10:24+00:00",
+   "has_media": false
+  },
   {
    "id": "788340bb6e1a53a521b0906f5c4b48ba",
    "url": "https://t.me/warmonitors/44168",
@@ -171,33 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "After getting slammed by Hezbollah FPV drones, they decided to target some buildings, perhaps to feed their god complex and feel superior again.",
    "timestamp": "2026-05-25T14:28:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e428a08080dcb35120c6f29af92979f4",
-   "url": "https://t.me/OSINTWarfare/5018",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n- According to Mehr News Agency, air defense activity was reported on Qeshm Island, southern Iran, moments ago. The nature of the activity remains unknown, with no official statement yet issued by authorities.  @GeoPWatch",
-   "timestamp": "2026-05-25T14:00:14+00:00",
-   "has_media": false
-  },
-  {
-   "id": "aa5ab3f5174bacc37726cf9d28fcf3b4",
-   "url": "https://t.me/OSINTWarfare/5017",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n- According to Mehr News Agency, air defense activity was reported on Qeshm Island, southern Iran, moments ago. The nature of the activity remains unknown, with no official statement yet issued by authorities.\n@GeoPWatch",
-   "timestamp": "2026-05-25T12:52:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "207458cf73f9fabf74b21e0e99a0de20",
-   "url": "https://t.me/OSINTWarfare/5015",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah began using FPV drones equipped with thermal cameras during Sunday night’s operation targeting Israeli troops in the southern Lebanese town of Al-Bayada.",
-   "timestamp": "2026-05-25T00:47:52+00:00",
    "has_media": true
   },
   {
