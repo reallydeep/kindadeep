@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-26T22:13:00Z",
- "count": 43,
+ "generated_utc": "2026-05-26T23:33:44Z",
+ "count": 44,
  "items": [
+  {
+   "id": "77bdcd21bff6d8843bfb57945ed227f1",
+   "url": "https://t.me/OSINTWarfare/5049",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force carried out airstrikes on the town of Sohmor in Lebanon’s western Beqaa region.\nLarge secondary explosions and shockwaves were observed across the area, caused by cook-offs after the strikes hit a munitions depot.",
+   "timestamp": "2026-05-26T22:38:04+00:00",
+   "has_media": true
+  },
   {
    "id": "f1f97e080f6e0fe41c913fe0dcf25fcb",
    "url": "https://t.me/OSINTWarfare/5048",
