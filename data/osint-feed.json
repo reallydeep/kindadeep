@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-05-26T20:49:22Z",
- "count": 44,
+ "generated_utc": "2026-05-26T22:13:00Z",
+ "count": 43,
  "items": [
+  {
+   "id": "f1f97e080f6e0fe41c913fe0dcf25fcb",
+   "url": "https://t.me/OSINTWarfare/5048",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia's Africa Corps Aviation carried out an airstrike against a Jama’at Nusrat al-Islam wal-Muslimin (JNIM) camp in the vicinity of Kogué, western Mali.",
+   "timestamp": "2026-05-26T22:01:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6bb157c6468a05d1b2550809ad32e1d8",
+   "url": "https://t.me/OSINTWarfare/5045",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage from todat showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck loaded with soldiers in the town of Bint Jbeil, southern Lebanon.  The drone is equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
+   "timestamp": "2026-05-26T21:53:58+00:00",
+   "has_media": true
+  },
+  {
+   "id": "af3c1d4d870f2e80be460e7539a51dd0",
+   "url": "https://t.me/OSINTWarfare/5044",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage from todat showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck loaded with soldiers in the town of Bint Jbeil, southern Lebanon.\nThe drone is equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
+   "timestamp": "2026-05-26T21:53:42+00:00",
+   "has_media": false
+  },
   {
    "id": "1f1cede9998bf4e29d30c67b24436770",
    "url": "https://t.me/OSINTWarfare/5042",
@@ -120,24 +147,6 @@
    "has_media": false
   },
   {
-   "id": "8f23e00f868be4c8e8c066a883a402bf",
-   "url": "https://t.me/OSINTWarfare/5025",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a Ukrainian surface-to-air missile successfully intercepting a Russian Kh-101 cruise missile over Kyiv. The missile then crashed into an empty tennis court.",
-   "timestamp": "2026-05-25T23:47:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b611c888d6a5e3c675b4b22abfe3e23c",
-   "url": "https://t.me/OSINTWarfare/5024",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 19-05-2026 showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck in the settlement of Misgav Am in northern Israel.",
-   "timestamp": "2026-05-25T23:14:22+00:00",
-   "has_media": false
-  },
-  {
    "id": "cf9099ac5413f049db2281ca2590b2e7",
    "url": "https://t.me/warmonitors/44160",
    "source": "telegram",
@@ -156,30 +165,12 @@
    "has_media": false
   },
   {
-   "id": "71e758e65a6debb2310301c89e6264c0",
-   "url": "https://t.me/OSINTWarfare/5023",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Last night, two IRGC Navy speedboats were reportedly targeted by U.S. fighter jets off the coast of Larak Island in the Persian Gulf, killing four sailors.  Earlier, Iranian air defenses were activated over Bandar Abbas in response to hostile UAV activity.…",
-   "timestamp": "2026-05-25T22:31:43+00:00",
-   "has_media": true
-  },
-  {
    "id": "99a9a6815dd375971a3e7757d12bdeae",
    "url": "https://t.me/warmonitors/44159",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nA Ukrainian surface-to-air missile system intercepts and destroys a Russian Kh-101 cruise missile over Kyiv this weekend.",
    "timestamp": "2026-05-25T21:57:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "873413e3bbac19ace39e175998c16416",
-   "url": "https://t.me/OSINTWarfare/5022",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Last night, two IRGC Navy speedboats were reportedly targeted by U.S. fighter jets off the coast of Larak Island in the Persian Gulf, killing four sailors.\nEarlier, Iranian air defenses were activated over Bandar Abbas in response to hostile UAV activity.\nThe IRGC Navy reportedly targeted U.S. Navy assets in the Strait of Hormuz and the Sea of Oman using anti-ship cruise missiles.",
-   "timestamp": "2026-05-25T21:54:43+00:00",
    "has_media": true
   },
   {
