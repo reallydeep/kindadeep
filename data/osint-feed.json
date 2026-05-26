@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-05-25T23:54:23Z",
- "count": 46,
+ "generated_utc": "2026-05-26T01:55:56Z",
+ "count": 45,
  "items": [
   {
    "id": "8f23e00f868be4c8e8c066a883a402bf",
@@ -181,15 +181,6 @@
    "text": "A fragment of a PAC-3 MSE interceptor, launched from a MIM-104F Patriot system, lying on a road in Kyiv.",
    "timestamp": "2026-05-24T01:52:08+00:00",
    "has_media": true
-  },
-  {
-   "id": "082ec49fcc588840670f00e66e253ef4",
-   "url": "https://t.me/OSINTWarfare/5006",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia used an Oreshnik intermediate-range ballistic missile (IRBM) against the Kyiv region, with the impact area identified near Bila Tserkva.  Footage also appears to show the missile’s post-boost separation phase, with multiple reentry vehicles descending…",
-   "timestamp": "2026-05-24T00:01:08+00:00",
-   "has_media": false
   },
   {
    "id": "f833ece3188c1f73592a1063c3e2a304",
