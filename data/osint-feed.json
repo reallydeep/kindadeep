@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-05-26T09:53:30Z",
+ "generated_utc": "2026-05-26T16:29:06Z",
  "count": 46,
  "items": [
+  {
+   "id": "788340bb6e1a53a521b0906f5c4b48ba",
+   "url": "https://t.me/warmonitors/44168",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nA child was pulled from the rubble of a residential building in Burj al-Shemaly, southern Lebanon, after an Israeli attack moments ago.",
+   "timestamp": "2026-05-26T15:42:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1039f2f855ef69efe17f342d6550ded3",
+   "url": "https://t.me/warmonitors/44167",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent: Two Israeli airstrikes targeted the towns of Sahmar and Mashghara in the Western Bekaa Valley, southeast of the country.",
+   "timestamp": "2026-05-26T15:37:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "faf63f8cad639dfc80ca148107fe6b6d",
+   "url": "https://t.me/OSINTWarfare/5033",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of a Russian 9M729 Novator cruise missile, a land-based variant of the Kalibr, found in Kyiv. The missile is deployed with the upgraded Iskander-M1 system and is assessed to have a range of approximately 1,500–2,500 km, according to various estimates.\nThese missiles have previously been used in limited strikes against targets on Ukrainian territory.\nPreviously, Ukraine’s Main Intelligence Directorate (GUR) stated that 95 missiles of the 9M729 type had been ordered as of 2026.",
+   "timestamp": "2026-05-26T14:48:48+00:00",
+   "has_media": true
+  },
+  {
+   "id": "296450f5c88789d14252376f7bda4a49",
+   "url": "https://t.me/OSINTWarfare/5032",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian sources claim the downing of three UAVs, including an MQ-9A Unmanned Combat Aerial Vehicle (UCAV).",
+   "timestamp": "2026-05-26T14:19:59+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d00d004fa84834c8959ec739f8675246",
+   "url": "https://t.me/OSINTWarfare/5031",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "—\n🇴🇲\n/\n🇮🇷\nNEW:\nThe Sultan of Oman, His Highness Haytham bin Tariq, has signed an executive decree ordering Oman to increase its volume of trade and economic relations with Iran\n@Middle_East_Spectator",
+   "timestamp": "2026-05-26T13:45:49+00:00",
+   "has_media": true
+  },
   {
    "id": "be1b5ac1ae586706a316a33dcfd783e2",
    "url": "https://t.me/warmonitors/44165",
@@ -156,24 +201,6 @@
    "has_media": true
   },
   {
-   "id": "65ab9ed739051fd76eed632d306b1612",
-   "url": "https://t.me/OSINTWarfare/5013",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows two modernized Kh-101 (Product 504AP) cruise missiles releasing L-504 countermeasures before impact on targets in Kyiv.",
-   "timestamp": "2026-05-24T18:23:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0ca3098caa201ebbae488695865fcef8",
-   "url": "https://t.me/OSINTWarfare/5012",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from the large-scale Russian missile and drone attack on the Ukrainian capital, Kyiv. The video shows several impacts from Kh-101 and Iskander-K cruise missiles, as well as Geran-2 drones, alongside the activity of Ukrainian air defenses.\nThe footage also captures notable moments of the modernized Russian Kh-101 (Product 504AP) cruise missiles deploying L-504 countermeasures shortly before striking their targets.",
-   "timestamp": "2026-05-24T14:19:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "9f8aa9d593983fcb68caaf99c89d2c5a",
    "url": "https://t.me/warmonitors/44158",
    "source": "telegram",
@@ -201,24 +228,6 @@
    "has_media": true
   },
   {
-   "id": "4511f0eac478ce7dd602701f7991ec06",
-   "url": "https://t.me/OSINTWarfare/5011",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier footage shows the impact of two Russian cruise missiles striking Kyiv.",
-   "timestamp": "2026-05-24T02:18:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89ca9c33dbdf37a6bfc737e662b87a0a",
-   "url": "https://t.me/OSINTWarfare/5009",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A fragment of a PAC-3 MSE interceptor, launched from a MIM-104F Patriot system, lying on a road in Kyiv.",
-   "timestamp": "2026-05-24T01:52:08+00:00",
-   "has_media": true
-  },
-  {
    "id": "f833ece3188c1f73592a1063c3e2a304",
    "url": "https://t.me/warmonitors/44154",
    "source": "telegram",
@@ -234,15 +243,6 @@
    "channel": "WarMonitors",
    "text": "After the Visit to Xi Jinping, Trump's Iran War Is Hanging by a Thread\n🔤\n🔤\n🔤\n🔤\n1️⃣\nVotes in the House and Senate to effectively halt the military campaign this week could deliver Democrats a rare victory and signal the war’s widening unpopularity even among Republicans.\nDefections within the president’s party — including two GOP lawmakers who Trump helped defeat in primaries in recent days — handed Democrats an initial win Tuesday in the Senate and could power an even bigger triumph Thursday in the House.\nLawmakers had planned to vote on the measure Wednesday but several defections and absences forced them to delay it.\nAfter nearly three months at war with Iran, Trump may finally confront a major setback in the conflict, albeit a political one in Washington instead of a military loss on the battlefield.\nWhile largely symbolic, given a likely presidential veto, the votes would amount to a stunning embarrassment for the president.\n“The story today is the momentum is growing for Republican members to say, ‘You can’t do this war without us,’” said Sen. Tim Kaine (D-Va.), one of the organizers of the measure.\nRepublican dissent has risen as the administration blows past legal deadlines to end the war and skyrocketing gas prices drag down GOP favorability headed into the midterm elections.\nThe initial Senate vote will force the chamber to continue debating the measure. But an even more consequential vote looms in the House, which could pass with a coalition of Democrats and a handful of Republicans.\nFinal vote tallies can still change in a narrowly divided House and high-stakes election year. Senate Republicans are expected to try to sideline the final effort since Democrats took advantage of GOP absences Tuesday to advance the measure.\nAnd neither chamber has built up enough support to overturn Trump’s veto, which is a near certainty if any legislation reaches his desk.\nBut Democrats say the steady growth of support for war powers limits — across eight votes in the Senate and three in the House — mirrors public dissatisfaction for the war.\nA New York Times poll conducted between May 11 and May 15 found 64 percent of Americans see the attacks on Iran as a wrong decision, as opposed to 30 percent who support it.\n“Every one of our votes tends to get a little more support,” said Sen. Gary Peters. “A vast majority of American people do not support the war, so anybody who’s voting another way is not aligned with where the American people are.”\nImportant\n: Peters was included among Xi Jinping's guests whom Trump took on board, but was removed from the list at the last moment.\n#xijinping\n#trump\n#iran\n#war\n#democrats\n📱\nAmerican Оbserver\n- Stay up to date on all important events\n🇺🇸",
    "timestamp": "2026-05-22T19:01:05+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a5a23e1e582b5e33af3215e5c1e3491f",
-   "url": "https://t.me/warmonitors/44147",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nOdds on a U.S strike on Cuba this year has now increased to 51%. Interesting things coming soon.",
-   "timestamp": "2026-05-21T21:02:30+00:00",
    "has_media": true
   },
   {
