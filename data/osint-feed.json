@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-27T22:24:13Z",
+ "generated_utc": "2026-05-27T23:41:19Z",
  "count": 46,
  "items": [
+  {
+   "id": "cd358fc1f948b1a992e20cc166f25d2b",
+   "url": "https://t.me/warmonitors/44174",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#LATEST\nReports in Iran: Explosions heard in Bandar Abbas.\nTheir origin is unknown at this time.",
+   "timestamp": "2026-05-27T22:47:30+00:00",
+   "has_media": false
+  },
   {
    "id": "294335fa225fd6939336fed01635720e",
    "url": "https://t.me/OSINTWarfare/5056",
@@ -235,15 +244,6 @@
    "text": "⚡️\n#BREAKING\nOdds on a permanent ceasefire between US and Iran now up to 64% chance.",
    "timestamp": "2026-05-24T09:17:30+00:00",
    "has_media": true
-  },
-  {
-   "id": "f833ece3188c1f73592a1063c3e2a304",
-   "url": "https://t.me/warmonitors/44154",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nFars News Agency, which is close to the Revolutionary Guards: Contrary to Trump's words, even in the event of an agreement, the Strait of Hormuz will remain under Iranian management.",
-   "timestamp": "2026-05-23T21:52:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
