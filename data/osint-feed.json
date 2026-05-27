@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-26T23:33:44Z",
+ "generated_utc": "2026-05-27T01:36:05Z",
  "count": 44,
  "items": [
+  {
+   "id": "a23e922557910785d6ad9c74a8ffe5da",
+   "url": "https://t.me/OSINTWarfare/5050",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Uncle Kim oversaw the successful test of a newly developed lightweight multi-purpose missile launch system.\nThe trials reportedly included the launch of an operational-tactical Hwasong-11Ra (Hwasong-11D) missile, a 240mm guided rocket, and what appears to be a new lightweight multi-purpose cruise missile featuring AI-assisted precision targeting, ultra-precise autonomous navigation, and TERCOM-based terrain-matching guidance. The missile is said to be capable of striking targets up to 100 km away, using a mixed flight profile that combines gliding and powered propulsion.",
+   "timestamp": "2026-05-27T00:31:19+00:00",
+   "has_media": true
+  },
   {
    "id": "77bdcd21bff6d8843bfb57945ed227f1",
    "url": "https://t.me/OSINTWarfare/5049",
@@ -108,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "Iranian sources claim the downing of three UAVs, including an MQ-9A Unmanned Combat Aerial Vehicle (UCAV).",
    "timestamp": "2026-05-26T14:19:59+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d00d004fa84834c8959ec739f8675246",
-   "url": "https://t.me/OSINTWarfare/5031",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "—\n🇴🇲\n/\n🇮🇷\nNEW:\nThe Sultan of Oman, His Highness Haytham bin Tariq, has signed an executive decree ordering Oman to increase its volume of trade and economic relations with Iran\n@Middle_East_Spectator",
-   "timestamp": "2026-05-26T13:45:49+00:00",
    "has_media": true
   },
   {
