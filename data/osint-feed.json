@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-27T12:45:30Z",
- "count": 45,
+ "generated_utc": "2026-05-27T16:28:20Z",
+ "count": 46,
  "items": [
+  {
+   "id": "294335fa225fd6939336fed01635720e",
+   "url": "https://t.me/OSINTWarfare/5056",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Russian FPV drone missing its target as it attempts to strike Ukrainian infantry traveling in a pickup truck.",
+   "timestamp": "2026-05-27T13:16:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a68e09e132ddc062f8df6adaecfbcc7c",
+   "url": "https://t.me/OSINTWarfare/5055",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 19-05-2026 showing the targeting of an Iron Dome launcher at an IDF military position in the settlement of Misgav Am in northern Israel, using an Ababil fiber-optic FPV drone possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
+   "timestamp": "2026-05-27T12:48:56+00:00",
+   "has_media": false
+  },
   {
    "id": "e00f4ea4828c9eb81432713dc578ac70",
    "url": "https://t.me/warmonitors/44172",
@@ -127,15 +145,6 @@
    "text": "⚡\nAl-Mayadeen correspondent: Two Israeli airstrikes targeted the towns of Sahmar and Mashghara in the Western Bekaa Valley, southeast of the country.",
    "timestamp": "2026-05-26T15:37:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "faf63f8cad639dfc80ca148107fe6b6d",
-   "url": "https://t.me/OSINTWarfare/5033",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Wreckage of a Russian 9M729 Novator cruise missile, a land-based variant of the Kalibr, found in Kyiv. The missile is deployed with the upgraded Iskander-M1 system and is assessed to have a range of approximately 1,500–2,500 km, according to various estimates.\nThese missiles have previously been used in limited strikes against targets on Ukrainian territory.\nPreviously, Ukraine’s Main Intelligence Directorate (GUR) stated that 95 missiles of the 9M729 type had been ordered as of 2026.",
-   "timestamp": "2026-05-26T14:48:48+00:00",
-   "has_media": true
   },
   {
    "id": "be1b5ac1ae586706a316a33dcfd783e2",
