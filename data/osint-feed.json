@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-28T16:43:25Z",
+ "generated_utc": "2026-05-28T19:26:14Z",
  "count": 46,
  "items": [
+  {
+   "id": "e65a74267051b171474b5c0921ee033d",
+   "url": "https://t.me/warmonitors/44181",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent in the south: The Hasbaya-Marjeyoun road is cut off due to Israeli airstrikes and artillery shelling of the town of Dbeibine.",
+   "timestamp": "2026-05-28T18:17:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5bad577a97ee191c08b21edeef9eca4a",
+   "url": "https://t.me/warmonitors/44180",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nUS official tells Al Jazeera: The ceasefire between the United States and Iran is still in effect",
+   "timestamp": "2026-05-28T18:17:30+00:00",
+   "has_media": false
+  },
   {
    "id": "076b49ecabf65af66c484b51016868fd",
    "url": "https://t.me/warmonitors/44179",
@@ -225,24 +243,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nFox News, citing informed sources: US strikes in Iran were defensive and do not indicate the end of the ceasefire agreement.",
    "timestamp": "2026-05-26T06:07:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cf9099ac5413f049db2281ca2590b2e7",
-   "url": "https://t.me/warmonitors/44160",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIran reports downing of 3 American drones over Bandar Abbas",
-   "timestamp": "2026-05-25T22:37:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "652eaad8fe3f52da44a56500dcf4fe82",
-   "url": "https://t.me/warmonitors/44161",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent in the south: An Israeli warplane raid targeted the town of Qaqaiyat al-Jisr in the Nabatieh district.",
-   "timestamp": "2026-05-25T22:37:30+00:00",
    "has_media": false
   },
   {
