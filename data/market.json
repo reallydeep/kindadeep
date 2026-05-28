@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-05-28T08:13:11Z",
+ "generated_utc": "2026-05-28T11:52:27Z",
  "countries": [
   {
    "code": "US",
@@ -65,15 +65,15 @@
     {
      "symbol": "^moex",
      "name": "MOEX",
-     "price": 2590.96,
-     "change_pct": 0.03,
+     "price": 2594.04,
+     "change_pct": 0.15,
      "currency": "RUB"
     },
     {
      "symbol": "^rts",
      "name": "RTS",
-     "price": 1151.18,
-     "change_pct": 0.03,
+     "price": 1152.56,
+     "change_pct": 0.15,
      "currency": "USD"
     }
    ]
@@ -107,15 +107,15 @@
     {
      "symbol": "^ukx",
      "name": "FTSE 100",
-     "price": 10412.5,
-     "change_pct": -0.88,
+     "price": 10393.2,
+     "change_pct": -1.06,
      "currency": "GBP"
     },
     {
      "symbol": "^ftm",
      "name": "FTSE 250",
-     "price": 23316.06,
-     "change_pct": -0.29,
+     "price": 23236.52,
+     "change_pct": -0.63,
      "currency": "GBP"
     }
    ]
