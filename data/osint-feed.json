@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-28T22:52:16Z",
- "count": 44,
+ "generated_utc": "2026-05-28T23:59:53Z",
+ "count": 45,
  "items": [
+  {
+   "id": "3c21b51880327dc10d9bc2d5ba8279a8",
+   "url": "https://t.me/OSINTWarfare/5065",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 23-05-2026 showing the targeting of Iron Dome launchers at the IDF's Ramim barracks in the settlement of Hunin in northern Israel, using an Ababil fiber-optic FPV drones possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warheads.",
+   "timestamp": "2026-05-28T23:58:02+00:00",
+   "has_media": false
+  },
   {
    "id": "359f04e90d96dc9a449cc2683f918183",
    "url": "https://t.me/warmonitors/44182",
@@ -88,7 +97,7 @@
    "url": "https://t.me/OSINTWarfare/5060",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "India-made Akash surface-to-air missile (SAM) system\nFrance-made CAESAR Mk1 155mm self-propelled howitzer\nRussia-made TOS-1A Solntsepyok heavy flamethrower multiple rocket launcher system\nChina-made CH-4B Rainbow unmanned combat aerial vehicles (UCAVs)",
+   "text": "India-made Akash surface-to-air missile (SAM) system\nIndia-made MArG 45 155mm self-propelled howitzer\nRussia-made TOS-1A Solntsepyok heavy flamethrower multiple rocket launcher system\nChina-made CH-4B Rainbow unmanned combat aerial vehicles (UCAVs)",
    "timestamp": "2026-05-28T13:43:17+00:00",
    "has_media": true
   },
