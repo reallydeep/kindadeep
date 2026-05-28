@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-05-27T23:59:16Z",
+ "generated_utc": "2026-05-28T04:15:22Z",
  "countries": [
   {
    "code": "US",
@@ -37,8 +37,8 @@
     {
      "symbol": "^nkx",
      "name": "Nikkei 225",
-     "price": 64999.41,
-     "change_pct": 0.01,
+     "price": 64298.24,
+     "change_pct": -1.08,
      "currency": "JPY"
     }
    ]
@@ -51,8 +51,8 @@
     {
      "symbol": "^snx",
      "name": "SENSEX",
-     "price": 75837.97,
-     "change_pct": -0.23,
+     "price": 75867.8,
+     "change_pct": -0.19,
      "currency": "INR"
     }
    ]
@@ -86,15 +86,15 @@
     {
      "symbol": "^shc",
      "name": "Shanghai",
-     "price": 4093.73,
-     "change_pct": -1.25,
+     "price": 4087.86,
+     "change_pct": -0.14,
      "currency": "CNY"
     },
     {
      "symbol": "^hsi",
      "name": "Hang Seng",
-     "price": 25328.23,
-     "change_pct": -1.06,
+     "price": 24740.39,
+     "change_pct": -2.32,
      "currency": "HKD"
     }
    ]
