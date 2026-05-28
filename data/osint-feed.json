@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-05-28T12:40:31Z",
- "count": 47,
+ "generated_utc": "2026-05-28T16:43:25Z",
+ "count": 46,
  "items": [
+  {
+   "id": "076b49ecabf65af66c484b51016868fd",
+   "url": "https://t.me/warmonitors/44179",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nReport: US and Iran agree to extend ceasefire by 60 days. Now awaiting Trump's final approval",
+   "timestamp": "2026-05-28T14:37:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "72ba2f9b4ca847a0e63deb7862520929",
+   "url": "https://t.me/warmonitors/44178",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#UPDATE\nReports of reaching a final agreement between the US and Iran, no official confirmation at this time",
+   "timestamp": "2026-05-28T14:32:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ab321510816f7859ce3f2722c29333fa",
+   "url": "https://t.me/warmonitors/44177",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nUS Central Command in an official statement on the Iranian firing of the ballistic missile towards Kuwait, intercepted",
+   "timestamp": "2026-05-28T14:12:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3b8168f3ea7d69f6e8226585597b2e41",
+   "url": "https://t.me/warmonitors/44176",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli fighter jets struck a southern suburb of Beirut Thursday but it was not clear what the target was",
+   "timestamp": "2026-05-28T14:12:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3dff8516f8ac7e18477f73c1578945b9",
+   "url": "https://t.me/OSINTWarfare/5064",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Turkey’s Gökdoğan (BVR) and Bozdoğan (WVR) air-to-air missiles, developed by TÜBİTAK SAGE as domestic alternatives to the AMRAAM and Sidewinder respectively, have successfully completed live warhead tests.\nThese missiles are planned for integration on F-16 aircraft and the future KAAN stealth multirole fighter, as well as the Bayraktar Kızılelma unmanned stealth combat aircraft.",
+   "timestamp": "2026-05-28T14:01:33+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c41e9508fcea76acb10f875b9211a719",
+   "url": "https://t.me/OSINTWarfare/5060",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "India-made Akash surface-to-air missile (SAM) system\nFrance-made CAESAR Mk1 155mm self-propelled howitzer\nRussia-made TOS-1A Solntsepyok heavy flamethrower multiple rocket launcher system\nChina-made CH-4B Rainbow unmanned combat aerial vehicles (UCAVs)",
+   "timestamp": "2026-05-28T13:43:17+00:00",
+   "has_media": true
+  },
   {
    "id": "8cf13e826e3f2d64a5b2f7acdf1f87e2",
    "url": "https://t.me/OSINTWarfare/5059",
@@ -120,33 +174,6 @@
    "has_media": true
   },
   {
-   "id": "af3c1d4d870f2e80be460e7539a51dd0",
-   "url": "https://t.me/OSINTWarfare/5044",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage from todat showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck loaded with soldiers in the town of Bint Jbeil, southern Lebanon.\nThe drone is equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
-   "timestamp": "2026-05-26T21:53:42+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1f1cede9998bf4e29d30c67b24436770",
-   "url": "https://t.me/OSINTWarfare/5042",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC has released footage purporting to show the downing of a U.S. Air Force MQ-9A Block 5 Extended Range (ER) unmanned combat aerial vehicle (UCAV), engaged by the new “Arash the Archer” (Arash-e Kamangir) air defense system.\nA second clip shows a U.S. Air Force F-35A Stealth Multirole Fighter going to full afterburner and executing maneuvers after detecting a surface-to-air missile launch. The missile did not reach its target, and the aircraft left the area.",
-   "timestamp": "2026-05-26T18:58:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "aef832677e5722ee2011c880ed4b8de4",
-   "url": "https://t.me/OSINTWarfare/5039",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "As part of preparations for Republic Day, marking the founding of the First Armenian Republic, Iranian-made Majid short-range air defense (SHORAD) systems (export designation AD-08) and Chinese CH-4B Rainbow unmanned combat aerial vehicles (UCAVs) were observed in Yerevan.\nThe Majid SHORAD has previously downed various UAVs, including American MQ-9A Reaper and Israeli Hermes 900 platforms, and has also damaged a U.S. Air Force F-35A Multirole Fighter.\nThe Chinese CH-4B UCAV is broadly comparable in role to the American MQ-9A Reaper. Their acquisition stems from the bitter experience in the recent conflict with Azerbaijan over Nagorno-Karabakh.",
-   "timestamp": "2026-05-26T18:46:19+00:00",
-   "has_media": true
-  },
-  {
    "id": "788340bb6e1a53a521b0906f5c4b48ba",
    "url": "https://t.me/warmonitors/44168",
    "source": "telegram",
@@ -217,42 +244,6 @@
    "text": "⚡\nAl-Mayadeen correspondent in the south: An Israeli warplane raid targeted the town of Qaqaiyat al-Jisr in the Nabatieh district.",
    "timestamp": "2026-05-25T22:37:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "99a9a6815dd375971a3e7757d12bdeae",
-   "url": "https://t.me/warmonitors/44159",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nA Ukrainian surface-to-air missile system intercepts and destroys a Russian Kh-101 cruise missile over Kyiv this weekend.",
-   "timestamp": "2026-05-25T21:57:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9f8aa9d593983fcb68caaf99c89d2c5a",
-   "url": "https://t.me/warmonitors/44158",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nCruise missile impacting in Kyiv",
-   "timestamp": "2026-05-24T10:17:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "00143abd014ca5bbb02b635ef188b20d",
-   "url": "https://t.me/warmonitors/44157",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nNetanyahu calls Trump The best friend Israel has ever had in the White House",
-   "timestamp": "2026-05-24T10:12:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9155870fe9826b5f2d5ebb4e9c3d529a",
-   "url": "https://t.me/warmonitors/44156",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nOdds on a permanent ceasefire between US and Iran now up to 64% chance.",
-   "timestamp": "2026-05-24T09:17:30+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
