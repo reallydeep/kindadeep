@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-29T10:59:19Z",
+ "generated_utc": "2026-05-29T13:59:14Z",
  "count": 45,
  "items": [
+  {
+   "id": "140e7e568ed65d819a1f79c7cf689e87",
+   "url": "https://t.me/warmonitors/44190",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#SHOCKING\nUN report: Israeli security forces raped and sexually assaulted 31 Palestinians, including 10 children, in the past year",
+   "timestamp": "2026-05-29T12:27:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "84a65ca87ed127f0e6c0013d5e1d7fa8",
+   "url": "https://t.me/OSINTWarfare/5069",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s Houthis (Ansar Allah) shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over the Marib Governorate in western Yemen.",
+   "timestamp": "2026-05-29T11:28:31+00:00",
+   "has_media": true
+  },
   {
    "id": "890bd7e613f7ad876895185df0e6d281",
    "url": "https://t.me/warmonitors/44187",
@@ -216,24 +234,6 @@
    "channel": "OSINTWarfare",
    "text": "Uncle Kim oversaw the successful test of a newly developed lightweight multi-purpose missile launch system.\nThe trials reportedly included the launch of an operational-tactical Hwasong-11Ra (Hwasong-11D) missile, a 240mm guided rocket, and what appears to be a new lightweight multi-purpose cruise missile featuring AI-assisted precision targeting, ultra-precise autonomous navigation, and TERCOM-based terrain-matching guidance. The missile is said to be capable of striking targets up to 100 km away, using a mixed flight profile that combines gliding and powered propulsion.",
    "timestamp": "2026-05-27T00:31:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "77bdcd21bff6d8843bfb57945ed227f1",
-   "url": "https://t.me/OSINTWarfare/5049",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force carried out airstrikes on the town of Sohmor in Lebanon’s western Beqaa region.\nLarge secondary explosions and shockwaves were observed across the area, caused by cook-offs after the strikes hit a munitions depot.",
-   "timestamp": "2026-05-26T22:38:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "788340bb6e1a53a521b0906f5c4b48ba",
-   "url": "https://t.me/warmonitors/44168",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nA child was pulled from the rubble of a residential building in Burj al-Shemaly, southern Lebanon, after an Israeli attack moments ago.",
-   "timestamp": "2026-05-26T15:42:31+00:00",
    "has_media": true
   },
   {
