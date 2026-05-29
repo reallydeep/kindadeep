@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-29T13:59:14Z",
+ "generated_utc": "2026-05-29T17:33:14Z",
  "count": 45,
  "items": [
+  {
+   "id": "c35b271e3ea05b9ab3bf1a1a46891139",
+   "url": "https://t.me/OSINTWarfare/5074",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "He’s trying to avoid giving Iran what it wants, he’s clearly trapped. This one-sided announcement probably won’t lead anywhere, since Tehran is very unlikely to accept it.",
+   "timestamp": "2026-05-29T15:50:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "602daa6b6afdbfb33520195f00bdfcac",
+   "url": "https://t.me/OSINTWarfare/5071",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s Houthis (Ansar Allah) shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over the Marib Governorate in western Yemen.",
+   "timestamp": "2026-05-29T15:21:15+00:00",
+   "has_media": true
+  },
   {
    "id": "140e7e568ed65d819a1f79c7cf689e87",
    "url": "https://t.me/warmonitors/44190",
@@ -216,24 +234,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\n#BREAKING\nIsraeli airstrikes on southern Lebanon continue",
    "timestamp": "2026-05-27T12:27:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "44aefacac0f1d79477fc49c1247d0e96",
-   "url": "https://t.me/OSINTWarfare/5054",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Uncle Kim oversaw the successful test of a newly developed lightweight multi-purpose missile launch system.  The trials reportedly included the launch of an operational-tactical Hwasong-11Ra (Hwasong-11D) missile, a 240mm guided rocket, and what appears to…",
-   "timestamp": "2026-05-27T10:37:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a23e922557910785d6ad9c74a8ffe5da",
-   "url": "https://t.me/OSINTWarfare/5050",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Uncle Kim oversaw the successful test of a newly developed lightweight multi-purpose missile launch system.\nThe trials reportedly included the launch of an operational-tactical Hwasong-11Ra (Hwasong-11D) missile, a 240mm guided rocket, and what appears to be a new lightweight multi-purpose cruise missile featuring AI-assisted precision targeting, ultra-precise autonomous navigation, and TERCOM-based terrain-matching guidance. The missile is said to be capable of striking targets up to 100 km away, using a mixed flight profile that combines gliding and powered propulsion.",
-   "timestamp": "2026-05-27T00:31:19+00:00",
    "has_media": true
   },
   {
