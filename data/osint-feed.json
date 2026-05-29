@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-29T17:33:14Z",
+ "generated_utc": "2026-05-29T19:55:02Z",
  "count": 45,
  "items": [
+  {
+   "id": "6528edd3f0d302a9244bd0c7864fc424",
+   "url": "https://t.me/OSINTWarfare/5075",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian air defenses were activated on Qeshm Island and shot down a drone near the island, according to Mehr News Agency.",
+   "timestamp": "2026-05-29T19:29:00+00:00",
+   "has_media": false
+  },
   {
    "id": "c35b271e3ea05b9ab3bf1a1a46891139",
    "url": "https://t.me/OSINTWarfare/5074",
@@ -208,15 +217,6 @@
    "text": "Footage shows a Russian FPV drone missing its target as it attempts to strike Ukrainian infantry traveling in a pickup truck.",
    "timestamp": "2026-05-27T13:16:45+00:00",
    "has_media": true
-  },
-  {
-   "id": "a68e09e132ddc062f8df6adaecfbcc7c",
-   "url": "https://t.me/OSINTWarfare/5055",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 19-05-2026 showing the targeting of an Iron Dome launcher at an IDF military position in the settlement of Misgav Am in northern Israel, using an Ababil fiber-optic FPV drone possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
-   "timestamp": "2026-05-27T12:48:56+00:00",
-   "has_media": false
   },
   {
    "id": "e00f4ea4828c9eb81432713dc578ac70",
