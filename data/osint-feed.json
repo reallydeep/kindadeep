@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-29T07:42:03Z",
+ "generated_utc": "2026-05-29T10:59:19Z",
  "count": 45,
  "items": [
+  {
+   "id": "890bd7e613f7ad876895185df0e6d281",
+   "url": "https://t.me/warmonitors/44187",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "Rocket scientist here, I don’t think it’s supposed to do that.",
+   "timestamp": "2026-05-29T08:47:34+00:00",
+   "has_media": true
+  },
   {
    "id": "bf6810fb7ac09986c6e81ce35b6abb85",
    "url": "https://t.me/OSINTWarfare/5067",
@@ -226,15 +235,6 @@
    "text": "⚡️\nA child was pulled from the rubble of a residential building in Burj al-Shemaly, southern Lebanon, after an Israeli attack moments ago.",
    "timestamp": "2026-05-26T15:42:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "1039f2f855ef69efe17f342d6550ded3",
-   "url": "https://t.me/warmonitors/44167",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent: Two Israeli airstrikes targeted the towns of Sahmar and Mashghara in the Western Bekaa Valley, southeast of the country.",
-   "timestamp": "2026-05-26T15:37:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
