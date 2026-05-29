@@ -1,13 +1,31 @@
 {
- "generated_utc": "2026-05-28T23:59:53Z",
+ "generated_utc": "2026-05-29T03:41:34Z",
  "count": 45,
  "items": [
+  {
+   "id": "bf6810fb7ac09986c6e81ce35b6abb85",
+   "url": "https://t.me/OSINTWarfare/5067",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of an IDF RADA RPS-42 tactical hemispheric air surveillance radar system and a communications vehicle using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-05-29T02:10:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "44d84aee646a3a3e3ee49f03da451643",
+   "url": "https://t.me/OSINTWarfare/5066",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A one-way attack drone struck a residential building in Galați, eastern Romania, with reports of several injuries.\nThe circulating claim attributes the drone to Russia.",
+   "timestamp": "2026-05-29T00:35:22+00:00",
+   "has_media": true
+  },
   {
    "id": "3c21b51880327dc10d9bc2d5ba8279a8",
    "url": "https://t.me/OSINTWarfare/5065",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 23-05-2026 showing the targeting of Iron Dome launchers at the IDF's Ramim barracks in the settlement of Hunin in northern Israel, using an Ababil fiber-optic FPV drones possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warheads.",
+   "text": "Hezbollah released footage dated 23-05-2026 showing the targeting of Iron Dome launchers at the IDF's Ramim barracks in the settlement of Hunin in northern Israel, using Ababil fiber-optic FPV drones possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warheads.",
    "timestamp": "2026-05-28T23:58:02+00:00",
    "has_media": false
   },
@@ -198,24 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "The Israeli Air Force carried out airstrikes on the town of Sohmor in Lebanon’s western Beqaa region.\nLarge secondary explosions and shockwaves were observed across the area, caused by cook-offs after the strikes hit a munitions depot.",
    "timestamp": "2026-05-26T22:38:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f1f97e080f6e0fe41c913fe0dcf25fcb",
-   "url": "https://t.me/OSINTWarfare/5048",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia's Africa Corps Aviation carried out an airstrike against a Jama’at Nusrat al-Islam wal-Muslimin (JNIM) camp in the vicinity of Kogué, western Mali.",
-   "timestamp": "2026-05-26T22:01:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6bb157c6468a05d1b2550809ad32e1d8",
-   "url": "https://t.me/OSINTWarfare/5045",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage from todat showing an Ababil fiber-optic FPV drone targeting an IDF pickup truck loaded with soldiers in the town of Bint Jbeil, southern Lebanon.  The drone is equipped with a PG-7VL high-explosive anti-tank (HEAT) warhead.",
-   "timestamp": "2026-05-26T21:53:58+00:00",
    "has_media": true
   },
   {
