@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-30T12:00:38Z",
- "count": 43,
+ "generated_utc": "2026-05-30T14:00:07Z",
+ "count": 39,
  "items": [
+  {
+   "id": "b4729fa874cb200346aac0b399074148",
+   "url": "https://t.me/OSINTWarfare/5090",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Armenian Air Force Su-30SM Multirole Fighters weapons loadout:\n• 4× R-27R air-to-air missiles\n• 4× R-73E/L air-to-air missiles\n• 2× Kh-31P anti-radiation missiles\n• 2× Kh-29T air-to-ground guided missiles\n• 4× Yasin guided glide bombs",
+   "timestamp": "2026-05-30T13:15:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "af6bd93ae77cf92e090bbbb6d7ff925b",
+   "url": "https://t.me/OSINTWarfare/5089",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Operators of the 1st Separate Unmanned Systems Center of the Unmanned Systems Forces destroyed two Tussian Tu-142 Maritime patrol and anti-submarine warfare aircraft at Taganrog-Central Airbase, Rostov Oblast, russia.\nAn Iskander-M complex was also destroyed near Taganrog.",
+   "timestamp": "2026-05-30T12:46:43+00:00",
+   "has_media": false
+  },
   {
    "id": "396d7d9d802fab7ccf76cc5e7fcd536e",
    "url": "https://t.me/OSINTWarfare/5080",
@@ -75,15 +93,6 @@
    "has_media": false
   },
   {
-   "id": "84a65ca87ed127f0e6c0013d5e1d7fa8",
-   "url": "https://t.me/OSINTWarfare/5069",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen’s Houthis (Ansar Allah) shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over the Marib Governorate in western Yemen.",
-   "timestamp": "2026-05-29T11:28:31+00:00",
-   "has_media": true
-  },
-  {
    "id": "890bd7e613f7ad876895185df0e6d281",
    "url": "https://t.me/warmonitors/44187",
    "source": "telegram",
@@ -91,33 +100,6 @@
    "text": "Rocket scientist here, I don’t think it’s supposed to do that.",
    "timestamp": "2026-05-29T08:47:34+00:00",
    "has_media": true
-  },
-  {
-   "id": "bf6810fb7ac09986c6e81ce35b6abb85",
-   "url": "https://t.me/OSINTWarfare/5067",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing the targeting of an IDF RADA RPS-42 tactical hemispheric air surveillance radar system and a communications vehicle using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-05-29T02:10:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "44d84aee646a3a3e3ee49f03da451643",
-   "url": "https://t.me/OSINTWarfare/5066",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A one-way attack drone struck a residential building in Galați, eastern Romania, with reports of several injuries.\nThe circulating claim attributes the drone to Russia.",
-   "timestamp": "2026-05-29T00:35:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3c21b51880327dc10d9bc2d5ba8279a8",
-   "url": "https://t.me/OSINTWarfare/5065",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 23-05-2026 showing the targeting of Iron Dome launchers at the IDF's Ramim barracks in the settlement of Hunin in northern Israel, using Ababil fiber-optic FPV drones possibly equipped with a PG-7VL high-explosive anti-tank (HEAT) warheads.",
-   "timestamp": "2026-05-28T23:58:02+00:00",
-   "has_media": false
   },
   {
    "id": "359f04e90d96dc9a449cc2683f918183",
@@ -190,24 +172,6 @@
    "text": "⚡️\nIsraeli fighter jets struck a southern suburb of Beirut Thursday but it was not clear what the target was",
    "timestamp": "2026-05-28T14:12:31+00:00",
    "has_media": false
-  },
-  {
-   "id": "3dff8516f8ac7e18477f73c1578945b9",
-   "url": "https://t.me/OSINTWarfare/5064",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Turkey’s Gökdoğan (BVR) and Bozdoğan (WVR) air-to-air missiles, developed by TÜBİTAK SAGE as domestic alternatives to the AMRAAM and Sidewinder respectively, have successfully completed live warhead tests.\nThese missiles are planned for integration on F-16 aircraft and the future KAAN stealth multirole fighter, as well as the Bayraktar Kızılelma unmanned stealth combat aircraft.",
-   "timestamp": "2026-05-28T14:01:33+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c41e9508fcea76acb10f875b9211a719",
-   "url": "https://t.me/OSINTWarfare/5060",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "India-made Akash surface-to-air missile (SAM) system\nIndia-made MArG 45 155mm self-propelled howitzer\nRussia-made TOS-1A Solntsepyok heavy flamethrower multiple rocket launcher system\nChina-made CH-4B Rainbow unmanned combat aerial vehicles (UCAVs)",
-   "timestamp": "2026-05-28T13:43:17+00:00",
-   "has_media": true
   },
   {
    "id": "f139c0ba233b2f0325c227daa879843a",
