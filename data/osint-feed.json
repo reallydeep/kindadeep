@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-05-29T22:54:25Z",
- "count": 44,
+ "generated_utc": "2026-05-30T00:00:52Z",
+ "count": 43,
  "items": [
   {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
@@ -207,15 +207,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\n#LATEST\nPolice say a man stabbed and wounded 3 people at a train station in the Swiss city of Winterthur before being arrested",
    "timestamp": "2026-05-28T10:22:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cd358fc1f948b1a992e20cc166f25d2b",
-   "url": "https://t.me/warmonitors/44174",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#LATEST\nReports in Iran: Explosions heard in Bandar Abbas.\nTheir origin is unknown at this time.",
-   "timestamp": "2026-05-27T22:47:30+00:00",
    "has_media": false
   },
   {
