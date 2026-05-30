@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-30T17:30:35Z",
+ "generated_utc": "2026-05-30T18:43:07Z",
  "count": 38,
  "items": [
+  {
+   "id": "f789d3cdb3bea926658920e4469a9da0",
+   "url": "https://t.me/warmonitors/44195",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nUS military disables another commercial ship trying to head to an Iranian port in breach of blockade, AP source says",
+   "timestamp": "2026-05-30T17:42:30+00:00",
+   "has_media": false
+  },
   {
    "id": "87351c89d365e40f0cf293f19793b2df",
    "url": "https://t.me/OSINTWarfare/5092",
@@ -162,15 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli fighter jets struck a southern suburb of Beirut Thursday but it was not clear what the target was",
    "timestamp": "2026-05-28T14:12:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f139c0ba233b2f0325c227daa879843a",
-   "url": "https://t.me/warmonitors/44175",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#LATEST\nPolice say a man stabbed and wounded 3 people at a train station in the Swiss city of Winterthur before being arrested",
-   "timestamp": "2026-05-28T10:22:30+00:00",
    "has_media": false
   },
   {
