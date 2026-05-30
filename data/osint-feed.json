@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-30T00:00:52Z",
- "count": 43,
+ "generated_utc": "2026-05-30T04:12:29Z",
+ "count": 42,
  "items": [
+  {
+   "id": "b2205d3cc918c9307974bf5c854a81c5",
+   "url": "https://t.me/OSINTWarfare/5079",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of the drone shot down by Iranian air defenses over Qeshm Island earlier today.\nThe drone was reportedly operated either by the United Arab Emirates or the United States.",
+   "timestamp": "2026-05-30T00:14:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6391bdccd653f3f8ea7659427f637c55",
+   "url": "https://t.me/OSINTWarfare/5076",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of an IDF Humvee, two Merkava Mk. 4M tanks, and a Namer armored personnel carrier (APC) using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-05-30T00:06:35+00:00",
+   "has_media": false
+  },
   {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
    "url": "https://t.me/warmonitors/44192",
@@ -183,24 +201,6 @@
    "has_media": true
   },
   {
-   "id": "8cf13e826e3f2d64a5b2f7acdf1f87e2",
-   "url": "https://t.me/OSINTWarfare/5059",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During the Republic Day military parade held at Republic Square in Yerevan, commemorating the founding of the First Armenian Republic, Armenia showcased Iranian-made Majid short-range air defense (SHORAD) systems, exported under the designation AD-08.",
-   "timestamp": "2026-05-28T12:22:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "eb35e85dcf7cfcb04614f62a415f2caf",
-   "url": "https://t.me/OSINTWarfare/5058",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of short-range ballistic missiles (SRBMs) at Ali Al-Salam Airbase in Kuwait.",
-   "timestamp": "2026-05-28T11:14:43+00:00",
-   "has_media": true
-  },
-  {
    "id": "f139c0ba233b2f0325c227daa879843a",
    "url": "https://t.me/warmonitors/44175",
    "source": "telegram",
@@ -208,15 +208,6 @@
    "text": "⚡️\n#LATEST\nPolice say a man stabbed and wounded 3 people at a train station in the Swiss city of Winterthur before being arrested",
    "timestamp": "2026-05-28T10:22:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "294335fa225fd6939336fed01635720e",
-   "url": "https://t.me/OSINTWarfare/5056",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a Russian FPV drone missing its target as it attempts to strike Ukrainian infantry traveling in a pickup truck.",
-   "timestamp": "2026-05-27T13:16:45+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
