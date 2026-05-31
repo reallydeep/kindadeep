@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-31T06:00:53Z",
- "count": 39,
+ "generated_utc": "2026-05-31T09:18:07Z",
+ "count": 36,
  "items": [
+  {
+   "id": "37b3538bd6842737657e2228e0f4cd2c",
+   "url": "https://t.me/warmonitors/44198",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nThe Israeli army has reached Beaufort Castle in South Lebanon",
+   "timestamp": "2026-05-31T09:12:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "33fc6c8d7943e203f1995162dd06c0d5",
+   "url": "https://t.me/warmonitors/44197",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli airstrikes on Lebanon continue",
+   "timestamp": "2026-05-31T09:07:32+00:00",
+   "has_media": true
+  },
   {
    "id": "a637295e4e9f05f0cc7b32804e3a6a4a",
    "url": "https://t.me/OSINTWarfare/5098",
@@ -135,51 +153,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nAl-Mayadeen correspondent in the south: The Hasbaya-Marjeyoun road is cut off due to Israeli airstrikes and artillery shelling of the town of Dbeibine.",
    "timestamp": "2026-05-28T18:17:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5bad577a97ee191c08b21edeef9eca4a",
-   "url": "https://t.me/warmonitors/44180",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUS official tells Al Jazeera: The ceasefire between the United States and Iran is still in effect",
-   "timestamp": "2026-05-28T18:17:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "076b49ecabf65af66c484b51016868fd",
-   "url": "https://t.me/warmonitors/44179",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nReport: US and Iran agree to extend ceasefire by 60 days. Now awaiting Trump's final approval",
-   "timestamp": "2026-05-28T14:37:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "72ba2f9b4ca847a0e63deb7862520929",
-   "url": "https://t.me/warmonitors/44178",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#UPDATE\nReports of reaching a final agreement between the US and Iran, no official confirmation at this time",
-   "timestamp": "2026-05-28T14:32:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ab321510816f7859ce3f2722c29333fa",
-   "url": "https://t.me/warmonitors/44177",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUS Central Command in an official statement on the Iranian firing of the ballistic missile towards Kuwait, intercepted",
-   "timestamp": "2026-05-28T14:12:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3b8168f3ea7d69f6e8226585597b2e41",
-   "url": "https://t.me/warmonitors/44176",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli fighter jets struck a southern suburb of Beirut Thursday but it was not clear what the target was",
-   "timestamp": "2026-05-28T14:12:31+00:00",
    "has_media": false
   },
   {
