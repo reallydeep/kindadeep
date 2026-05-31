@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-31T15:40:25Z",
- "count": 37,
+ "generated_utc": "2026-05-31T16:46:26Z",
+ "count": 38,
  "items": [
+  {
+   "id": "b6d3eafd435defe310318ffbb7b2cbae",
+   "url": "https://t.me/warmonitors/44207",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Nour Radio correspondent: Airstrike targets the Ma'rakah intersection in the Tyre district of southern Lebanon",
+   "timestamp": "2026-05-31T15:42:30+00:00",
+   "has_media": false
+  },
   {
    "id": "926b21ca8ba2090bd66ce07b98649387",
    "url": "https://t.me/warmonitors/44206",
