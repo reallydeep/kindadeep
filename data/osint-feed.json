@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-05-31T11:08:32Z",
- "count": 36,
+ "generated_utc": "2026-05-31T12:18:09Z",
+ "count": 35,
  "items": [
   {
    "id": "3038a4106f806338d6a74c816f219dc0",
@@ -136,15 +136,6 @@
    "text": "Rocket scientist here, I don’t think it’s supposed to do that.",
    "timestamp": "2026-05-29T08:47:34+00:00",
    "has_media": true
-  },
-  {
-   "id": "359f04e90d96dc9a449cc2683f918183",
-   "url": "https://t.me/warmonitors/44182",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTasnim News Agency, citing an Iranian military source: An American drone was intercepted near Bushehr in southern Iran by an air defense missile.",
-   "timestamp": "2026-05-28T21:17:30+00:00",
-   "has_media": false
   },
   {
    "id": "8d4dcd5ffe236f3282355ef889341fa0",
