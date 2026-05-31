@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-31T14:13:14Z",
- "count": 35,
+ "generated_utc": "2026-05-31T15:40:25Z",
+ "count": 37,
  "items": [
+  {
+   "id": "926b21ca8ba2090bd66ce07b98649387",
+   "url": "https://t.me/warmonitors/44206",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "#BREAKING\nOdds on the Strait of Hormuz traffic returning to normal by the end of June is now down to only 29%\nPeople have clearly lost faith in Trump’s ability to end this war.",
+   "timestamp": "2026-05-31T14:52:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "08ac6762ddfe5c5707588aeb3c53d868",
+   "url": "https://t.me/warmonitors/44205",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nRescuers say a blast at a building in Myanmar said to be storing mining explosives has killed more than 45 people",
+   "timestamp": "2026-05-31T14:47:33+00:00",
+   "has_media": false
+  },
   {
    "id": "ae87291020970fbad8ce7bd50a66e9af",
    "url": "https://t.me/OSINTWarfare/5100",
