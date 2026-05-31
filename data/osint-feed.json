@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-30T23:39:08Z",
+ "generated_utc": "2026-05-31T01:37:51Z",
  "count": 39,
  "items": [
+  {
+   "id": "a637295e4e9f05f0cc7b32804e3a6a4a",
+   "url": "https://t.me/OSINTWarfare/5098",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In a statement, the IRGC announced that it had shot down a U.S. MQ-1 unmanned combat aerial vehicle (UCAV) that attempted to violate Iranian airspace.\nHowever, the MQ-1 Predator has been retired from U.S. military service since 2018, and the UCAV could instead belong to another operator in the region, such as the United Arab Emirates.",
+   "timestamp": "2026-05-31T01:34:52+00:00",
+   "has_media": true
+  },
   {
    "id": "608d75fbedd2751febd975bca2091efd",
    "url": "https://t.me/OSINTWarfare/5096",
@@ -73,15 +82,6 @@
    "text": "Wreckage of the drone shot down by Iranian air defenses over Qeshm Island earlier today.\nThe drone was reportedly operated either by the United Arab Emirates or the United States.",
    "timestamp": "2026-05-30T00:14:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "6391bdccd653f3f8ea7659427f637c55",
-   "url": "https://t.me/OSINTWarfare/5076",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing the targeting of an IDF Humvee, two Merkava Mk. 4M tanks, and a Namer armored personnel carrier (APC) using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-05-30T00:06:35+00:00",
-   "has_media": false
   },
   {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
