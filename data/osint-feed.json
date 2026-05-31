@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-31T21:59:47Z",
- "count": 37,
+ "generated_utc": "2026-05-31T23:00:23Z",
+ "count": 38,
  "items": [
+  {
+   "id": "59d108242fbcf5d35f8fe7b2a3059aed",
+   "url": "https://t.me/OSINTWarfare/5102",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier, the Islamic Republic of Iran Army Ground Forces launched a barrage of Fath-360 (BM-120) short-range ballistic missiles (SRBMs) against positions of the Democratic Party of Iranian Kurdistan (PDKI) in Iraq's Kurdistan Region.",
+   "timestamp": "2026-05-31T22:49:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6b347cff32383a950b3bcc6e002c908d",
+   "url": "https://t.me/OSINTWarfare/5101",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 26-05-2026 showing the targeting of an Iron Dome launcher at the IDF Biranit barracks in northern Israel, using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-05-31T22:23:02+00:00",
+   "has_media": false
+  },
   {
    "id": "b6d3eafd435defe310318ffbb7b2cbae",
    "url": "https://t.me/warmonitors/44207",
@@ -136,15 +154,6 @@
    "text": "Operators of the 1st Separate Unmanned Systems Center of the Unmanned Systems Forces destroyed two Tussian Tu-142 Maritime patrol and anti-submarine warfare aircraft at Taganrog-Central Airbase, Rostov Oblast, russia.\nAn Iskander-M complex was also destroyed near Taganrog.",
    "timestamp": "2026-05-30T12:46:43+00:00",
    "has_media": false
-  },
-  {
-   "id": "396d7d9d802fab7ccf76cc5e7fcd536e",
-   "url": "https://t.me/OSINTWarfare/5080",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "All three Armenian Air Force Su-30SM Multirole Fighters were spotted carrying two Iranian-made Yasin guided glide bomb munitions each.\nIt looks like Armenia bought a lot of stuff from Iran through secret deals that no one had heard about.",
-   "timestamp": "2026-05-30T11:37:07+00:00",
-   "has_media": true
   },
   {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
