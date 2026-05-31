@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-05-31T12:18:09Z",
+ "generated_utc": "2026-05-31T14:13:14Z",
  "count": 35,
  "items": [
+  {
+   "id": "ae87291020970fbad8ce7bd50a66e9af",
+   "url": "https://t.me/OSINTWarfare/5100",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The already fragile (imaginary) ceasefire in Lebanon, which was already falling apart within its first week, looks set to collapse completely in the coming hours. Israel has effectively continued operating under the assumption that it can strike wherever and whenever it wants, much like it did after the 2024 ceasefire, while Hezbollah has shown no willingness to accept that reality. With FPV drones now increasingly shaping the battlefield, Israel may be preparing to fully resume the war, including strikes on Beirut and further advances in southern Lebanon.\nHezbollah has adapted its tactics to the current battlefield conditions and will likely focus on minimizing its losses while relying heavily on FPV drone attacks, with ATGMs playing a secondary role and rocket attacks occurring more sporadically. One thing that surprised many including myself is Hezbollah's limited use of roadside IEDs. Given the terrain and the nature of the fighting, I personally expected them to become a major part of the group's strategy, but so far they have been used far less extensively than anticipated.",
+   "timestamp": "2026-05-31T13:56:04+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cc58b43df623b876711465d644efc057",
+   "url": "https://t.me/warmonitors/44204",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nNonstop Israeli airstrikes across south Lebanon today",
+   "timestamp": "2026-05-31T13:42:30+00:00",
+   "has_media": false
+  },
   {
    "id": "3038a4106f806338d6a74c816f219dc0",
    "url": "https://t.me/warmonitors/44202",
@@ -102,15 +120,6 @@
    "has_media": true
   },
   {
-   "id": "b2205d3cc918c9307974bf5c854a81c5",
-   "url": "https://t.me/OSINTWarfare/5079",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Wreckage of the drone shot down by Iranian air defenses over Qeshm Island earlier today.\nThe drone was reportedly operated either by the United Arab Emirates or the United States.",
-   "timestamp": "2026-05-30T00:14:32+00:00",
-   "has_media": true
-  },
-  {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
    "url": "https://t.me/warmonitors/44192",
    "source": "telegram",
@@ -136,15 +145,6 @@
    "text": "Rocket scientist here, I don’t think it’s supposed to do that.",
    "timestamp": "2026-05-29T08:47:34+00:00",
    "has_media": true
-  },
-  {
-   "id": "8d4dcd5ffe236f3282355ef889341fa0",
-   "url": "https://t.me/warmonitors/44183",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUnofficial channels affiliated with the Revolutionary Guards report that four ships were shot at for entering the Strait of Hormuz \"without Iran's permission.\"",
-   "timestamp": "2026-05-28T21:17:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
