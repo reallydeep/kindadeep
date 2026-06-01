@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-01T00:13:27Z",
- "count": 39,
+ "generated_utc": "2026-06-01T05:16:38Z",
+ "count": 40,
  "items": [
+  {
+   "id": "64e38b41947f81d91349666eabae9b5f",
+   "url": "https://t.me/OSINTWarfare/5105",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier, the Islamic Republic of Iran Army Ground Forces launched a barrage of Fath-360 (BM-120) short-range ballistic missiles (SRBMs) against positions of the Democratic Party of Iranian Kurdistan (PDKI) in Iraq's Kurdistan Region.",
+   "timestamp": "2026-06-01T00:20:43+00:00",
+   "has_media": false
+  },
   {
    "id": "b7cdfd27ca8cf448758aca6d7a696cad",
    "url": "https://t.me/OSINTWarfare/5103",
