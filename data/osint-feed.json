@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-01T20:40:38Z",
- "count": 47,
+ "generated_utc": "2026-06-01T22:51:13Z",
+ "count": 48,
  "items": [
+  {
+   "id": "91a2a7a3c2506886f2c58dfba30bc8ae",
+   "url": "https://t.me/warmonitors/44222",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump:\nI spoke with Bibi Netanyahu today and asked him not to launch a large-scale operation in Beirut, Lebanon. He ordered his forces to turn back. Thank you, Bibi!\nI also spoke with representatives of the Hezbollah leadership, and they agreed to cease firing at Israel and its soldiers. Accordingly, Israel also agreed to cease firing at them.",
+   "timestamp": "2026-06-01T22:17:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "872bc5f75e8a999a7f18183ab1e599f6",
+   "url": "https://t.me/OSINTWarfare/5118",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Chinese People’s Liberation Army Navy (PLAN) has commissioned the guided-missile destroyer Tongchuan (hull number 177), a Type 052DL, into the 9th Destroyer Flotilla of the South Sea Fleet.\nIt is the 35th destroyer of the Type 052D series to enter service with the PLAN.\nThe DL variant is slightly lengthened by around 4 meters (about 13 feet), bringing the overall length to 162 meters. This gives it a larger flight deck, allowing it to operate heavier naval helicopters such as the Harbin Z-20F instead of the smaller Z-9.",
+   "timestamp": "2026-06-01T22:00:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "3574bcb1d53b751cf67c6eae47eaf41b",
+   "url": "https://t.me/warmonitors/44221",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nConsequences of an Israeli airstrike on a residential building in Lebanon",
+   "timestamp": "2026-06-01T21:47:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b69051defe0f39dab95d790b0e473bb0",
+   "url": "https://t.me/OSINTWarfare/5117",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy announced that it had targeted the MSC Sariska container ship with a Noor/Qader anti-ship cruise missile.\nThe strike was carried out in retaliation for a U.S. attack on the Iranian vessel Lian Star in the Gulf of Oman.",
+   "timestamp": "2026-06-01T21:34:23+00:00",
+   "has_media": true
+  },
   {
    "id": "29fb02c269fcdd97a8f16734194fb0cb",
    "url": "https://t.me/warmonitors/44219",
@@ -219,39 +255,12 @@
    "has_media": false
   },
   {
-   "id": "3038a4106f806338d6a74c816f219dc0",
-   "url": "https://t.me/warmonitors/44202",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli and Golani flags seen on Beaufort Castle in South Lebanon",
-   "timestamp": "2026-05-31T10:47:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "37b3538bd6842737657e2228e0f4cd2c",
-   "url": "https://t.me/warmonitors/44198",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nThe Israeli army has reached Beaufort Castle in South Lebanon",
-   "timestamp": "2026-05-31T09:12:35+00:00",
-   "has_media": true
-  },
-  {
    "id": "a637295e4e9f05f0cc7b32804e3a6a4a",
    "url": "https://t.me/OSINTWarfare/5098",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "In a statement, the IRGC announced that it had shot down a U.S. MQ-1 unmanned combat aerial vehicle (UCAV) that attempted to violate Iranian airspace.\nHowever, the MQ-1 Predator has been retired from U.S. military service since 2018, and the UCAV could instead belong to another operator in the region, such as the United Arab Emirates.",
    "timestamp": "2026-05-31T01:34:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "608d75fbedd2751febd975bca2091efd",
-   "url": "https://t.me/OSINTWarfare/5096",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During ongoing gatherings in support of the Islamic Republic at Enghelab Square in Tehran, the IRGC Navy publicly unveiled a new missile-armed fast attack craft known as the “27 Rajab.”\nThe vessel is equipped with two launchers for light anti-ship cruise missiles and is believed to be capable of firing the Nasir, Nasr-1, or Kowsar missile systems.",
-   "timestamp": "2026-05-30T22:27:23+00:00",
    "has_media": true
   },
   {
