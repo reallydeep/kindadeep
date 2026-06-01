@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-05-31T23:00:23Z",
- "count": 38,
+ "generated_utc": "2026-06-01T00:13:27Z",
+ "count": 39,
  "items": [
+  {
+   "id": "b7cdfd27ca8cf448758aca6d7a696cad",
+   "url": "https://t.me/OSINTWarfare/5103",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of a destroyed Iranian 3rd Khordad (Sevom Khordad) air defense system. A Taer-2B/C surface-to-air missile is visible beside the wreckage.",
+   "timestamp": "2026-05-31T23:50:17+00:00",
+   "has_media": true
+  },
   {
    "id": "59d108242fbcf5d35f8fe7b2a3059aed",
    "url": "https://t.me/OSINTWarfare/5102",
