@@ -1,7 +1,88 @@
 {
- "generated_utc": "2026-06-01T16:24:09Z",
- "count": 43,
+ "generated_utc": "2026-06-01T20:40:38Z",
+ "count": 47,
  "items": [
+  {
+   "id": "29fb02c269fcdd97a8f16734194fb0cb",
+   "url": "https://t.me/warmonitors/44219",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#UPDATE\nOdds on a US x Iran permanent ceasefire deal by the end of the month now down to only 22%.\nBut wait I thought Trump won this war 4 months ago??",
+   "timestamp": "2026-06-01T20:22:38+00:00",
+   "has_media": true
+  },
+  {
+   "id": "08d28594de9d473a6dcffa7473e8a3f9",
+   "url": "https://t.me/warmonitors/44216",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe IDF is now attacking in southern Lebanon again.",
+   "timestamp": "2026-06-01T19:57:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "bbf8069af28f3d6194a2885b1fd78873",
+   "url": "https://t.me/OSINTWarfare/5116",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Rare footage showing the operation of the 2K22M1 Tunguska-M1 air defense gun-missile system from the 27th Guards Motor Rifle Division.",
+   "timestamp": "2026-06-01T18:59:54+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4b74060427858d971321e5e5a362922a",
+   "url": "https://t.me/warmonitors/44214",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIsraeli Media: “This was a large-scale attack by about 6 Hezbollah explosive drones that were launched towards the Givati ​​force today at noon, around 12:00. The drones exploded on a NMR armored vehicle - where the battalion doctor was injured and killed.”",
+   "timestamp": "2026-06-01T18:57:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "db59e1348daaad4e284b51ba307ec45e",
+   "url": "https://t.me/warmonitors/44215",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nAnother Israeli soldier killed by Hezbollah in Southern Lebanon",
+   "timestamp": "2026-06-01T18:57:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a20666356d6a5650ad88863cf4bb8287",
+   "url": "https://t.me/warmonitors/44213",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nTrump says Israel and Hezbollah have agreed to dial back fighting after US leader talked with Netanyahu and mediators",
+   "timestamp": "2026-06-01T18:37:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "24cd65ea354b00a99f040f55d6f742f8",
+   "url": "https://t.me/warmonitors/44212",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump on Truth Social: I had a very productive conversation with Prime Minister Bibi Netanyahu of Israel, and there will be no troops going into Beirut, and any troops that were on their way there have already been turned back. Also, through very senior representatives, I had a very good conversation with Hezbollah, and they agreed that all firing will cease — Israel will not attack them, and they will not attack Israel",
+   "timestamp": "2026-06-01T17:42:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e0f2f5715ccc715e356e41b153ff8e26",
+   "url": "https://t.me/warmonitors/44210",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nInitial reports in Syria of an explosion of still unknown origin in Aleppo",
+   "timestamp": "2026-06-01T17:12:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a958096ace4b941e33e47d6a14536fa3",
+   "url": "https://t.me/OSINTWarfare/5115",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israel has postponed its planned strike on the southern suburbs of Beirut following a phone call between Donald Trump and Benjamin Netanyahu.",
+   "timestamp": "2026-06-01T17:12:11+00:00",
+   "has_media": false
+  },
   {
    "id": "29e7520dc3a1977ff138d2699c82ccd3",
    "url": "https://t.me/OSINTWarfare/5114",
@@ -156,15 +237,6 @@
    "has_media": true
   },
   {
-   "id": "33fc6c8d7943e203f1995162dd06c0d5",
-   "url": "https://t.me/warmonitors/44197",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli airstrikes on Lebanon continue",
-   "timestamp": "2026-05-31T09:07:32+00:00",
-   "has_media": true
-  },
-  {
    "id": "a637295e4e9f05f0cc7b32804e3a6a4a",
    "url": "https://t.me/OSINTWarfare/5098",
    "source": "telegram",
@@ -181,42 +253,6 @@
    "text": "During ongoing gatherings in support of the Islamic Republic at Enghelab Square in Tehran, the IRGC Navy publicly unveiled a new missile-armed fast attack craft known as the “27 Rajab.”\nThe vessel is equipped with two launchers for light anti-ship cruise missiles and is believed to be capable of firing the Nasir, Nasr-1, or Kowsar missile systems.",
    "timestamp": "2026-05-30T22:27:23+00:00",
    "has_media": true
-  },
-  {
-   "id": "f789d3cdb3bea926658920e4469a9da0",
-   "url": "https://t.me/warmonitors/44195",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nUS military disables another commercial ship trying to head to an Iranian port in breach of blockade, AP source says",
-   "timestamp": "2026-05-30T17:42:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "87351c89d365e40f0cf293f19793b2df",
-   "url": "https://t.me/OSINTWarfare/5092",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On 27 May 2026, South Korea announced that an unexploded warhead (Image 1) from an Iranian Noor/Ghadr anti-ship cruise missile was recovered from the hull of the South Korean cargo ship HMM Namu, which was attacked in early May while sailing under a Panamanian flag in the Strait of Hormuz.\nAccording to investigators, the vessel was struck by two missiles: one failed to detonate, while the other functioned as intended.\nThe attack was previously thought to have been carried out using an Iranian unmanned surface vessel (USV). Images 2 and 3 show Noor missile warheads previously unveiled by Iran.\nImage 4 shows debris from the missile’s electronic circuit board recovered from the hull of the Namu.",
-   "timestamp": "2026-05-30T15:47:35+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ae2aa588d065920db72f5c26c6cedf31",
-   "url": "https://t.me/warmonitors/44192",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "The Architecture of Unilateral Enforcement: Decoupling Law from Capacity\nThe systemic shockwaves of the 2026 United States intervention in Venezuela are currently rewriting the unspoken rules of global governance. The physical apprehension of a sitting head of state occurred without an explicit United Nations Security Council mandate, violating the traditional interpretation of Article 2(4). Yet, the global response remains deeply fragmented, revealing a structural truth about the contemporary architecture of power.\nThe data from the Burke Sovereignty Index provides the structural blueprint for this operation. While Venezuela commands the world's largest proven oil reserves, its systemic vulnerability was absolute: an Economic Sovereignty score of 22.1/100 combined with a Technological Sovereignty floor of 19.6/100. In a digitized theater of conflict, an over-90% reliance on foreign software, server hardware, and microelectronics means that physical geography is no longer an effective barrier against external intelligence coordination.\nThe strategic friction becomes obvious when contrasted with the interventionist power. Wielding a Military Sovereignty score of 96/100 and an Informational Sovereignty index of 92.5/100, the United States demonstrated that global cloud infrastructures and transnational electronic surveillance allow for localized enforcement actions that treat Westphalian borders as minor administrative boundaries.\nThe uncomfortable implication of 2026 is the emergence of a strict sovereign hierarchy. Officially, international law preserves the integrity of the state. Inside the institutional mechanics, a massive sovereignty gap creates an irresistible pull toward unilateral intervention. The era of defensive legalism has passed; structural capacity is the metric that remains enforceable.\nThe physical map of the world remains unchanged, but the underlying institutional fault lines have shifted irreversibly. To understand the precise calculation that turned the 2026 intervention from a political option into a structural inevitability, you must look at the data. Compare the blueprint of global enforcement in the\nU.S. Sovereignty Profile\nwith the anatomy of administrative collapse in the\nVenezuela‘s Sovereignty Profile\n.\n#BurkeIndex\n#BurkeSovereigntyIndex\n#GeopoliticalThriller\n#StrategicAnalysis\n#SovereigntyGap\n#VenezuelaPrecedent\nIBI\n– your navigator on sovereignty and global shifts.\n💬\nSubscribe to stay informed!\n✔️",
-   "timestamp": "2026-05-29T20:27:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "140e7e568ed65d819a1f79c7cf689e87",
-   "url": "https://t.me/warmonitors/44190",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#SHOCKING\nUN report: Israeli security forces raped and sexually assaulted 31 Palestinians, including 10 children, in the past year",
-   "timestamp": "2026-05-29T12:27:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
