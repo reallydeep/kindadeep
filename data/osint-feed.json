@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-01T05:16:38Z",
- "count": 40,
+ "generated_utc": "2026-06-01T10:31:55Z",
+ "count": 41,
  "items": [
+  {
+   "id": "7873fa0d1d01b305ef01554ca56deb79",
+   "url": "https://t.me/OSINTWarfare/5107",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇲🇹\nA huge explosion occurred this morning at a fireworks factory in Malta.",
+   "timestamp": "2026-06-01T10:19:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7b25856a89dcc1bb4f71bffa062a5059",
+   "url": "https://t.me/OSINTWarfare/5106",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In response to the U.S. strike on a telecommunications tower on Sirik Island in Hormozgan Province, the IRGC Aerospace Force launched two Zolfaghar short-range ballistic missiles (SRBMs) at Ali Al-Salem Air Base in Kuwait, from which the attack had originated.",
+   "timestamp": "2026-06-01T10:02:07+00:00",
+   "has_media": true
+  },
   {
    "id": "64e38b41947f81d91349666eabae9b5f",
    "url": "https://t.me/OSINTWarfare/5105",
@@ -163,15 +181,6 @@
    "text": "Armenian Air Force Su-30SM Multirole Fighters weapons loadout:\n• 4× R-27R air-to-air missiles\n• 4× R-73E/L air-to-air missiles\n• 2× Kh-31P anti-radiation missiles\n• 2× Kh-29T air-to-ground guided missiles\n• 4× Yasin guided glide bombs",
    "timestamp": "2026-05-30T13:15:41+00:00",
    "has_media": true
-  },
-  {
-   "id": "af6bd93ae77cf92e090bbbb6d7ff925b",
-   "url": "https://t.me/OSINTWarfare/5089",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Operators of the 1st Separate Unmanned Systems Center of the Unmanned Systems Forces destroyed two Tussian Tu-142 Maritime patrol and anti-submarine warfare aircraft at Taganrog-Central Airbase, Rostov Oblast, russia.\nAn Iskander-M complex was also destroyed near Taganrog.",
-   "timestamp": "2026-05-30T12:46:43+00:00",
-   "has_media": false
   },
   {
    "id": "ae2aa588d065920db72f5c26c6cedf31",
