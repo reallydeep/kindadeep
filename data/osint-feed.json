@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-01T10:31:55Z",
- "count": 41,
+ "generated_utc": "2026-06-01T16:24:09Z",
+ "count": 43,
  "items": [
+  {
+   "id": "29e7520dc3a1977ff138d2699c82ccd3",
+   "url": "https://t.me/OSINTWarfare/5114",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🗂\n— To our valued OSINTWarfare subscribers, we are pleased to announce that we are now part of The New Dawn folder. We are a collection of 15 channels of broadly ideologically aligned news channels who try our best to ensure quality, quick, and accurate reporting.\nOf course, our views, while generally different, are accommodating of a wide spectrum of different views; we consist of different geographical distributions and religious beliefs.\nOne major thing that unites us: We strive to bring you fast, factual news that you won't see elsewhere in the mainstream media—or even as fast—and we seek to destroy and dismantle any narrative in order to let the truth prevail and to usher in a New Dawn.\nhttps://t.me/addlist/qySYHB6yadJiMjI8",
+   "timestamp": "2026-06-01T15:01:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6b40dbed5133d9b7a3e952e8af413ff2",
+   "url": "https://t.me/OSINTWarfare/5113",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran has announced the suspension of all ongoing negotiations with the United States, citing continued Israeli violations in Lebanon and Gaza, as well as the possibility of airstrikes on Beirut.\nIran emphasized the need for an immediate halt to Israeli attacks in Gaza and Lebanon, along with a full withdrawal from occupied areas in Lebanon.\nIt stated that no further talks will take place until these conditions are met.\nIran and allied groups have also warned that, if such actions continue, they may consider escalating measures affecting regional maritime routes, including the Strait of Hormuz and the Bab al-Mandeb Strait.",
+   "timestamp": "2026-06-01T13:40:12+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f5a555a32c1662803b80fcc4ff9e00eb",
+   "url": "https://t.me/warmonitors/44209",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nUS Central Command announces that it has intercepted two ballistic missiles launched from Iran towards a US base in Kuwait",
+   "timestamp": "2026-06-01T12:42:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3822ac330e745d2a1d3c35a1b90d53bf",
+   "url": "https://t.me/OSINTWarfare/5112",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC released footage showing the interception of an MQ-1 Predator unmanned combat aerial vehicle (UCAV) near the Strait of Hormuz on May 31, reportedly using its new air defense system, “Arash the Archer” (Arash-e Kamangir).\nThis incident was later followed by U.S. airstrikes targeting radar installations and drone command-and-control centers.",
+   "timestamp": "2026-06-01T12:37:20+00:00",
+   "has_media": true
+  },
   {
    "id": "7873fa0d1d01b305ef01554ca56deb79",
    "url": "https://t.me/OSINTWarfare/5107",
@@ -162,24 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "On 27 May 2026, South Korea announced that an unexploded warhead (Image 1) from an Iranian Noor/Ghadr anti-ship cruise missile was recovered from the hull of the South Korean cargo ship HMM Namu, which was attacked in early May while sailing under a Panamanian flag in the Strait of Hormuz.\nAccording to investigators, the vessel was struck by two missiles: one failed to detonate, while the other functioned as intended.\nThe attack was previously thought to have been carried out using an Iranian unmanned surface vessel (USV). Images 2 and 3 show Noor missile warheads previously unveiled by Iran.\nImage 4 shows debris from the missile’s electronic circuit board recovered from the hull of the Namu.",
    "timestamp": "2026-05-30T15:47:35+00:00",
-   "has_media": true
-  },
-  {
-   "id": "73b31f02bb82670f613dc28adbd89b16",
-   "url": "https://t.me/OSINTWarfare/5091",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two Iranian Yak-130 combat trainer aircraft, which were stationed inside aircraft shelters at Mehrabad International Airport, were moved just a few hours before U.S. and Israeli airstrikes hit the airport.",
-   "timestamp": "2026-05-30T14:00:28+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b4729fa874cb200346aac0b399074148",
-   "url": "https://t.me/OSINTWarfare/5090",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Armenian Air Force Su-30SM Multirole Fighters weapons loadout:\n• 4× R-27R air-to-air missiles\n• 4× R-73E/L air-to-air missiles\n• 2× Kh-31P anti-radiation missiles\n• 2× Kh-29T air-to-ground guided missiles\n• 4× Yasin guided glide bombs",
-   "timestamp": "2026-05-30T13:15:41+00:00",
    "has_media": true
   },
   {
