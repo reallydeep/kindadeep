@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-02T12:48:56Z",
+ "generated_utc": "2026-06-02T17:09:45Z",
  "count": 43,
  "items": [
+  {
+   "id": "60a8cc9ec2089f81571df196c83864c2",
+   "url": "https://t.me/OSINTWarfare/5131",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 28 May 2026 showing the targeting of an Iron Dome launcher in the city of Khiam, southern Lebanon, using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-02T16:37:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "62c3b2b9de62546ac84d81d838c0197e",
+   "url": "https://t.me/OSINTWarfare/5126",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yesterday, the heavy nuclear-powered battlecruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, entered the final phase of its sea trials.",
+   "timestamp": "2026-06-02T13:12:31+00:00",
+   "has_media": true
+  },
   {
    "id": "2d7b437dd2b2b6e3fc9a82794203591d",
    "url": "https://t.me/OSINTWarfare/5124",
@@ -198,24 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "The IRGC released footage showing the interception of an MQ-1 Predator unmanned combat aerial vehicle (UCAV) near the Strait of Hormuz on May 31, reportedly using its new air defense system, “Arash the Archer” (Arash-e Kamangir).\nThis incident was later followed by U.S. airstrikes targeting radar installations and drone command-and-control centers.",
    "timestamp": "2026-06-01T12:37:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7873fa0d1d01b305ef01554ca56deb79",
-   "url": "https://t.me/OSINTWarfare/5107",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇲🇹\nA huge explosion occurred this morning at a fireworks factory in Malta.",
-   "timestamp": "2026-06-01T10:19:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7b25856a89dcc1bb4f71bffa062a5059",
-   "url": "https://t.me/OSINTWarfare/5106",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In response to the U.S. strike on a telecommunications tower on Sirik Island in Hormozgan Province, the IRGC Aerospace Force launched two Zolfaghar short-range ballistic missiles (SRBMs) at Ali Al-Salem Air Base in Kuwait, from which the attack had originated.",
-   "timestamp": "2026-06-01T10:02:07+00:00",
    "has_media": true
   },
   {
