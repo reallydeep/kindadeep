@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-06-02T15:05:47Z",
+ "generated_utc": "2026-06-02T18:52:06Z",
  "countries": [
   {
    "code": "US",
@@ -9,22 +9,22 @@
     {
      "symbol": "^spx",
      "name": "S&P 500",
-     "price": 7610.9,
-     "change_pct": 0.14,
+     "price": 7605.6,
+     "change_pct": 0.07,
      "currency": "USD"
     },
     {
      "symbol": "^dji",
      "name": "Dow Jones",
-     "price": 51177.9,
-     "change_pct": 0.19,
+     "price": 51322.8,
+     "change_pct": 0.48,
      "currency": "USD"
     },
     {
      "symbol": "^ndq",
      "name": "Nasdaq",
-     "price": 27116.37,
-     "change_pct": 0.11,
+     "price": 27052.96,
+     "change_pct": -0.12,
      "currency": "USD"
     }
    ]
@@ -65,15 +65,15 @@
     {
      "symbol": "^moex",
      "name": "MOEX",
-     "price": 2621.12,
-     "change_pct": 1.99,
+     "price": 2620.39,
+     "change_pct": 1.96,
      "currency": "RUB"
     },
     {
      "symbol": "^rts",
      "name": "RTS",
-     "price": 1137.97,
-     "change_pct": 0.57,
+     "price": 1137.66,
+     "change_pct": 0.55,
      "currency": "USD"
     }
    ]
@@ -107,15 +107,15 @@
     {
      "symbol": "^ukx",
      "name": "FTSE 100",
-     "price": 10368.2,
-     "change_pct": 0.28,
+     "price": 10373.5,
+     "change_pct": 0.33,
      "currency": "GBP"
     },
     {
      "symbol": "^ftm",
      "name": "FTSE 250",
-     "price": 23338.67,
-     "change_pct": 0.4,
+     "price": 23378.36,
+     "change_pct": 0.57,
      "currency": "GBP"
     }
    ]
