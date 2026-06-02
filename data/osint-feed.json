@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-06-02T20:17:13Z",
- "count": 42,
+ "generated_utc": "2026-06-02T22:28:56Z",
+ "count": 38,
  "items": [
+  {
+   "id": "bc0e808ecfc81060e8944508c7bc7de2",
+   "url": "https://t.me/OSINTWarfare/5138",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from earlier, after sirens started sounding in Kuwait due to an Iranian missile attack on Camp Arifjan and Ali Al Salem Air Base.",
+   "timestamp": "2026-06-02T22:23:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "44cf31fedc27d03779395af6172f1f5b",
+   "url": "https://t.me/OSINTWarfare/5136",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Sirens are sounding in Kuwait, with reports of explosions as well.",
+   "timestamp": "2026-06-02T22:11:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8aea91338b91224bacffbad2b1c57ea2",
+   "url": "https://t.me/OSINTWarfare/5135",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇰🇼\n⚡️\nExclusive image sent to us by a friend showing the smoke trails of missiles launched from Shiraz toward Kuwait. The photo was taken approximately 15 minutes ago.\n@IntelSlava",
+   "timestamp": "2026-06-02T22:04:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8387d4943661373b3ca8c1f47ad890e9",
+   "url": "https://t.me/OSINTWarfare/5134",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of an explosion in Qeshm Island, southern Iran.",
+   "timestamp": "2026-06-02T21:57:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f9c5711523e491a5636519a4924e3b26",
+   "url": "https://t.me/OSINTWarfare/5133",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of an explosion in Qeshm Island, southern Iran.",
+   "timestamp": "2026-06-02T21:52:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "924c5a378881cee2aae13669ae242743",
+   "url": "https://t.me/warmonitors/44235",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#LATEST\nUS military says it fires missile to halt another oil tanker trying to reach an Iranian port in violation of blockade",
+   "timestamp": "2026-06-02T21:02:30+00:00",
+   "has_media": false
+  },
   {
    "id": "f6251a978cb77528953db243d87941a7",
    "url": "https://t.me/OSINTWarfare/5132",
@@ -93,30 +147,12 @@
    "has_media": false
   },
   {
-   "id": "872bc5f75e8a999a7f18183ab1e599f6",
-   "url": "https://t.me/OSINTWarfare/5118",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Chinese People’s Liberation Army Navy (PLAN) has commissioned the guided-missile destroyer Tongchuan (hull number 177), a Type 052DL, into the 9th Destroyer Flotilla of the South Sea Fleet.\nIt is the 35th destroyer of the Type 052D series to enter service with the PLAN.\nThe DL variant is slightly lengthened by around 4 meters (about 13 feet), bringing the overall length to 162 meters. This gives it a larger flight deck, allowing it to operate heavier naval helicopters such as the Harbin Z-20F instead of the smaller Z-9.",
-   "timestamp": "2026-06-01T22:00:17+00:00",
-   "has_media": true
-  },
-  {
    "id": "3574bcb1d53b751cf67c6eae47eaf41b",
    "url": "https://t.me/warmonitors/44221",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nConsequences of an Israeli airstrike on a residential building in Lebanon",
    "timestamp": "2026-06-01T21:47:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b69051defe0f39dab95d790b0e473bb0",
-   "url": "https://t.me/OSINTWarfare/5117",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy announced that it had targeted the MSC Sariska container ship with a Noor/Qader anti-ship cruise missile.\nThe strike was carried out in retaliation for a U.S. attack on the Iranian vessel Lian Star in the Gulf of Oman.",
-   "timestamp": "2026-06-01T21:34:23+00:00",
    "has_media": true
   },
   {
@@ -135,78 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nThe IDF is now attacking in southern Lebanon again.",
    "timestamp": "2026-06-01T19:57:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bbf8069af28f3d6194a2885b1fd78873",
-   "url": "https://t.me/OSINTWarfare/5116",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Rare footage showing the operation of the 2K22M1 Tunguska-M1 air defense gun-missile system from the 27th Guards Motor Rifle Division.",
-   "timestamp": "2026-06-01T18:59:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4b74060427858d971321e5e5a362922a",
-   "url": "https://t.me/warmonitors/44214",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIsraeli Media: “This was a large-scale attack by about 6 Hezbollah explosive drones that were launched towards the Givati ​​force today at noon, around 12:00. The drones exploded on a NMR armored vehicle - where the battalion doctor was injured and killed.”",
-   "timestamp": "2026-06-01T18:57:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "db59e1348daaad4e284b51ba307ec45e",
-   "url": "https://t.me/warmonitors/44215",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nAnother Israeli soldier killed by Hezbollah in Southern Lebanon",
-   "timestamp": "2026-06-01T18:57:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a20666356d6a5650ad88863cf4bb8287",
-   "url": "https://t.me/warmonitors/44213",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nTrump says Israel and Hezbollah have agreed to dial back fighting after US leader talked with Netanyahu and mediators",
-   "timestamp": "2026-06-01T18:37:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "24cd65ea354b00a99f040f55d6f742f8",
-   "url": "https://t.me/warmonitors/44212",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump on Truth Social: I had a very productive conversation with Prime Minister Bibi Netanyahu of Israel, and there will be no troops going into Beirut, and any troops that were on their way there have already been turned back. Also, through very senior representatives, I had a very good conversation with Hezbollah, and they agreed that all firing will cease — Israel will not attack them, and they will not attack Israel",
-   "timestamp": "2026-06-01T17:42:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a958096ace4b941e33e47d6a14536fa3",
-   "url": "https://t.me/OSINTWarfare/5115",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Israel has postponed its planned strike on the southern suburbs of Beirut following a phone call between Donald Trump and Benjamin Netanyahu.",
-   "timestamp": "2026-06-01T17:12:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "29e7520dc3a1977ff138d2699c82ccd3",
-   "url": "https://t.me/OSINTWarfare/5114",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🗂\n— To our valued OSINTWarfare subscribers, we are pleased to announce that we are now part of The New Dawn folder. We are a collection of 15 channels of broadly ideologically aligned news channels who try our best to ensure quality, quick, and accurate reporting.\nOf course, our views, while generally different, are accommodating of a wide spectrum of different views; we consist of different geographical distributions and religious beliefs.\nOne major thing that unites us: We strive to bring you fast, factual news that you won't see elsewhere in the mainstream media—or even as fast—and we seek to destroy and dismantle any narrative in order to let the truth prevail and to usher in a New Dawn.\nhttps://t.me/addlist/qySYHB6yadJiMjI8",
-   "timestamp": "2026-06-01T15:01:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6b40dbed5133d9b7a3e952e8af413ff2",
-   "url": "https://t.me/OSINTWarfare/5113",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran has announced the suspension of all ongoing negotiations with the United States, citing continued Israeli violations in Lebanon and Gaza, as well as the possibility of airstrikes on Beirut.\nIran emphasized the need for an immediate halt to Israeli attacks in Gaza and Lebanon, along with a full withdrawal from occupied areas in Lebanon.\nIt stated that no further talks will take place until these conditions are met.\nIran and allied groups have also warned that, if such actions continue, they may consider escalating measures affecting regional maritime routes, including the Strait of Hormuz and the Bab al-Mandeb Strait.",
-   "timestamp": "2026-06-01T13:40:12+00:00",
    "has_media": false
   },
   {
