@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-02T17:09:45Z",
- "count": 43,
+ "generated_utc": "2026-06-02T20:17:13Z",
+ "count": 42,
  "items": [
+  {
+   "id": "f6251a978cb77528953db243d87941a7",
+   "url": "https://t.me/OSINTWarfare/5132",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from this morning’s missile attack showing Russian cruise missile impacts in Kyiv.",
+   "timestamp": "2026-06-02T17:41:02+00:00",
+   "has_media": false
+  },
   {
    "id": "60a8cc9ec2089f81571df196c83864c2",
    "url": "https://t.me/OSINTWarfare/5131",
@@ -174,15 +183,6 @@
    "has_media": false
   },
   {
-   "id": "e0f2f5715ccc715e356e41b153ff8e26",
-   "url": "https://t.me/warmonitors/44210",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nInitial reports in Syria of an explosion of still unknown origin in Aleppo",
-   "timestamp": "2026-06-01T17:12:32+00:00",
-   "has_media": true
-  },
-  {
    "id": "a958096ace4b941e33e47d6a14536fa3",
    "url": "https://t.me/OSINTWarfare/5115",
    "source": "telegram",
@@ -208,15 +208,6 @@
    "text": "Iran has announced the suspension of all ongoing negotiations with the United States, citing continued Israeli violations in Lebanon and Gaza, as well as the possibility of airstrikes on Beirut.\nIran emphasized the need for an immediate halt to Israeli attacks in Gaza and Lebanon, along with a full withdrawal from occupied areas in Lebanon.\nIt stated that no further talks will take place until these conditions are met.\nIran and allied groups have also warned that, if such actions continue, they may consider escalating measures affecting regional maritime routes, including the Strait of Hormuz and the Bab al-Mandeb Strait.",
    "timestamp": "2026-06-01T13:40:12+00:00",
    "has_media": false
-  },
-  {
-   "id": "3822ac330e745d2a1d3c35a1b90d53bf",
-   "url": "https://t.me/OSINTWarfare/5112",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC released footage showing the interception of an MQ-1 Predator unmanned combat aerial vehicle (UCAV) near the Strait of Hormuz on May 31, reportedly using its new air defense system, “Arash the Archer” (Arash-e Kamangir).\nThis incident was later followed by U.S. airstrikes targeting radar installations and drone command-and-control centers.",
-   "timestamp": "2026-06-01T12:37:20+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
