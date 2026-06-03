@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-03T21:37:09Z",
+ "generated_utc": "2026-06-03T23:20:28Z",
  "count": 41,
  "items": [
+  {
+   "id": "9fec6c27a416afb23f3352ba7bea598b",
+   "url": "https://t.me/OSINTWarfare/5164",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Kuwaiti military announced that Terminal 1 (T1) at Kuwait International Airport sustained significant damage following overnight drone and missile attacks from Iran.  The strike also resulted in one fatality and 63 injuries, according to official reports.",
+   "timestamp": "2026-06-03T22:46:02+00:00",
+   "has_media": true
+  },
   {
    "id": "ad0360e43f56212fb70208a553b66b58",
    "url": "https://t.me/OSINTWarfare/5163",
@@ -190,15 +199,6 @@
    "text": "⚡️\nMoment of Israeli shelling of a children's nursery in southern Lebanon",
    "timestamp": "2026-06-02T11:32:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "6f84334448770998795d1ec58dca7ef3",
-   "url": "https://t.me/warmonitors/44224",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n6 killed in Israeli airstrike targeting a building in Marwaniyeh, southern Lebanon",
-   "timestamp": "2026-06-02T10:22:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
