@@ -1,7 +1,97 @@
 {
- "generated_utc": "2026-06-02T22:28:56Z",
- "count": 38,
+ "generated_utc": "2026-06-03T00:10:12Z",
+ "count": 42,
  "items": [
+  {
+   "id": "39801633b0b3ea0c68dd1517810ec871",
+   "url": "https://t.me/OSINTWarfare/5151",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC targeted the MSC Panaya, a Liberian-flagged cargo ship, in the Strait of Hormuz in response to the U.S. Navy’s targeting of the Iranian Lexie oil tanker.",
+   "timestamp": "2026-06-02T23:49:47+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3cf87bc5eb48d62926a3cf02310069d4",
+   "url": "https://t.me/OSINTWarfare/5150",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows ballistic missiles launched by the IRGC Aerospace Force from Bushehr in southern Iran toward Bahrain.",
+   "timestamp": "2026-06-02T23:42:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "3109ae1fb31143f5cfb07ffe5b1ece22",
+   "url": "https://t.me/OSINTWarfare/5149",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Our source in Iran's Shiraz reports hearing drone launches.",
+   "timestamp": "2026-06-02T23:38:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4ebbc77c0ea8cb8a8529d25feebca10d",
+   "url": "https://t.me/OSINTWarfare/5148",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows PAC-2/3 interceptors launched from a U.S. Army Patriot air defense system engaging an Iranian attack in Bahrain.",
+   "timestamp": "2026-06-02T23:30:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1246ed43f5444e0911e37180196e12ac",
+   "url": "https://t.me/OSINTWarfare/5147",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Sirens are sounding in Dubai, Saudi Arabia, and across the UAE. Ships off the coast of the UAE have been targeted.\nWTF is going on? One U.S. airstrike triggered all of this.",
+   "timestamp": "2026-06-02T23:22:05+00:00",
+   "has_media": false
+  },
+  {
+   "id": "426fb02997207d8ffc652b3c402b1d25",
+   "url": "https://t.me/OSINTWarfare/5146",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Dashcam footage of an Iranian ballistic missile impact in Kuwait!",
+   "timestamp": "2026-06-02T23:19:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "89bfeaf015d85cfc9e503d19e8e23f4e",
+   "url": "https://t.me/OSINTWarfare/5145",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a ballistic missile launched by the IRGC Aerospace Force passing over Asaluyeh in southern Iran en route toward Bahrain.",
+   "timestamp": "2026-06-02T23:02:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ba005f9719a44aff8bf74e5e410b98e4",
+   "url": "https://t.me/OSINTWarfare/5142",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇰🇼\n⚡️\nExclusive image sent to us by a friend showing the smoke trails of missiles launched from Shiraz toward Kuwait. The photo was taken approximately 15 minutes ago.  @IntelSlava",
+   "timestamp": "2026-06-02T22:45:51+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f8cf38a3109ca2cacbc15ce2e5191930",
+   "url": "https://t.me/OSINTWarfare/5141",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Air Force carried out airstrikes on the headquarters of Kurdish separatist groups in Erbil, located in Iraq’s Kurdistan Region. The fighter jets reportedly took off from Ahvaz.",
+   "timestamp": "2026-06-02T22:41:05+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7be649e15e27f6cc105c45b70d924aa3",
+   "url": "https://t.me/OSINTWarfare/5139",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Kuwaiti air defenses work, with two interceptors self-destructing. Debris from a possible PAC-2/3 interceptor fell into the streets.",
+   "timestamp": "2026-06-02T22:32:12+00:00",
+   "has_media": true
+  },
   {
    "id": "bc0e808ecfc81060e8944508c7bc7de2",
    "url": "https://t.me/OSINTWarfare/5138",
@@ -66,42 +156,6 @@
    "has_media": false
   },
   {
-   "id": "60a8cc9ec2089f81571df196c83864c2",
-   "url": "https://t.me/OSINTWarfare/5131",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 28 May 2026 showing the targeting of an Iron Dome launcher in the city of Khiam, southern Lebanon, using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-02T16:37:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "62c3b2b9de62546ac84d81d838c0197e",
-   "url": "https://t.me/OSINTWarfare/5126",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yesterday, the heavy nuclear-powered battlecruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, entered the final phase of its sea trials.",
-   "timestamp": "2026-06-02T13:12:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2d7b437dd2b2b6e3fc9a82794203591d",
-   "url": "https://t.me/OSINTWarfare/5124",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the moment an Iranian Tabas air defense system was destroyed in Karaj, near Tehran, following an Israeli Air Force strike in the early days of the war.\nThe transporter-erector-launcher (TEL) was first hit, damaging its Bashir 3D phased-array surveillance radar and Taer-2A surface-to-air missiles with a low-yield munition. A second strike followed, igniting fuel inside the missiles. The system was then finished off by a precision-guided bomb.",
-   "timestamp": "2026-06-02T12:31:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "50d3622157af2b0dc2a0b8f30d57926f",
-   "url": "https://t.me/OSINTWarfare/5122",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "I can't make you surrender, but please do.\nThe irony is that Iran's Navy and Air Force were barely functional before the war started. Most of the aircraft hit on the ground weren't operational anyway, they were old airframes sitting in storage or being cannibalized for parts.\nIran is still operating F-4s and F-5s, as well as locally produced versions like the Saeqeh and Kowsar built by HESA, and none of them were destroyed. As for the navy, their doctrine is clear: they don’t focus on a traditional blue-water fleet. Instead, they rely on fast attack craft and coastal defense systems to operate close to shore.",
-   "timestamp": "2026-06-02T11:58:53+00:00",
-   "has_media": true
-  },
-  {
    "id": "d197cb2824de6772d5307f6cd7d9b8e8",
    "url": "https://t.me/warmonitors/44227",
    "source": "telegram",
@@ -118,24 +172,6 @@
    "text": "⚡\n6 killed in Israeli airstrike targeting a building in Marwaniyeh, southern Lebanon",
    "timestamp": "2026-06-02T10:22:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "4090882d51ef349b11c06c72b7a49b96",
-   "url": "https://t.me/OSINTWarfare/5121",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Four consecutive Iskander-M ballistic missile impacts in Kyiv.",
-   "timestamp": "2026-06-01T23:57:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "df0d702fe26fcfb9de57069e72382f3d",
-   "url": "https://t.me/OSINTWarfare/5119",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of Russian Iskander-M ballistic missile arrivals in Kyiv.",
-   "timestamp": "2026-06-01T23:47:44+00:00",
-   "has_media": true
   },
   {
    "id": "91a2a7a3c2506886f2c58dfba30bc8ae",
