@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-03T05:09:33Z",
- "count": 41,
+ "generated_utc": "2026-06-03T10:03:09Z",
+ "count": 42,
  "items": [
+  {
+   "id": "922ba718dd642672bb392b79689b0391",
+   "url": "https://t.me/warmonitors/44241",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nKuwait says its international airport has partially reopened after an Iranian attack",
+   "timestamp": "2026-06-03T09:52:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "114b876ad17ccb3806fda14ce22532a2",
+   "url": "https://t.me/OSINTWarfare/5154",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Emad and Ghadr ballistic missiles, as well as Shahed-136 loitering munitions, toward U.S. bases in Kuwait and Bahrain.\nThe footage also shows launches of solid-fuel ballistic missiles, though their exact type cannot be identified from the video.",
+   "timestamp": "2026-06-03T09:42:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ee1825e3480cfac0b94f2a12dbe4d4b8",
+   "url": "https://t.me/warmonitors/44238",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nImages circulating of Kuwait International Airport after it was bombarded by Iranian missiles and drones.",
+   "timestamp": "2026-06-03T09:37:37+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b3869caf7533630df88e3cc037af0765",
+   "url": "https://t.me/warmonitors/44237",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#UPDATE\nIran bombs Kuwait International Airport",
+   "timestamp": "2026-06-03T09:37:32+00:00",
+   "has_media": true
+  },
   {
    "id": "0c82f2598394df2524d09679f10e9181",
    "url": "https://t.me/OSINTWarfare/5153",
@@ -129,15 +165,6 @@
    "has_media": true
   },
   {
-   "id": "8387d4943661373b3ca8c1f47ad890e9",
-   "url": "https://t.me/OSINTWarfare/5134",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of an explosion in Qeshm Island, southern Iran.",
-   "timestamp": "2026-06-02T21:57:14+00:00",
-   "has_media": false
-  },
-  {
    "id": "924c5a378881cee2aae13669ae242743",
    "url": "https://t.me/warmonitors/44235",
    "source": "telegram",
@@ -181,24 +208,6 @@
    "text": "⚡️\nConsequences of an Israeli airstrike on a residential building in Lebanon",
    "timestamp": "2026-06-01T21:47:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "29fb02c269fcdd97a8f16734194fb0cb",
-   "url": "https://t.me/warmonitors/44219",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nOdds on a US x Iran permanent ceasefire deal by the end of the month now down to only 22%.\nBut wait I thought Trump won this war 4 months ago??",
-   "timestamp": "2026-06-01T20:22:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "08d28594de9d473a6dcffa7473e8a3f9",
-   "url": "https://t.me/warmonitors/44216",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe IDF is now attacking in southern Lebanon again.",
-   "timestamp": "2026-06-01T19:57:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
