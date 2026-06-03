@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-03T18:38:53Z",
- "count": 40,
+ "generated_utc": "2026-06-03T21:37:09Z",
+ "count": 41,
  "items": [
+  {
+   "id": "ad0360e43f56212fb70208a553b66b58",
+   "url": "https://t.me/OSINTWarfare/5163",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Navy has released footage showing the launch of a Qader anti-ship cruise missile targeting what it described as a “command and control center” aboard a U.S. Navy destroyer in the Gulf of Oman.",
+   "timestamp": "2026-06-03T20:49:04+00:00",
+   "has_media": true
+  },
   {
    "id": "20a0c75393f57ce81506bffe63bb3334",
    "url": "https://t.me/OSINTWarfare/5162",
