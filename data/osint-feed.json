@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-03T00:10:12Z",
- "count": 42,
+ "generated_utc": "2026-06-03T05:09:33Z",
+ "count": 41,
  "items": [
+  {
+   "id": "0c82f2598394df2524d09679f10e9181",
+   "url": "https://t.me/OSINTWarfare/5153",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Power outages are being reported in several districts of Tehran, the capital of Iran. Air defense systems have also been activated in Isfahan, central Iran.",
+   "timestamp": "2026-06-03T00:32:57+00:00",
+   "has_media": false
+  },
   {
    "id": "39801633b0b3ea0c68dd1517810ec871",
    "url": "https://t.me/OSINTWarfare/5151",
@@ -129,30 +138,12 @@
    "has_media": false
   },
   {
-   "id": "f9c5711523e491a5636519a4924e3b26",
-   "url": "https://t.me/OSINTWarfare/5133",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of an explosion in Qeshm Island, southern Iran.",
-   "timestamp": "2026-06-02T21:52:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "924c5a378881cee2aae13669ae242743",
    "url": "https://t.me/warmonitors/44235",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\n#LATEST\nUS military says it fires missile to halt another oil tanker trying to reach an Iranian port in violation of blockade",
    "timestamp": "2026-06-02T21:02:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f6251a978cb77528953db243d87941a7",
-   "url": "https://t.me/OSINTWarfare/5132",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from this morning’s missile attack showing Russian cruise missile impacts in Kyiv.",
-   "timestamp": "2026-06-02T17:41:02+00:00",
    "has_media": false
   },
   {
