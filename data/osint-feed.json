@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-03T23:20:28Z",
- "count": 41,
+ "generated_utc": "2026-06-04T02:02:01Z",
+ "count": 42,
  "items": [
+  {
+   "id": "1500a678a464c5ff42d5d422c23e17d1",
+   "url": "https://t.me/OSINTWarfare/5166",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "CCTV footage shows a Shahed-136 loitering munition striking Terminal 1 (T1) of Kuwait International Airport early this morning.",
+   "timestamp": "2026-06-04T01:10:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "32f6401e9ba015798448d89305c372dc",
+   "url": "https://t.me/OSINTWarfare/5165",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 2 June 2026 showing the targeting of an IDF Namer armored personnel carrier (APC) on the southern outskirts of the town of Yahmar al-Shaqif in southern Lebanon using an Ababil FPV drone equipped with thermal imaging.",
+   "timestamp": "2026-06-03T23:54:21+00:00",
+   "has_media": false
+  },
+  {
+   "id": "be9c9c16d3406cdcb52cc2c91eaf7968",
+   "url": "https://t.me/warmonitors/44246",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nVideo of the impact on Kuwaiti International airport by an Iranian Kamikaze Drone type Shahed-136",
+   "timestamp": "2026-06-03T23:47:36+00:00",
+   "has_media": true
+  },
   {
    "id": "9fec6c27a416afb23f3352ba7bea598b",
    "url": "https://t.me/OSINTWarfare/5164",
@@ -163,24 +190,6 @@
    "text": "Sirens are sounding in Dubai, Saudi Arabia, and across the UAE. Ships off the coast of the UAE have been targeted.\nWTF is going on? One U.S. airstrike triggered all of this.",
    "timestamp": "2026-06-02T23:22:05+00:00",
    "has_media": false
-  },
-  {
-   "id": "426fb02997207d8ffc652b3c402b1d25",
-   "url": "https://t.me/OSINTWarfare/5146",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Dashcam footage of an Iranian ballistic missile impact in Kuwait!",
-   "timestamp": "2026-06-02T23:19:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89bfeaf015d85cfc9e503d19e8e23f4e",
-   "url": "https://t.me/OSINTWarfare/5145",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a ballistic missile launched by the IRGC Aerospace Force passing over Asaluyeh in southern Iran en route toward Bahrain.",
-   "timestamp": "2026-06-02T23:02:46+00:00",
-   "has_media": true
   },
   {
    "id": "924c5a378881cee2aae13669ae242743",
