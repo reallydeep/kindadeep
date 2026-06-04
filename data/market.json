@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-06-04T15:47:34Z",
+ "generated_utc": "2026-06-04T18:02:52Z",
  "countries": [
   {
    "code": "US",
@@ -9,22 +9,22 @@
     {
      "symbol": "^spx",
      "name": "S&P 500",
-     "price": 7567.0,
-     "change_pct": 0.18,
+     "price": 7592.5,
+     "change_pct": 0.51,
      "currency": "USD"
     },
     {
      "symbol": "^dji",
      "name": "Dow Jones",
-     "price": 51541.5,
-     "change_pct": 1.69,
+     "price": 51488.8,
+     "change_pct": 1.58,
      "currency": "USD"
     },
     {
      "symbol": "^ndq",
      "name": "Nasdaq",
-     "price": 26758.53,
-     "change_pct": -0.36,
+     "price": 26908.83,
+     "change_pct": 0.2,
      "currency": "USD"
     }
    ]
@@ -65,15 +65,15 @@
     {
      "symbol": "^moex",
      "name": "MOEX",
-     "price": 2579.11,
-     "change_pct": -0.85,
+     "price": 2579.9,
+     "change_pct": -0.82,
      "currency": "RUB"
     },
     {
      "symbol": "^rts",
      "name": "RTS",
-     "price": 1093.57,
-     "change_pct": -2.13,
+     "price": 1093.91,
+     "change_pct": -2.1,
      "currency": "USD"
     }
    ]
