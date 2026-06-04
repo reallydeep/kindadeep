@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-06-04T09:03:48Z",
+ "generated_utc": "2026-06-04T12:14:00Z",
  "countries": [
   {
    "code": "US",
@@ -51,8 +51,8 @@
     {
      "symbol": "^snx",
      "name": "SENSEX",
-     "price": 74381.53,
-     "change_pct": 0.05,
+     "price": 74360.01,
+     "change_pct": 0.02,
      "currency": "INR"
     }
    ]
@@ -65,15 +65,15 @@
     {
      "symbol": "^moex",
      "name": "MOEX",
-     "price": 2595.31,
-     "change_pct": -0.23,
+     "price": 2595.08,
+     "change_pct": -0.24,
      "currency": "RUB"
     },
     {
      "symbol": "^rts",
      "name": "RTS",
-     "price": 1114.72,
-     "change_pct": -0.23,
+     "price": 1114.63,
+     "change_pct": -0.24,
      "currency": "USD"
     }
    ]
@@ -107,15 +107,15 @@
     {
      "symbol": "^ukx",
      "name": "FTSE 100",
-     "price": 10284.5,
-     "change_pct": -0.46,
+     "price": 10295.0,
+     "change_pct": -0.36,
      "currency": "GBP"
     },
     {
      "symbol": "^ftm",
      "name": "FTSE 250",
-     "price": 23163.12,
-     "change_pct": -0.1,
+     "price": 23182.38,
+     "change_pct": -0.02,
      "currency": "GBP"
     }
    ]
