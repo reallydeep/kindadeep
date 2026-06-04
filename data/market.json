@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-06-04T18:02:52Z",
+ "generated_utc": "2026-06-04T20:20:49Z",
  "countries": [
   {
    "code": "US",
@@ -9,22 +9,22 @@
     {
      "symbol": "^spx",
      "name": "S&P 500",
-     "price": 7592.5,
-     "change_pct": 0.51,
+     "price": 7584.3,
+     "change_pct": 0.41,
      "currency": "USD"
     },
     {
      "symbol": "^dji",
      "name": "Dow Jones",
-     "price": 51488.8,
-     "change_pct": 1.58,
+     "price": 51561.9,
+     "change_pct": 1.73,
      "currency": "USD"
     },
     {
      "symbol": "^ndq",
      "name": "Nasdaq",
-     "price": 26908.83,
-     "change_pct": 0.2,
+     "price": 26830.96,
+     "change_pct": -0.09,
      "currency": "USD"
     }
    ]
