@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-04T18:37:19Z",
- "count": 42,
+ "generated_utc": "2026-06-04T20:36:18Z",
+ "count": 43,
  "items": [
+  {
+   "id": "fb0acf66bb76d16dcb76b2e1cf5da2d7",
+   "url": "https://t.me/warmonitors/44256",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump: We're talking to Hezbollah, they've talked to us. It's interrelated, I've spoken to them and Bibi Netanyahu, and I think progress is being made.",
+   "timestamp": "2026-06-04T20:22:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "bdcc837545eab835c485421b9a264e4b",
+   "url": "https://t.me/warmonitors/44255",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli soldier Eitan Shmuel Lamberg, killed in Lebanon by Hezbollah",
+   "timestamp": "2026-06-04T19:27:30+00:00",
+   "has_media": true
+  },
   {
    "id": "18dfb135c69d3cc6937af0b39d487dac",
    "url": "https://t.me/warmonitors/44251",
@@ -198,15 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "Power outages are being reported in several districts of Tehran, the capital of Iran. Air defense systems have also been activated in Isfahan, central Iran.",
    "timestamp": "2026-06-03T00:32:57+00:00",
-   "has_media": false
-  },
-  {
-   "id": "924c5a378881cee2aae13669ae242743",
-   "url": "https://t.me/warmonitors/44235",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#LATEST\nUS military says it fires missile to halt another oil tanker trying to reach an Iranian port in violation of blockade",
-   "timestamp": "2026-06-02T21:02:30+00:00",
    "has_media": false
   },
   {
