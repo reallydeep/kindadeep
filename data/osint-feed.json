@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-04T20:36:18Z",
+ "generated_utc": "2026-06-04T22:08:21Z",
  "count": 43,
  "items": [
+  {
+   "id": "a9d46354c705291bdfb6b53226252abe",
+   "url": "https://t.me/OSINTWarfare/5173",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n#Iran -\n🇷🇺\n#Russia: A source close to the Islamic Republic of Iran Air Force (IRIAF) claim that an Air Force delegation traveled to Russia to arrange the purchase of a squadron of second-hand Su-30SM Multirole Fighters.  According to the same source, the…",
+   "timestamp": "2026-06-04T22:06:47+00:00",
+   "has_media": true
+  },
   {
    "id": "fb0acf66bb76d16dcb76b2e1cf5da2d7",
    "url": "https://t.me/warmonitors/44256",
@@ -208,15 +217,6 @@
    "text": "⚡️\n#UPDATE\nIran bombs Kuwait International Airport",
    "timestamp": "2026-06-03T09:37:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "0c82f2598394df2524d09679f10e9181",
-   "url": "https://t.me/OSINTWarfare/5153",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Power outages are being reported in several districts of Tehran, the capital of Iran. Air defense systems have also been activated in Isfahan, central Iran.",
-   "timestamp": "2026-06-03T00:32:57+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
