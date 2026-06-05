@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-05T21:00:43Z",
- "count": 44,
+ "generated_utc": "2026-06-05T22:21:38Z",
+ "count": 45,
  "items": [
+  {
+   "id": "9ea667020b481ac11bf7feb8dfbb07eb",
+   "url": "https://t.me/OSINTWarfare/5179",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
+   "timestamp": "2026-06-05T21:30:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b9385065a834d030daabea9f4a1e0141",
+   "url": "https://t.me/OSINTWarfare/5178",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
+   "timestamp": "2026-06-05T21:03:59+00:00",
+   "has_media": false
+  },
   {
    "id": "85dc2fead76a0fc593a797bc374fff01",
    "url": "https://t.me/warmonitors/44258",
@@ -199,15 +217,6 @@
    "text": "⚡\nKuwait expels two Iranian diplomats in protest over Iranian attack on it tonight",
    "timestamp": "2026-06-03T14:02:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "a8b820167e3c53f13b9d58f357a67269",
-   "url": "https://t.me/OSINTWarfare/5156",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Kuwaiti military announced that Terminal 1 (T1) at Kuwait International Airport sustained significant damage following overnight drone and missile attacks from Iran.\nThe strike also resulted in one fatality and 63 injuries, according to official reports.",
-   "timestamp": "2026-06-03T11:25:15+00:00",
-   "has_media": true
   },
   {
    "id": "922ba718dd642672bb392b79689b0391",
