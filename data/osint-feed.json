@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-05T22:21:38Z",
+ "generated_utc": "2026-06-05T23:42:55Z",
  "count": 45,
  "items": [
+  {
+   "id": "c1e53ba3813f185c240660e39bbc4093",
+   "url": "https://t.me/OSINTWarfare/5181",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to a report by the United24 news website, citing documents from the Yuri Gagarin Aviation Plant (KnAAZ) as well as the Zvezda and Yakovlev companies, Russia is currently producing 16 Su-35 Multirole Fighters intended for the Islamic Republic of Iran…",
+   "timestamp": "2026-06-05T23:19:00+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f55733cb0d1613b35013c59acec48ebe",
+   "url": "https://t.me/OSINTWarfare/5180",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A police station in Manama, the capital of Bahrain, was attacked with Molotov cocktails by unidentified individuals in protest against the arrest of Shiite citizens.\nBahrain has a Shiite-majority population but is ruled by a Sunni monarchy, so it’s no surprise that much of the population is pro-Iran and supported Iranian strikes on U.S. interests in the country.",
+   "timestamp": "2026-06-05T22:22:51+00:00",
+   "has_media": true
+  },
   {
    "id": "9ea667020b481ac11bf7feb8dfbb07eb",
    "url": "https://t.me/OSINTWarfare/5179",
@@ -189,24 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah released footage dated 2 June 2026 showing the targeting of IDF troops on the southern outskirts of the town of Zawtar al-Sharqiyah in southern Lebanon using an Ababil FPV drone equipped with thermal imaging.",
    "timestamp": "2026-06-03T16:54:19+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ba0f6a001b873e38eb009bacfdb7d28b",
-   "url": "https://t.me/OSINTWarfare/5161",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Product 30 seems to be on hold for now, or possibly even shelved.\nVadim Badekha, CEO of the United Aircraft Corporation, said the Su-57 will start receiving the new “Product 177” engine in the coming years.\nThis suggests that, likely due to budget constraints, Russia may move forward with the 177 engine for now. It could even be used across several fighters, including the Su-35S, Su-30SM2, Su-57, and Su-75.\nIt’s also possible that “Product 177” is the long-discussed AL-51F engine.\nProduct 30 may still be reserved for later use, potentially for upgraded Su-57 variants or future sixth-generation designs.",
-   "timestamp": "2026-06-03T16:32:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4be01a373d3b2bd85b3e3baf55f9fc50",
-   "url": "https://t.me/OSINTWarfare/5160",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 1 June 2026 showing the targeting of IDF troops on the southern outskirts of the town of Yahmar al-Shaqif in southern Lebanon using an Ababil FPV drone equipped with thermal imaging.",
-   "timestamp": "2026-06-03T14:55:29+00:00",
    "has_media": false
   },
   {
