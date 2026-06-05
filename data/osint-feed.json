@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-05T01:34:35Z",
- "count": 43,
+ "generated_utc": "2026-06-05T06:03:32Z",
+ "count": 42,
  "items": [
+  {
+   "id": "2308f48f877d18eeb857fc22a9681e93",
+   "url": "https://t.me/OSINTWarfare/5174",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of an IDF Merkava Mk. 4M tank and a Humvee in the town of Zawtar al-Sharqiyah in southern Lebanon using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-06-05T02:19:14+00:00",
+   "has_media": false
+  },
   {
    "id": "a9d46354c705291bdfb6b53226252abe",
    "url": "https://t.me/OSINTWarfare/5173",
@@ -174,15 +183,6 @@
    "has_media": true
   },
   {
-   "id": "b77acfc0d8ca5ab6b043702982398540",
-   "url": "https://t.me/OSINTWarfare/5155",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Donald Trump: “Iran has very few soldiers.”\nYes, Mr. President, they only have about 1,000 troops.",
-   "timestamp": "2026-06-03T10:30:17+00:00",
-   "has_media": true
-  },
-  {
    "id": "922ba718dd642672bb392b79689b0391",
    "url": "https://t.me/warmonitors/44241",
    "source": "telegram",
@@ -190,15 +190,6 @@
    "text": "⚡️\nKuwait says its international airport has partially reopened after an Iranian attack",
    "timestamp": "2026-06-03T09:52:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "114b876ad17ccb3806fda14ce22532a2",
-   "url": "https://t.me/OSINTWarfare/5154",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Emad and Ghadr ballistic missiles, as well as Shahed-136 loitering munitions, toward U.S. bases in Kuwait and Bahrain.\nThe footage also shows launches of solid-fuel ballistic missiles, though their exact type cannot be identified from the video.",
-   "timestamp": "2026-06-03T09:42:31+00:00",
-   "has_media": true
   },
   {
    "id": "ee1825e3480cfac0b94f2a12dbe4d4b8",
