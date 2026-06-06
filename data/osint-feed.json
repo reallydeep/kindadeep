@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-06T16:48:20Z",
- "count": 41,
+ "generated_utc": "2026-06-06T17:52:28Z",
+ "count": 43,
  "items": [
+  {
+   "id": "4e1e76d45b721ef1b2cb4012dddb0493",
+   "url": "https://t.me/OSINTWarfare/5195",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah has shot down what appears to be an IAI Eitan unmanned surveillance and reconnaissance aerial vehicle over the village of Mlita in southern Lebanon.",
+   "timestamp": "2026-06-06T17:17:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9871002f0c271c0feca560817dd3fdb1",
+   "url": "https://t.me/warmonitors/44268",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nOver the past 24 hours:\n1. An IDF soldier shot and killed a seven-month-old Palestinian baby in Hebron\n2. The IDF killed a senior officer in the Lebanese army and two additional Lebanese soldiers in an airstrike in southern Lebanon\n3. Settlers, with the assistance of at least one IDF soldier (see video), carried out a pogrom in the Palestinian village of Hawara. Nine Palestinians were injured",
+   "timestamp": "2026-06-06T17:07:32+00:00",
+   "has_media": true
+  },
   {
    "id": "d1a1488b1f15150acd1f75d529c0389e",
    "url": "https://t.me/OSINTWarfare/5194",
