@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-06T20:18:11Z",
- "count": 42,
+ "generated_utc": "2026-06-06T21:30:12Z",
+ "count": 43,
  "items": [
+  {
+   "id": "ed003050f4250b6f2aedabcd2abcfe18",
+   "url": "https://t.me/warmonitors/44274",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsrael bombs Gaza",
+   "timestamp": "2026-06-06T20:52:30+00:00",
+   "has_media": true
+  },
   {
    "id": "943f68f3522d60a8a0bbb278a0ba8bad",
    "url": "https://t.me/OSINTWarfare/5198",
