@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-06T14:22:58Z",
- "count": 42,
+ "generated_utc": "2026-06-06T15:46:05Z",
+ "count": 41,
  "items": [
+  {
+   "id": "d1a1488b1f15150acd1f75d529c0389e",
+   "url": "https://t.me/OSINTWarfare/5194",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated May 28, 2026, showing the targeting of an IDF Merkava Mk. 4M tank on the southern outskirts of the town of Zawtar al-Sharqiyah in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-06T14:49:24+00:00",
+   "has_media": false
+  },
   {
    "id": "2f9f4fe4f2c405b33293103c9e077b11",
    "url": "https://t.me/OSINTWarfare/5192",
@@ -147,15 +156,6 @@
    "has_media": false
   },
   {
-   "id": "a9d46354c705291bdfb6b53226252abe",
-   "url": "https://t.me/OSINTWarfare/5173",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n#Iran -\n🇷🇺\n#Russia: A source close to the Islamic Republic of Iran Air Force (IRIAF) claim that an Air Force delegation traveled to Russia to arrange the purchase of a squadron of second-hand Su-30SM Multirole Fighters.  According to the same source, the…",
-   "timestamp": "2026-06-04T22:06:47+00:00",
-   "has_media": true
-  },
-  {
    "id": "fb0acf66bb76d16dcb76b2e1cf5da2d7",
    "url": "https://t.me/warmonitors/44256",
    "source": "telegram",
@@ -189,15 +189,6 @@
    "channel": "WarMonitors",
    "text": "Wow if only we all said Hezbollah starting this war was a reckless and stupid decision that will bring destruction and occupation to South Lebanon and death to its innocent natives and leave the country in a much worse position than it was before the war.",
    "timestamp": "2026-06-04T10:12:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "96032ca4bf115787a32b954e18380d2b",
-   "url": "https://t.me/OSINTWarfare/5172",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lebanese President Joseph Aoun: “We are awaiting responses from all parties involved in the ceasefire. Implementation could begin within 24 hours of approval.\nThe deal may be the last chance for peace, otherwise each side will bear responsibility for its actions.”\nDude is threatening his own people with Israel xD",
-   "timestamp": "2026-06-04T10:02:41+00:00",
    "has_media": false
   },
   {
