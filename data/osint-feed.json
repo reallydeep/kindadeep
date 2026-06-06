@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-06T17:52:28Z",
- "count": 43,
+ "generated_utc": "2026-06-06T19:01:25Z",
+ "count": 42,
  "items": [
+  {
+   "id": "0f5e2ebcddb88973c81b872f7af6f862",
+   "url": "https://t.me/warmonitors/44270",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsrael shot and killed 7 months old infant Sam Abu Haikal",
+   "timestamp": "2026-06-06T18:02:33+00:00",
+   "has_media": true
+  },
   {
    "id": "4e1e76d45b721ef1b2cb4012dddb0493",
    "url": "https://t.me/OSINTWarfare/5195",
@@ -198,24 +207,6 @@
    "channel": "WarMonitors",
    "text": "The idea that Israel is planning on constructing this “greater Israel state”, regardless of its plausibility, is not an excuse for groups such as Hamas or Hezbollah to initiate wars themselves and drag their entire counties into death and destruction.\nDoing Israel a favour.",
    "timestamp": "2026-06-04T10:32:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ba8c29059cb93bd20a49989044700835",
-   "url": "https://t.me/warmonitors/44250",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Wow if only we all said Hezbollah starting this war was a reckless and stupid decision that will bring destruction and occupation to South Lebanon and death to its innocent natives and leave the country in a much worse position than it was before the war.",
-   "timestamp": "2026-06-04T10:12:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "36b76765ee285a40800c3bd485f46fd3",
-   "url": "https://t.me/warmonitors/44249",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsrael and Lebanon say they agree to renew fragile ceasefire, create Lebanese security zones that will exclude Hezbollah",
-   "timestamp": "2026-06-04T08:57:30+00:00",
    "has_media": false
   },
   {
