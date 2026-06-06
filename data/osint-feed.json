@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-06T01:34:30Z",
+ "generated_utc": "2026-06-06T05:35:52Z",
  "count": 44,
  "items": [
+  {
+   "id": "a85da2b90997cd9081744e69b0cce27e",
+   "url": "https://t.me/warmonitors/44262",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIranian attack on Bahrain",
+   "timestamp": "2026-06-06T01:42:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "782842fbe494b24acb13c6fcb3b20882",
+   "url": "https://t.me/warmonitors/44261",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera correspondent: Sirens sounded several times in Kuwait as explosions were heard, reportedly from interceptor missiles.",
+   "timestamp": "2026-06-06T01:42:30+00:00",
+   "has_media": false
+  },
   {
    "id": "2c04dda38be6b50b77d5f6e7ab939d39",
    "url": "https://t.me/OSINTWarfare/5182",
@@ -208,24 +226,6 @@
    "text": "⚡\nKuwait expels two Iranian diplomats in protest over Iranian attack on it tonight",
    "timestamp": "2026-06-03T14:02:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "922ba718dd642672bb392b79689b0391",
-   "url": "https://t.me/warmonitors/44241",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nKuwait says its international airport has partially reopened after an Iranian attack",
-   "timestamp": "2026-06-03T09:52:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ee1825e3480cfac0b94f2a12dbe4d4b8",
-   "url": "https://t.me/warmonitors/44238",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nImages circulating of Kuwait International Airport after it was bombarded by Iranian missiles and drones.",
-   "timestamp": "2026-06-03T09:37:37+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
