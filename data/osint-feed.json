@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-06T11:46:21Z",
- "count": 40,
+ "generated_utc": "2026-06-06T12:55:05Z",
+ "count": 41,
  "items": [
+  {
+   "id": "38b08ddd4a3f76cfb14712a81bb8d2b7",
+   "url": "https://t.me/OSINTWarfare/5190",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Israeli drone strike targeted a military vehicle on the Kafr Tibnit - Kharbital (Nabatieh) road, resulting in the death of two officers, with ranks of Brigadier General and Captain, and a soldier.",
+   "timestamp": "2026-06-06T12:14:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5a40b833e8317db7592e38f92b6c38bb",
+   "url": "https://t.me/OSINTWarfare/5188",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
+   "timestamp": "2026-06-06T11:58:42+00:00",
+   "has_media": true
+  },
   {
    "id": "099c2ff556a48a2b47590447ca417c4b",
    "url": "https://t.me/warmonitors/44265",
@@ -172,15 +190,6 @@
    "text": "Lebanese President Joseph Aoun: “We are awaiting responses from all parties involved in the ceasefire. Implementation could begin within 24 hours of approval.\nThe deal may be the last chance for peace, otherwise each side will bear responsibility for its actions.”\nDude is threatening his own people with Israel xD",
    "timestamp": "2026-06-04T10:02:41+00:00",
    "has_media": false
-  },
-  {
-   "id": "ff4be23cbefe2d90877b3baa2892feea",
-   "url": "https://t.me/OSINTWarfare/5167",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows an Africa Corps drone operator targeting fuel tanks belonging to Jama’at Nusrat al-Islam wal-Muslimin (JNIM) near Niafunké in the Tombouctou Region.",
-   "timestamp": "2026-06-04T08:58:59+00:00",
-   "has_media": true
   },
   {
    "id": "36b76765ee285a40800c3bd485f46fd3",
