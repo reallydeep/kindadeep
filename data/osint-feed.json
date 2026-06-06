@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-06T19:01:25Z",
+ "generated_utc": "2026-06-06T20:18:11Z",
  "count": 42,
  "items": [
+  {
+   "id": "943f68f3522d60a8a0bbb278a0ba8bad",
+   "url": "https://t.me/OSINTWarfare/5198",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Two IDF soldiers were killed in separate incidents in southern Lebanon over the weekend:\n• Captain Shahar Gamla, 23, a deputy platoon commander in the Commando Brigade’s Egoz Unit, was severely injured by a Hezbollah drone late Thursday and succumbed to his wounds this morning.\n• Sgt. Ohad Yaari, 21, of the Givati Brigade's Shaked Battalion was killed by a suspected accidental firearm discharge in southern Lebanon.",
+   "timestamp": "2026-06-06T20:07:52+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a1cd11f40a17d971f5cbe03c1ee9bd76",
+   "url": "https://t.me/warmonitors/44272",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n2 IDF soldiers were killed in Lebanon by Hezbollah over the weekend, in two separate incidents",
+   "timestamp": "2026-06-06T19:47:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0cebf5a522ef091a5c12e3f2afdd0e7d",
+   "url": "https://t.me/warmonitors/44271",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIranian Tasnim News Agency: Explosion heard on Kharg Island, linked to controlled munitions explosion",
+   "timestamp": "2026-06-06T19:47:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e52b38a345dac45c572144e75eab3b6a",
+   "url": "https://t.me/OSINTWarfare/5196",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force (IAF) carried out an airstrike on a residential building in the Mawasi area of Khan Yunis, in the southern Gaza Strip.",
+   "timestamp": "2026-06-06T19:21:12+00:00",
+   "has_media": true
+  },
   {
    "id": "0f5e2ebcddb88973c81b872f7af6f862",
    "url": "https://t.me/warmonitors/44270",
@@ -138,15 +174,6 @@
    "has_media": false
   },
   {
-   "id": "b9385065a834d030daabea9f4a1e0141",
-   "url": "https://t.me/OSINTWarfare/5178",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
-   "timestamp": "2026-06-05T21:03:59+00:00",
-   "has_media": false
-  },
-  {
    "id": "85dc2fead76a0fc593a797bc374fff01",
    "url": "https://t.me/warmonitors/44258",
    "source": "telegram",
@@ -162,24 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nIranian media announced that the Revolutionary Guards fired \"warning shots\" of missiles and drones at passing US warships in the Gulf of Oman.",
    "timestamp": "2026-06-05T15:22:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8f83b96e494639409eccd9f6f18847a3",
-   "url": "https://t.me/OSINTWarfare/5177",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Republic of Iran Navy has released footage showing the launch of a Qader anti-ship cruise missile and the Shahid Danaye loitering munition toward two U.S. Navy Arleigh Burke-class destroyers, USS Truxton (DDG-103) and USS Mason (DDG-87), which tried to enter the Persian Gulf without permission and were forced to turn back into the Sea of Oman.\nThe footage also shows the new Iranian loitering munition, Shahid Danaye, which appears very similar to the Israeli IAI Harop.",
-   "timestamp": "2026-06-05T14:44:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2308f48f877d18eeb857fc22a9681e93",
-   "url": "https://t.me/OSINTWarfare/5174",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing the targeting of an IDF Merkava Mk. 4M tank and a Humvee in the town of Zawtar al-Sharqiyah in southern Lebanon using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-06-05T02:19:14+00:00",
    "has_media": false
   },
   {
@@ -199,15 +208,6 @@
    "text": "⚡️\nIsraeli soldier Eitan Shmuel Lamberg, killed in Lebanon by Hezbollah",
    "timestamp": "2026-06-04T19:27:30+00:00",
    "has_media": true
-  },
-  {
-   "id": "18dfb135c69d3cc6937af0b39d487dac",
-   "url": "https://t.me/warmonitors/44251",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "The idea that Israel is planning on constructing this “greater Israel state”, regardless of its plausibility, is not an excuse for groups such as Hamas or Hezbollah to initiate wars themselves and drag their entire counties into death and destruction.\nDoing Israel a favour.",
-   "timestamp": "2026-06-04T10:32:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
