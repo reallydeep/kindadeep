@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-05T23:42:55Z",
- "count": 45,
+ "generated_utc": "2026-06-06T01:34:30Z",
+ "count": 44,
  "items": [
+  {
+   "id": "2c04dda38be6b50b77d5f6e7ab939d39",
+   "url": "https://t.me/OSINTWarfare/5182",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of an IDF Merkava Mk. 4M tank and a Namer armored personnel carrier (APC) in southern Lebanon using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-06-05T23:58:52+00:00",
+   "has_media": false
+  },
   {
    "id": "c1e53ba3813f185c240660e39bbc4093",
    "url": "https://t.me/OSINTWarfare/5181",
@@ -10,15 +19,6 @@
    "text": "According to a report by the United24 news website, citing documents from the Yuri Gagarin Aviation Plant (KnAAZ) as well as the Zvezda and Yakovlev companies, Russia is currently producing 16 Su-35 Multirole Fighters intended for the Islamic Republic of Iran…",
    "timestamp": "2026-06-05T23:19:00+00:00",
    "has_media": false
-  },
-  {
-   "id": "f55733cb0d1613b35013c59acec48ebe",
-   "url": "https://t.me/OSINTWarfare/5180",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A police station in Manama, the capital of Bahrain, was attacked with Molotov cocktails by unidentified individuals in protest against the arrest of Shiite citizens.\nBahrain has a Shiite-majority population but is ruled by a Sunni monarchy, so it’s no surprise that much of the population is pro-Iran and supported Iranian strikes on U.S. interests in the country.",
-   "timestamp": "2026-06-05T22:22:51+00:00",
-   "has_media": true
   },
   {
    "id": "9ea667020b481ac11bf7feb8dfbb07eb",
@@ -199,15 +199,6 @@
    "text": "The Islamic Republic of Iran Navy has released footage showing the launch of a Qader anti-ship cruise missile targeting what it described as a “command and control center” aboard a U.S. Navy destroyer in the Gulf of Oman.",
    "timestamp": "2026-06-03T20:49:04+00:00",
    "has_media": true
-  },
-  {
-   "id": "20a0c75393f57ce81506bffe63bb3334",
-   "url": "https://t.me/OSINTWarfare/5162",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 2 June 2026 showing the targeting of IDF troops on the southern outskirts of the town of Zawtar al-Sharqiyah in southern Lebanon using an Ababil FPV drone equipped with thermal imaging.",
-   "timestamp": "2026-06-03T16:54:19+00:00",
-   "has_media": false
   },
   {
    "id": "5a7f5238571041259813dd59a13ca17d",
