@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-06T08:08:18Z",
+ "generated_utc": "2026-06-06T10:17:29Z",
  "count": 44,
  "items": [
+  {
+   "id": "17df52a21c4aef1e88534050c77b2a67",
+   "url": "https://t.me/warmonitors/44263",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Manar correspondent: Israeli drone strike in the town of Jebchit, southern Lebanon",
+   "timestamp": "2026-06-06T09:22:30+00:00",
+   "has_media": false
+  },
   {
    "id": "a85da2b90997cd9081744e69b0cce27e",
    "url": "https://t.me/warmonitors/44262",
@@ -217,15 +226,6 @@
    "text": "The Islamic Republic of Iran Navy has released footage showing the launch of a Qader anti-ship cruise missile targeting what it described as a “command and control center” aboard a U.S. Navy destroyer in the Gulf of Oman.",
    "timestamp": "2026-06-03T20:49:04+00:00",
    "has_media": true
-  },
-  {
-   "id": "5a7f5238571041259813dd59a13ca17d",
-   "url": "https://t.me/warmonitors/44243",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nKuwait expels two Iranian diplomats in protest over Iranian attack on it tonight",
-   "timestamp": "2026-06-03T14:02:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
