@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-06T21:30:12Z",
- "count": 43,
+ "generated_utc": "2026-06-06T22:40:02Z",
+ "count": 42,
  "items": [
   {
    "id": "ed003050f4250b6f2aedabcd2abcfe18",
@@ -171,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "According to a report by the United24 news website, citing documents from the Yuri Gagarin Aviation Plant (KnAAZ) as well as the Zvezda and Yakovlev companies, Russia is currently producing 16 Su-35 Multirole Fighters intended for the Islamic Republic of Iran…",
    "timestamp": "2026-06-05T23:19:00+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9ea667020b481ac11bf7feb8dfbb07eb",
-   "url": "https://t.me/OSINTWarfare/5179",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
-   "timestamp": "2026-06-05T21:30:46+00:00",
    "has_media": false
   },
   {
