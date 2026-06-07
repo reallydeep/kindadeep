@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-07T17:18:12Z",
- "count": 42,
+ "generated_utc": "2026-06-07T18:41:25Z",
+ "count": 43,
  "items": [
+  {
+   "id": "83446d2b915bbef9b10683e37e61264f",
+   "url": "https://t.me/OSINTWarfare/5207",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran’s Civil Aviation Authority has ordered the closure of its airspace, with a NOTAM (Notice to Air Missions) likely to follow soon.",
+   "timestamp": "2026-06-07T18:35:17+00:00",
+   "has_media": false
+  },
   {
    "id": "a434b2bf15b76bfa23fa864a97b802e1",
    "url": "https://t.me/warmonitors/44277",
