@@ -1,7 +1,106 @@
 {
- "generated_utc": "2026-06-07T18:41:25Z",
- "count": 43,
+ "generated_utc": "2026-06-07T20:01:10Z",
+ "count": 46,
  "items": [
+  {
+   "id": "a4129109490d767b7c0bb8ba0d2d7523",
+   "url": "https://t.me/OSINTWarfare/5215",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian air defenses shot down a hostile UAV over Tabriz in northwestern Iran.",
+   "timestamp": "2026-06-07T19:54:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f9169c9b3daf4a31c76f2dc1d7ed9b91",
+   "url": "https://t.me/warmonitors/44284",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTen missiles were launched at Israel: all were intercepted",
+   "timestamp": "2026-06-07T19:52:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6d85237d6f5305f5850a927d6f60db85",
+   "url": "https://t.me/warmonitors/44283",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nAir defence active in the Haifa area, Israel",
+   "timestamp": "2026-06-07T19:48:03+00:00",
+   "has_media": true
+  },
+  {
+   "id": "60c317d1fc90d06c5bee6c9c0da7e8d6",
+   "url": "https://t.me/warmonitors/44282",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nBarak Ravid: US official: President Trump briefed on escalation between Israel and Iran",
+   "timestamp": "2026-06-07T19:47:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "66b2428cea82d8f8882fe59c45a96ae3",
+   "url": "https://t.me/warmonitors/44281",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIsraeli officials say they will respond to the launches from Iran",
+   "timestamp": "2026-06-07T19:47:48+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0ac72747c15a9477f2327fe0c67da59a",
+   "url": "https://t.me/warmonitors/44280",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIDF Spokesperson: The IDF has identified that missiles were recently launched from Iran towards the territory of the State of Israel. Defense systems are working to intercept the threat.",
+   "timestamp": "2026-06-07T19:47:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8fc649bb64e8f89a5016bbc46c5f1335",
+   "url": "https://t.me/OSINTWarfare/5213",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Iranian ballistic missile launches from Karaj (right) and Qom (left).",
+   "timestamp": "2026-06-07T19:41:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "825ea5ba5994e18397e5bf86093567ec",
+   "url": "https://t.me/OSINTWarfare/5211",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of ballistic missiles launched by the IRGC Aerospace Force from Isfahan as they head toward Israel.",
+   "timestamp": "2026-06-07T19:22:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c19b0ed10861462f2479c86a4a26596a",
+   "url": "https://t.me/OSINTWarfare/5210",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy Khorramshahr ballistic missiles were reportedly launched from Kermanshah in western Iran.",
+   "timestamp": "2026-06-07T19:15:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cb9dcf693a861f57f3aee669198aa17b",
+   "url": "https://t.me/OSINTWarfare/5209",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy Khorramshahr ballistic missiles were reportedly launched from Kermanshah in western Iran.",
+   "timestamp": "2026-06-07T19:10:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4b7af9d25ae6c04c6f91570cdf9cae4b",
+   "url": "https://t.me/OSINTWarfare/5208",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy activity is reported by the Islamic Republic of Iran Air Force (IRIAF) over Tehran and western Iran, with multiple MiG-29s and F-5s seen flying.",
+   "timestamp": "2026-06-07T18:49:53+00:00",
+   "has_media": false
+  },
   {
    "id": "83446d2b915bbef9b10683e37e61264f",
    "url": "https://t.me/OSINTWarfare/5207",
@@ -120,57 +219,12 @@
    "has_media": true
   },
   {
-   "id": "4e1e76d45b721ef1b2cb4012dddb0493",
-   "url": "https://t.me/OSINTWarfare/5195",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah has shot down what appears to be an IAI Eitan unmanned surveillance and reconnaissance aerial vehicle over the village of Mlita in southern Lebanon.",
-   "timestamp": "2026-06-06T17:17:46+00:00",
-   "has_media": true
-  },
-  {
    "id": "9871002f0c271c0feca560817dd3fdb1",
    "url": "https://t.me/warmonitors/44268",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nOver the past 24 hours:\n1. An IDF soldier shot and killed a seven-month-old Palestinian baby in Hebron\n2. The IDF killed a senior officer in the Lebanese army and two additional Lebanese soldiers in an airstrike in southern Lebanon\n3. Settlers, with the assistance of at least one IDF soldier (see video), carried out a pogrom in the Palestinian village of Hawara. Nine Palestinians were injured",
    "timestamp": "2026-06-06T17:07:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d1a1488b1f15150acd1f75d529c0389e",
-   "url": "https://t.me/OSINTWarfare/5194",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated May 28, 2026, showing the targeting of an IDF Merkava Mk. 4M tank on the southern outskirts of the town of Zawtar al-Sharqiyah in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-06T14:49:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2f9f4fe4f2c405b33293103c9e077b11",
-   "url": "https://t.me/OSINTWarfare/5192",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Emad medium-range ballistic missiles (MRBMs) toward Kuwait early this morning.\nIt is somewhat unusual to use MRBMs, given that SRBMs could be used instead; the reason for this choice is not clear.",
-   "timestamp": "2026-06-06T13:05:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "38b08ddd4a3f76cfb14712a81bb8d2b7",
-   "url": "https://t.me/OSINTWarfare/5190",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Israeli drone strike targeted a Lebanese Army military vehicle on the Kafr Tibnit–Kharbital road in the Nabatieh area, killing three personnel, including two officers holding the ranks of brigadier general and captain, as well as a soldier.",
-   "timestamp": "2026-06-06T12:14:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5a40b833e8317db7592e38f92b6c38bb",
-   "url": "https://t.me/OSINTWarfare/5188",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses are engaging hostile aerial targets over Qeshm Island in the Persian Gulf.",
-   "timestamp": "2026-06-06T11:58:42+00:00",
    "has_media": true
   },
   {
@@ -189,33 +243,6 @@
    "channel": "WarMonitors",
    "text": "You don’t start wars you are objectively destined to lose. End of story.\nThat’s simply just suicide.",
    "timestamp": "2026-06-06T10:47:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "17df52a21c4aef1e88534050c77b2a67",
-   "url": "https://t.me/warmonitors/44263",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Manar correspondent: Israeli drone strike in the town of Jebchit, southern Lebanon",
-   "timestamp": "2026-06-06T09:22:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a85da2b90997cd9081744e69b0cce27e",
-   "url": "https://t.me/warmonitors/44262",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIranian attack on Bahrain",
-   "timestamp": "2026-06-06T01:42:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "782842fbe494b24acb13c6fcb3b20882",
-   "url": "https://t.me/warmonitors/44261",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera correspondent: Sirens sounded several times in Kuwait as explosions were heard, reportedly from interceptor missiles.",
-   "timestamp": "2026-06-06T01:42:30+00:00",
    "has_media": false
   },
   {
