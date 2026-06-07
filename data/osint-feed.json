@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-07T22:34:19Z",
+ "generated_utc": "2026-06-07T23:39:51Z",
  "count": 50,
  "items": [
+  {
+   "id": "4b63ac3027541835d8b01a15882a1431",
+   "url": "https://t.me/OSINTWarfare/5228",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Visual confirmation of an Iranian ballistic missile impact in northern Israel.",
+   "timestamp": "2026-06-07T23:38:37+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6d849b605185dbb12fc1629f02293523",
+   "url": "https://t.me/OSINTWarfare/5227",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Mehrabad Airport and Imam Khomeini International Airport in Tehran are being evacuated, despite reports that Israel does not intend to retaliate.\nFrom around midnight until now, continuous aircraft activity has been heard across several areas of Tehran, including western Tehran, Tehranpars, and Islamshahr.\nAircraft are taking off from Mehrabad at short intervals (every few minutes), and unlike previous nights, air traffic has noticeably increased.",
+   "timestamp": "2026-06-07T23:32:46+00:00",
+   "has_media": true
+  },
   {
    "id": "7585f662e23bfeeb94f10c10330289ed",
    "url": "https://t.me/OSINTWarfare/5226",
@@ -208,24 +226,6 @@
    "text": "Heavy Khorramshahr ballistic missiles were reportedly launched from Kermanshah in western Iran.",
    "timestamp": "2026-06-07T19:10:17+00:00",
    "has_media": true
-  },
-  {
-   "id": "4b7af9d25ae6c04c6f91570cdf9cae4b",
-   "url": "https://t.me/OSINTWarfare/5208",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy activity is reported by the Islamic Republic of Iran Air Force (IRIAF) over Tehran and western Iran, with multiple MiG-29s and F-5s seen flying.",
-   "timestamp": "2026-06-07T18:49:53+00:00",
-   "has_media": false
-  },
-  {
-   "id": "83446d2b915bbef9b10683e37e61264f",
-   "url": "https://t.me/OSINTWarfare/5207",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran’s Civil Aviation Authority has ordered the closure of its airspace, with a NOTAM (Notice to Air Missions) likely to follow soon.",
-   "timestamp": "2026-06-07T18:35:17+00:00",
-   "has_media": false
   },
   {
    "id": "a434b2bf15b76bfa23fa864a97b802e1",
