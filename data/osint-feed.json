@@ -1,7 +1,79 @@
 {
- "generated_utc": "2026-06-07T20:01:10Z",
- "count": 46,
+ "generated_utc": "2026-06-07T21:21:13Z",
+ "count": 48,
  "items": [
+  {
+   "id": "b885b134fd502d879e4cb8a85f247656",
+   "url": "https://t.me/OSINTWarfare/5221",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UPDATE: An unidentified UAV, possibly an Israeli Hermes 900, has crashed in Karbala Governorate in central Iraq. It was downed by a shoulder-fired missile.",
+   "timestamp": "2026-06-07T21:06:58+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ee6a549ba793a0968f84f8b7c5a77366",
+   "url": "https://t.me/OSINTWarfare/5220",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A booster from an Iranian Kheibar Shekan ballistic missile fell near the town of Tafs in the western countryside of Daraa, southern Syria.",
+   "timestamp": "2026-06-07T20:58:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ed6fa1abd0c6a77e20803baf986aeafe",
+   "url": "https://t.me/OSINTWarfare/5219",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UPDATE: An unidentified UAV, possibly an Israeli Hermes 900, has crashed in Karbala Governorate in central Iraq. It was downed by a shoulder-fired missile.",
+   "timestamp": "2026-06-07T20:46:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b3e84b0aff8915b03519a4c24a4b3261",
+   "url": "https://t.me/OSINTWarfare/5218",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Visual confirmation of an Iranian ballistic missile impact in northern Israel.",
+   "timestamp": "2026-06-07T20:34:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4dd80d8a08e031dc526095d25b55601c",
+   "url": "https://t.me/OSINTWarfare/5217",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of medium-range ballistic missiles (MRBMs) toward Israel tonight, in response to earlier Israeli airstrike on Beirut.",
+   "timestamp": "2026-06-07T20:25:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "27bfe67688f49128f195377017102a3e",
+   "url": "https://t.me/warmonitors/44287",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nBarak Ravid:\n🚨\n🚨\n🚨\nPresident Trump tells me: \"I will call Netanyahu now and tell him not to attack Iran in response\"",
+   "timestamp": "2026-06-07T20:12:33+00:00",
+   "has_media": false
+  },
+  {
+   "id": "745da780182e4f4729cee95911baf07a",
+   "url": "https://t.me/warmonitors/44285",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump to Fox News: I told Iran - you launched missiles, that's enough. Now go back to the negotiating table and make a deal",
+   "timestamp": "2026-06-07T20:12:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "45046e0d6df09b51fc784ece9fd1b9d0",
+   "url": "https://t.me/warmonitors/44286",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nCNN, citing two Israeli sources: We will respond forcefully to the Iranian ballistic missile launches.",
+   "timestamp": "2026-06-07T20:12:32+00:00",
+   "has_media": false
+  },
   {
    "id": "a4129109490d767b7c0bb8ba0d2d7523",
    "url": "https://t.me/OSINTWarfare/5215",
@@ -156,30 +228,12 @@
    "has_media": false
   },
   {
-   "id": "cb63ba28b0f0cb4651103d5b0bfbac13",
-   "url": "https://t.me/OSINTWarfare/5201",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command says it shot down two Iranian one-way attack drones that were “threatening international maritime traffic” in the Strait of Hormuz.",
-   "timestamp": "2026-06-07T01:08:42+00:00",
-   "has_media": false
-  },
-  {
    "id": "ed003050f4250b6f2aedabcd2abcfe18",
    "url": "https://t.me/warmonitors/44274",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\n#BREAKING\nIsrael bombs Gaza",
    "timestamp": "2026-06-06T20:52:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "943f68f3522d60a8a0bbb278a0ba8bad",
-   "url": "https://t.me/OSINTWarfare/5198",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two IDF soldiers were killed in separate incidents in southern Lebanon over the weekend:\n• Captain Shahar Gamla, 23, a deputy platoon commander in the Commando Brigade’s Egoz Unit, was severely injured by a Hezbollah drone late Thursday and succumbed to his wounds this morning.\n• Sgt. Ohad Yaari, 21, of the Givati Brigade's Shaked Battalion was killed by a suspected accidental firearm discharge in southern Lebanon.",
-   "timestamp": "2026-06-06T20:07:52+00:00",
    "has_media": true
   },
   {
@@ -201,15 +255,6 @@
    "has_media": false
   },
   {
-   "id": "e52b38a345dac45c572144e75eab3b6a",
-   "url": "https://t.me/OSINTWarfare/5196",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) carried out an airstrike on a residential building in the Mawasi area of Khan Yunis, in the southern Gaza Strip.",
-   "timestamp": "2026-06-06T19:21:12+00:00",
-   "has_media": true
-  },
-  {
    "id": "0f5e2ebcddb88973c81b872f7af6f862",
    "url": "https://t.me/warmonitors/44270",
    "source": "telegram",
@@ -217,33 +262,6 @@
    "text": "⚡️\nIsrael shot and killed 7 months old infant Sam Abu Haikal",
    "timestamp": "2026-06-06T18:02:33+00:00",
    "has_media": true
-  },
-  {
-   "id": "9871002f0c271c0feca560817dd3fdb1",
-   "url": "https://t.me/warmonitors/44268",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nOver the past 24 hours:\n1. An IDF soldier shot and killed a seven-month-old Palestinian baby in Hebron\n2. The IDF killed a senior officer in the Lebanese army and two additional Lebanese soldiers in an airstrike in southern Lebanon\n3. Settlers, with the assistance of at least one IDF soldier (see video), carried out a pogrom in the Palestinian village of Hawara. Nine Palestinians were injured",
-   "timestamp": "2026-06-06T17:07:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "099c2ff556a48a2b47590447ca417c4b",
-   "url": "https://t.me/warmonitors/44265",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsrael bombs Lebanese army vehicle today, martyrs multiple servicemen",
-   "timestamp": "2026-06-06T10:47:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fb0649c9ba485c07ee482af5fe3936d1",
-   "url": "https://t.me/warmonitors/44266",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "You don’t start wars you are objectively destined to lose. End of story.\nThat’s simply just suicide.",
-   "timestamp": "2026-06-06T10:47:31+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
