@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-07T14:45:13Z",
+ "generated_utc": "2026-06-07T16:00:06Z",
  "count": 43,
  "items": [
+  {
+   "id": "a434b2bf15b76bfa23fa864a97b802e1",
+   "url": "https://t.me/warmonitors/44277",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#LATEST\nIsrael continues bombing South Lebanon",
+   "timestamp": "2026-06-07T15:47:31+00:00",
+   "has_media": true
+  },
   {
    "id": "218da6d93b8f078210298d6d6c8b1e9d",
    "url": "https://t.me/OSINTWarfare/5206",
@@ -207,15 +216,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nUS official tells Al Jazeera: A round of talks between Lebanon and Israel is scheduled to take place after June 22 to reach an agreement",
    "timestamp": "2026-06-05T17:57:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6d71db0affd6ff96431c7bf62cd2aabe",
-   "url": "https://t.me/warmonitors/44257",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIranian media announced that the Revolutionary Guards fired \"warning shots\" of missiles and drones at passing US warships in the Gulf of Oman.",
-   "timestamp": "2026-06-05T15:22:30+00:00",
    "has_media": false
   },
   {
