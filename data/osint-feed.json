@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-07T12:54:50Z",
- "count": 42,
+ "generated_utc": "2026-06-07T14:45:13Z",
+ "count": 43,
  "items": [
+  {
+   "id": "218da6d93b8f078210298d6d6c8b1e9d",
+   "url": "https://t.me/OSINTWarfare/5206",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israel's airstrike on Beirut is just to test Iran and see if it responds.",
+   "timestamp": "2026-06-07T14:28:51+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5dd7643b93e6c2ac5b94db101f0e902b",
+   "url": "https://t.me/OSINTWarfare/5202",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Uncle Kim personally inspected one of the facilities producing the Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missiles, which are better known as KN-23 or “Kimskander.”",
+   "timestamp": "2026-06-07T14:07:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8307acbaede404d18087ae2438912163",
+   "url": "https://t.me/warmonitors/44276",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsrael bombs residential area in Beirut, Lebanon. Multiple civilian casualties",
+   "timestamp": "2026-06-07T13:12:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2194bc8ad2732611f5db76e7994e1c73",
+   "url": "https://t.me/warmonitors/44275",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIn the last hour, Israel has also bombed Beirut, Lebanon",
+   "timestamp": "2026-06-07T13:12:30+00:00",
+   "has_media": false
+  },
   {
    "id": "cb63ba28b0f0cb4651103d5b0bfbac13",
    "url": "https://t.me/OSINTWarfare/5201",
@@ -165,15 +201,6 @@
    "has_media": false
   },
   {
-   "id": "2c04dda38be6b50b77d5f6e7ab939d39",
-   "url": "https://t.me/OSINTWarfare/5182",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing the targeting of an IDF Merkava Mk. 4M tank and a Namer armored personnel carrier (APC) in southern Lebanon using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-06-05T23:58:52+00:00",
-   "has_media": false
-  },
-  {
    "id": "85dc2fead76a0fc593a797bc374fff01",
    "url": "https://t.me/warmonitors/44258",
    "source": "telegram",
@@ -190,24 +217,6 @@
    "text": "⚡\nIranian media announced that the Revolutionary Guards fired \"warning shots\" of missiles and drones at passing US warships in the Gulf of Oman.",
    "timestamp": "2026-06-05T15:22:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "fb0acf66bb76d16dcb76b2e1cf5da2d7",
-   "url": "https://t.me/warmonitors/44256",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump: We're talking to Hezbollah, they've talked to us. It's interrelated, I've spoken to them and Bibi Netanyahu, and I think progress is being made.",
-   "timestamp": "2026-06-04T20:22:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bdcc837545eab835c485421b9a264e4b",
-   "url": "https://t.me/warmonitors/44255",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli soldier Eitan Shmuel Lamberg, killed in Lebanon by Hezbollah",
-   "timestamp": "2026-06-04T19:27:30+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
