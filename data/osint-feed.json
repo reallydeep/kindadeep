@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-07T16:00:06Z",
- "count": 43,
+ "generated_utc": "2026-06-07T17:18:12Z",
+ "count": 42,
  "items": [
   {
    "id": "a434b2bf15b76bfa23fa864a97b802e1",
@@ -207,15 +207,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nAl Jazeera correspondent: Sirens sounded several times in Kuwait as explosions were heard, reportedly from interceptor missiles.",
    "timestamp": "2026-06-06T01:42:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "85dc2fead76a0fc593a797bc374fff01",
-   "url": "https://t.me/warmonitors/44258",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUS official tells Al Jazeera: A round of talks between Lebanon and Israel is scheduled to take place after June 22 to reach an agreement",
-   "timestamp": "2026-06-05T17:57:31+00:00",
    "has_media": false
   },
   {
