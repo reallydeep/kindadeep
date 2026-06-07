@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-06-07T21:21:13Z",
- "count": 48,
+ "generated_utc": "2026-06-07T22:34:19Z",
+ "count": 50,
  "items": [
+  {
+   "id": "7585f662e23bfeeb94f10c10330289ed",
+   "url": "https://t.me/OSINTWarfare/5226",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Ground Forces conducted strikes against Kurdish separatist positions in Sulaymaniyah, Iraqi Kurdistan, using Shahed-136 loitering munitions, Fajr-5C guided rockets, and Fath-360 (BM-120) short-range ballistic missiles (SRBMs).",
+   "timestamp": "2026-06-07T21:59:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d98e56e8fb027d22c5dad52a32cfa4fc",
+   "url": "https://t.me/warmonitors/44290",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIran suspends flights at Imam Khomeini Airport until further notice",
+   "timestamp": "2026-06-07T21:47:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1ed9bfc558843d0dadef5bc04131bfac",
+   "url": "https://t.me/warmonitors/44289",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent: Two explosions heard in Sulaymaniyah, Iraqi Kurdistan",
+   "timestamp": "2026-06-07T21:47:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "42c5d7044153e961660f23427ee3ea57",
+   "url": "https://t.me/OSINTWarfare/5223",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Armed Forces participated in the attack against Israel by launching jet-powered Shahed-238 loitering munitions.",
+   "timestamp": "2026-06-07T21:43:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "edc8a7be5ffc83b8723d0a223fe55405",
+   "url": "https://t.me/OSINTWarfare/5222",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Around 25 solid-fuel Kheibar Shekan missiles were fired toward Israel in tonight’s attack, with 4 failing and the rest reaching Israeli airspace.",
+   "timestamp": "2026-06-07T21:30:02+00:00",
+   "has_media": true
+  },
   {
    "id": "b885b134fd502d879e4cb8a85f247656",
    "url": "https://t.me/OSINTWarfare/5221",
@@ -192,24 +237,6 @@
    "has_media": true
   },
   {
-   "id": "218da6d93b8f078210298d6d6c8b1e9d",
-   "url": "https://t.me/OSINTWarfare/5206",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Israel's airstrike on Beirut is just to test Iran and see if it responds.",
-   "timestamp": "2026-06-07T14:28:51+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5dd7643b93e6c2ac5b94db101f0e902b",
-   "url": "https://t.me/OSINTWarfare/5202",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Uncle Kim personally inspected one of the facilities producing the Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missiles, which are better known as KN-23 or “Kimskander.”",
-   "timestamp": "2026-06-07T14:07:33+00:00",
-   "has_media": true
-  },
-  {
    "id": "8307acbaede404d18087ae2438912163",
    "url": "https://t.me/warmonitors/44276",
    "source": "telegram",
@@ -253,15 +280,6 @@
    "text": "⚡\nIranian Tasnim News Agency: Explosion heard on Kharg Island, linked to controlled munitions explosion",
    "timestamp": "2026-06-06T19:47:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "0f5e2ebcddb88973c81b872f7af6f862",
-   "url": "https://t.me/warmonitors/44270",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsrael shot and killed 7 months old infant Sam Abu Haikal",
-   "timestamp": "2026-06-06T18:02:33+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
