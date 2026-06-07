@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-06T23:41:01Z",
+ "generated_utc": "2026-06-07T01:56:06Z",
  "count": 42,
  "items": [
+  {
+   "id": "cb63ba28b0f0cb4651103d5b0bfbac13",
+   "url": "https://t.me/OSINTWarfare/5201",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command says it shot down two Iranian one-way attack drones that were “threatening international maritime traffic” in the Strait of Hormuz.",
+   "timestamp": "2026-06-07T01:08:42+00:00",
+   "has_media": false
+  },
   {
    "id": "ed003050f4250b6f2aedabcd2abcfe18",
    "url": "https://t.me/warmonitors/44274",
@@ -162,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah released footage showing the targeting of an IDF Merkava Mk. 4M tank and a Namer armored personnel carrier (APC) in southern Lebanon using Ababil fiber-optic FPV drones.",
    "timestamp": "2026-06-05T23:58:52+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c1e53ba3813f185c240660e39bbc4093",
-   "url": "https://t.me/OSINTWarfare/5181",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to a report by the United24 news website, citing documents from the Yuri Gagarin Aviation Plant (KnAAZ) as well as the Zvezda and Yakovlev companies, Russia is currently producing 16 Su-35 Multirole Fighters intended for the Islamic Republic of Iran…",
-   "timestamp": "2026-06-05T23:19:00+00:00",
    "has_media": false
   },
   {
