@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-08T21:39:16Z",
+ "generated_utc": "2026-06-08T23:02:37Z",
  "count": 53,
  "items": [
+  {
+   "id": "d78a78281332f809acd81990053ce8ae",
+   "url": "https://t.me/OSINTWarfare/5255",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A one-way attack UAV launched by Ansar Allah (Houthis) from Yemen was intercepted by Israeli air defenses over Eilat.",
+   "timestamp": "2026-06-08T21:45:21+00:00",
+   "has_media": true
+  },
   {
    "id": "01141ac70a85fb28c7c410ac61ee8c20",
    "url": "https://t.me/warmonitors/44312",
@@ -280,15 +289,6 @@
    "text": "Israeli airstrikes targeted several air defense sites in Tabriz and Tehran.",
    "timestamp": "2026-06-08T01:50:32+00:00",
    "has_media": false
-  },
-  {
-   "id": "4134fae37a12ad1b3fe6441a9986e5be",
-   "url": "https://t.me/OSINTWarfare/5235",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows smoke rising from a warehouse linked to drone production in Najafabad, Isfahan Province, following an Israeli airstrike.",
-   "timestamp": "2026-06-08T01:40:54+00:00",
-   "has_media": true
   },
   {
    "id": "e1678de554cfe34b560e1256f7a147fa",
