@@ -1,7 +1,106 @@
 {
- "generated_utc": "2026-06-07T23:39:51Z",
- "count": 50,
+ "generated_utc": "2026-06-08T01:57:49Z",
+ "count": 53,
  "items": [
+  {
+   "id": "425fd0b6aa7cf92f85407b2b55a3a3e3",
+   "url": "https://t.me/OSINTWarfare/5236",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israeli airstrikes targeted several air defense sites in Tabriz and Tehran.",
+   "timestamp": "2026-06-08T01:50:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4134fae37a12ad1b3fe6441a9986e5be",
+   "url": "https://t.me/OSINTWarfare/5235",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows smoke rising from a warehouse linked to drone production in Najafabad, Isfahan Province, following an Israeli airstrike.",
+   "timestamp": "2026-06-08T01:40:54+00:00",
+   "has_media": true
+  },
+  {
+   "id": "45893794e11e34cc0646c70a38fb4d57",
+   "url": "https://t.me/OSINTWarfare/5234",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Israeli airstrike struck the city of Eslamabad-e Gharb in Iran’s Kermanshah province.",
+   "timestamp": "2026-06-08T01:36:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "519fc541446637e8e27123054ffcde4b",
+   "url": "https://t.me/OSINTWarfare/5233",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force (IAF) conducted an airstrike in the direction of Tehran’s Mehrabad International Airport. It is currently unconfirmed whether the airport itself was hit.",
+   "timestamp": "2026-06-08T01:32:06+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e1678de554cfe34b560e1256f7a147fa",
+   "url": "https://t.me/warmonitors/44294",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nExplosions heard in Tehran",
+   "timestamp": "2026-06-08T01:27:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "689ea36af640df504980ec862dcde486",
+   "url": "https://t.me/warmonitors/44292",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera correspondent: Explosions heard in the Lebanese capital, Beirut",
+   "timestamp": "2026-06-08T01:27:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "118c4b8b8dd76911a5fc17d82e1e83aa",
+   "url": "https://t.me/warmonitors/44293",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nExplosions heard across Iran now",
+   "timestamp": "2026-06-08T01:27:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0e6bb2c58cc2f6dc98b6fe87266a9b69",
+   "url": "https://t.me/OSINTWarfare/5232",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows missiles fired by the Israeli Navy from the Mediterranean Sea heading east.",
+   "timestamp": "2026-06-08T01:25:51+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d42980214965c906abda775c51daa27a",
+   "url": "https://t.me/OSINTWarfare/5231",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Explosions have also been reported in Tehran and Isfahan.",
+   "timestamp": "2026-06-08T01:23:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ff68a7caf1ce57396bd6172ba4bc398a",
+   "url": "https://t.me/OSINTWarfare/5230",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Explosions have been reported in the northwestern Iranian city of Tabriz, as well as in the Iraqi capital, Baghdad.",
+   "timestamp": "2026-06-08T01:18:28+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cc7c88530d8e1a6a4520b302c7db4bc0",
+   "url": "https://t.me/OSINTWarfare/5229",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Explosions have been reported in the northwestern Iranian city of Tabriz, as well as in the Iraqi capital, Baghdad.",
+   "timestamp": "2026-06-08T01:14:42+00:00",
+   "has_media": false
+  },
   {
    "id": "4b63ac3027541835d8b01a15882a1431",
    "url": "https://t.me/OSINTWarfare/5228",
@@ -138,15 +237,6 @@
    "has_media": false
   },
   {
-   "id": "a4129109490d767b7c0bb8ba0d2d7523",
-   "url": "https://t.me/OSINTWarfare/5215",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses shot down a hostile UAV over Tabriz in northwestern Iran.",
-   "timestamp": "2026-06-07T19:54:40+00:00",
-   "has_media": false
-  },
-  {
    "id": "f9169c9b3daf4a31c76f2dc1d7ed9b91",
    "url": "https://t.me/warmonitors/44284",
    "source": "telegram",
@@ -192,42 +282,6 @@
    "has_media": false
   },
   {
-   "id": "8fc649bb64e8f89a5016bbc46c5f1335",
-   "url": "https://t.me/OSINTWarfare/5213",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Iranian ballistic missile launches from Karaj (right) and Qom (left).",
-   "timestamp": "2026-06-07T19:41:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "825ea5ba5994e18397e5bf86093567ec",
-   "url": "https://t.me/OSINTWarfare/5211",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of ballistic missiles launched by the IRGC Aerospace Force from Isfahan as they head toward Israel.",
-   "timestamp": "2026-06-07T19:22:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c19b0ed10861462f2479c86a4a26596a",
-   "url": "https://t.me/OSINTWarfare/5210",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy Khorramshahr ballistic missiles were reportedly launched from Kermanshah in western Iran.",
-   "timestamp": "2026-06-07T19:15:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cb9dcf693a861f57f3aee669198aa17b",
-   "url": "https://t.me/OSINTWarfare/5209",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy Khorramshahr ballistic missiles were reportedly launched from Kermanshah in western Iran.",
-   "timestamp": "2026-06-07T19:10:17+00:00",
-   "has_media": true
-  },
-  {
    "id": "a434b2bf15b76bfa23fa864a97b802e1",
    "url": "https://t.me/warmonitors/44277",
    "source": "telegram",
@@ -252,33 +306,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIn the last hour, Israel has also bombed Beirut, Lebanon",
    "timestamp": "2026-06-07T13:12:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ed003050f4250b6f2aedabcd2abcfe18",
-   "url": "https://t.me/warmonitors/44274",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nIsrael bombs Gaza",
-   "timestamp": "2026-06-06T20:52:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a1cd11f40a17d971f5cbe03c1ee9bd76",
-   "url": "https://t.me/warmonitors/44272",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n2 IDF soldiers were killed in Lebanon by Hezbollah over the weekend, in two separate incidents",
-   "timestamp": "2026-06-06T19:47:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0cebf5a522ef091a5c12e3f2afdd0e7d",
-   "url": "https://t.me/warmonitors/44271",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIranian Tasnim News Agency: Explosion heard on Kharg Island, linked to controlled munitions explosion",
-   "timestamp": "2026-06-06T19:47:30+00:00",
    "has_media": false
   },
   {
