@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-06-08T14:56:06Z",
+ "generated_utc": "2026-06-08T17:43:08Z",
  "count": 52,
  "items": [
+  {
+   "id": "f15f8427125c9c9508abd3b78eacfc0e",
+   "url": "https://t.me/warmonitors/44309",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "stop stressing about war, go outside and touch some grass buddy.",
+   "timestamp": "2026-06-08T17:12:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "beff0879dd72d48b8788327fe4f2f532",
+   "url": "https://t.me/warmonitors/44310",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nOdds on a US x Iran permanent peace deal by the end of this month now down to only 17% following the recent renewal of the war in the middle east.",
+   "timestamp": "2026-06-08T17:12:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bd7d7b1cde9f29cc36aabb0cdaeda701",
+   "url": "https://t.me/OSINTWarfare/5254",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of an IDF Merkava tank near the historic Beaufort Castle in southern Lebanon using a 9M133-1 Kornet-E anti-tank guided missile (ATGM).",
+   "timestamp": "2026-06-08T16:58:51+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f27139ad8ef98f2e7d38d5c45c0968eb",
+   "url": "https://t.me/OSINTWarfare/5253",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Arabia’s Ministry of Defense announced that a ballistic missile launched from Yemen by Ansar Allah (Houthis) early this morning experienced a technical malfunction, causing it to deviate from its planned trajectory and ultimately fall in an uninhabited area near the Saudi–Yemeni border.\nThis is not the first time this has occurred, as since October 7, Palestine 2 ballistic missile launches have reportedly suffered multiple malfunctions and failures, with some missiles falling within Saudi territory.",
+   "timestamp": "2026-06-08T16:45:48+00:00",
+   "has_media": true
+  },
+  {
+   "id": "541b370f06c72e47319959e154cb7deb",
+   "url": "https://t.me/OSINTWarfare/5252",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing the launch of Palestine 2 ballistic missiles, derived from the Iranian Kheibar Shekan, toward military targets in Tel Aviv.",
+   "timestamp": "2026-06-08T14:58:41+00:00",
+   "has_media": false
+  },
   {
    "id": "a007ce10880c5ad6ddce58a1ea4f21d9",
    "url": "https://t.me/OSINTWarfare/5251",
@@ -228,24 +273,6 @@
    "has_media": true
   },
   {
-   "id": "45893794e11e34cc0646c70a38fb4d57",
-   "url": "https://t.me/OSINTWarfare/5234",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Israeli airstrike struck the city of Eslamabad-e Gharb in Iran’s Kermanshah province.",
-   "timestamp": "2026-06-08T01:36:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "519fc541446637e8e27123054ffcde4b",
-   "url": "https://t.me/OSINTWarfare/5233",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) conducted an airstrike in the direction of Tehran’s Mehrabad International Airport. It is currently unconfirmed whether the airport itself was hit.",
-   "timestamp": "2026-06-08T01:32:06+00:00",
-   "has_media": true
-  },
-  {
    "id": "e1678de554cfe34b560e1256f7a147fa",
    "url": "https://t.me/warmonitors/44294",
    "source": "telegram",
@@ -270,33 +297,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nExplosions heard across Iran now",
    "timestamp": "2026-06-08T01:27:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0e6bb2c58cc2f6dc98b6fe87266a9b69",
-   "url": "https://t.me/OSINTWarfare/5232",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows missiles fired by the Israeli Navy from the Mediterranean Sea heading east.",
-   "timestamp": "2026-06-08T01:25:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d98e56e8fb027d22c5dad52a32cfa4fc",
-   "url": "https://t.me/warmonitors/44290",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran suspends flights at Imam Khomeini Airport until further notice",
-   "timestamp": "2026-06-07T21:47:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1ed9bfc558843d0dadef5bc04131bfac",
-   "url": "https://t.me/warmonitors/44289",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent: Two explosions heard in Sulaymaniyah, Iraqi Kurdistan",
-   "timestamp": "2026-06-07T21:47:30+00:00",
    "has_media": false
   },
   {
