@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-08T11:28:50Z",
+ "generated_utc": "2026-06-08T14:56:06Z",
  "count": 52,
  "items": [
+  {
+   "id": "a007ce10880c5ad6ddce58a1ea4f21d9",
+   "url": "https://t.me/OSINTWarfare/5251",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "It appears that Iran and Israel have ceased their operations.",
+   "timestamp": "2026-06-08T13:02:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7e82c5cd4fe6dc16d3f697f6bd45492a",
+   "url": "https://t.me/warmonitors/44307",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAmid Iran's announcement to halt its attacks on Israel, US President Donald Trump and Prime Minister Benjamin Netanyahu spoke - according to an Israeli source",
+   "timestamp": "2026-06-08T12:07:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6a8c3270d58ad5ade5deeb00f73d5a60",
+   "url": "https://t.me/OSINTWarfare/5250",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated June 4, 2026, showing the targeting of an IDF Merkava Mk. 4M tank in the vicinity of the historic Beaufort Castle in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-08T11:55:48+00:00",
+   "has_media": false
+  },
   {
    "id": "8aabaa6aab59895f1d35e3504c684d08",
    "url": "https://t.me/warmonitors/44306",
@@ -255,24 +282,6 @@
    "has_media": true
   },
   {
-   "id": "d42980214965c906abda775c51daa27a",
-   "url": "https://t.me/OSINTWarfare/5231",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosions have also been reported in Tehran and Isfahan.",
-   "timestamp": "2026-06-08T01:23:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ff68a7caf1ce57396bd6172ba4bc398a",
-   "url": "https://t.me/OSINTWarfare/5230",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosions have been reported in the northwestern Iranian city of Tabriz, as well as in the Iraqi capital, Baghdad.",
-   "timestamp": "2026-06-08T01:18:28+00:00",
-   "has_media": false
-  },
-  {
    "id": "d98e56e8fb027d22c5dad52a32cfa4fc",
    "url": "https://t.me/warmonitors/44290",
    "source": "telegram",
@@ -288,15 +297,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nAl-Mayadeen correspondent: Two explosions heard in Sulaymaniyah, Iraqi Kurdistan",
    "timestamp": "2026-06-07T21:47:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "27bfe67688f49128f195377017102a3e",
-   "url": "https://t.me/warmonitors/44287",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nBarak Ravid:\n🚨\n🚨\n🚨\nPresident Trump tells me: \"I will call Netanyahu now and tell him not to attack Iran in response\"",
-   "timestamp": "2026-06-07T20:12:33+00:00",
    "has_media": false
   },
   {
