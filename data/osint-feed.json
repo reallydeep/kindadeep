@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-06-08T01:57:49Z",
- "count": 53,
+ "generated_utc": "2026-06-08T06:39:04Z",
+ "count": 51,
  "items": [
+  {
+   "id": "83b46e34dd1202990a0a2ab0b669f43f",
+   "url": "https://t.me/OSINTWarfare/5242",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of ballistic missile launches from Iran.",
+   "timestamp": "2026-06-08T03:09:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "092a80439440ea4a56c6f1446a7dedd9",
+   "url": "https://t.me/OSINTWarfare/5241",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of ballistic missile launches from Iran.",
+   "timestamp": "2026-06-08T03:04:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0213aeeb45045cbc7578b094c131b374",
+   "url": "https://t.me/OSINTWarfare/5240",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A ballistic missile has been launched from Yemen toward Israel.",
+   "timestamp": "2026-06-08T03:01:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e453d3bbdefab087e5f2c6a39042f7a9",
+   "url": "https://t.me/OSINTWarfare/5239",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A ballistic missile has been launched from Yemen toward Israel.",
+   "timestamp": "2026-06-08T02:53:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8d70e36a32cae1d114522e94a4ef3005",
+   "url": "https://t.me/warmonitors/44295",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSky News Arabia: Iranian sources: The cities targeted by the Israeli raids are Tehran, Isfahan, Tabriz, Kermanshah, Karaj, and some other areas in western Iran.",
+   "timestamp": "2026-06-08T02:02:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "451b5f5a7db27dcf0b767f330db39c7c",
+   "url": "https://t.me/warmonitors/44296",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nMehrabad Airport Attacked in Tehran",
+   "timestamp": "2026-06-08T02:02:30+00:00",
+   "has_media": false
+  },
   {
    "id": "425fd0b6aa7cf92f85407b2b55a3a3e3",
    "url": "https://t.me/OSINTWarfare/5236",
@@ -156,60 +210,6 @@
    "has_media": true
   },
   {
-   "id": "edc8a7be5ffc83b8723d0a223fe55405",
-   "url": "https://t.me/OSINTWarfare/5222",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Around 25 solid-fuel Kheibar Shekan missiles were fired toward Israel in tonight’s attack, with 4 failing and the rest reaching Israeli airspace.",
-   "timestamp": "2026-06-07T21:30:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b885b134fd502d879e4cb8a85f247656",
-   "url": "https://t.me/OSINTWarfare/5221",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UPDATE: An unidentified UAV, possibly an Israeli Hermes 900, has crashed in Karbala Governorate in central Iraq. It was downed by a shoulder-fired missile.",
-   "timestamp": "2026-06-07T21:06:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ee6a549ba793a0968f84f8b7c5a77366",
-   "url": "https://t.me/OSINTWarfare/5220",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A booster from an Iranian Kheibar Shekan ballistic missile fell near the town of Tafs in the western countryside of Daraa, southern Syria.",
-   "timestamp": "2026-06-07T20:58:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ed6fa1abd0c6a77e20803baf986aeafe",
-   "url": "https://t.me/OSINTWarfare/5219",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UPDATE: An unidentified UAV, possibly an Israeli Hermes 900, has crashed in Karbala Governorate in central Iraq. It was downed by a shoulder-fired missile.",
-   "timestamp": "2026-06-07T20:46:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b3e84b0aff8915b03519a4c24a4b3261",
-   "url": "https://t.me/OSINTWarfare/5218",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Visual confirmation of an Iranian ballistic missile impact in northern Israel.",
-   "timestamp": "2026-06-07T20:34:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4dd80d8a08e031dc526095d25b55601c",
-   "url": "https://t.me/OSINTWarfare/5217",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of medium-range ballistic missiles (MRBMs) toward Israel tonight, in response to earlier Israeli airstrike on Beirut.",
-   "timestamp": "2026-06-07T20:25:05+00:00",
-   "has_media": true
-  },
-  {
    "id": "27bfe67688f49128f195377017102a3e",
    "url": "https://t.me/warmonitors/44287",
    "source": "telegram",
@@ -289,24 +289,6 @@
    "text": "⚡️\n#LATEST\nIsrael continues bombing South Lebanon",
    "timestamp": "2026-06-07T15:47:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "8307acbaede404d18087ae2438912163",
-   "url": "https://t.me/warmonitors/44276",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nIsrael bombs residential area in Beirut, Lebanon. Multiple civilian casualties",
-   "timestamp": "2026-06-07T13:12:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2194bc8ad2732611f5db76e7994e1c73",
-   "url": "https://t.me/warmonitors/44275",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIn the last hour, Israel has also bombed Beirut, Lebanon",
-   "timestamp": "2026-06-07T13:12:30+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
