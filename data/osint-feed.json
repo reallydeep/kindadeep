@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-08T19:52:28Z",
- "count": 52,
+ "generated_utc": "2026-06-08T21:39:16Z",
+ "count": 53,
  "items": [
+  {
+   "id": "01141ac70a85fb28c7c410ac61ee8c20",
+   "url": "https://t.me/warmonitors/44312",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nInterception in Eilat",
+   "timestamp": "2026-06-08T21:37:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bdda0b3583066ce9a6714586c8dd1d4b",
+   "url": "https://t.me/warmonitors/44311",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#LATEST\nBarak Ravid: : Trump told me that he'd warned Netanyahu that if he went back to war with Iran, he might find himself fighting alone. \"I said, 'Bibi, you better be careful, or you will be on your own very soon,'\" Trump said",
+   "timestamp": "2026-06-08T20:07:30+00:00",
+   "has_media": false
+  },
   {
    "id": "f15f8427125c9c9508abd3b78eacfc0e",
    "url": "https://t.me/warmonitors/44309",
@@ -279,15 +297,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nExplosions heard in Tehran",
    "timestamp": "2026-06-08T01:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "689ea36af640df504980ec862dcde486",
-   "url": "https://t.me/warmonitors/44292",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera correspondent: Explosions heard in the Lebanese capital, Beirut",
-   "timestamp": "2026-06-08T01:27:30+00:00",
    "has_media": false
   },
   {
