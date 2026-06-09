@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-09T18:30:04Z",
- "count": 53,
+ "generated_utc": "2026-06-09T20:28:09Z",
+ "count": 54,
  "items": [
+  {
+   "id": "90cfd51f35f2efe9f790604475399b55",
+   "url": "https://t.me/OSINTWarfare/5258",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated June 4, 2026, showing the targetinf of an IDF Merkava Mk.4M tank near the historic Beaufort Castle in southern Lebanon using an Ababil fiber-optic FPV drone.\nThe FPV struck the turret of the Merkava, which is one of the most heavily armored sections of the tank. The impact is unlikely to have caused serious damage.",
+   "timestamp": "2026-06-09T19:56:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e6f1400fd912f6314f950f484010e469",
+   "url": "https://t.me/warmonitors/44318",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#LATEST\nIranian official responds to Trump's threat: \"We will respond forcefully to any American attack\"",
+   "timestamp": "2026-06-09T19:37:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "06be96d2f6ae3453c34396a15b94b693",
+   "url": "https://t.me/warmonitors/44317",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIran shoots down a U.S. Apache helicopter patrolling the Strait of Hormuz last night, Trump says the U.S. must \"respond to this attack.\"",
+   "timestamp": "2026-06-09T18:37:31+00:00",
+   "has_media": true
+  },
   {
    "id": "b6178495eafee113f6e653e19f5918f4",
    "url": "https://t.me/warmonitors/44316",
@@ -235,24 +262,6 @@
    "text": "⚡️\nExplosions in Tehran.",
    "timestamp": "2026-06-08T09:12:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "28d201939e54915d4c0e27d306c43796",
-   "url": "https://t.me/warmonitors/44297",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsfahan, Iran",
-   "timestamp": "2026-06-08T09:12:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c34dceb673d71d5fe71821c96ca20f2e",
-   "url": "https://t.me/warmonitors/44298",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIsraeli Army Radio, citing sources: The attacks on Iran were solely Israeli, but the United States helped by intercepting some of the missiles.",
-   "timestamp": "2026-06-08T09:12:31+00:00",
-   "has_media": false
   },
   {
    "id": "170b40199bb7cbf86024fbf674f06b9b",
