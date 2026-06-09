@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-09T13:58:21Z",
+ "generated_utc": "2026-06-09T16:29:45Z",
  "count": 53,
  "items": [
+  {
+   "id": "b6178495eafee113f6e653e19f5918f4",
+   "url": "https://t.me/warmonitors/44316",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nCNN\nSince March: Trump has said 38 times that the US is close to a deal with Iran and Iran is begging for a deal",
+   "timestamp": "2026-06-09T14:22:31+00:00",
+   "has_media": false
+  },
   {
    "id": "285a57441fa62b2887e6ce71389c13f5",
    "url": "https://t.me/OSINTWarfare/5257",
@@ -297,15 +306,6 @@
    "channel": "OSINTWarfare",
    "text": "A ballistic missile has been launched from Yemen toward Israel.",
    "timestamp": "2026-06-08T02:53:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "451b5f5a7db27dcf0b767f330db39c7c",
-   "url": "https://t.me/warmonitors/44296",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nMehrabad Airport Attacked in Tehran",
-   "timestamp": "2026-06-08T02:02:30+00:00",
    "has_media": false
   },
   {
