@@ -1,7 +1,97 @@
 {
- "generated_utc": "2026-06-09T20:28:09Z",
- "count": 54,
+ "generated_utc": "2026-06-09T22:04:52Z",
+ "count": 52,
  "items": [
+  {
+   "id": "6935904ab477189da57e74cc79763079",
+   "url": "https://t.me/OSINTWarfare/5269",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports of explosions in Bahrain.",
+   "timestamp": "2026-06-09T22:00:45+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e9f84371ea8312af3cf19d86a070a710",
+   "url": "https://t.me/OSINTWarfare/5268",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian sources report that a response will not take long, stating they are waiting for the appropriate conditions. Drone units are already in position and ready to launch.",
+   "timestamp": "2026-06-09T21:57:49+00:00",
+   "has_media": false
+  },
+  {
+   "id": "921c99c65f4ced8e538485420f13133d",
+   "url": "https://t.me/OSINTWarfare/5267",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The list of Iranian targets reportedly struck by the United States so far includes:\n• Sirik Naval Base\n• Jask Naval Base\n• Bandar Abbas air defense site\n• Minab coastal missile battery\n• Qeshm coastal missile battery\n• Qeshm Port\nThe strikes are specifically aimed at disrupting the IRGC Navy’s routine patrol capabilities.",
+   "timestamp": "2026-06-09T21:47:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "394df95736bb747fc1f2af0a22eeb9fb",
+   "url": "https://t.me/OSINTWarfare/5266",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy aerial activity has been reported in eastern Iraq near the Iranian border. It is currently unclear whether the aircraft involved belong to the Iraqi Air Force or the U.S. Air Force.",
+   "timestamp": "2026-06-09T21:41:19+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f22818e5616e39a32e7f78f6c1ba7497",
+   "url": "https://t.me/OSINTWarfare/5265",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "IRIB reports that six explosions were heard in Qeshm, caused by projectiles fired from U.S. fighter jets.",
+   "timestamp": "2026-06-09T21:36:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9f1a9733bcca042a3c05a5a5d0c4f4b0",
+   "url": "https://t.me/OSINTWarfare/5264",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Public Relations Office of the IRGC announced that it will respond strongly to the U.S. attacks on Iran.",
+   "timestamp": "2026-06-09T21:34:19+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f46531731a1448c77bae16de3f946ec6",
+   "url": "https://t.me/OSINTWarfare/5263",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of air defense activity in Tehran.",
+   "timestamp": "2026-06-09T21:30:01+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ea1400a9ed1fd2d5f6eb9adacedad0a0",
+   "url": "https://t.me/OSINTWarfare/5262",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of air defense activity in Tehran.",
+   "timestamp": "2026-06-09T21:17:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "14667c7b78412593e2439d2888ec0073",
+   "url": "https://t.me/OSINTWarfare/5261",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions on Qeshm Island and Bandar Abbas, southern Iran.",
+   "timestamp": "2026-06-09T21:14:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6241395a3864464846b91d6ebf8b2341",
+   "url": "https://t.me/OSINTWarfare/5259",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to Iranian sources, IRGC Navy fast boats were patrolling in the Persian Gulf last night when the U.S. Navy reportedly attempted to target them using several Apache helicopters.\nIn response, several boats equipped with Kowsar-222 shipborne surface-to-air missiles engaged the helicopters.\nAccording to the same source, more than one helicopter was hit, though only one is said to have crashed into the sea.",
+   "timestamp": "2026-06-09T20:49:14+00:00",
+   "has_media": true
+  },
   {
    "id": "90cfd51f35f2efe9f790604475399b55",
    "url": "https://t.me/OSINTWarfare/5258",
@@ -183,39 +273,12 @@
    "has_media": false
   },
   {
-   "id": "2cd929a7ae944e0a0d7f2fb6ad2fa101",
-   "url": "https://t.me/OSINTWarfare/5249",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "It appears that Iran and Israel have ceased their operations.",
-   "timestamp": "2026-06-08T11:22:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a631723ca3fc95b02ddbd782fcccc9af",
-   "url": "https://t.me/OSINTWarfare/5248",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF has released footage showing the destruction of a transporter erector launcher (TEL) of an Iranian air defense system, possibly struck by a Mikholit miniature glide bomb launched from a Hermes 900 Unmanned Combat Aerial Vehicle (UCAV).",
-   "timestamp": "2026-06-08T10:43:39+00:00",
-   "has_media": true
-  },
-  {
    "id": "8c779622b26cb768c517f0ca1bb7678e",
    "url": "https://t.me/warmonitors/44304",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nTrump on Truth Social: Both sides, Israel and Iran, are looking to do an immediate CEASEFIRE! Final negotiations on “Peace” are proceeding, subject to ignorance or stupidity getting in its way. The Blockade will remain in place, and in full force and effect, until a “Final Deal” is reached. Things should move quickly. Thank you for your attention to this matter!",
    "timestamp": "2026-06-08T10:37:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2bdd2e0f8271199a78ed4947f70b3c43",
-   "url": "https://t.me/OSINTWarfare/5247",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "So far, Iranian air defenses have shot down three reconnaissance UAVs over Tehran Province.",
-   "timestamp": "2026-06-08T09:53:35+00:00",
    "has_media": false
   },
   {
@@ -235,87 +298,6 @@
    "text": "⚡️\nAn Iranian missile fell near the Palestinian city of Ariha on the border with Jordan",
    "timestamp": "2026-06-08T09:47:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "225b1447a13a125c14ef9215da537dfc",
-   "url": "https://t.me/OSINTWarfare/5246",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Iranian Kheibar Shekan ballistic missile booster fell in the Negev Desert of southern Israel.",
-   "timestamp": "2026-06-08T09:32:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5a6e4589f3cd04d7cc7d3be9b435b445",
-   "url": "https://t.me/warmonitors/44300",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli airstrikes in Tehran",
-   "timestamp": "2026-06-08T09:17:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c5aa98129777a656a7b838282c5b5983",
-   "url": "https://t.me/warmonitors/44299",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nExplosions in Tehran.",
-   "timestamp": "2026-06-08T09:12:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "170b40199bb7cbf86024fbf674f06b9b",
-   "url": "https://t.me/OSINTWarfare/5244",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Ghadr, Kheibar Shekan and Haj Qassem medium-range ballistic missiles (MRBMs) toward Israel.",
-   "timestamp": "2026-06-08T09:11:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "72b85d4ee4a2971709d2628700bd6eb9",
-   "url": "https://t.me/OSINTWarfare/5243",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Ghadr, Kheibar Shekan and Haj Qassem medium-range ballistic missiles (MRBMs) toward Israel.",
-   "timestamp": "2026-06-08T09:06:22+00:00",
-   "has_media": false
-  },
-  {
-   "id": "83b46e34dd1202990a0a2ab0b669f43f",
-   "url": "https://t.me/OSINTWarfare/5242",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of ballistic missile launches from Iran.",
-   "timestamp": "2026-06-08T03:09:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "092a80439440ea4a56c6f1446a7dedd9",
-   "url": "https://t.me/OSINTWarfare/5241",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of ballistic missile launches from Iran.",
-   "timestamp": "2026-06-08T03:04:55+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0213aeeb45045cbc7578b094c131b374",
-   "url": "https://t.me/OSINTWarfare/5240",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A ballistic missile has been launched from Yemen toward Israel.",
-   "timestamp": "2026-06-08T03:01:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e453d3bbdefab087e5f2c6a39042f7a9",
-   "url": "https://t.me/OSINTWarfare/5239",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A ballistic missile has been launched from Yemen toward Israel.",
-   "timestamp": "2026-06-08T02:53:13+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
