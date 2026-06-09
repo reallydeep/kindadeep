@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-09T08:08:32Z",
+ "generated_utc": "2026-06-09T11:28:07Z",
  "count": 53,
  "items": [
+  {
+   "id": "96cbcdec8e05ff533701af61562a3b2d",
+   "url": "https://t.me/warmonitors/44313",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#LATEST\nIran's state TV says at least 2 members of an air defense unit killed in Israeli attacks on Monday",
+   "timestamp": "2026-06-09T10:17:31+00:00",
+   "has_media": false
+  },
   {
    "id": "d78a78281332f809acd81990053ce8ae",
    "url": "https://t.me/OSINTWarfare/5255",
@@ -297,15 +306,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nExplosions heard in Tehran",
    "timestamp": "2026-06-08T01:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "118c4b8b8dd76911a5fc17d82e1e83aa",
-   "url": "https://t.me/warmonitors/44293",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nExplosions heard across Iran now",
-   "timestamp": "2026-06-08T01:27:30+00:00",
    "has_media": false
   },
   {
