@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-06-10T13:50:32Z",
- "count": 49,
+ "generated_utc": "2026-06-10T16:53:28Z",
+ "count": 48,
  "items": [
+  {
+   "id": "b9ca52fac9a236a6aaf3927009a85ebd",
+   "url": "https://t.me/warmonitors/44337",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#SHOCKING\nUS x Iran permanent peace deal by the end of July now down to about 30%.\nI think most people have lost hope in Trump ending this war anytime soon.",
+   "timestamp": "2026-06-10T16:07:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "3052198a936e85622fa2fa5c21419f3b",
+   "url": "https://t.me/warmonitors/44336",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nTrump: We will attack Iran very hard",
+   "timestamp": "2026-06-10T15:57:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6559ce2d7cc387b86b3f56855348919f",
+   "url": "https://t.me/OSINTWarfare/5300",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Trump said they're going to attack Iran again today lol",
+   "timestamp": "2026-06-10T15:55:18+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3c65bb7070d8b2a9689bc6f1b05a9331",
+   "url": "https://t.me/OSINTWarfare/5298",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from the Ramadan War shows IRGC Aerospace Force operators launching Khorramshahr medium-range ballistic missiles (MRBMs) toward Israel.",
+   "timestamp": "2026-06-10T14:55:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "70b446e16471d8865b8eeb459343911e",
+   "url": "https://t.me/OSINTWarfare/5297",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from the Ramadan War shows IRGC Aerospace Force operators launching Khorramshahr medium-range ballistic missiles (MRBMs) toward Israel.",
+   "timestamp": "2026-06-10T14:55:08+00:00",
+   "has_media": false
+  },
   {
    "id": "6e60d0c9eb40f0a11fe0e27327e51102",
    "url": "https://t.me/OSINTWarfare/5296",
@@ -129,15 +174,6 @@
    "has_media": false
   },
   {
-   "id": "66ac68388ed6a8fb905eeb3a8c92bdea",
-   "url": "https://t.me/OSINTWarfare/5280",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a possible Fath-360 (BM-120) short-range ballistic missile (SRBM) launched from Lorestan Province in western Iran toward Iraqi Kurdistan.\nDespite the ongoing tensions involving the United States, Iran has continued to target Kurdish separatist groups based in the Kurdistan Region of Iraq.",
-   "timestamp": "2026-06-10T00:34:44+00:00",
-   "has_media": true
-  },
-  {
    "id": "2dd6dff5a3d673496255d979a6bfb17f",
    "url": "https://t.me/warmonitors/44330",
    "source": "telegram",
@@ -145,33 +181,6 @@
    "text": "⚡\n#NOW\nUS official: Third wave of attacks on Iran now",
    "timestamp": "2026-06-10T00:32:31+00:00",
    "has_media": false
-  },
-  {
-   "id": "c4115e1e9642474ebcd3220e4477dec6",
-   "url": "https://t.me/OSINTWarfare/5279",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosions has been reported in Ahvaz, Khuzestan Province, southwest Iran.",
-   "timestamp": "2026-06-10T00:28:55+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3cf9a1d4cda4eb46601a501f5fcbbe1d",
-   "url": "https://t.me/OSINTWarfare/5278",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. unmanned aerial vehicle (UAV) was shot down over the city of Jam in Bushehr Province, southern Iran.",
-   "timestamp": "2026-06-10T00:22:06+00:00",
-   "has_media": false
-  },
-  {
-   "id": "03511e7de37833bc76243e0b028ad5f1",
-   "url": "https://t.me/OSINTWarfare/5277",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. unmanned aerial vehicle (UAV) was shot down over the city of Jam in Bushehr Province, southern Iran.",
-   "timestamp": "2026-06-10T00:14:06+00:00",
-   "has_media": true
   },
   {
    "id": "baece4a107a5b8d63b75e6ea5e3939dd",
@@ -252,24 +261,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIran shoots down a U.S. Apache helicopter patrolling the Strait of Hormuz last night, Trump says the U.S. must \"respond to this attack.\"",
    "timestamp": "2026-06-09T18:37:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b6178495eafee113f6e653e19f5918f4",
-   "url": "https://t.me/warmonitors/44316",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nCNN\nSince March: Trump has said 38 times that the US is close to a deal with Iran and Iran is begging for a deal",
-   "timestamp": "2026-06-09T14:22:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d735fff140999012d65b3d30a8cec84a",
-   "url": "https://t.me/warmonitors/44315",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nDamage to Ramat David base in northern Israel following Iranian missile strike",
-   "timestamp": "2026-06-09T12:22:30+00:00",
    "has_media": true
   },
   {
