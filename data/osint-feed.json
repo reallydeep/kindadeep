@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-10T06:04:04Z",
+ "generated_utc": "2026-06-10T10:18:49Z",
  "count": 49,
  "items": [
+  {
+   "id": "ae006a7b060593a4d72a8a8400893a58",
+   "url": "https://t.me/warmonitors/44334",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n7 martyred in airstrikes on Tyre, southern Lebanon",
+   "timestamp": "2026-06-10T08:47:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2d231fe0a66c9655429163b99d73b060",
+   "url": "https://t.me/warmonitors/44333",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nA video of Iranian air defenses shooting down an American MQ9 reconnaissance drone in the skies of Iran.",
+   "timestamp": "2026-06-10T08:22:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "de7361307589251692905e8183b34440",
+   "url": "https://t.me/warmonitors/44332",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIran's Mehr News Agency: Local sources report hearing explosions on Qeshm Island; the cause is still unknown.",
+   "timestamp": "2026-06-10T08:07:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8571b49096ff69125c733eedd4f51a99",
+   "url": "https://t.me/warmonitors/44331",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIranian missile or drone striking  the U.S. Fifth Fleet Base in Bahrain.",
+   "timestamp": "2026-06-10T06:07:34+00:00",
+   "has_media": true
+  },
   {
    "id": "961bb1e9d2d12c985ac2fcee0cfc9655",
    "url": "https://t.me/OSINTWarfare/5293",
@@ -234,42 +270,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nDamage to Ramat David base in northern Israel following Iranian missile strike",
    "timestamp": "2026-06-09T12:22:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "96cbcdec8e05ff533701af61562a3b2d",
-   "url": "https://t.me/warmonitors/44313",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#LATEST\nIran's state TV says at least 2 members of an air defense unit killed in Israeli attacks on Monday",
-   "timestamp": "2026-06-09T10:17:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "01141ac70a85fb28c7c410ac61ee8c20",
-   "url": "https://t.me/warmonitors/44312",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nInterception in Eilat",
-   "timestamp": "2026-06-08T21:37:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bdda0b3583066ce9a6714586c8dd1d4b",
-   "url": "https://t.me/warmonitors/44311",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#LATEST\nBarak Ravid: : Trump told me that he'd warned Netanyahu that if he went back to war with Iran, he might find himself fighting alone. \"I said, 'Bibi, you better be careful, or you will be on your own very soon,'\" Trump said",
-   "timestamp": "2026-06-08T20:07:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "beff0879dd72d48b8788327fe4f2f532",
-   "url": "https://t.me/warmonitors/44310",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nOdds on a US x Iran permanent peace deal by the end of this month now down to only 17% following the recent renewal of the war in the middle east.",
-   "timestamp": "2026-06-08T17:12:32+00:00",
    "has_media": true
   },
   {
