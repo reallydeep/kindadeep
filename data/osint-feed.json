@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-10T01:34:24Z",
- "count": 51,
+ "generated_utc": "2026-06-10T06:04:04Z",
+ "count": 49,
  "items": [
+  {
+   "id": "961bb1e9d2d12c985ac2fcee0cfc9655",
+   "url": "https://t.me/OSINTWarfare/5293",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows air defense activity in Jordan engaging incoming Iranian ballistic missiles that attempted to target Muwaffaq Salti Air Base.",
+   "timestamp": "2026-06-10T02:12:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a1d922d5d01f5a7cc542b7087bfd60f7",
+   "url": "https://t.me/OSINTWarfare/5291",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows air defense activity in Jordan engaging incoming Iranian ballistic missiles that attempted to target Muwaffaq Salti Air Base.",
+   "timestamp": "2026-06-10T01:58:07+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e66542348e4c9557451c345a79044d9d",
+   "url": "https://t.me/OSINTWarfare/5290",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible ballistic missile impact to the U.S. 5th Fleet HQ in Manama, Bahrain.",
+   "timestamp": "2026-06-10T01:47:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c20ba7e7af07ed40654c928ec0b51b21",
+   "url": "https://t.me/OSINTWarfare/5289",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible ballistic missile impact to the U.S. 5th Fleet HQ in Manama, Bahrain.",
+   "timestamp": "2026-06-10T01:42:34+00:00",
+   "has_media": true
+  },
   {
    "id": "0ac1cc55be9de7f0103fe45682cfde60",
    "url": "https://t.me/OSINTWarfare/5285",
@@ -138,15 +174,6 @@
    "has_media": false
   },
   {
-   "id": "e995b99551152adda385900e4db484d4",
-   "url": "https://t.me/OSINTWarfare/5272",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Afghan-Pakistani conflict has apparently resumed following Pakistan Air Force (PAF) airstrikes in Khost and Paktika provinces.",
-   "timestamp": "2026-06-09T22:27:41+00:00",
-   "has_media": false
-  },
-  {
    "id": "8f1377ef19f8133e1abd3c2eba10991f",
    "url": "https://t.me/warmonitors/44322",
    "source": "telegram",
@@ -171,51 +198,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nExplosions in Bahrain",
    "timestamp": "2026-06-09T22:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "11aa6d77c9ec4bb453431c5a6810c415",
-   "url": "https://t.me/OSINTWarfare/5271",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two possible Fath-360 (BM-120) short-range ballistic missiles (SRBMs) were launched toward Kurdish separatist positions in Iraqi Kurdistan.",
-   "timestamp": "2026-06-09T22:11:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2cfdef554f22a84c45243913dda896d5",
-   "url": "https://t.me/OSINTWarfare/5270",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Iranian Shahed-136 loitering munition was seen in Iraqi airspace. It may be unrelated to any retaliation, as Iran regularly conducts strikes against Kurdish separatist positions in northern Iraq.",
-   "timestamp": "2026-06-09T22:08:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6935904ab477189da57e74cc79763079",
-   "url": "https://t.me/OSINTWarfare/5269",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed reports of explosions in Bahrain.",
-   "timestamp": "2026-06-09T22:00:45+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e9f84371ea8312af3cf19d86a070a710",
-   "url": "https://t.me/OSINTWarfare/5268",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian sources report that a response will not take long, stating they are waiting for the appropriate conditions. Drone units are already in position and ready to launch.",
-   "timestamp": "2026-06-09T21:57:49+00:00",
-   "has_media": false
-  },
-  {
-   "id": "921c99c65f4ced8e538485420f13133d",
-   "url": "https://t.me/OSINTWarfare/5267",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The list of Iranian targets reportedly struck by the United States so far includes:\n• Sirik Naval Base\n• Jask Naval Base\n• Bandar Abbas air defense site\n• Minab coastal missile battery\n• Qeshm coastal missile battery\n• Qeshm Port\nThe strikes are specifically aimed at disrupting the IRGC Navy’s routine patrol capabilities.",
-   "timestamp": "2026-06-09T21:47:16+00:00",
    "has_media": false
   },
   {
