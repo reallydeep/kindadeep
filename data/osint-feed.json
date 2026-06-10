@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-10T16:53:28Z",
- "count": 48,
+ "generated_utc": "2026-06-10T19:28:32Z",
+ "count": 44,
  "items": [
+  {
+   "id": "ca1322e67ad65c45025de5cf35ebc4ed",
+   "url": "https://t.me/warmonitors/44338",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#LATEST\nIsraeli Defense Minister: \"The campaign against Iran is far from over. If it attacks, it will suffer a harder blow\"",
+   "timestamp": "2026-06-10T17:47:31+00:00",
+   "has_media": false
+  },
   {
    "id": "b9ca52fac9a236a6aaf3927009a85ebd",
    "url": "https://t.me/warmonitors/44337",
@@ -244,51 +253,6 @@
    "text": "⚡️\nExplosions in Bahrain",
    "timestamp": "2026-06-09T22:27:31+00:00",
    "has_media": false
-  },
-  {
-   "id": "e6f1400fd912f6314f950f484010e469",
-   "url": "https://t.me/warmonitors/44318",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#LATEST\nIranian official responds to Trump's threat: \"We will respond forcefully to any American attack\"",
-   "timestamp": "2026-06-09T19:37:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "06be96d2f6ae3453c34396a15b94b693",
-   "url": "https://t.me/warmonitors/44317",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIran shoots down a U.S. Apache helicopter patrolling the Strait of Hormuz last night, Trump says the U.S. must \"respond to this attack.\"",
-   "timestamp": "2026-06-09T18:37:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "68ec3b511f53182dd5094828dbfc53dd",
-   "url": "https://t.me/MenchOsint/505",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "🚢\nUKMTO reported that the IRGC issued a call at 09h00 a.m. UTC ordering merchant vessels to leave Ras Al Khaimah for Dubai, with warnings that the consequences are their responsibility if they do not comply.\nSeveral ships have complied since this morning.\n@MenchOsint",
-   "timestamp": "2026-05-03T19:53:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a6e25e88d4c24b87a11d840dbf1f8baa",
-   "url": "https://t.me/MenchOsint/493",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "🏴‍☠️\n🇺🇸\n⛵️\nUS Navy blocks a Bulk Carrier \"NIKI\" that was leaving Iran's Chabahar port to South Africa.\nA Japan-owned Bulk Carrier \"AURORA\" was also forced to turn around after transiting the Strait of Hormuz with the approval of the IRGC.\n@MenchOsint",
-   "timestamp": "2026-05-02T12:04:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cdb48aa4468baaf9f7c160e3baca3bef",
-   "url": "https://t.me/MenchOsint/489",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "📍\nStrait of Hormuz. 2 Tankers allowed to leave the Persian Gulf this morning:\n🇨🇳\n-owned Oil Tanker \"PETREL\"\n🇮🇳\n-owned LPG Tanker \"SARV SHAKTI\"\nIran still fully controls the Strait, while the US Navy in the Arabian Sea continues to blockade tankers from/to Iranian ports.\n@MenchOsint",
-   "timestamp": "2026-05-02T11:43:23+00:00",
-   "has_media": true
   },
   {
    "id": "0d4cb7489462b1d888c002da6c4d27c1",
