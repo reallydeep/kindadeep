@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-10T21:34:23Z",
+ "generated_utc": "2026-06-10T23:11:36Z",
  "count": 48,
  "items": [
+  {
+   "id": "66076e507aee921b7818a719b8ce4474",
+   "url": "https://t.me/warmonitors/44346",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nAl-Manar correspondent in Iran: Explosions heard in the eastern part of Bandar Abbas city, southern Iran",
+   "timestamp": "2026-06-10T22:32:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "571ca68c2a0b9d9781ddd4800390ca71",
+   "url": "https://t.me/warmonitors/44343",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIranian TV: Explosions heard from a distance off Kish Island, source unknown.",
+   "timestamp": "2026-06-10T22:02:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "430b7dd2e57d0ce6e1811cacc87cbb99",
+   "url": "https://t.me/warmonitors/44344",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#LATEST\nUS official: Attacks on Iran have begun",
+   "timestamp": "2026-06-10T22:02:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c185269ca69706de67e85cec40fac0e8",
+   "url": "https://t.me/warmonitors/44345",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent: Explosions heard in the Kurdjal camp, north of Erbil province in Iraqi Kurdistan.",
+   "timestamp": "2026-06-10T22:02:31+00:00",
+   "has_media": false
+  },
   {
    "id": "72f1516919387e37b8b8f6511819b00b",
    "url": "https://t.me/warmonitors/44342",
@@ -225,42 +261,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nU.S. official: U.S. forces attacked several Iranian air defense systems and radar systems around the strait of Hormuz",
    "timestamp": "2026-06-09T22:32:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "885004781d88316d54fa2c3515281ae3",
-   "url": "https://t.me/warmonitors/44325",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nAn American official to CNN: The attacks were intended to serve as a warning signal to Iran, it is estimated that they will not affect the negotiations to end the war",
-   "timestamp": "2026-06-09T22:32:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8f1377ef19f8133e1abd3c2eba10991f",
-   "url": "https://t.me/warmonitors/44322",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nExplosions heard in several places in Iran",
-   "timestamp": "2026-06-09T22:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "015ee5998f8360f465516f5a131ba505",
-   "url": "https://t.me/warmonitors/44323",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nUS Army helicopter that crashed off the coast of Oman went down after colliding with an Iranian drone, US official says",
-   "timestamp": "2026-06-09T22:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f94f6edbff50b33c4eafcbefc965bf07",
-   "url": "https://t.me/warmonitors/44324",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nExplosions in Bahrain",
-   "timestamp": "2026-06-09T22:27:31+00:00",
    "has_media": false
   },
   {
