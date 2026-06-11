@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-11T06:26:52Z",
- "count": 50,
+ "generated_utc": "2026-06-11T11:06:43Z",
+ "count": 49,
  "items": [
+  {
+   "id": "bb457db73ffc151b8d8e7ee1bb71a890",
+   "url": "https://t.me/warmonitors/44351",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nJordanian army in an official statement: \"Air defense systems intercepted and shot down 20 missiles launched from Iran to the Al-Azrak area last night. There were no casualties and no damage was caused.\"",
+   "timestamp": "2026-06-11T09:47:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b661c60649f93f6729b2d2d3fad38f93",
+   "url": "https://t.me/warmonitors/44352",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Hadath correspondent: Israeli airstrike on the town of Al-Abbasiya in southern Lebanon",
+   "timestamp": "2026-06-11T09:47:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "45e3e5a221ad01eeba4270750e8da149",
+   "url": "https://t.me/warmonitors/44350",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#SHOCKING\nIndian shipping minister says 3 Indians killed in U.S. attack on oil tanker America accused of violating Iran blockade",
+   "timestamp": "2026-06-11T09:47:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b77aa63044df4d09caf143063bd60380",
+   "url": "https://t.me/warmonitors/44349",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe US military attacked targets in Iran with 49 Tomahawk missiles last night.",
+   "timestamp": "2026-06-11T09:42:31+00:00",
+   "has_media": false
+  },
   {
    "id": "413423d4510011c2d4dfc65e0e6e5e6f",
    "url": "https://t.me/OSINTWarfare/5305",
@@ -192,24 +228,6 @@
    "has_media": true
   },
   {
-   "id": "de7361307589251692905e8183b34440",
-   "url": "https://t.me/warmonitors/44332",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran's Mehr News Agency: Local sources report hearing explosions on Qeshm Island; the cause is still unknown.",
-   "timestamp": "2026-06-10T08:07:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8571b49096ff69125c733eedd4f51a99",
-   "url": "https://t.me/warmonitors/44331",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIranian missile or drone striking  the U.S. Fifth Fleet Base in Bahrain.",
-   "timestamp": "2026-06-10T06:07:34+00:00",
-   "has_media": true
-  },
-  {
    "id": "961bb1e9d2d12c985ac2fcee0cfc9655",
    "url": "https://t.me/OSINTWarfare/5293",
    "source": "telegram",
@@ -253,33 +271,6 @@
    "text": "Additional footage shows ballistic missile launches from Iran.",
    "timestamp": "2026-06-10T01:20:57+00:00",
    "has_media": true
-  },
-  {
-   "id": "2dd6dff5a3d673496255d979a6bfb17f",
-   "url": "https://t.me/warmonitors/44330",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#NOW\nUS official: Third wave of attacks on Iran now",
-   "timestamp": "2026-06-10T00:32:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "baece4a107a5b8d63b75e6ea5e3939dd",
-   "url": "https://t.me/warmonitors/44329",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nThe US attacks Iran again, in a second wave",
-   "timestamp": "2026-06-09T23:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8868b7babfa0ac728d32898d2ce77cec",
-   "url": "https://t.me/warmonitors/44327",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nU.S. official: U.S. forces attacked several Iranian air defense systems and radar systems around the strait of Hormuz",
-   "timestamp": "2026-06-09T22:32:31+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
