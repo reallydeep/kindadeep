@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-06-10T23:11:36Z",
- "count": 48,
+ "generated_utc": "2026-06-11T01:40:15Z",
+ "count": 50,
  "items": [
+  {
+   "id": "413423d4510011c2d4dfc65e0e6e5e6f",
+   "url": "https://t.me/OSINTWarfare/5305",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. carried out airstrikes on the city of Karaj in northern Iran.",
+   "timestamp": "2026-06-11T00:48:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bcbded2a7a3a3cc9b4309f9ddb5b1973",
+   "url": "https://t.me/OSINTWarfare/5304",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows an Islamic Republic of Iran Air Force (IRIAF) F-14AM landing at Shahid Babaei Air Base (8th Tactical Air Base) in Isfahan earlier tonight.",
+   "timestamp": "2026-06-11T00:12:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "fe253db1b8443ffea523e7e2ffdadd45",
+   "url": "https://t.me/warmonitors/44347",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump to Fox: Israel is not involved in the attacks.",
+   "timestamp": "2026-06-10T23:32:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "fe40c18a4b89b2868f2fa23ebc57b024",
+   "url": "https://t.me/OSINTWarfare/5302",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from Qeshm Island in the Strait of Hormuz captures the sound of U.S. fighter jets flying overhead during the first wave of airstrikes against Iran.",
+   "timestamp": "2026-06-10T23:24:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "571a07068e67923a7d9394417cfb1eb4",
+   "url": "https://t.me/OSINTWarfare/5301",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "I went outside and touched some grass. Here's a quick summary of what's happened so far:\n• The U.S. has carried out airstrikes on seven coastal areas in Iran.\n• Iran's military command announced the closure of the Strait of Hormuz.\n• The IRGC targeted two vessels attempting to transit the strait without authorization.\n• A second wave of U.S. airstrikes has just begun.",
+   "timestamp": "2026-06-10T23:21:51+00:00",
+   "has_media": false
+  },
   {
    "id": "66076e507aee921b7818a719b8ce4474",
    "url": "https://t.me/warmonitors/44346",
@@ -210,24 +255,6 @@
    "has_media": true
   },
   {
-   "id": "9bf45a3cbf873b0f88dd7e7ad5345bca",
-   "url": "https://t.me/OSINTWarfare/5282",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows ballistic missiles launched by the IRGC Aerospace Force from the vicinity of Khomeyn, Markazi Province, in western Iran.\nThe missiles' intended target remains unclear.",
-   "timestamp": "2026-06-10T01:15:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2664800b9a942727244f32a487deeefd",
-   "url": "https://t.me/OSINTWarfare/5281",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In a statement, the IRGC claimed it had targeted the U.S. Navy’s Fifth Fleet headquarters at Naval Support Activity (NSA) Bahrain.\nIran’s Khatam al-Anbiya Central Headquarters also stated that U.S. military bases across the region had come under attack.\nAt this time, there is no evidence supporting either claim.",
-   "timestamp": "2026-06-10T00:59:06+00:00",
-   "has_media": false
-  },
-  {
    "id": "2dd6dff5a3d673496255d979a6bfb17f",
    "url": "https://t.me/warmonitors/44330",
    "source": "telegram",
@@ -243,15 +270,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#BREAKING\nThe US attacks Iran again, in a second wave",
    "timestamp": "2026-06-09T23:27:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d002501603609c7671b43b1300d4fa03",
-   "url": "https://t.me/warmonitors/44326",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent: An explosion was heard in Dohuk province, in the far north of Iraq.",
-   "timestamp": "2026-06-09T22:32:31+00:00",
    "has_media": false
   },
   {
