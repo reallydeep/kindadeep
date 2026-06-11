@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-11T22:20:27Z",
- "count": 46,
+ "generated_utc": "2026-06-11T23:57:52Z",
+ "count": 45,
  "items": [
   {
    "id": "06de3d8617d0dce52b8b28a1f4a28a21",
@@ -235,15 +235,6 @@
    "text": "The IRGC Aerospace Force has released footage showing the launch of Emad and Kheibar Shekan medium-range ballistic missiles (MRBMs) toward Bahrain, Kuwait and Jordan.",
    "timestamp": "2026-06-10T13:12:07+00:00",
    "has_media": false
-  },
-  {
-   "id": "f3052ddf1e43d331226ac3e771e4ddfc",
-   "url": "https://t.me/OSINTWarfare/5295",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. unmanned aerial vehicle (UAV) was shot down over the city of Jam in Bushehr Province, southern Iran.",
-   "timestamp": "2026-06-10T11:08:12+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
