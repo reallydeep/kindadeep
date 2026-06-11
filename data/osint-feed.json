@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-11T20:20:45Z",
- "count": 48,
+ "generated_utc": "2026-06-11T22:20:27Z",
+ "count": 46,
  "items": [
+  {
+   "id": "06de3d8617d0dce52b8b28a1f4a28a21",
+   "url": "https://t.me/OSINTWarfare/5314",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible U.S. Air Force (USAF) reconnaissance and combat UAVs are operating over the Strait of Hormuz.",
+   "timestamp": "2026-06-11T21:35:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4889190c03c133124a68645804fb6796",
+   "url": "https://t.me/OSINTWarfare/5313",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An explosion has been reported near the coastal city of Sirik, southern Iran. The cause is currently unknown.",
+   "timestamp": "2026-06-11T21:25:58+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bc960f426c8f8873ec4ad0d97ba3429f",
+   "url": "https://t.me/OSINTWarfare/5312",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An explosion has been reported near the coastal city of Sirik, southern Iran. The cause is currently unknown.",
+   "timestamp": "2026-06-11T21:17:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dd9f1bf07c4a72991baa5ae6c1437128",
+   "url": "https://t.me/warmonitors/44394",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli strike on Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-11T21:13:03+00:00",
+   "has_media": true
+  },
   {
    "id": "3422872f7027128f89041cd94282bb8b",
    "url": "https://t.me/warmonitors/44389",
@@ -111,33 +147,6 @@
    "has_media": false
   },
   {
-   "id": "c7279ab6b1ae42136552dceb0e8eb6e9",
-   "url": "https://t.me/warmonitors/44362",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#LATEST\nTrump decided: 'Every night' there will be an attack in Iran until an agreement is reached\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-11T16:27:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9b2dc8b77d81f30e819ed1ddc46f6e2b",
-   "url": "https://t.me/warmonitors/44361",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent in southern Lebanon: A drone targeted a car on the Ain al-Mazrab - Sultaniyeh road in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-11T16:02:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bc9e8b770f4706175f2cf4ffb32e4b45",
-   "url": "https://t.me/warmonitors/44358",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump now on Iran:\nMy preference would be to take over Kharg Island.\nWe're killing them. They're finished.",
-   "timestamp": "2026-06-11T12:57:31+00:00",
-   "has_media": false
-  },
-  {
    "id": "0beaff93d86412acdbde601e133c2951",
    "url": "https://t.me/OSINTWarfare/5308",
    "source": "telegram",
@@ -234,33 +243,6 @@
    "channel": "OSINTWarfare",
    "text": "A U.S. unmanned aerial vehicle (UAV) was shot down over the city of Jam in Bushehr Province, southern Iran.",
    "timestamp": "2026-06-10T11:08:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7950ee2012fb17083057158f15b6c835",
-   "url": "https://t.me/OSINTWarfare/5294",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage recorded by an operator of the IRGC Aerospace Force shows the launch of 11 solid-fuel Kheibar Shekan ballistic missiles toward Jordan.",
-   "timestamp": "2026-06-10T10:45:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "961bb1e9d2d12c985ac2fcee0cfc9655",
-   "url": "https://t.me/OSINTWarfare/5293",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows air defense activity in Jordan engaging incoming Iranian ballistic missiles that attempted to target Muwaffaq Salti Air Base.",
-   "timestamp": "2026-06-10T02:12:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a1d922d5d01f5a7cc542b7087bfd60f7",
-   "url": "https://t.me/OSINTWarfare/5291",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows air defense activity in Jordan engaging incoming Iranian ballistic missiles that attempted to target Muwaffaq Salti Air Base.",
-   "timestamp": "2026-06-10T01:58:07+00:00",
    "has_media": true
   },
   {
