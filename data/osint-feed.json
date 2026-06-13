@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-13T21:13:25Z",
+ "generated_utc": "2026-06-13T22:19:19Z",
  "count": 43,
  "items": [
+  {
+   "id": "fd8fdf8066d9b4aab2fe311496b032d5",
+   "url": "https://t.me/OSINTWarfare/5337",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated 8 June 2026 showing strikes on IDF vehicles in southern Lebanon, including an Ofek command-and-control vehicle based on a Merkava 3 chassis, a M978A2 HEMTT (Heavy Expanded Mobility Tactical Truck), and another vehicle, using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-06-13T22:11:02+00:00",
+   "has_media": false
+  },
   {
    "id": "390cc7f98b90c890a72a2b6b44bbb1d2",
    "url": "https://t.me/warmonitors/44438",
@@ -207,15 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "The United Arab Emirates is expected to release up to $10 billion in frozen Iranian oil revenues, with approximately $3 billion reportedly having already been transferred in cash.\nHowever, two sources familiar with the matter indicated that the total amount could reach as much as $20 billion. According to the same sources, part of the agreement was tied to assurances that Iran would refrain from attacking the United Arab Emirates during the final weeks of the conflict.",
    "timestamp": "2026-06-12T20:26:04+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1e2bc81a0336fb574add1bb4da44487a",
-   "url": "https://t.me/OSINTWarfare/5317",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF has released footage showing Israeli Air Force airstrikes targeting five Hezbollah rocket launchers that were used to fire rockets at Israeli troops in southern Lebanon.",
-   "timestamp": "2026-06-12T14:18:23+00:00",
    "has_media": false
   },
   {
