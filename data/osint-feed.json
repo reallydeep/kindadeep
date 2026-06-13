@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-13T12:10:46Z",
+ "generated_utc": "2026-06-13T14:26:59Z",
  "count": 39,
  "items": [
+  {
+   "id": "f358633661f113fa36b5661d951db215",
+   "url": "https://t.me/OSINTWarfare/5333",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated June 7, 2026, showing the targeting of an IDF Humvee carrying soldiers n the town of Khiam in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-13T14:21:21+00:00",
+   "has_media": false
+  },
   {
    "id": "f925f3565ed775f2156ff9d7ca634390",
    "url": "https://t.me/warmonitors/44422",
@@ -172,15 +181,6 @@
    "text": "Possible U.S. Air Force (USAF) reconnaissance and combat UAVs are operating over the Strait of Hormuz.",
    "timestamp": "2026-06-11T21:35:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "4889190c03c133124a68645804fb6796",
-   "url": "https://t.me/OSINTWarfare/5313",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An explosion has been reported near the coastal city of Sirik, southern Iran. The cause is currently unknown.",
-   "timestamp": "2026-06-11T21:25:58+00:00",
-   "has_media": true
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
