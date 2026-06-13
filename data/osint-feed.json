@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-12T22:47:48Z",
+ "generated_utc": "2026-06-13T00:07:26Z",
  "count": 46,
  "items": [
+  {
+   "id": "76cb9c61195b50c1a46a80fb49e8fd35",
+   "url": "https://t.me/OSINTWarfare/5324",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian sources claim that Donald Trump has approved the release of $24 billion in Iran's frozen assets, but is not publicly acknowledging it.",
+   "timestamp": "2026-06-12T23:47:47+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ab5668b3ea4bdad3dfe7fc51cbafacfd",
+   "url": "https://t.me/OSINTWarfare/5323",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated June 7, 2026, showing the targeting of an IDF Merkava in the vicinity of the historic Beaufort Castle in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-12T23:16:34+00:00",
+   "has_media": false
+  },
   {
    "id": "814ac1d57e08fd3d2a1aa044ac79701f",
    "url": "https://t.me/OSINTWarfare/5322",
@@ -225,24 +243,6 @@
    "channel": "OSINTWarfare",
    "text": "The U.S. carried out airstrikes on the city of Karaj in northern Iran.",
    "timestamp": "2026-06-11T00:48:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bcbded2a7a3a3cc9b4309f9ddb5b1973",
-   "url": "https://t.me/OSINTWarfare/5304",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows an Islamic Republic of Iran Air Force (IRIAF) F-14AM landing at Shahid Babaei Air Base (8th Tactical Air Base) in Isfahan earlier tonight.",
-   "timestamp": "2026-06-11T00:12:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fe40c18a4b89b2868f2fa23ebc57b024",
-   "url": "https://t.me/OSINTWarfare/5302",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from Qeshm Island in the Strait of Hormuz captures the sound of U.S. fighter jets flying overhead during the first wave of airstrikes against Iran.",
-   "timestamp": "2026-06-10T23:24:49+00:00",
    "has_media": true
   },
   {
