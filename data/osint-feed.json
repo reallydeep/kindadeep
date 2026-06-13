@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-13T22:19:19Z",
- "count": 43,
+ "generated_utc": "2026-06-13T23:35:11Z",
+ "count": 41,
  "items": [
+  {
+   "id": "1ea6407a0324e54a895e1accc1c6952e",
+   "url": "https://t.me/OSINTWarfare/5341",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "IRGC-linked channels have published new high-resolution satellite imagery confirming the destruction of an AR-327 Commander long-range air surveillance radar at Bahrain’s Jabal Ad Dukhan site, as well as fuel storage tanks at Sheikh Isa Air Base.  The strikes…",
+   "timestamp": "2026-06-13T22:38:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9f90a394f4079fca3225520733a34947",
+   "url": "https://t.me/OSINTWarfare/5339",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "IRGC-linked channels have published new high-resolution satellite imagery confirming the destruction of an AR-327 Commander long-range air surveillance radar at Bahrain’s Jabal Ad Dukhan site, as well as fuel storage tanks at Sheikh Isa Air Base.\nThe strikes were likely carried out using Shahed-136 loitering munitions.",
+   "timestamp": "2026-06-13T22:38:03+00:00",
+   "has_media": true
+  },
   {
    "id": "fd8fdf8066d9b4aab2fe311496b032d5",
    "url": "https://t.me/OSINTWarfare/5337",
@@ -129,33 +147,6 @@
    "has_media": false
   },
   {
-   "id": "f925f3565ed775f2156ff9d7ca634390",
-   "url": "https://t.me/warmonitors/44422",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#UPDATE\nPakistanis announce that the agreement between Iran and the US is expected to be signed in the next 24 hours \"electronically\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-13T11:23:03+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ce30f8ec63e510124b15c69bb821c976",
-   "url": "https://t.me/warmonitors/44421",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nThe Israeli army has now reportedly advanced to roughly about 3 kilometres from Nabatiyeh.\nSome reports suggest they have made it as deep as Ali Taher Ridge (pin)\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-13T10:53:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f0a436d297b542241e3037d021f33148",
-   "url": "https://t.me/warmonitors/44419",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nDrone strike on a motorcycle in Kfar Ruman, Southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-13T10:13:03+00:00",
-   "has_media": true
-  },
-  {
    "id": "a0ad4301c7bf210c226eaba86e19f2a5",
    "url": "https://t.me/OSINTWarfare/5328",
    "source": "telegram",
@@ -207,15 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "Explosions were heard in the Strait of Hormuz amid reports of IRGC Navy operations related to the enforcement of the blockade.",
    "timestamp": "2026-06-12T20:56:47+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c8114d6e4877baf97b7eef45d1651131",
-   "url": "https://t.me/OSINTWarfare/5320",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The United Arab Emirates is expected to release up to $10 billion in frozen Iranian oil revenues, with approximately $3 billion reportedly having already been transferred in cash.\nHowever, two sources familiar with the matter indicated that the total amount could reach as much as $20 billion. According to the same sources, part of the agreement was tied to assurances that Iran would refrain from attacking the United Arab Emirates during the final weeks of the conflict.",
-   "timestamp": "2026-06-12T20:26:04+00:00",
    "has_media": false
   },
   {
