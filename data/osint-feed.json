@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-13T23:35:11Z",
- "count": 41,
+ "generated_utc": "2026-06-14T01:57:33Z",
+ "count": 39,
  "items": [
+  {
+   "id": "da56fadcd06307cdaa9f85391fe05556",
+   "url": "https://t.me/OSINTWarfare/5345",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from earlier tonight showing clashes between Hezbollah fighters and IDF forces in Majdal Zoun, southern Lebanon. The video possibly shows an IDF vehicle being struck by a Hezbollah anti-tank guided missile (ATGM).",
+   "timestamp": "2026-06-14T00:47:22+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dc7173f6b766e07319798453e7dbdd1e",
+   "url": "https://t.me/OSINTWarfare/5342",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the launch of Fath-360 (BM-120) and Ababil (Arman) short-range ballistic missiles (SRBMs) toward IDF positions in southern Lebanon.",
+   "timestamp": "2026-06-13T23:38:54+00:00",
+   "has_media": false
+  },
   {
    "id": "1ea6407a0324e54a895e1accc1c6952e",
    "url": "https://t.me/OSINTWarfare/5341",
@@ -162,42 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "Iranian sources claim that Donald Trump has approved the release of $24 billion in Iran's frozen assets, but is not publicly acknowledging it.",
    "timestamp": "2026-06-13T00:16:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "76cb9c61195b50c1a46a80fb49e8fd35",
-   "url": "https://t.me/OSINTWarfare/5324",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian sources claim that Donald Trump has approved the release of $24 billion in Iran's frozen assets, but is not publicly acknowledging it.",
-   "timestamp": "2026-06-12T23:47:47+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ab5668b3ea4bdad3dfe7fc51cbafacfd",
-   "url": "https://t.me/OSINTWarfare/5323",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 7, 2026, showing the targeting of an IDF Merkava in the vicinity of the historic Beaufort Castle in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-12T23:16:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "814ac1d57e08fd3d2a1aa044ac79701f",
-   "url": "https://t.me/OSINTWarfare/5322",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The United Arab Emirates is expected to release up to $10 billion in frozen Iranian oil revenues, with approximately $3 billion reportedly having already been transferred in cash.  However, two sources familiar with the matter indicated that the total amount…",
-   "timestamp": "2026-06-12T21:41:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ab573906761d9d1c8782a16612b26c4f",
-   "url": "https://t.me/OSINTWarfare/5321",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosions were heard in the Strait of Hormuz amid reports of IRGC Navy operations related to the enforcement of the blockade.",
-   "timestamp": "2026-06-12T20:56:47+00:00",
    "has_media": false
   },
   {
