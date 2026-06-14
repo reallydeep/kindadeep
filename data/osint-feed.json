@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-14T14:24:29Z",
- "count": 40,
+ "generated_utc": "2026-06-14T15:59:55Z",
+ "count": 38,
  "items": [
+  {
+   "id": "ba49cb32448b789da8436442b846deae",
+   "url": "https://t.me/OSINTWarfare/5347",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF Home Front Command says it is restricting gatherings to 5,000 people nationwide. Iran will definitely retaliate for Israel's attack on Dahieh.",
+   "timestamp": "2026-06-14T14:59:07+00:00",
+   "has_media": false
+  },
   {
    "id": "9862a0ec2a8237443ec44caa935d2b1c",
    "url": "https://t.me/warmonitors/44450",
@@ -147,24 +156,6 @@
    "has_media": false
   },
   {
-   "id": "1d73e0e99d6a1bfb571555a84058f52d",
-   "url": "https://t.me/warmonitors/44432",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Iranian Fars Agency, on the other hand, claims: The agreement will not be signed tomorrow - not everything has been completed.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-13T17:48:03+00:00",
-   "has_media": false
-  },
-  {
-   "id": "32418dcc6fe8ac36161ffe08f07fc31d",
-   "url": "https://t.me/warmonitors/44431",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran's Foreign Ministry: The presence of foreign bases and foreign military presence in the region must end\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-13T17:28:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "f358633661f113fa36b5661d951db215",
    "url": "https://t.me/OSINTWarfare/5333",
    "source": "telegram",
@@ -181,15 +172,6 @@
    "text": "President Donald Trump says the United States has killed the leader of the Tren de Aragua criminal organization in Venezuela, Niño Guerrero.",
    "timestamp": "2026-06-13T01:18:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "00f59f290d356bf4a49578f07f07aa3d",
-   "url": "https://t.me/OSINTWarfare/5325",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian sources claim that Donald Trump has approved the release of $24 billion in Iran's frozen assets, but is not publicly acknowledging it.",
-   "timestamp": "2026-06-13T00:16:27+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
