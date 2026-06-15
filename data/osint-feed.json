@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-14T23:54:27Z",
+ "generated_utc": "2026-06-15T02:29:32Z",
  "count": 46,
  "items": [
+  {
+   "id": "760d44743f42a878bea5205dbd2a0429",
+   "url": "https://t.me/OSINTWarfare/5358",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Zircon hypersonic cruise missiles striking Kyiv earlier tonight. One Patriot interceptor appears to have malfunctioned and fallen within the capital.",
+   "timestamp": "2026-06-15T01:59:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "80c9cca2737b15c9da6b8aece6df3dc9",
+   "url": "https://t.me/OSINTWarfare/5356",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Algerian Air Force (AAF) will start receiving batches of the Chinese J-10C multirole fighter starting in 2027, along with the KJ-500 airborne early warning and control (AEW&C) aircraft.\nThis was stated by a very reliable source,\n@SadaArmies\n.\nFor the first time ever, Algeria will operate fighter aircraft from a supplier other than Russia.",
+   "timestamp": "2026-06-15T00:50:15+00:00",
+   "has_media": true
+  },
   {
    "id": "ce7130d199644a74bb125d8282253d36",
    "url": "https://t.me/warmonitors/44486",
@@ -225,24 +243,6 @@
    "channel": "OSINTWarfare",
    "text": "IRGC-linked channels have published new high-resolution satellite imagery confirming the destruction of an AR-327 Commander long-range air surveillance radar at Bahrain’s Jabal Ad Dukhan site, as well as fuel storage tanks at Sheikh Isa Air Base.\nThe strikes were likely carried out using Shahed-136 loitering munitions.",
    "timestamp": "2026-06-13T22:38:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fd8fdf8066d9b4aab2fe311496b032d5",
-   "url": "https://t.me/OSINTWarfare/5337",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated 8 June 2026 showing strikes on IDF vehicles in southern Lebanon, including an Ofek command-and-control vehicle based on a Merkava 3 chassis, a M978A2 HEMTT (Heavy Expanded Mobility Tactical Truck), and another vehicle, using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-06-13T22:11:02+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1be0128b8f3990767cedbaa887a81145",
-   "url": "https://t.me/OSINTWarfare/5335",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah has released footage showing the downing of an IDF IAI Heron 1 UAV in the skies over Nahle in the Beqaa Valley, possibly using a 358 loitering surface-to-air missile.",
-   "timestamp": "2026-06-13T20:56:34+00:00",
    "has_media": true
   },
   {
