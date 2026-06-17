@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-17T12:06:14Z",
- "count": 41,
+ "generated_utc": "2026-06-17T15:58:53Z",
+ "count": 40,
  "items": [
+  {
+   "id": "d3bd40d0de5d113db25f1c572f6f3c03",
+   "url": "https://t.me/OSINTWarfare/5376",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lockheed Martin has unveiled a new version of the M142 HIMARS multiple launch rocket system (MLRS) called HIMARS FLEX.\nThe rocket system is now even more modular and multifunctional, while also receiving a doubled ammunition load comparable to that of the M270. Instead of a single launch pod carrying 6 GMLRS/ER GMLRS rockets, 1 ATACMS missile, or 2 PrSM missiles, the HIMARS FLEX carries two launch pods.\nIn addition, beyond its role as a launcher for tactical ballistic missiles and rockets, the HIMARS FLEX can also serve as a launcher for 8 Patriot PAC-3 surface-to-air missiles.",
+   "timestamp": "2026-06-17T15:39:01+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b86c713c55f33eb1fd6bb79331b79bf4",
+   "url": "https://t.me/OSINTWarfare/5375",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Broadcasting (IRIB) will release a short documentary with firsthand accounts from F-5 Air Force pilots involved in the surprise operation targeting the U.S. Camp Buehring in Kuwait.",
+   "timestamp": "2026-06-17T15:04:59+00:00",
+   "has_media": true
+  },
+  {
+   "id": "839411f5c1a897aed61570792ec19031",
+   "url": "https://t.me/OSINTWarfare/5371",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage showing the targeting of IDF equipment, including an M109 Doher self-propelled howitzer, two Humvees, and a Namer armored personnel carrier (APC) in southern Lebanon, using Ababil fiber-optic FPV drones.",
+   "timestamp": "2026-06-17T12:18:54+00:00",
+   "has_media": false
+  },
   {
    "id": "394e93e385a12101e0be6ab4716a5846",
    "url": "https://t.me/OSINTWarfare/5369",
@@ -171,42 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "The Algerian Air Force (AAF) will start receiving batches of the Chinese J-10C multirole fighter starting in 2027, along with the KJ-500 airborne early warning and control (AEW&C) aircraft.\nThis was stated by a very reliable source,\n@SadaArmies\n.\nFor the first time ever, Algeria will operate fighter aircraft from a supplier other than Russia.",
    "timestamp": "2026-06-15T00:50:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ec1b5735575bc3ff859f9ef8ac10fcba",
-   "url": "https://t.me/OSINTWarfare/5354",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "So, Iran would refrain from retaliating for Israel's attack on Beirut’s southern suburbs in exchange for a series of concessions guaranteed by Trump. These would include a complete IDF withdrawal from southern Lebanon (though whether Netanyahu would agree to that is another question, and the odds seem slim), the immediate lifting of the naval blockade rather than waiting for the 30-day period, the release of Iran's frozen funds, the resumption of Iranian oil exports, and Iranian management of the Strait of Hormuz with the right to collect transit fees.\nOn paper, it doesn't sound like a bad deal for Iran. The problem is whether any of it will actually hold. Netanyahu is unlikely to be satisfied with such an arrangement.",
-   "timestamp": "2026-06-14T22:21:00+00:00",
-   "has_media": false
-  },
-  {
-   "id": "820c5faec82e460bc631eecac36cde72",
-   "url": "https://t.me/OSINTWarfare/5353",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Toll free? Isn't that the opposite of what's stated in the MoU? Literally, Iran said it would collect fees and manage the strait. The naval blockade has been lifted.",
-   "timestamp": "2026-06-14T21:35:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6a09a6c599eaaac0b9ccb4cf9109d9b2",
-   "url": "https://t.me/OSINTWarfare/5352",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Syrian advisor to Syrian President Ahmed al-Sharaa (Jolani) said that the United States offered Syria to join the fight against Hezbollah, but the offer was declined.",
-   "timestamp": "2026-06-14T21:02:21+00:00",
-   "has_media": false
-  },
-  {
-   "id": "17bdc21a5dafa75e22f796071ea31eb3",
-   "url": "https://t.me/OSINTWarfare/5350",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Egyptian Air Force (EAF) personnel loading a Russian Kh-31PD anti-radiation missile (ARM) onto a MiG-29M2 multirole fighter.",
-   "timestamp": "2026-06-14T18:36:08+00:00",
    "has_media": true
   },
   {
