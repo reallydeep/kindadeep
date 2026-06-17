@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-17T20:31:05Z",
- "count": 43,
+ "generated_utc": "2026-06-17T22:23:24Z",
+ "count": 44,
  "items": [
+  {
+   "id": "b84d64ff04acb2c5b56396dc0780f9f9",
+   "url": "https://t.me/OSINTWarfare/5381",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An IDF patrol, consisting of nine troop carriers, advanced from the Tel al-Ahmar base toward the village of Al-Asbah in the southern countryside of Quneitra, Syria.",
+   "timestamp": "2026-06-17T21:43:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8c1d51abc1760e06dd0849503a3fb3ed",
+   "url": "https://t.me/OSINTWarfare/5380",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian F-5 pilots recounted the March 1 airstrikes on the U.S. Camp Buehring in Kuwait.\nAccording to their account, they were aware of the presence of Patriot batteries, layered air defenses, AWACS coverage, and Kuwaiti F/A-18s. To avoid detection, they maintained complete radio silence and flew at extremely low altitude over the Gulf, less than 50 feet above the water, far below the standard 500-foot training profile. One pilot claimed the aircraft even passed between two ships whose decks stood higher than the jet itself.\nAfter entering Kuwaiti airspace, they bypassed other potential targets, including power lines and refineries, and proceeded directly toward Camp Buehring, maintaining high speed and very low altitude until reaching the target area.\nThe pilots stated that the strike caused major fires and multiple secondary explosions, including burning helicopters.",
+   "timestamp": "2026-06-17T21:08:27+00:00",
+   "has_media": false
+  },
   {
    "id": "3a635cbf839cdea694df6448266db093",
    "url": "https://t.me/OSINTWarfare/5379",
@@ -217,15 +235,6 @@
    "text": "The Explosive Ordnance Disposal (EOD) unit of Iran's Law Enforcement Force discovered the warhead of a U.S.-made Tomahawk cruise missile in the city of Varamin, Tehran Province. After securing the area, the unit successfully neutralized the warhead.",
    "timestamp": "2026-06-15T14:48:21+00:00",
    "has_media": true
-  },
-  {
-   "id": "7579553278e0a54d287c814b80242c88",
-   "url": "https://t.me/OSINTWarfare/5359",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing strikes on IDF vehicles in southern Lebanon, including two Merkava tanks, using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-06-15T12:16:38+00:00",
-   "has_media": false
   },
   {
    "id": "68ec3b511f53182dd5094828dbfc53dd",
