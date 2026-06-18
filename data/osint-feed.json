@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-06-18T21:58:17Z",
- "count": 45,
+ "generated_utc": "2026-06-18T23:42:24Z",
+ "count": 49,
  "items": [
+  {
+   "id": "8166cd895b4655ac411f0f2311bd27ce",
+   "url": "https://t.me/OSINTWarfare/5394",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Artillery shelling and airstrikes target the al-Rahibat neighborhood in Nabatieh, southern Lebanon.",
+   "timestamp": "2026-06-18T23:18:55+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0d7dbe852631bb4fbe75ab5a00b50dc4",
+   "url": "https://t.me/warmonitors/44566",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nWikipedia lists the 2026 Iran War as an Iranian victory.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-18T23:08:03+00:00",
+   "has_media": true
+  },
+  {
+   "id": "82e167eb91bb47163b5dfd20c88936b9",
+   "url": "https://t.me/OSINTWarfare/5393",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a possible 9M133-1 Kornet-E anti-tank guided missile (ATGM) launched by Hezbollah fighters targeting an IDF vehicle advancing toward Ali al-Taher in southern Lebanon.",
+   "timestamp": "2026-06-18T22:57:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "69175ffc71ce534aff089f14e8278515",
+   "url": "https://t.me/OSINTWarfare/5391",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Intense clashes are ongoing between the IDF and Hezbollah near Ali al-Taher in southern Lebanon, as Israeli forces attempt to advance toward the Ali al-Taher hills under heavy artillery fire.",
+   "timestamp": "2026-06-18T22:47:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cf9531a72278e3ff5109a3da90d59cc6",
+   "url": "https://t.me/OSINTWarfare/5390",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran is considering acquiring second-hand J-10B multirole fighters from the Chinese People’s Liberation Army Air Force (PLAAF). Nothing is confirmed yet.",
+   "timestamp": "2026-06-18T22:09:57+00:00",
+   "has_media": true
+  },
   {
    "id": "910a2ab67623db018757254d249eb3cf",
    "url": "https://t.me/warmonitors/44565",
@@ -226,15 +271,6 @@
    "text": "The Islamic Republic of Iran Broadcasting (IRIB) will release a short documentary with firsthand accounts from F-5 Air Force pilots involved in the surprise operation targeting the U.S. Camp Buehring in Kuwait.",
    "timestamp": "2026-06-17T15:04:59+00:00",
    "has_media": true
-  },
-  {
-   "id": "839411f5c1a897aed61570792ec19031",
-   "url": "https://t.me/OSINTWarfare/5371",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage showing the targeting of IDF equipment, including an M109 Doher self-propelled howitzer, two Humvees, and a Namer armored personnel carrier (APC) in southern Lebanon, using Ababil fiber-optic FPV drones.",
-   "timestamp": "2026-06-17T12:18:54+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
