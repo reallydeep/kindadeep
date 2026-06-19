@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-19T22:42:04Z",
- "count": 38,
+ "generated_utc": "2026-06-19T23:48:47Z",
+ "count": 39,
  "items": [
+  {
+   "id": "ca147ceb749f0e053d7da17125e0cb58",
+   "url": "https://t.me/warmonitors/44589",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#UPDATE\nWhite House envoy Steve Witkoff is on his way to Switzerland, where the first round of talks with Iran on a potential nuclear deal is expected to take place, a U.S. official said. Jared Kushner is already in Switzerland.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-19T23:23:03+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ecf8d52ed5a3cc0cce8809cca19ad438",
+   "url": "https://t.me/OSINTWarfare/5409",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israeli Air Force (IAF) fighter jets are flying at low altitude over southern Lebanon.",
+   "timestamp": "2026-06-19T22:57:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "814e839e1849b942e2ab7ef8ee87be0c",
+   "url": "https://t.me/OSINTWarfare/5408",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Apparently, Hezbollah has destroyed another IDF tank attempting to advance toward Ali al-Taher Hill with an anti-tank guided missile (ATGM).  The area is exposed from multiple directions, leaving IDF troops and vehicles under constant fire from Hezbollah fighters.",
+   "timestamp": "2026-06-19T22:50:17+00:00",
+   "has_media": false
+  },
   {
    "id": "5d54ae371f12dfba9d3ec29b677ed8c1",
    "url": "https://t.me/OSINTWarfare/5407",
@@ -111,15 +138,6 @@
    "has_media": true
   },
   {
-   "id": "342faf7759b2e36fd3bec2810535103c",
-   "url": "https://t.me/warmonitors/44569",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nWhite House blames logistical issues as it postpones sending Vance to Switzerland for talks with Iran negotiators\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-19T02:18:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "8166cd895b4655ac411f0f2311bd27ce",
    "url": "https://t.me/OSINTWarfare/5394",
    "source": "telegram",
@@ -163,15 +181,6 @@
    "text": "The U.S. Air Force has moved forward with production of two unmanned fighter aircraft under its Collaborative Combat Aircraft (CCA) program, rather than selecting a single design.\nContracts have gone to General Atomics for the FQ-42A Dark Merlin and Anduril for the FQ-44A Fury. Both platforms had previously been tested under the YFQ-42A and YFQ-44A designations.\nThe aircraft are intended to act as semi-autonomous wingmen alongside crewed fighters, helping increase combat mass without requiring a proportional rise in the number of pilots or traditional jets.\nThe approach is meant to spread risk and divide roles across multiple systems instead of relying on a single type of aircraft.\nRather than one universal unmanned combat aerial vehicle (UCAV), the Air Force is effectively building a mixed fleet, with each design offering different strengths that can be developed further over time.\nIn the near term, the goal is to field more than 150 of these combat-capable wingmen by the end of the decade, with early units used mainly for testing, validation, and gradual operational integration.",
    "timestamp": "2026-06-18T19:28:03+00:00",
    "has_media": true
-  },
-  {
-   "id": "8549466402771f3b549b6add878078e9",
-   "url": "https://t.me/OSINTWarfare/5387",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— NEW: Message from Iran's Supreme Leader to the Iranian nation on the US-Iran MoU:  \"In the name of God, the Most Compassionate, the Most Merciful  The proud and loyal nation of Iran,  As you have been informed, a memorandum of understanding has been…",
-   "timestamp": "2026-06-18T18:18:30+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
