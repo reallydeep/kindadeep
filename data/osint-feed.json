@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-19T20:47:18Z",
- "count": 40,
+ "generated_utc": "2026-06-19T21:51:40Z",
+ "count": 38,
  "items": [
+  {
+   "id": "e27a9e08ebfbcfe7ad835e7bcf69952a",
+   "url": "https://t.me/OSINTWarfare/5406",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A second IDF attempt to advance toward Ali al-Taher Hill has so far failed, after Hezbollah fighters successfully repelled the assault.",
+   "timestamp": "2026-06-19T21:23:26+00:00",
+   "has_media": true
+  },
   {
    "id": "3dec4e59e2b055565f13f96a632e2aef",
    "url": "https://t.me/warmonitors/44585",
@@ -102,30 +111,12 @@
    "has_media": false
   },
   {
-   "id": "3cdca6701e6cd965940045014f9a6613",
-   "url": "https://t.me/warmonitors/44567",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nIsrael is bombing southern Lebanon now\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-19T00:18:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "8166cd895b4655ac411f0f2311bd27ce",
    "url": "https://t.me/OSINTWarfare/5394",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "Artillery shelling and airstrikes target the al-Rahibat neighborhood in Nabatieh, southern Lebanon.",
    "timestamp": "2026-06-18T23:18:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0d7dbe852631bb4fbe75ab5a00b50dc4",
-   "url": "https://t.me/warmonitors/44566",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nWikipedia lists the 2026 Iran War as an Iranian victory.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-18T23:08:03+00:00",
    "has_media": true
   },
   {
@@ -181,15 +172,6 @@
    "text": "🇮🇷\n🇺🇸\n⚡️\n— NEW:\nMessage from Iran's Supreme Leader to the Iranian nation on the US-Iran MoU:\n\"In the name of God, the Most Compassionate, the Most Merciful\nThe proud and loyal nation of Iran,\nAs you have been informed, a memorandum of understanding has been signed between the presidents of Iran and the United States.\nOn the path to reaching this stage, the officials responsible for this matter made great efforts out of sincere concern and with good intentions. Of course, the President of the United States also used various forms of pressure for this matter, relying on intimidation.\nIn principle, I had a different opinion, but because of the commitment made by the respected President, as head of the Supreme National Security Council, on his own behalf and on behalf of the other members, to uphold the rights of the Iranian nation and the Resistance Front, and because they clearly accepted responsibility for it, I issued permission for it.\nHe has also stated that if the American side seeks to demand more, they will not accept it and will leave the negotiations.\nFrom this moment, we, meaning you, the proud nation, and this humble servant, will await the fulfillment of the stated conditions.\nIt is self-evident that the negotiations that will take place in the future do not mean accepting the enemy’s view.\nWe hope that the prayers of our master, His Eminence Hujjat ibn al-Hasan, may our souls be sacrificed for him, will bring all kinds of victories and successes to the honorable people of Iran.\nPeace be upon you, and God’s mercy and blessings.\"\n@IntelSlava",
    "timestamp": "2026-06-18T18:18:27+00:00",
    "has_media": true
-  },
-  {
-   "id": "f92b0686acbc82598006956a69a6c453",
-   "url": "https://t.me/OSINTWarfare/5385",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 3, 2026, showing the targeting of an IDF M113 armored personnel carrier (APC) in the vicinity of the historic Beaufort Castle in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-18T18:05:27+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
