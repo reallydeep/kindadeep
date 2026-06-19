@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-19T15:44:18Z",
- "count": 43,
+ "generated_utc": "2026-06-19T17:31:59Z",
+ "count": 42,
  "items": [
   {
    "id": "2119a4638b8c3e09690e79241bb10e48",
@@ -208,15 +208,6 @@
    "text": "Hezbollah released footage dated June 13, 2026, showing the targeting of an IDF excavator on the outskirts of the town of Majdal Zoun in southern Lebanon using an Ababil fiber-optic FPV drone.",
    "timestamp": "2026-06-18T12:27:56+00:00",
    "has_media": false
-  },
-  {
-   "id": "815086974169dd2c86a5005a184f8ef9",
-   "url": "https://t.me/OSINTWarfare/5382",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah is using warheads from its stockpile of older French MILAN-1 anti-tank missiles on its FPV drones.",
-   "timestamp": "2026-06-18T11:20:39+00:00",
-   "has_media": true
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
