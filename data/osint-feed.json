@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-19T02:31:43Z",
- "count": 51,
+ "generated_utc": "2026-06-19T08:16:34Z",
+ "count": 47,
  "items": [
+  {
+   "id": "ba647bf58bd5b10eddddf30bd1489e7a",
+   "url": "https://t.me/OSINTWarfare/5395",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An IDF tank battalion commander and three other soldiers were killed in a Hezbollah attack in southern Lebanon overnight:\nThe slain officer is named as Lt. Col. Dor Gedalia Ben Simhon, 32, the commander of the 401st Armored Brigade’s 52nd Battalion. The names of the other soldiers are expected to be published later.\nA possible anti-tank missile struck the battalion commander's tank in the southern Lebanon village of Kfar Tebnit.",
+   "timestamp": "2026-06-19T07:12:13+00:00",
+   "has_media": true
+  },
   {
    "id": "342faf7759b2e36fd3bec2810535103c",
    "url": "https://t.me/warmonitors/44569",
@@ -244,51 +253,6 @@
    "text": "Iranian F-5 pilots recounted the March 1 airstrikes on the U.S. Camp Buehring in Kuwait.\nAccording to their account, they were aware of the presence of Patriot batteries, layered air defenses, AWACS coverage, and Kuwaiti F/A-18s. To avoid detection, they maintained complete radio silence and flew at extremely low altitude over the Gulf, less than 50 feet above the water, far below the standard 500-foot training profile. One pilot claimed the aircraft even passed between two ships whose decks stood higher than the jet itself.\nAfter entering Kuwaiti airspace, they bypassed other potential targets, including power lines and refineries, and proceeded directly toward Camp Buehring, maintaining high speed and very low altitude until reaching the target area.\nThe pilots stated that the strike caused major fires and multiple secondary explosions, including burning helicopters.",
    "timestamp": "2026-06-17T21:08:27+00:00",
    "has_media": false
-  },
-  {
-   "id": "3a635cbf839cdea694df6448266db093",
-   "url": "https://t.me/OSINTWarfare/5379",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇮🇱\n— INTEL:\nWe received intelligence indicating Iran may be preparing a preemptive strike on Israel, as Israeli attacks on Lebanon continue despite it being a necessary condition for signing the MoU.​​​​​​​​​​​​​​​​\n@IntelSlava\n@LeonovZ",
-   "timestamp": "2026-06-17T19:35:10+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ac847224bef8147fca61504703581685",
-   "url": "https://t.me/OSINTWarfare/5378",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran’s Red Crescent Society (IRCS) has signed a memorandum of understanding with Russia to acquire 20 Mi-171 helicopters for emergency response and disaster relief.\nThe helicopters will be used for search and rescue, medical evacuation, firefighting, and other emergency operations.\nThey are expected to be equipped with modern systems, including night-vision capability and specialized medical equipment. The first four helicopters are scheduled for delivery before March 2027.",
-   "timestamp": "2026-06-17T19:03:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ab9fe5a3089dfcf6ddc6092f01cae20a",
-   "url": "https://t.me/OSINTWarfare/5377",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from the 40-Day War shows the moment the warhead separates from an Iranian Ghadr-M (Qadr-M) ballistic missile over the skies of Israel.\nIran used a liquid-fueled Ghadr missile for the first time equipped with three separable, maneuverable warheads. Each Qadr-M warhead, weighing around 200–250 kg, could reportedly guide itself after separation and hit different targets.\nThis appears to be Iran’s first known use of Multiple Independently Targetable Reentry Vehicles (MIRVs). The capability is likely still at an early stage, but if further developed, it could significantly complicate air defense operations.",
-   "timestamp": "2026-06-17T18:34:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d3bd40d0de5d113db25f1c572f6f3c03",
-   "url": "https://t.me/OSINTWarfare/5376",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lockheed Martin has unveiled a new version of the M142 HIMARS multiple launch rocket system (MLRS) called HIMARS FLEX.\nThe rocket system is now even more modular and multifunctional, while also receiving a doubled ammunition load comparable to that of the M270. Instead of a single launch pod carrying 6 GMLRS/ER GMLRS rockets, 1 ATACMS missile, or 2 PrSM missiles, the HIMARS FLEX carries two launch pods.\nIn addition, beyond its role as a launcher for tactical ballistic missiles and rockets, the HIMARS FLEX can also serve as a launcher for 8 Patriot PAC-3 surface-to-air missiles.",
-   "timestamp": "2026-06-17T15:39:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b86c713c55f33eb1fd6bb79331b79bf4",
-   "url": "https://t.me/OSINTWarfare/5375",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Republic of Iran Broadcasting (IRIB) will release a short documentary with firsthand accounts from F-5 Air Force pilots involved in the surprise operation targeting the U.S. Camp Buehring in Kuwait.",
-   "timestamp": "2026-06-17T15:04:59+00:00",
-   "has_media": true
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
