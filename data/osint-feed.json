@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-20T22:18:30Z",
- "count": 41,
+ "generated_utc": "2026-06-20T23:37:27Z",
+ "count": 42,
  "items": [
+  {
+   "id": "676364847465875736d2e959ce55b536",
+   "url": "https://t.me/OSINTWarfare/5418",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF is asking the Mechanism Committee to contact Hezbollah to facilitate the retrieval of the remains of the soldiers killed near Ali al-Taher Hill.",
+   "timestamp": "2026-06-20T23:17:56+00:00",
+   "has_media": false
+  },
   {
    "id": "d88ac9fe1b720e24f1daa8e190ba5d4b",
    "url": "https://t.me/OSINTWarfare/5417",
