@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-20T21:01:19Z",
- "count": 42,
+ "generated_utc": "2026-06-20T22:18:30Z",
+ "count": 41,
  "items": [
+  {
+   "id": "d88ac9fe1b720e24f1daa8e190ba5d4b",
+   "url": "https://t.me/OSINTWarfare/5417",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from 2013 shows two Syrian Arab Army (SAA) T-72M1 tanks, belonging to the Syrian Republican Guard or the 4th Armored Division, operating in the city of Darayya, Rif Dimashq Governorate, during operations against Jabhat Ansar al-Islam.\nDuring the engagement, a group of rebels fired an RPG-29V from a building window at the lead tank. The rocket struck the vehicle, triggering a catastrophic ammunition cook-off that blew the turret several feet away from the hull.",
+   "timestamp": "2026-06-20T21:36:48+00:00",
+   "has_media": true
+  },
   {
    "id": "1fda67e34d91441e2c6670b71ba92e08",
    "url": "https://t.me/OSINTWarfare/5416",
@@ -165,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "3dec4e59e2b055565f13f96a632e2aef",
-   "url": "https://t.me/warmonitors/44585",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nBedford hospital is reportedly expecting at least 50 casualties following the train crash between Bedford and Luton\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-19T18:58:03+00:00",
-   "has_media": true
-  },
-  {
    "id": "6550210b5d27b3ccacf09fcac29d0569",
    "url": "https://t.me/OSINTWarfare/5404",
    "source": "telegram",
@@ -199,15 +199,6 @@
    "text": "IRGC Navy announces the closure of the Strait of Hormuz until further notice (Lebanon related).",
    "timestamp": "2026-06-19T11:52:45+00:00",
    "has_media": false
-  },
-  {
-   "id": "ba647bf58bd5b10eddddf30bd1489e7a",
-   "url": "https://t.me/OSINTWarfare/5395",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An IDF tank battalion commander and three other soldiers were killed in a Hezbollah attack in southern Lebanon overnight:\nThe slain officer is named as Lt. Col. Dor Gedalia Ben Simhon, 32, the commander of the 401st Armored Brigade’s 52nd Battalion. The names of the other soldiers are expected to be published later.\nA possible anti-tank missile struck the battalion commander's tank in the southern Lebanon village of Kfar Tebnit.",
-   "timestamp": "2026-06-19T07:12:13+00:00",
-   "has_media": true
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
