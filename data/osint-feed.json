@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-20T15:09:17Z",
+ "generated_utc": "2026-06-20T16:44:43Z",
  "count": 42,
  "items": [
+  {
+   "id": "2803935adc201225c1f47c7b71fef10b",
+   "url": "https://t.me/OSINTWarfare/5412",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Air Force (IRIAF) underground airbase “Oqab 44” (Eagle 44) was  subjected to three heavy strikes carried out by U.S. Air Force B-52H Stratofortress strategic bombers.\nAlthough the runway was destroyed, no fighter aircraft or internal infrastructure was reported damaged.",
+   "timestamp": "2026-06-20T16:31:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "21c843d880a23f4a7847fd4bb1fa407a",
+   "url": "https://t.me/OSINTWarfare/5410",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah released footage dated June 11, 2026, showing the targeting of an IDF Merkava tank in the town of Tayr Harfa in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-20T15:35:15+00:00",
+   "has_media": false
+  },
   {
    "id": "24387e636c7aefede8792b2ae6a10e1a",
    "url": "https://t.me/warmonitors/44602",
@@ -189,24 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "Intense clashes are ongoing between the IDF and Hezbollah near Ali al-Taher in southern Lebanon, as Israeli forces attempt to advance toward the Ali al-Taher hills under heavy artillery fire.",
    "timestamp": "2026-06-18T22:47:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cf9531a72278e3ff5109a3da90d59cc6",
-   "url": "https://t.me/OSINTWarfare/5390",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran is considering acquiring second-hand J-10B multirole fighters from the Chinese People’s Liberation Army Air Force (PLAAF). Nothing is confirmed yet.",
-   "timestamp": "2026-06-18T22:09:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "25d59ceb771aea4f173a8182cda773aa",
-   "url": "https://t.me/OSINTWarfare/5388",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Air Force has moved forward with production of two unmanned fighter aircraft under its Collaborative Combat Aircraft (CCA) program, rather than selecting a single design.\nContracts have gone to General Atomics for the FQ-42A Dark Merlin and Anduril for the FQ-44A Fury. Both platforms had previously been tested under the YFQ-42A and YFQ-44A designations.\nThe aircraft are intended to act as semi-autonomous wingmen alongside crewed fighters, helping increase combat mass without requiring a proportional rise in the number of pilots or traditional jets.\nThe approach is meant to spread risk and divide roles across multiple systems instead of relying on a single type of aircraft.\nRather than one universal unmanned combat aerial vehicle (UCAV), the Air Force is effectively building a mixed fleet, with each design offering different strengths that can be developed further over time.\nIn the near term, the goal is to field more than 150 of these combat-capable wingmen by the end of the decade, with early units used mainly for testing, validation, and gradual operational integration.",
-   "timestamp": "2026-06-18T19:28:03+00:00",
    "has_media": true
   },
   {
