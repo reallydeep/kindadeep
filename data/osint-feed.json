@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-21T02:01:42Z",
- "count": 42,
+ "generated_utc": "2026-06-21T07:00:27Z",
+ "count": 44,
  "items": [
+  {
+   "id": "d438cd0eb3676a9b05288e0014ba24b0",
+   "url": "https://t.me/warmonitors/44608",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nJD Vance arrives in Switzerland to lead talks with Tehran on its nuclear program as part of fragile deal to end Iran war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-21T06:38:03+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a55d2c2fa5e7f4b370f2cedc410cd063",
+   "url": "https://t.me/OSINTWarfare/5419",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russian cruise and ballistic missile strikes targeted the Poltava, Dnipropetrovsk, and Kharkiv regions.\nLarge parts of the Poltava region have been left without electricity following the attacks.",
+   "timestamp": "2026-06-21T06:35:58+00:00",
+   "has_media": true
+  },
   {
    "id": "676364847465875736d2e959ce55b536",
    "url": "https://t.me/OSINTWarfare/5418",
