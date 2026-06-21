@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-21T07:00:27Z",
- "count": 44,
+ "generated_utc": "2026-06-21T10:39:02Z",
+ "count": 40,
  "items": [
+  {
+   "id": "c44afaeb241e33c60cb7785ea6ad703f",
+   "url": "https://t.me/OSINTWarfare/5428",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— WATCH:\nA Russian Geran-2 loitering munition equipped with an electro-optical (EO) seeker struck a warehouse in Zaporizhzhia Oblast that was reportedly being used to store FPV drones.\n@IntelSlava",
+   "timestamp": "2026-06-21T09:09:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "be75abaef7bfd53a7a507251ff55fdd4",
+   "url": "https://t.me/OSINTWarfare/5423",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Recent satellite imagery of Shiraz Air Base (7th Tactical Air Base) reveals the extensive damage inflicted by U.S. airstrikes. The strikes reportedly destroyed five Il-76 transport aircraft, two C-130H transport aircraft, and several Su-22 fighter-bombers.\nIn addition to the aircraft losses, the imagery shows widespread destruction of the base's hardened aircraft shelters and other supporting infrastructure.\nThnx\n@BasedIMINT\nfor the images.",
+   "timestamp": "2026-06-21T08:41:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2cdf78688c83c837119a96e30fe94959",
+   "url": "https://t.me/OSINTWarfare/5421",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian drones struck a fuel terminal in Kerch, Crimea, sparking a massive fire amid ongoing attacks on energy infrastructure across the region.",
+   "timestamp": "2026-06-21T07:26:36+00:00",
+   "has_media": true
+  },
   {
    "id": "d438cd0eb3676a9b05288e0014ba24b0",
    "url": "https://t.me/warmonitors/44608",
@@ -156,15 +183,6 @@
    "has_media": false
   },
   {
-   "id": "ca147ceb749f0e053d7da17125e0cb58",
-   "url": "https://t.me/warmonitors/44589",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#UPDATE\nWhite House envoy Steve Witkoff is on his way to Switzerland, where the first round of talks with Iran on a potential nuclear deal is expected to take place, a U.S. official said. Jared Kushner is already in Switzerland.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-19T23:23:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "ecf8d52ed5a3cc0cce8809cca19ad438",
    "url": "https://t.me/OSINTWarfare/5409",
    "source": "telegram",
@@ -172,60 +190,6 @@
    "text": "Israeli Air Force (IAF) fighter jets are flying at low altitude over southern Lebanon.",
    "timestamp": "2026-06-19T22:57:25+00:00",
    "has_media": true
-  },
-  {
-   "id": "814e839e1849b942e2ab7ef8ee87be0c",
-   "url": "https://t.me/OSINTWarfare/5408",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Apparently, Hezbollah has destroyed another IDF tank attempting to advance toward Ali al-Taher Hill with an anti-tank guided missile (ATGM).  The area is exposed from multiple directions, leaving IDF troops and vehicles under constant fire from Hezbollah fighters.",
-   "timestamp": "2026-06-19T22:50:17+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5d54ae371f12dfba9d3ec29b677ed8c1",
-   "url": "https://t.me/OSINTWarfare/5407",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Apparently, Hezbollah has destroyed another IDF tank attempting to advance toward Ali al-Taher Hill with an anti-tank guided missile (ATGM).\nThe area is exposed from multiple directions, leaving IDF troops and vehicles under constant fire from Hezbollah fighters.",
-   "timestamp": "2026-06-19T22:30:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e27a9e08ebfbcfe7ad835e7bcf69952a",
-   "url": "https://t.me/OSINTWarfare/5406",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A second IDF attempt to advance toward Ali al-Taher Hill has so far failed, after Hezbollah fighters successfully repelled the assault.",
-   "timestamp": "2026-06-19T21:23:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6550210b5d27b3ccacf09fcac29d0569",
-   "url": "https://t.me/OSINTWarfare/5404",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 12, 2026, showing the targeting of an IDF Merkava tank on the eastern outskirts of the town of Yahmar al-Shaqif in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-19T18:02:20+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2119a4638b8c3e09690e79241bb10e48",
-   "url": "https://t.me/OSINTWarfare/5401",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "I've collected some truly remarkable quotes from Israeli officials:\n• “A ceasefire being in effect does not prevent us from continuing operations.”\n• “A ceasefire does not mean ceasing fire. It means not escalating the attacks.”\n• “If Hezbollah tries to confront Israeli advances in southern Lebanon, we will defend ourselves and retaliate.”\n“A ceasefire does not mean ceasing fire” is apparently a brand-new contribution to the English language. If you're confused by that, you're probably just an anti-semite.\nAnd the logic gets even better:\n“Yes, we're in a ceasefire. We'll keep advancing into your territory, but you're not allowed to resist. And if you do resist, we'll retaliate because you're violating the ceasefire.”\nAt this point, one has to wonder why it's called a ceasefire at all. By that definition, a ceasefire seems to mean that one side keeps doing whatever it wants while the other side is expected to sit quietly and applaud.",
-   "timestamp": "2026-06-19T14:49:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a9519ad06510e93760c4b27b482c0728",
-   "url": "https://t.me/OSINTWarfare/5400",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "IRGC Navy announces the closure of the Strait of Hormuz until further notice (Lebanon related).",
-   "timestamp": "2026-06-19T11:52:45+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
