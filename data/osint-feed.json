@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-22T22:21:25Z",
- "count": 43,
+ "generated_utc": "2026-06-22T23:47:20Z",
+ "count": 44,
  "items": [
+  {
+   "id": "82a52c491d3e2e43729fe0dd35314a09",
+   "url": "https://t.me/OSINTWarfare/5448",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Satellite imagery shows the aftermath of the explosion at the Barzan Gas Plant inside Ras Laffan Industrial City.",
+   "timestamp": "2026-06-22T22:37:57+00:00",
+   "has_media": true
+  },
   {
    "id": "954c1cbd1c3dfe929f1f47582911941e",
    "url": "https://t.me/warmonitors/44644",
