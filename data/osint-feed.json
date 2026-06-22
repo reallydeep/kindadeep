@@ -1,15 +1,51 @@
 {
- "generated_utc": "2026-06-22T17:51:05Z",
- "count": 42,
+ "generated_utc": "2026-06-22T20:29:57Z",
+ "count": 43,
  "items": [
   {
-   "id": "4c765b55cdc1fe35fe3391d3110b3455",
-   "url": "https://t.me/OSINTWarfare/5441",
+   "id": "954c1cbd1c3dfe929f1f47582911941e",
+   "url": "https://t.me/warmonitors/44644",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nA civilian was accidentally killed in the crossfire during the shootout in Montreal.\nDeath toll:\n1 Civilian\n1 Police Officer\n1 Gunman\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-22T20:28:03+00:00",
+   "has_media": true
+  },
+  {
+   "id": "08713c0657cecbd8e5d1f15be87c2c1a",
+   "url": "https://t.me/OSINTWarfare/5444",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Satellite imagery of the Grushova Balka oil terminal in Novorossiysk, Krasnodar Krai, Russia, following Ukrainian UAV strikes.",
-   "timestamp": "2026-06-22T16:34:53+00:00",
+   "text": "Hezbollah released footage dated June 13, 2026, showing the targeting of an IDF Achzarit armored personnel carrier (APC) at the newly established Al-Hamames Hill in southern Lebanon using an Ababil fiber-optic FPV drone.",
+   "timestamp": "2026-06-22T19:23:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cbbf4c530bb8894f0bb81d6526c2d8f1",
+   "url": "https://t.me/warmonitors/44643",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#SHOCKING\nDramatic footage of the shootout that shot the SPVM officer and the retaliation shot that killed one of the gunmen in Montreal.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-22T19:23:04+00:00",
    "has_media": true
+  },
+  {
+   "id": "67a83e4a68951a163839acccf6a56a0c",
+   "url": "https://t.me/OSINTWarfare/5443",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🏴‍☠️\n🇬🇧\nAndy Burnham saying Israel would be his first overseas visit if elected as a new UK PM amid possible Starmer’s resignation.",
+   "timestamp": "2026-06-22T18:26:47+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5a814d583e405d48b8724b93daeeafa2",
+   "url": "https://t.me/OSINTWarfare/5442",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🏴‍☠️\n🇬🇧\nAndy Burnham saying Israel would be his first overseas visit if elected as a new UK PM amid possible Starmer’s resignation.",
+   "timestamp": "2026-06-22T18:26:33+00:00",
+   "has_media": false
   },
   {
    "id": "c2bc24eefb51fa96b2159d1b13c22c19",
@@ -138,24 +174,6 @@
    "has_media": false
   },
   {
-   "id": "f39aeda83df334410c0542d9b0b26fd3",
-   "url": "https://t.me/warmonitors/44624",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#SHOCKING\nColombia's president Gustavo Petro says he does not recognize results of the presidential election and suggests interference from Israel\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-22T00:48:03+00:00",
-   "has_media": false
-  },
-  {
-   "id": "325cfc2b5d93062a65fa59f3c1a73991",
-   "url": "https://t.me/warmonitors/44622",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nQatari Ministry of Interior:\nIt is an internal explosion at a gas plant, with no casualties or leaks, forces are handling the incident.\nx.com/warmonitors/st…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-21T23:38:03+00:00",
-   "has_media": true
-  },
-  {
    "id": "cc49912a99388644ce9c047aecbf3166",
    "url": "https://t.me/OSINTWarfare/5433",
    "source": "telegram",
@@ -199,15 +217,6 @@
    "text": "🇷🇺\n🇺🇦\n⚡️\n— WATCH:\nA Russian Geran-2 loitering munition equipped with an electro-optical (EO) seeker struck a warehouse in Zaporizhzhia Oblast that was reportedly being used to store FPV drones.\n@IntelSlava",
    "timestamp": "2026-06-21T09:09:52+00:00",
    "has_media": false
-  },
-  {
-   "id": "be75abaef7bfd53a7a507251ff55fdd4",
-   "url": "https://t.me/OSINTWarfare/5423",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Recent satellite imagery of Shiraz Air Base (7th Tactical Air Base) reveals the extensive damage inflicted by U.S. airstrikes. The strikes reportedly destroyed five Il-76 transport aircraft, two C-130H transport aircraft, and several Su-22 fighter-bombers.\nIn addition to the aircraft losses, the imagery shows widespread destruction of the base's hardened aircraft shelters and other supporting infrastructure.\nThnx\n@BasedIMINT\nfor the images.",
-   "timestamp": "2026-06-21T08:41:08+00:00",
-   "has_media": true
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
