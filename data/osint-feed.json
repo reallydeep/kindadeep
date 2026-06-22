@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-06-22T13:13:27Z",
- "count": 40,
+ "generated_utc": "2026-06-22T17:51:05Z",
+ "count": 42,
  "items": [
+  {
+   "id": "4c765b55cdc1fe35fe3391d3110b3455",
+   "url": "https://t.me/OSINTWarfare/5441",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Satellite imagery of the Grushova Balka oil terminal in Novorossiysk, Krasnodar Krai, Russia, following Ukrainian UAV strikes.",
+   "timestamp": "2026-06-22T16:34:53+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c2bc24eefb51fa96b2159d1b13c22c19",
+   "url": "https://t.me/OSINTWarfare/5440",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Iran has successfully installed the P4 processing platform at the Reshadat Oil Field, one of the country's largest offshore oil-processing platforms, weighing approximately 6,200 tons, according to IRNA.\n➡️\nThe project—previously delayed by sanctions—was completed using a complex float-over installation method. Iranian officials said the platform was fully designed, engineered, constructed, and installed by domestic specialists without foreign assistance.\n➡️\nThe new platform is expected to increase oil production capacity by 35,000 barrels per day and enable the injection of 80,000 barrels of water per day to maintain reservoir pressure and support field development.\n➡️\nLocated about 90 kilometers from Lavan Island, the Reshadat field has been producing oil since 1969. Iranian authorities described the installation of the P4 platform as a major milestone in expanding offshore production capacity and advancing development of one of the Persian Gulf's key oil fields.",
+   "timestamp": "2026-06-22T15:17:38+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1cb616a434824e101b50c96ad0f157e9",
+   "url": "https://t.me/OSINTWarfare/5439",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Department of the Treasury has officially issued a 60-day sanctions waiver covering Iranian oil, petrochemical products, and natural gas exports.\nThe waiver is now in effect through August 21 and may be extended if negotiations continue to make progress toward a final agreement.",
+   "timestamp": "2026-06-22T15:07:45+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cc38525729471243aa0929e40d93a6e9",
+   "url": "https://t.me/warmonitors/44640",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#UPDATE\nQatar's energy minister says at least 13 people killed in explosion at key gas export port\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-22T14:03:07+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d67ff34869f08785733c4aea8623212a",
+   "url": "https://t.me/warmonitors/44639",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#NOW\nUS Treasury issues a 60-day license waiving sanctions on Iranian oil as part of interim agreement to end Iran war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-22T13:48:03+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5b0be3a79319ef8a16af47efa1d0cd87",
+   "url": "https://t.me/OSINTWarfare/5438",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF shelled the towns of Masha’a al-Mansouri and Byout al-Siyad in southern Lebanon. This is the first violation of the ceasefire in 37 hours.",
+   "timestamp": "2026-06-22T13:23:02+00:00",
+   "has_media": true
+  },
   {
    "id": "309d7c431b1b557d3c24b53409411c88",
    "url": "https://t.me/warmonitors/44637",
@@ -120,15 +174,6 @@
    "has_media": false
   },
   {
-   "id": "1e4a64855eba7211a49e7b9e06a931c4",
-   "url": "https://t.me/warmonitors/44619",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIranian Fars News Agency: It is still impossible to say whether the negotiations have ended or not, but according to the signs, it appears that the Iranian delegation is on the verge of returning to the country.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-21T20:58:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "556ea8f23531148d05b253308390ac68",
    "url": "https://t.me/OSINTWarfare/5430",
    "source": "telegram",
@@ -163,33 +208,6 @@
    "text": "Recent satellite imagery of Shiraz Air Base (7th Tactical Air Base) reveals the extensive damage inflicted by U.S. airstrikes. The strikes reportedly destroyed five Il-76 transport aircraft, two C-130H transport aircraft, and several Su-22 fighter-bombers.\nIn addition to the aircraft losses, the imagery shows widespread destruction of the base's hardened aircraft shelters and other supporting infrastructure.\nThnx\n@BasedIMINT\nfor the images.",
    "timestamp": "2026-06-21T08:41:08+00:00",
    "has_media": true
-  },
-  {
-   "id": "2cdf78688c83c837119a96e30fe94959",
-   "url": "https://t.me/OSINTWarfare/5421",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian drones struck a fuel terminal in Kerch, Crimea, sparking a massive fire amid ongoing attacks on energy infrastructure across the region.",
-   "timestamp": "2026-06-21T07:26:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a55d2c2fa5e7f4b370f2cedc410cd063",
-   "url": "https://t.me/OSINTWarfare/5419",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russian cruise and ballistic missile strikes targeted the Poltava, Dnipropetrovsk, and Kharkiv regions.\nLarge parts of the Poltava region have been left without electricity following the attacks.",
-   "timestamp": "2026-06-21T06:35:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "676364847465875736d2e959ce55b536",
-   "url": "https://t.me/OSINTWarfare/5418",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF is asking the Mechanism Committee to contact Hezbollah to facilitate the retrieval of the remains of the soldiers killed near Ali al-Taher Hill.",
-   "timestamp": "2026-06-20T23:17:56+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
