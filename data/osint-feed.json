@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-23T08:53:57Z",
- "count": 44,
+ "generated_utc": "2026-06-23T11:50:24Z",
+ "count": 45,
  "items": [
+  {
+   "id": "288be7f23350308d6cd00bfd62581203",
+   "url": "https://t.me/TerrorAlarm/45",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
+   "timestamp": "2026-06-23T10:50:51+00:00",
+   "has_media": true
+  },
   {
    "id": "82a52c491d3e2e43729fe0dd35314a09",
    "url": "https://t.me/OSINTWarfare/5448",
