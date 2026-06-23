@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-23T22:01:05Z",
+ "generated_utc": "2026-06-23T23:16:35Z",
  "count": 48,
  "items": [
+  {
+   "id": "25b4c0c528a9d07171c07cabec3ad66d",
+   "url": "https://t.me/OSINTWarfare/5451",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Apparently, Ukrainian drones struck what appears to be a Russian air defense system in Kirovske, Crimea, overnight.",
+   "timestamp": "2026-06-23T23:09:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8b587571ea60c7a298b26faf4625bc77",
+   "url": "https://t.me/OSINTWarfare/5450",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Germany has signed a €3.2 billion contract with Raytheon for the procurement of 600 PAC-2 GEM-T interceptors for the MIM-104 Patriot air defense system, with deliveries to Ukraine scheduled over the next four years.",
+   "timestamp": "2026-06-23T22:26:17+00:00",
+   "has_media": true
+  },
   {
    "id": "79b7952c3aae4804b3da416aa388ce52",
    "url": "https://t.me/warmonitors/44656",
@@ -243,24 +261,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah released footage dated June 12, 2026, showing the targeting of an IDF Merkava Mk. 4M tank on the eastern outskirts of Yahmar al-Shaqif in southern Lebanon using an Ababil fiber-optic FPV drone.",
    "timestamp": "2026-06-21T23:02:42+00:00",
-   "has_media": false
-  },
-  {
-   "id": "556ea8f23531148d05b253308390ac68",
-   "url": "https://t.me/OSINTWarfare/5430",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Presumably, the first footage of the new Russian S8000 Banderol cruise missile in flight, filmed yesterday in Poltava Oblast.",
-   "timestamp": "2026-06-21T14:42:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2d070484328c93ea8103f1d9d6cec3af",
-   "url": "https://t.me/OSINTWarfare/5429",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 14, 2026, showing the targeting of what appears to be an IDF 8-wheeled Unmanned Ground Vehicle (UGV) on the outskirts of the town of Arnoun in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-21T14:04:34+00:00",
    "has_media": false
   },
   {
