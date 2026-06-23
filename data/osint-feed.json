@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-23T18:31:46Z",
- "count": 47,
+ "generated_utc": "2026-06-23T20:36:27Z",
+ "count": 48,
  "items": [
+  {
+   "id": "3fbee73022917f1abfec5067f7b73255",
+   "url": "https://t.me/warmonitors/44655",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsrael bombs Gaza city moments ago\n(Stock Image)\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-23T19:23:39+00:00",
+   "has_media": true
+  },
+  {
+   "id": "68c2a20ded27637ae8d1f1be8df696e5",
+   "url": "https://t.me/OSINTWarfare/5449",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the Chinese People's Liberation Army Rocket Force (PLARF) launching DF-17 hypersonic missiles equipped with DF-ZF hypersonic glide vehicles (HGVs) during a joint training exercise in the Gobi Desert.",
+   "timestamp": "2026-06-23T19:21:53+00:00",
+   "has_media": false
+  },
   {
    "id": "70841a4125a8643a0ab119010d1b177b",
    "url": "https://t.me/warmonitors/44654",
@@ -243,15 +261,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah released footage dated June 14, 2026, showing the targeting of what appears to be an IDF 8-wheeled Unmanned Ground Vehicle (UGV) on the outskirts of the town of Arnoun in southern Lebanon using an Ababil fiber-optic FPV drone.",
    "timestamp": "2026-06-21T14:04:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c44afaeb241e33c60cb7785ea6ad703f",
-   "url": "https://t.me/OSINTWarfare/5428",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— WATCH:\nA Russian Geran-2 loitering munition equipped with an electro-optical (EO) seeker struck a warehouse in Zaporizhzhia Oblast that was reportedly being used to store FPV drones.\n@IntelSlava",
-   "timestamp": "2026-06-21T09:09:52+00:00",
    "has_media": false
   },
   {
