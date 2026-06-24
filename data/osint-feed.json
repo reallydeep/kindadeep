@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-24T08:00:08Z",
- "count": 46,
+ "generated_utc": "2026-06-24T10:51:19Z",
+ "count": 44,
  "items": [
+  {
+   "id": "260928bd2e400945c46e014b79df69c3",
+   "url": "https://t.me/OSINTWarfare/5452",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇰🇵\n⚡️\n— A ceremony was held in North Korea (DPRK) to officially commission the new guided-missile frigate Choe Hyon (51) into service with the Korean People's Navy (KPN), following a 14-month period of sea trials and operational readiness evaluations.\nA second vessel of the same class, Kang Kon (52), is currently undergoing trials, while the third and fourth ships are already under construction at North Korean shipyards.\n@IntelSlava",
+   "timestamp": "2026-06-24T09:21:40+00:00",
+   "has_media": true
+  },
   {
    "id": "25b4c0c528a9d07171c07cabec3ad66d",
    "url": "https://t.me/OSINTWarfare/5451",
@@ -183,15 +192,6 @@
    "has_media": false
   },
   {
-   "id": "d67ff34869f08785733c4aea8623212a",
-   "url": "https://t.me/warmonitors/44639",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#NOW\nUS Treasury issues a 60-day license waiving sanctions on Iranian oil as part of interim agreement to end Iran war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-22T13:48:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "5b0be3a79319ef8a16af47efa1d0cd87",
    "url": "https://t.me/OSINTWarfare/5438",
    "source": "telegram",
@@ -226,24 +226,6 @@
    "text": "Ukraine struck the Voronezh Semiconductor Devices Factory–Assembly (VZPP-S) in Voronezh, Russia, with Storm Shadow cruise missiles.\nThe facility manufactures a wide range of electronic components, including power semiconductors and regulators, logic integrated circuits (ICs) and programmable logic devices (PLDs), high-frequency (HF) and microwave (VHF/UHF) transistors, as well as rectifier bridges and voltage stabilizers.\nThese components are used in numerous Russian weapons and military systems, including the Kh-101 and Kh-55 cruise missiles, the Iskander-M missile system, the Vympel R-77 and R-37M air-to-air missiles, the Pantsir-S1 and S-400 air defense systems, and electronic warfare (EW) and signals intelligence platforms such as the R-330Zh Zhitel and Borisoglebsk-2, as well as Orientir navigation units.",
    "timestamp": "2026-06-22T09:57:30+00:00",
    "has_media": true
-  },
-  {
-   "id": "cc49912a99388644ce9c047aecbf3166",
-   "url": "https://t.me/OSINTWarfare/5433",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "I was going to say this a few weeks ago, but I'll say it now: there's a significant chance that we could witness an unprecedented Sunni–Shia coalition emerge in the region. I know it may sound unlikely, but I can envision a rapprochement between Syria and Iran. Despite Syria's past issues with Hezbollah, all parties understand that there are few viable alternatives and little to gain from continued confrontation.\nThis is, of course, just my personal opinion, and we'll have to see how events unfold in the future.\nDon't forget that I previously reported that Syria has been allowing Iran, to some extent, to smuggle weapons into Lebanon.",
-   "timestamp": "2026-06-21T23:27:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "71e445a6f6323b856e79c19b57f081f3",
-   "url": "https://t.me/OSINTWarfare/5432",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 12, 2026, showing the targeting of an IDF Merkava Mk. 4M tank on the eastern outskirts of Yahmar al-Shaqif in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-21T23:02:42+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
