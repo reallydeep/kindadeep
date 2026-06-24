@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-06-24T10:51:19Z",
- "count": 44,
+ "generated_utc": "2026-06-24T13:09:12Z",
+ "count": 43,
  "items": [
+  {
+   "id": "95a3897730e274e7c3153b9216e7fc51",
+   "url": "https://t.me/OSINTWarfare/5458",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Russian FPV drone operator struck a light anti-drone air defense system, identified as MAAWLR, operated by the Armed Forces of Ukraine and produced by the American company Sierra Nevada Corp.\nThe MAAWLR system is mounted on a pickup truck chassis and is equipped with an electro-optical targeting system for autonomous target detection, while also being capable of receiving external target designation from radar assets. It can use a range of missiles, including AIM-9M, AIM-132 ASRAAM, AIM-120 AMRAAM, IRIS-T, R-27, and APKWS II.\nDepending on the munition used, the system is assessed to be capable of engaging drones at ranges of approximately 6–15 km.",
+   "timestamp": "2026-06-24T11:57:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b4cad6ac4edd921f67042d82ed681921",
+   "url": "https://t.me/warmonitors/44660",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#UPDATE\nIranian diplomat rejects comments by IAEA chief on nuclear site inspections, says it would come only after a final deal\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-24T11:23:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b5ecdd7379b5f0d9cf15ac152ea9d54e",
+   "url": "https://t.me/OSINTWarfare/5456",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF claims they struck and destroyed four rocket launchers recently set up by Palestinian armed groups in the Gaza Strip.",
+   "timestamp": "2026-06-24T10:58:57+00:00",
+   "has_media": false
+  },
   {
    "id": "260928bd2e400945c46e014b79df69c3",
    "url": "https://t.me/OSINTWarfare/5452",
@@ -183,48 +210,12 @@
    "has_media": false
   },
   {
-   "id": "cc38525729471243aa0929e40d93a6e9",
-   "url": "https://t.me/warmonitors/44640",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nQatar's energy minister says at least 13 people killed in explosion at key gas export port\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-22T14:03:07+00:00",
-   "has_media": false
-  },
-  {
    "id": "5b0be3a79319ef8a16af47efa1d0cd87",
    "url": "https://t.me/OSINTWarfare/5438",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "The IDF shelled the towns of Masha’a al-Mansouri and Byout al-Siyad in southern Lebanon. This is the first violation of the ceasefire in 37 hours.",
    "timestamp": "2026-06-22T13:23:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fdec4c21f7ce5b293919c12aa48e6b58",
-   "url": "https://t.me/OSINTWarfare/5437",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to Ukrainian sources, the North Korean Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missile, commonly known as the KN-23, has reportedly achieved a Circular Error Probable (CEP) of 1–5 meters. If accurate, this would indicate that the missile has matured into a highly maneuverable, reliable, and precise weapon system, combining improved production quality and substantially lower failure rates with exceptional strike accuracy.",
-   "timestamp": "2026-06-22T11:56:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a0b9b42d621c6b194d239ee3b4fde3b2",
-   "url": "https://t.me/OSINTWarfare/5436",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— WATCH:\nObjective control footage showing the aftermath of strikes carried out by Russian Geran-2 loitering munitions equipped with electro-optical (EO) seekers against the Kantserovka oil depot near Vysokohirne, Zaporizhzhia Oblast.\n📍\n47.856794833651065, 34.95235503367186\n@IntelSlava",
-   "timestamp": "2026-06-22T10:21:17+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4c262010b475d1b1770ba44f330d22a2",
-   "url": "https://t.me/OSINTWarfare/5434",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine struck the Voronezh Semiconductor Devices Factory–Assembly (VZPP-S) in Voronezh, Russia, with Storm Shadow cruise missiles.\nThe facility manufactures a wide range of electronic components, including power semiconductors and regulators, logic integrated circuits (ICs) and programmable logic devices (PLDs), high-frequency (HF) and microwave (VHF/UHF) transistors, as well as rectifier bridges and voltage stabilizers.\nThese components are used in numerous Russian weapons and military systems, including the Kh-101 and Kh-55 cruise missiles, the Iskander-M missile system, the Vympel R-77 and R-37M air-to-air missiles, the Pantsir-S1 and S-400 air defense systems, and electronic warfare (EW) and signals intelligence platforms such as the R-330Zh Zhitel and Borisoglebsk-2, as well as Orientir navigation units.",
-   "timestamp": "2026-06-22T09:57:30+00:00",
    "has_media": true
   },
   {
