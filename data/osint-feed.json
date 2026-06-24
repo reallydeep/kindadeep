@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-24T13:09:12Z",
- "count": 43,
+ "generated_utc": "2026-06-24T15:37:42Z",
+ "count": 42,
  "items": [
   {
    "id": "95a3897730e274e7c3153b9216e7fc51",
@@ -208,15 +208,6 @@
    "text": "The U.S. Department of the Treasury has officially issued a 60-day sanctions waiver covering Iranian oil, petrochemical products, and natural gas exports.\nThe waiver is now in effect through August 21 and may be extended if negotiations continue to make progress toward a final agreement.",
    "timestamp": "2026-06-22T15:07:45+00:00",
    "has_media": false
-  },
-  {
-   "id": "5b0be3a79319ef8a16af47efa1d0cd87",
-   "url": "https://t.me/OSINTWarfare/5438",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF shelled the towns of Masha’a al-Mansouri and Byout al-Siyad in southern Lebanon. This is the first violation of the ceasefire in 37 hours.",
-   "timestamp": "2026-06-22T13:23:02+00:00",
-   "has_media": true
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
