@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-25T16:05:26Z",
- "count": 35,
+ "generated_utc": "2026-06-25T18:21:30Z",
+ "count": 33,
  "items": [
+  {
+   "id": "9387350161f7f397da657ae33fbea27a",
+   "url": "https://t.me/warmonitors/44682",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nBritish military says cargo ship hit by projectile off Oman near UN-approved route for Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-25T16:38:40+00:00",
+   "has_media": false
+  },
   {
    "id": "9fde8e6b54667426fbc63276ae5009ba",
    "url": "https://t.me/warmonitors/44680",
@@ -54,15 +63,6 @@
    "channel": "OSINTWarfare",
    "text": "A Russian FPV drone operator struck a light anti-drone air defense system, identified as MAAWLR, operated by the Armed Forces of Ukraine and produced by the American company Sierra Nevada Corp.\nThe MAAWLR system is mounted on a pickup truck chassis and is equipped with an electro-optical targeting system for autonomous target detection, while also being capable of receiving external target designation from radar assets. It can use a range of missiles, including AIM-9M, AIM-132 ASRAAM, AIM-120 AMRAAM, IRIS-T, R-27, and APKWS II.\nDepending on the munition used, the system is assessed to be capable of engaging drones at ranges of approximately 6–15 km.",
    "timestamp": "2026-06-24T11:57:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b4cad6ac4edd921f67042d82ed681921",
-   "url": "https://t.me/warmonitors/44660",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nIranian diplomat rejects comments by IAEA chief on nuclear site inspections, says it would come only after a final deal\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-24T11:23:39+00:00",
    "has_media": false
   },
   {
@@ -127,24 +127,6 @@
    "text": "Satellite imagery shows the aftermath of the explosion at the Barzan Gas Plant inside Ras Laffan Industrial City.",
    "timestamp": "2026-06-22T22:37:57+00:00",
    "has_media": true
-  },
-  {
-   "id": "08713c0657cecbd8e5d1f15be87c2c1a",
-   "url": "https://t.me/OSINTWarfare/5444",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah released footage dated June 13, 2026, showing the targeting of an IDF Achzarit armored personnel carrier (APC) at the newly established Al-Hamames Hill in southern Lebanon using an Ababil fiber-optic FPV drone.",
-   "timestamp": "2026-06-22T19:23:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "67a83e4a68951a163839acccf6a56a0c",
-   "url": "https://t.me/OSINTWarfare/5443",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🏴‍☠️\n🇬🇧\nAndy Burnham saying Israel would be his first overseas visit if elected as a new UK PM amid possible Starmer’s resignation.",
-   "timestamp": "2026-06-22T18:26:47+00:00",
-   "has_media": false
   },
   {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
