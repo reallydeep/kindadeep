@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-26T08:45:56Z",
- "count": 32,
+ "generated_utc": "2026-06-26T11:32:24Z",
+ "count": 31,
  "items": [
+  {
+   "id": "337b44b2b2088164505f0bf707abf4e1",
+   "url": "https://t.me/OSINTWarfare/5468",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah has released footage dated June 14, 2026, showing the launch of an Ababil (Arman) short-range ballistic missile (SRBM), Nasr-2 surface-to-surface missiles, and a Paveh cruise missile targeting IDF positions in southern Lebanon.",
+   "timestamp": "2026-06-26T10:35:50+00:00",
+   "has_media": true
+  },
   {
    "id": "47bb65d8fb249fbac8578beadec7c2f1",
    "url": "https://t.me/warmonitors/44689",
@@ -93,30 +102,12 @@
    "has_media": true
   },
   {
-   "id": "68c2a20ded27637ae8d1f1be8df696e5",
-   "url": "https://t.me/OSINTWarfare/5449",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the Chinese People's Liberation Army Rocket Force (PLARF) launching DF-17 hypersonic missiles equipped with DF-ZF hypersonic glide vehicles (HGVs) during a joint training exercise in the Gobi Desert.",
-   "timestamp": "2026-06-23T19:21:53+00:00",
-   "has_media": false
-  },
-  {
    "id": "288be7f23350308d6cd00bfd62581203",
    "url": "https://t.me/TerrorAlarm/45",
    "source": "telegram",
    "channel": "terroralarm",
    "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
    "timestamp": "2026-06-23T10:50:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "82a52c491d3e2e43729fe0dd35314a09",
-   "url": "https://t.me/OSINTWarfare/5448",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery shows the aftermath of the explosion at the Barzan Gas Plant inside Ras Laffan Industrial City.",
-   "timestamp": "2026-06-22T22:37:57+00:00",
    "has_media": true
   },
   {
