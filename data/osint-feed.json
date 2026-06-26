@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-26T01:30:23Z",
- "count": 30,
+ "generated_utc": "2026-06-26T05:52:09Z",
+ "count": 31,
  "items": [
+  {
+   "id": "76f9586c8dcadda2df109c870ddace2a",
+   "url": "https://t.me/OSINTWarfare/5467",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Hezbollah has released footage dated June 14, 2026, showing the launch of an Ababil (Arman) short-range ballistic missile (SRBM), Nasr-2 surface-to-surface missiles, and a Paveh cruise missile targeting IDF positions in southern Lebanon.",
+   "timestamp": "2026-06-26T01:36:16+00:00",
+   "has_media": false
+  },
   {
    "id": "9387350161f7f397da657ae33fbea27a",
    "url": "https://t.me/warmonitors/44682",
