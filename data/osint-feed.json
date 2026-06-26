@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-26T11:32:24Z",
- "count": 31,
+ "generated_utc": "2026-06-26T13:33:59Z",
+ "count": 30,
  "items": [
+  {
+   "id": "08e0a89218e66087c195d18b4d94f8c9",
+   "url": "https://t.me/OSINTWarfare/5471",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The heavy nuclear-powered missile cruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, has returned to its home port of Severomorsk after 29 years.\nThe vessel is currently undergoing sea trials following extensive repairs and modernization.",
+   "timestamp": "2026-06-26T13:10:11+00:00",
+   "has_media": true
+  },
   {
    "id": "337b44b2b2088164505f0bf707abf4e1",
    "url": "https://t.me/OSINTWarfare/5468",
@@ -81,24 +90,6 @@
    "channel": "OSINTWarfare",
    "text": "🇰🇵\n⚡️\n— A ceremony was held in North Korea (DPRK) to officially commission the new guided-missile frigate Choe Hyon (51) into service with the Korean People's Navy (KPN), following a 14-month period of sea trials and operational readiness evaluations.\nA second vessel of the same class, Kang Kon (52), is currently undergoing trials, while the third and fourth ships are already under construction at North Korean shipyards.\n@IntelSlava",
    "timestamp": "2026-06-24T09:21:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "25b4c0c528a9d07171c07cabec3ad66d",
-   "url": "https://t.me/OSINTWarfare/5451",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Apparently, Ukrainian drones struck what appears to be a Russian air defense system in Kirovske, Crimea, overnight.",
-   "timestamp": "2026-06-23T23:09:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8b587571ea60c7a298b26faf4625bc77",
-   "url": "https://t.me/OSINTWarfare/5450",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Germany has signed a €3.2 billion contract with Raytheon for the procurement of 600 PAC-2 GEM-T interceptors for the MIM-104 Patriot air defense system, with deliveries to Ukraine scheduled over the next four years.",
-   "timestamp": "2026-06-23T22:26:17+00:00",
    "has_media": true
   },
   {
