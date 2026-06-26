@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-26T20:55:56Z",
+ "generated_utc": "2026-06-26T22:01:59Z",
  "count": 37,
  "items": [
+  {
+   "id": "354e16aa69b551174464ae359163e798",
+   "url": "https://t.me/warmonitors/44708",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAxios: U.S. strikes Iranian targets near strait after Iran fires at ships.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-26T21:48:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b4cb69347fe1cc16f47f91a0967bd173",
+   "url": "https://t.me/OSINTWarfare/5476",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The United States carried out airstrikes against Iranian missile and drone storage sites, as well as coastal radar facilities, in response to yesterday's Iranian drone attack on the Singapore-flagged cargo ship M/V Ever Lovely in the Strait of Hormuz.\nU.S. Central Command (CENTCOM) stated that Iran's attack violated the ceasefire and threatened freedom of navigation. It added that U.S. forces remain deployed to coordinate the safe passage of commercial shipping through the Strait of Hormuz and ensure Iran complies with the ceasefire agreement.",
+   "timestamp": "2026-06-26T21:37:45+00:00",
+   "has_media": false
+  },
   {
    "id": "6c3c697057c5e45f9d740d44c5ef5ee8",
    "url": "https://t.me/warmonitors/44707",
@@ -136,24 +154,6 @@
    "text": "A Russian FPV drone operator struck a light anti-drone air defense system, identified as MAAWLR, operated by the Armed Forces of Ukraine and produced by the American company Sierra Nevada Corp.\nThe MAAWLR system is mounted on a pickup truck chassis and is equipped with an electro-optical targeting system for autonomous target detection, while also being capable of receiving external target designation from radar assets. It can use a range of missiles, including AIM-9M, AIM-132 ASRAAM, AIM-120 AMRAAM, IRIS-T, R-27, and APKWS II.\nDepending on the munition used, the system is assessed to be capable of engaging drones at ranges of approximately 6–15 km.",
    "timestamp": "2026-06-24T11:57:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "b5ecdd7379b5f0d9cf15ac152ea9d54e",
-   "url": "https://t.me/OSINTWarfare/5456",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF claims they struck and destroyed four rocket launchers recently set up by Palestinian armed groups in the Gaza Strip.",
-   "timestamp": "2026-06-24T10:58:57+00:00",
-   "has_media": false
-  },
-  {
-   "id": "260928bd2e400945c46e014b79df69c3",
-   "url": "https://t.me/OSINTWarfare/5452",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇰🇵\n⚡️\n— A ceremony was held in North Korea (DPRK) to officially commission the new guided-missile frigate Choe Hyon (51) into service with the Korean People's Navy (KPN), following a 14-month period of sea trials and operational readiness evaluations.\nA second vessel of the same class, Kang Kon (52), is currently undergoing trials, while the third and fourth ships are already under construction at North Korean shipyards.\n@IntelSlava",
-   "timestamp": "2026-06-24T09:21:40+00:00",
-   "has_media": true
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
