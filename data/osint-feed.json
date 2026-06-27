@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-06-27T21:15:20Z",
- "count": 40,
+ "generated_utc": "2026-06-27T22:16:12Z",
+ "count": 42,
  "items": [
+  {
+   "id": "08c500fe2fea07e566612359e6ba3f03",
+   "url": "https://t.me/OSINTWarfare/5483",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of U.S. airstrikes on Sirik Naval Base and Qeshm Island in southern Iran.",
+   "timestamp": "2026-06-27T21:59:38+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c6a47d32978974092bf469bfa3bb76d7",
+   "url": "https://t.me/warmonitors/44717",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "Can she get any cuter?\nx.com/warmonitors/st…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-27T21:58:40+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8113bae1f5665695e392fb81fd9bfc56",
+   "url": "https://t.me/warmonitors/44718",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nUS military says it has struck multiple targets in Iran as ceasefire is strained by second day of attacks\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-06-27T21:58:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6a5a968225ee87a6d1aade8ccb469abb",
+   "url": "https://t.me/OSINTWarfare/5482",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of U.S. airstrikes on Sirik Naval Base and Qeshm Island in southern Iran.",
+   "timestamp": "2026-06-27T21:41:36+00:00",
+   "has_media": false
+  },
   {
    "id": "a8ebdb3d50c27dd46b53036f1d1ad914",
    "url": "https://t.me/warmonitors/44716",
@@ -138,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "2d47d5a22afe3087fdcb988369724135",
-   "url": "https://t.me/warmonitors/44697",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#LATEST\nBarak Ravid: Israeli and Lebanese officials tell me they expect a framework agreement between the two governments will be announced today\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-26T16:38:41+00:00",
-   "has_media": false
-  },
-  {
    "id": "08e0a89218e66087c195d18b4d94f8c9",
    "url": "https://t.me/OSINTWarfare/5471",
    "source": "telegram",
@@ -171,15 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah has released footage dated June 14, 2026, showing the launch of an Ababil (Arman) short-range ballistic missile (SRBM), Nasr-2 surface-to-surface missiles, and a Paveh cruise missile targeting IDF positions in southern Lebanon.",
    "timestamp": "2026-06-26T01:36:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7eeb4f69fa4bd7db5cafe45471a3566f",
-   "url": "https://t.me/OSINTWarfare/5460",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah has released footage dated June 11, 2026, showing an attempted strike on IDF soldiers in the town of Adaisseh, southern Lebanon, using an Ababil fiber-optic FPV drone.\nThe drone operator lost control of the droone and failed to hit any of the soldiers.",
-   "timestamp": "2026-06-24T16:33:16+00:00",
    "has_media": false
   },
   {
