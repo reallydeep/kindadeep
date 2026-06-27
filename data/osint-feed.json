@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-06-27T11:46:15Z",
- "count": 40,
+ "generated_utc": "2026-06-27T12:56:56Z",
+ "count": 39,
  "items": [
   {
    "id": "2458a5964e9fb1594d17c2c77e970ffe",
@@ -171,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "Hezbollah has released footage dated June 11, 2026, showing an attempted strike on IDF soldiers in the town of Adaisseh, southern Lebanon, using an Ababil fiber-optic FPV drone.\nThe drone operator lost control of the droone and failed to hit any of the soldiers.",
    "timestamp": "2026-06-24T16:33:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "95a3897730e274e7c3153b9216e7fc51",
-   "url": "https://t.me/OSINTWarfare/5458",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian FPV drone operator struck a light anti-drone air defense system, identified as MAAWLR, operated by the Armed Forces of Ukraine and produced by the American company Sierra Nevada Corp.\nThe MAAWLR system is mounted on a pickup truck chassis and is equipped with an electro-optical targeting system for autonomous target detection, while also being capable of receiving external target designation from radar assets. It can use a range of missiles, including AIM-9M, AIM-132 ASRAAM, AIM-120 AMRAAM, IRIS-T, R-27, and APKWS II.\nDepending on the munition used, the system is assessed to be capable of engaging drones at ranges of approximately 6–15 km.",
-   "timestamp": "2026-06-24T11:57:26+00:00",
    "has_media": false
   },
   {
