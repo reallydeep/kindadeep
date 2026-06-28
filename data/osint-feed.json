@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-27T23:17:31Z",
- "count": 40,
+ "generated_utc": "2026-06-28T00:16:13Z",
+ "count": 42,
  "items": [
+  {
+   "id": "c5af2af0543eb60dc8191cde84eb1496",
+   "url": "https://t.me/OSINTWarfare/5485",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "There is a heavy military presence moving through Baghdad’s Green Zone. According to Iraqi sources, Muthanna al-Samarrai, an Iraqi Sunni politician and Member of Parliament, has been arrested along with his security personnel.\nSecurity forces are also continuing searches for other members of his security team within the Green Zone.",
+   "timestamp": "2026-06-28T00:04:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c105286ff6900cc42128f67774c1a288",
+   "url": "https://t.me/OSINTWarfare/5484",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air raid sirens are sounding in Bahrain, with reports of explosions being heard.",
+   "timestamp": "2026-06-27T23:50:18+00:00",
+   "has_media": false
+  },
   {
    "id": "08c500fe2fea07e566612359e6ba3f03",
    "url": "https://t.me/OSINTWarfare/5483",
