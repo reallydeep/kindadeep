@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-06-28T00:16:13Z",
- "count": 42,
+ "generated_utc": "2026-06-28T04:52:26Z",
+ "count": 43,
  "items": [
+  {
+   "id": "ead7ce9fddbef5be2a8a67f637259a0b",
+   "url": "https://t.me/OSINTWarfare/5489",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "There is a heavy military presence moving through Baghdad’s Green Zone. According to Iraqi sources, Muthanna al-Samarrai, an Iraqi Sunni politician and Member of Parliament, has been arrested along with his security personnel.  Security forces are also continuing…",
+   "timestamp": "2026-06-28T01:40:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "20bf7462a2f5cb1d040bbfdc90b9ea56",
+   "url": "https://t.me/OSINTWarfare/5488",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy and Air Force aircraft carrying out airstrikes on Iranian military targets near the Strait of Hormuz in response to Iran's drone attack on the Panama-flagged crude oil tanker KIKU.",
+   "timestamp": "2026-06-28T00:50:54+00:00",
+   "has_media": false
+  },
   {
    "id": "c5af2af0543eb60dc8191cde84eb1496",
    "url": "https://t.me/OSINTWarfare/5485",
@@ -190,15 +208,6 @@
    "text": "Hezbollah has released footage dated June 14, 2026, showing the launch of an Ababil (Arman) short-range ballistic missile (SRBM), Nasr-2 surface-to-surface missiles, and a Paveh cruise missile targeting IDF positions in southern Lebanon.",
    "timestamp": "2026-06-26T10:35:50+00:00",
    "has_media": true
-  },
-  {
-   "id": "76f9586c8dcadda2df109c870ddace2a",
-   "url": "https://t.me/OSINTWarfare/5467",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Hezbollah has released footage dated June 14, 2026, showing the launch of an Ababil (Arman) short-range ballistic missile (SRBM), Nasr-2 surface-to-surface missiles, and a Paveh cruise missile targeting IDF positions in southern Lebanon.",
-   "timestamp": "2026-06-26T01:36:16+00:00",
-   "has_media": false
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
