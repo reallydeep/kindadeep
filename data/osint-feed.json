@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-28T17:49:51Z",
- "count": 45,
+ "generated_utc": "2026-06-28T18:54:22Z",
+ "count": 46,
  "items": [
+  {
+   "id": "080b39e7fb2810a7c67fecf195fcfa1d",
+   "url": "https://t.me/OSINTWarfare/5495",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Close-up view of the warhead of the Iranian Khorramshahr-1 ballistic missile, shown here fitted with a cluster warhead. Unlike the Khorramshahr-4, the Khorramshahr-1 is capable of carrying this type of payload.  Source of the image: @Missile_Force",
+   "timestamp": "2026-06-28T18:52:23+00:00",
+   "has_media": false
+  },
   {
    "id": "af6e3a3608415933527c9d324adf0e96",
    "url": "https://t.me/warmonitors/44727",
@@ -25,7 +34,7 @@
    "url": "https://t.me/OSINTWarfare/5493",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Close-up view of the warhead of the Iranian Khorramshahr-1 ballistic missile, shown here fitted with a cluster warhead. Unlike the Khorramshahr-4, the Khorramshahr-1 is capable of carrying this type of payload.",
+   "text": "Close-up view of the warhead of the Iranian Khorramshahr-1 ballistic missile, shown here fitted with a cluster warhead. Unlike the Khorramshahr-4, the Khorramshahr-1 is capable of carrying this type of payload.\nSource of the image:\n@Missile_Force",
    "timestamp": "2026-06-28T14:48:02+00:00",
    "has_media": true
   },
