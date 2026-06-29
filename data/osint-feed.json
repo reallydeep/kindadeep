@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-29T06:21:12Z",
+ "generated_utc": "2026-06-29T11:28:44Z",
  "count": 47,
  "items": [
+  {
+   "id": "1665ef9bc93fcf28b42065905d7a47be",
+   "url": "https://t.me/OSINTWarfare/5497",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Pakistan's Ministry of Information and Broadcasting (MoIB) has released footage showing Pakistan Air Force (PAF) airstrikes targeting Jamaat-ul-Ahrar (JuA) positions inside Afghanistan.",
+   "timestamp": "2026-06-29T10:04:57+00:00",
+   "has_media": true
+  },
   {
    "id": "8f5ac94435f9517044f874a7fd703759",
    "url": "https://t.me/warmonitors/44734",
@@ -234,15 +243,6 @@
    "channel": "OSINTWarfare",
    "text": "The United States carried out airstrikes against Iranian missile and drone storage sites, as well as coastal radar facilities, in response to yesterday's Iranian drone attack on the Singapore-flagged cargo ship M/V Ever Lovely in the Strait of Hormuz.  U.S.…",
    "timestamp": "2026-06-26T22:30:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b4cb69347fe1cc16f47f91a0967bd173",
-   "url": "https://t.me/OSINTWarfare/5476",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The United States carried out airstrikes against Iranian missile and drone storage sites, as well as coastal radar facilities, in response to yesterday's Iranian drone attack on the Singapore-flagged cargo ship M/V Ever Lovely in the Strait of Hormuz.\nU.S. Central Command (CENTCOM) stated that Iran's attack violated the ceasefire and threatened freedom of navigation. It added that U.S. forces remain deployed to coordinate the safe passage of commercial shipping through the Strait of Hormuz and ensure Iran complies with the ceasefire agreement.",
-   "timestamp": "2026-06-26T21:37:45+00:00",
    "has_media": false
   },
   {
