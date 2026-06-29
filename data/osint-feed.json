@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-29T19:22:49Z",
- "count": 37,
+ "generated_utc": "2026-06-29T21:02:24Z",
+ "count": 36,
  "items": [
+  {
+   "id": "9c0db7593a47400188a8fa7c7c1630b4",
+   "url": "https://t.me/OSINTWarfare/5514",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Whenever the other fronts fall quiet, the focus returns to Gaza, anything to keep the wheel turning.\nThe Israeli Air Force has struck the al-Mawasi camp for displaced people in Khan Yunis, southern Gaza Strip.",
+   "timestamp": "2026-06-29T20:53:52+00:00",
+   "has_media": true
+  },
   {
    "id": "a8fce624b8f9d7f0065e67d0621776fb",
    "url": "https://t.me/OSINTWarfare/5504",
@@ -120,15 +129,6 @@
    "has_media": false
   },
   {
-   "id": "692ec21efa84d42904c1e723bc413bfc",
-   "url": "https://t.me/OSINTWarfare/5494",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Destroyed launcher of Iran’s newest Talaiyeh anti-ship cruise missile system. The projectile appears to have struck the truck cabin, possibly indicating the use of a small precision-guided munition such as an Israeli Mikholit or a U.S. AGM-114 Hellfire missile. One of the canisters still contains a Talaiyeh missile, while the other appears to have already been launched.\nThe missile was first officially unveiled in 2023. Iran claims that Talaiyeh is capable of striking targets at distances exceeding 1,000 km at speeds of around 900 km/h, carrying a warhead of approximately 400 kg.",
-   "timestamp": "2026-06-28T15:34:07+00:00",
-   "has_media": true
-  },
-  {
    "id": "79faebd3e534ac293e57c7ed01f25c38",
    "url": "https://t.me/warmonitors/44725",
    "source": "telegram",
@@ -144,15 +144,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli soldier killed in Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-06-28T10:28:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "937f54c34f541a6044f582fe8900c6a0",
-   "url": "https://t.me/warmonitors/44722",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nCars Exploding in Israel\nA car exploded in Holon, a critically injured person at the scene.\nA few hours after a car explosion in Jaffa, where a 40-year-old man was pronounced dead.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-06-28T09:18:39+00:00",
    "has_media": true
   },
   {
