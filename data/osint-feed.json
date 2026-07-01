@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-01T22:16:28Z",
- "count": 29,
+ "generated_utc": "2026-07-01T23:44:42Z",
+ "count": 32,
  "items": [
+  {
+   "id": "b972b6a875607c4170553947dfed61f0",
+   "url": "https://t.me/warmonitors/44768",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nFires in various parts of Kyiv after several explosions were heard as a result of a missile attack\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-01T23:43:42+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2bc4584937fdce60b846ac623da7b891",
+   "url": "https://t.me/OSINTWarfare/5533",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian Patriot surface-to-air missile malfunctioned and struck a residential building in Kyiv.",
+   "timestamp": "2026-07-01T23:28:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cde187dd392953dae0a109ef67ebb8d7",
+   "url": "https://t.me/OSINTWarfare/5532",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israeli artillery shelling targets the southern countryside of Quneitra.",
+   "timestamp": "2026-07-01T23:25:07+00:00",
+   "has_media": false
+  },
   {
    "id": "573e945ce19164e2ab8a7f79954712a9",
    "url": "https://t.me/OSINTWarfare/5530",
