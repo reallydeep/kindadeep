@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-06-30T23:41:46Z",
+ "generated_utc": "2026-07-01T01:56:45Z",
  "count": 29,
  "items": [
+  {
+   "id": "1d40c9b223907ae77968a26c0b586e66",
+   "url": "https://t.me/OSINTWarfare/5525",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A drone was spotted flying over the U.S. Embassy in Baghdad's Green Zone. Soldiers attempted to shoot it down using small arms.",
+   "timestamp": "2026-07-01T00:01:29+00:00",
+   "has_media": true
+  },
   {
    "id": "0e866e8b317b6fa254301865d95b3045",
    "url": "https://t.me/OSINTWarfare/5524",
@@ -45,15 +54,6 @@
    "channel": "OSINTWarfare",
    "text": "From these images, including the one above\n👆\n, we can identify several munitions: the Chinese CM-400AKG/B air-launched quasi-ballistic missile (CTM* training version), the Kh-31P (CTM* version), the KAB-500Kr TV-guided bomb, the Kh-29TE TV-guided missile, and…",
    "timestamp": "2026-06-29T13:35:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a73d313de98b0927116ed6f373a42453",
-   "url": "https://t.me/OSINTWarfare/5502",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "From these images, including the one above\n👆\n, we can identify several munitions: the Chinese CM-400AKG/B air-launched quasi-ballistic missile (CTM* training version), the Kh-31P (CTM* version), the KAB-500Kr TV-guided bomb, the Kh-29TE TV-guided missile, and…",
-   "timestamp": "2026-06-29T13:10:37+00:00",
    "has_media": true
   },
   {
