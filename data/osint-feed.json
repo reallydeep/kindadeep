@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-01T23:44:42Z",
- "count": 32,
+ "generated_utc": "2026-07-02T01:49:56Z",
+ "count": 33,
  "items": [
+  {
+   "id": "9f819811eaa7afb582363d665a20b468",
+   "url": "https://t.me/OSINTWarfare/5534",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Clashes erupted between the IRGC and fighters from the Democratic Party of Iranian Kurdistan (PDKI) in residential areas of Piranshahr, in Iran's West Azerbaijan Province. Several PDKI fighters were killed.",
+   "timestamp": "2026-07-02T01:00:13+00:00",
+   "has_media": false
+  },
   {
    "id": "b972b6a875607c4170553947dfed61f0",
    "url": "https://t.me/warmonitors/44768",
