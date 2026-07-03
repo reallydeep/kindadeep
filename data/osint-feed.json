@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-03T01:17:12Z",
+ "generated_utc": "2026-07-03T04:59:15Z",
  "count": 40,
  "items": [
+  {
+   "id": "9d7052324c4d61f81d5f530fc22a1d71",
+   "url": "https://t.me/OSINTWarfare/5543",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Clashes have erupted between the National Guard, a Druze paramilitary group, and the Syrian Arab Army (SAA) in the countryside of Suwayda, southern Syria.\nAccording to local reports, injured National Guard members have been transported to the National Hospital in the city of Suwayda for treatment.",
+   "timestamp": "2026-07-03T01:18:25+00:00",
+   "has_media": true
+  },
   {
    "id": "4dd039fbc6605d2f54edde8097b88297",
    "url": "https://t.me/OSINTWarfare/5542",
@@ -171,15 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows two Ukrainian FP-5 Flamingo cruise missiles striking the Titan-Barrikady plant in Volgograd on June 27.",
    "timestamp": "2026-06-30T19:55:21+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9b00be000be3c82dd65e9fe7564f6177",
-   "url": "https://t.me/OSINTWarfare/5521",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the Azawad Liberation Front (FLA) striking a vehicle at a Malian Army and Africa Corps base in Anéfis, located in Mali's northeastern Kidal Region, using an FPV drone.",
-   "timestamp": "2026-06-30T13:35:34+00:00",
    "has_media": true
   },
   {
