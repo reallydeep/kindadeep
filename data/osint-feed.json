@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-03T12:30:16Z",
- "count": 40,
+ "generated_utc": "2026-07-03T14:54:59Z",
+ "count": 41,
  "items": [
+  {
+   "id": "389b1b0ee98cc2577c6f5710bd7fe2e9",
+   "url": "https://t.me/OSINTWarfare/5546",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows U.S. Army forces launching ATACMS and/or Precision Strike Missiles (PrSM) from M142 HIMARS launchers toward Iran from Kuwait.\nThe footage was recorded on 28 February 2026.",
+   "timestamp": "2026-07-03T13:20:52+00:00",
+   "has_media": true
+  },
+  {
+   "id": "19f7939fabe0e40e97f8eb52b597d8c9",
+   "url": "https://t.me/OSINTWarfare/5545",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Objective-control footage of strikes carried out by two Russian S8000 Banderol cruise missiles against targets in Kherson.",
+   "timestamp": "2026-07-03T13:05:59+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5ec3b61be31eeaf9283bd0157d90a83c",
+   "url": "https://t.me/OSINTWarfare/5544",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows operators from the 1020th Anti-Aircraft Missile Regiment of the Ukrainian Ground Forces using Sting interceptor drones to shoot down Russian Geran loitering munitions.",
+   "timestamp": "2026-07-03T12:44:48+00:00",
+   "has_media": true
+  },
   {
    "id": "9d7052324c4d61f81d5f530fc22a1d71",
    "url": "https://t.me/OSINTWarfare/5543",
@@ -162,24 +189,6 @@
    "channel": "OSINTWarfare",
    "text": "Northrop Grumman has released the first-ever photos of the next-generation LGM-35A Sentinel nuclear-armed intercontinental ballistic missile (ICBM).\nThe Sentinel is set to replace the aging Minuteman III ICBMs currently in service with the U.S. military.",
    "timestamp": "2026-07-01T11:48:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1d40c9b223907ae77968a26c0b586e66",
-   "url": "https://t.me/OSINTWarfare/5525",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A drone was spotted flying over the U.S. Embassy in Baghdad's Green Zone. Soldiers attempted to shoot it down using small arms.",
-   "timestamp": "2026-07-01T00:01:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0e866e8b317b6fa254301865d95b3045",
-   "url": "https://t.me/OSINTWarfare/5524",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows two Ukrainian FP-5 Flamingo cruise missiles striking the Titan-Barrikady plant in Volgograd on June 27.",
-   "timestamp": "2026-06-30T19:55:21+00:00",
    "has_media": true
   },
   {
