@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-04T12:15:15Z",
- "count": 38,
+ "generated_utc": "2026-07-04T13:58:29Z",
+ "count": 36,
  "items": [
+  {
+   "id": "e9bc4e1918cc0fff70baf95cca27d6b5",
+   "url": "https://t.me/OSINTWarfare/5553",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Armed Forces of Mali (FAMa) carried out a series of airstrikes on a militant position in the town of Anéfis, in Mali's northeastern Kidal Region.",
+   "timestamp": "2026-07-04T13:39:28+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4360fd298224e33d2680bdd5b86e5264",
+   "url": "https://t.me/OSINTWarfare/5552",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Specialists from the Department of Unmanned Systems of Ukraine's Main Intelligence Directorate (GUR) carried out a precision strike on a Russian MiG-29 multirole fighter at Belbek airfield in Crimea.",
+   "timestamp": "2026-07-04T13:16:06+00:00",
+   "has_media": false
+  },
   {
    "id": "2f0987938d7b81cb20c98f6320aa91d9",
    "url": "https://t.me/warmonitors/44794",
@@ -126,42 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Clashes erupted between the IRGC and fighters from the Democratic Party of Iranian Kurdistan (PDKI) in residential areas of Piranshahr, in Iran's West Azerbaijan Province. Several PDKI fighters were killed.",
    "timestamp": "2026-07-02T11:12:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9f819811eaa7afb582363d665a20b468",
-   "url": "https://t.me/OSINTWarfare/5534",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Clashes erupted between the IRGC and fighters from the Democratic Party of Iranian Kurdistan (PDKI) in residential areas of Piranshahr, in Iran's West Azerbaijan Province. Several PDKI fighters were killed.",
-   "timestamp": "2026-07-02T01:00:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2bc4584937fdce60b846ac623da7b891",
-   "url": "https://t.me/OSINTWarfare/5533",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian Patriot surface-to-air missile malfunctioned and struck a residential building in Kyiv.",
-   "timestamp": "2026-07-01T23:28:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cde187dd392953dae0a109ef67ebb8d7",
-   "url": "https://t.me/OSINTWarfare/5532",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Israeli artillery shelling targets the southern countryside of Quneitra.",
-   "timestamp": "2026-07-01T23:25:07+00:00",
-   "has_media": false
-  },
-  {
-   "id": "573e945ce19164e2ab8a7f79954712a9",
-   "url": "https://t.me/OSINTWarfare/5530",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🗂\n— To our valued OSINTWarfare subscribers, we are pleased to announce that we are now part of The New Dawn folder. We are a collection of 15 channels of broadly ideologically aligned news channels who try our best to ensure quality, quick, and accurate reporting.\nOf course, our views, while generally different, are accommodating of a wide spectrum of different views; we consist of different geographical distributions and religious beliefs.\nOne major thing that unites us: We strive to bring you fast, factual news that you won't see elsewhere in the mainstream media—or even as fast—and we seek to destroy and dismantle any narrative in order to let the truth prevail and to usher in a New Dawn.\nhttps://t.me/addlist/qySYHB6yadJiMjI8",
-   "timestamp": "2026-07-01T15:00:32+00:00",
    "has_media": true
   },
   {
