@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-04T18:15:22Z",
- "count": 35,
+ "generated_utc": "2026-07-04T19:37:05Z",
+ "count": 36,
  "items": [
+  {
+   "id": "3cc4dd122b4829cf665686998de5bb84",
+   "url": "https://t.me/OSINTWarfare/5556",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "https://x.com/OSINTWarfare/status/2073489860908699810",
+   "timestamp": "2026-07-04T19:32:54+00:00",
+   "has_media": false
+  },
   {
    "id": "f3501817144d19ce18cf69c4167758c4",
    "url": "https://t.me/OSINTWarfare/5555",
