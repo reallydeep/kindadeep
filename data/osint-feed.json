@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-04T19:37:05Z",
- "count": 36,
+ "generated_utc": "2026-07-04T20:32:17Z",
+ "count": 35,
  "items": [
+  {
+   "id": "d00455fa5fb2a7e62403abbc3391d32f",
+   "url": "https://t.me/OSINTWarfare/5558",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Egyptian Air Defence Forces (EADF) publicly unveiled the 9M83ME Transporter Erector Launcher and Radar (TELAR) of the S-300VM/Antey-2500 surface-to-air missile (SAM) and anti-ballistic missile (ABM) system for the first time during today's official inauguration of the Strategic Command Headquarters, also known as the Octagon.\nA Kamov Ka-52 \"Nile Crocodile\" attack helicopter was also showcased during the ceremony.",
+   "timestamp": "2026-07-04T20:25:13+00:00",
+   "has_media": true
+  },
   {
    "id": "3cc4dd122b4829cf665686998de5bb84",
    "url": "https://t.me/OSINTWarfare/5556",
@@ -126,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Massive fuel queues have formed at gas stations across Russia amid nationwide fuel shortages caused by Ukrainian drone strikes on oil refineries and fuel depots.",
    "timestamp": "2026-07-02T19:06:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c1cd87141521fab39a80eb8415e969b6",
-   "url": "https://t.me/OSINTWarfare/5539",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran has stepped up its campaign against Kurdish separatist groups in recent days. An IRGC one-way attack UAV (OWA-UAV) struck Iranian Kurdish opposition positions on Mount Hariri in Erbil Governorate, Iraqi Kurdistan.",
-   "timestamp": "2026-07-02T14:38:21+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b294ad0f94cf5731041d0e85a6bd5238",
-   "url": "https://t.me/OSINTWarfare/5537",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "South Korea has successfully completed the first fully successful flight test of the\nKALCM Cheonryong (Korean Air-Launched Cruise Missile)\n, which is expected to become the primary long-range strike weapon of the future\nKF-21 Boramae\nmultirole fighter.\nOn June 25, the missile was launched for the first time from an\nFA-50\nlight combat aircraft. After separation, it successfully ignited its main engine, stabilized its flight, and completed the entire test profile as planned.\nThe successful flight comes after two unsuccessful attempts in January and March, when the missiles crashed into the sea due to failures in the ignition of the main propulsion engine following launch.",
-   "timestamp": "2026-07-02T12:32:25+00:00",
    "has_media": true
   },
   {
