@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-05T20:05:59Z",
- "count": 35,
+ "generated_utc": "2026-07-05T21:14:25Z",
+ "count": 34,
  "items": [
   {
    "id": "d679629e02801e10c9d2befe6f8ea24b",
@@ -126,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Rear Admiral Ali Azmaei has been appointed commander of the Islamic Revolutionary Guard Corps Navy (IRGCN), succeeding the late Alireza Tangsiri.",
    "timestamp": "2026-07-04T14:24:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e9bc4e1918cc0fff70baf95cca27d6b5",
-   "url": "https://t.me/OSINTWarfare/5553",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Armed Forces of Mali (FAMa) carried out a series of airstrikes on a militant position in the town of Anéfis, in Mali's northeastern Kidal Region.",
-   "timestamp": "2026-07-04T13:39:28+00:00",
    "has_media": true
   },
   {
