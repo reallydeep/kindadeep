@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-05T18:56:18Z",
- "count": 34,
+ "generated_utc": "2026-07-05T20:05:59Z",
+ "count": 35,
  "items": [
+  {
+   "id": "d679629e02801e10c9d2befe6f8ea24b",
+   "url": "https://t.me/OSINTWarfare/5573",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) launched an attack on forces of the Saudi-backed Presidential Leadership Council (PLC) in Jabal Dabbas, south of the port city of Hodeidah (Al Hudaydah), Yemen, killing 14 soldiers and injuring 23.\nAnsar Allah fighters briefly seized government positions using snipers, drones, and mortars before being pushed back at dawn.",
+   "timestamp": "2026-07-05T19:53:10+00:00",
+   "has_media": false
+  },
   {
    "id": "d9772bc6d4c0cf718046a544867599d6",
    "url": "https://t.me/OSINTWarfare/5572",
