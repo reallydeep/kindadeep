@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-04T23:36:09Z",
- "count": 37,
+ "generated_utc": "2026-07-05T01:19:14Z",
+ "count": 36,
  "items": [
+  {
+   "id": "0cb33a62793e8bf498b52853d29dac1e",
+   "url": "https://t.me/OSINTWarfare/5560",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "One of the Russian Armed Forces’ frontline supply routes in Donbass. Essentially a death route.",
+   "timestamp": "2026-07-04T23:47:13+00:00",
+   "has_media": true
+  },
   {
    "id": "aac17d7fc65155c0c52ac9417fe67c15",
    "url": "https://t.me/warmonitors/44806",
@@ -135,24 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows “peaceful, non-terrorist” Israeli settlers setting fire to a Palestinian home in the village of Deir Dibwan, in the Ramallah and al-Bireh Governorate of the occupied West Bank.",
    "timestamp": "2026-07-03T00:50:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5d7abe3af3c9e94d2c03e010d78a5a2c",
-   "url": "https://t.me/OSINTWarfare/5541",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "South Korea has successfully completed the first fully successful flight test of the KALCM Cheonryong (Korean Air-Launched Cruise Missile), which is expected to become the primary long-range strike weapon of the future KF-21 Boramae multirole fighter.  On…",
-   "timestamp": "2026-07-03T00:33:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "63e65cf87863a1e48d625707b2b7e5b2",
-   "url": "https://t.me/OSINTWarfare/5540",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Massive fuel queues have formed at gas stations across Russia amid nationwide fuel shortages caused by Ukrainian drone strikes on oil refineries and fuel depots.",
-   "timestamp": "2026-07-02T19:06:01+00:00",
    "has_media": true
   },
   {
