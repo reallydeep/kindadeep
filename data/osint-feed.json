@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-05T14:49:52Z",
- "count": 32,
+ "generated_utc": "2026-07-05T15:54:08Z",
+ "count": 33,
  "items": [
+  {
+   "id": "6ec00b69b258eb13201a6d2cf0b4857c",
+   "url": "https://t.me/OSINTWarfare/5567",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Cockpit footage from a Ukrainian MiG-29MU1 Multirole Fighter captures the moment it launches an air-to-air missile.",
+   "timestamp": "2026-07-05T15:05:45+00:00",
+   "has_media": true
+  },
   {
    "id": "681066bbf8838af49abf784c5a290548",
    "url": "https://t.me/OSINTWarfare/5563",
