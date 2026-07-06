@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-06T00:18:15Z",
- "count": 34,
+ "generated_utc": "2026-07-06T04:42:44Z",
+ "count": 36,
  "items": [
+  {
+   "id": "925a81ce0e64fee25de454b1d418e32a",
+   "url": "https://t.me/OSINTWarfare/5581",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russian Iskander-M ballistic missiles and Zircon hypersonic cruise missiles struck Ukraine's Zhulyany Machine-Building Plant \"Vizar\" in Vyshneve, Kyiv Oblast.  The plant is responsible for manufacturing components for the R-360 Neptune cruise missile…",
+   "timestamp": "2026-07-06T03:11:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d31ed9a918e3205b5d372934d53d4ad1",
+   "url": "https://t.me/OSINTWarfare/5580",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russian Iskander-M ballistic missiles and Zircon hypersonic cruise missiles struck Ukraine's Zhulyany Machine-Building Plant \"Vizar\" in Vyshneve, Kyiv Oblast.\nThe plant is responsible for manufacturing components for the R-360 Neptune cruise missile, as well as missiles from the 5V55 and 48N6 families used by the S-300 air defense system.\n@IntelSlava",
+   "timestamp": "2026-07-06T03:06:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "37c8781729fcc7df0d403d8bd6d164ae",
+   "url": "https://t.me/OSINTWarfare/5579",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Russian missile destroyed a Roshen Corporation building in Kyiv. Roshen is a Ukrainian confectionery manufacturing company.",
+   "timestamp": "2026-07-06T00:53:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d47191e06ca6c80bf0b651624f4fa2ba",
+   "url": "https://t.me/OSINTWarfare/5578",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russian Kh-101 cruise missiles are striking targets in Kyiv and its surrounding suburbs.",
+   "timestamp": "2026-07-06T00:23:49+00:00",
+   "has_media": true
+  },
   {
    "id": "e949af1ad6aa7b31ff1bed3d776abd3a",
    "url": "https://t.me/OSINTWarfare/5576",
@@ -93,15 +129,6 @@
    "has_media": false
   },
   {
-   "id": "0cb33a62793e8bf498b52853d29dac1e",
-   "url": "https://t.me/OSINTWarfare/5560",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "One of the Russian Armed Forces’ frontline supply routes in Donbass. Essentially a death route.",
-   "timestamp": "2026-07-04T23:47:13+00:00",
-   "has_media": true
-  },
-  {
    "id": "aac17d7fc65155c0c52ac9417fe67c15",
    "url": "https://t.me/warmonitors/44806",
    "source": "telegram",
@@ -118,15 +145,6 @@
    "text": "Major wars have now pretty much all quieted down, no need for “War Monitor”.\nCan just monitor Global News\n🙃\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-04T21:12:18+00:00",
    "has_media": false
-  },
-  {
-   "id": "d00455fa5fb2a7e62403abbc3391d32f",
-   "url": "https://t.me/OSINTWarfare/5558",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Egyptian Air Defence Forces (EADF) publicly unveiled the 9A83ME Transporter Erector Launcher and Radar (TELAR) of the S-300VM/Antey-2500 surface-to-air missile (SAM) and anti-ballistic missile (ABM) system for the first time during today's official inauguration of the Strategic Command Headquarters, also known as the Octagon.\nA Kamov Ka-52 \"Nile Crocodile\" attack helicopter was also showcased during the ceremony.",
-   "timestamp": "2026-07-04T20:25:13+00:00",
-   "has_media": true
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
