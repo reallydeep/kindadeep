@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-07T21:41:34Z",
- "count": 31,
+ "generated_utc": "2026-07-07T22:43:53Z",
+ "count": 33,
  "items": [
+  {
+   "id": "a4c0f22a55af77be6b26ddb78a576655",
+   "url": "https://t.me/OSINTWarfare/5605",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows plumes of smoke and a large fire following U.S. airstrikes on Shahid Haghani Port in Bandar Abbas.",
+   "timestamp": "2026-07-07T22:02:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d58de11acca9cfa583dcb0e9fe906d6e",
+   "url": "https://t.me/OSINTWarfare/5603",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows plumes of smoke and a large fire following U.S. airstrikes on Shahid Haghani Port in Bandar Abbas.",
+   "timestamp": "2026-07-07T21:58:26+00:00",
+   "has_media": true
+  },
   {
    "id": "94c4eeb5934d8bc5325f6b172e01c078",
    "url": "https://t.me/warmonitors/44855",
