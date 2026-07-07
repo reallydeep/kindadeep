@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-07T22:43:53Z",
+ "generated_utc": "2026-07-07T23:37:16Z",
  "count": 33,
  "items": [
+  {
+   "id": "030e4bcf5bb2d7f9b8cda9ac813e8f19",
+   "url": "https://t.me/OSINTWarfare/5608",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, the Israeli Air Force (IAF) carried out a series of airstrikes against targets in Beit Yahoun and Baraachit, southern Lebanon.",
+   "timestamp": "2026-07-07T23:31:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "101fad3e19704fe57a0d5fc4114d496a",
+   "url": "https://t.me/OSINTWarfare/5606",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from earlier tonight showing U.S. airstrikes on Qeshm Island in southern Iran.",
+   "timestamp": "2026-07-07T22:49:15+00:00",
+   "has_media": true
+  },
   {
    "id": "a4c0f22a55af77be6b26ddb78a576655",
    "url": "https://t.me/OSINTWarfare/5605",
@@ -99,24 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "Russia's Africa Corps has released footage showing strikes on vehicles belonging to the Azawad Liberation Front (FLA) and Jama’at Nusrat al-Islam wal-Muslimin (JNIM) in Anéfis, in Mali's northeastern Kidal Region.\nIt's unclear what munition was used in the first strike, though it appears to be a guided missile. The second clip clearly shows an FPV drone strike.",
    "timestamp": "2026-07-07T00:39:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5c2287bd4012326319794a077023e533",
-   "url": "https://t.me/OSINTWarfare/5587",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Azerbaijani Ministry of Defense has released footage unveiling its new single-seat JF-17C Block III Multirole Fighters, bearing tactical numbers 24-501 and 24-502.\nThe newly formed “Jaguars” squadron is based at the recently modernized Nasosnaya Air Base, formerly home to MiG-25 interceptors, which remain in storage with the Azerbaijani Air Force.\nThe footage also shows at least four JF-17s parked inside newly constructed hardened aircraft shelters, alongside several Su-25 ground-attack aircraft and L-39 jet trainers.",
-   "timestamp": "2026-07-06T22:08:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89efd66c89df15a81d9464609cabd65d",
-   "url": "https://t.me/OSINTWarfare/5585",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Type 094 nuclear-powered ballistic missile submarine (SSBN) of the Chinese People's Liberation Army Navy (PLAN) successfully launched a JL-2/3 submarine-launched ballistic missile (SLBM) carrying a simulated warhead into the Pacific Ocean on July 6, 2026.",
-   "timestamp": "2026-07-06T14:41:55+00:00",
    "has_media": true
   },
   {
