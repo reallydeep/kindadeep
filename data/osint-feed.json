@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-07T20:14:52Z",
- "count": 30,
+ "generated_utc": "2026-07-07T21:41:34Z",
+ "count": 31,
  "items": [
+  {
+   "id": "94c4eeb5934d8bc5325f6b172e01c078",
+   "url": "https://t.me/warmonitors/44855",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nUS military confirms it is attacking Iran: \"In response to Iranian attacks on 3 commercial vessels in Hormuz. This was a clear violation of the ceasefire.\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-07T21:27:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f25b9f9ad8c1be1e1c3cb0b9c04cfe19",
+   "url": "https://t.me/OSINTWarfare/5602",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports of Iranian air defenses shooting down a U.S. drone over Bandar Abbas, southern Iran.",
+   "timestamp": "2026-07-07T21:23:48+00:00",
+   "has_media": false
+  },
+  {
+   "id": "11073ac8e50848379fa18515e5191477",
+   "url": "https://t.me/OSINTWarfare/5601",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of U.S. airstrikes targeting Sirik and Qeshm Island in southern Iran.",
+   "timestamp": "2026-07-07T21:12:59+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d9301c9f68078d9d3b049cccf3ee6ab4",
+   "url": "https://t.me/OSINTWarfare/5600",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. defense company Lockheed Martin and Germany's Rheinmetall have signed a Memorandum of Understanding (MoU) at the NATO Industry Forum, held on the sidelines of the alliance's summit in Ankara, to establish a joint production line for ATACMS ballistic missiles.\nThe guided missiles will be manufactured at Rheinmetall's artillery plant in Unterlüß, northern Germany, making it the first ATACMS production facility outside the United States.\nExpansion of the site is already underway, with production of rocket motors and other missile components expected to begin in 2027. Rheinmetall estimates the facility will be capable of meeting European and Ukrainian demand for 600–800 ATACMS missiles annually.\nSeparately, NATO Secretary General Mark Rutte announced that several other U.S. defense companies are also pursuing initiatives to manufacture American weapon systems in Europe.\n“This will enable us to produce or support key U.S. weapon systems here in Europe, including Abrams tanks, AMRAAM air defense missiles, ATACMS missiles, Barracuda 500M, Small Diameter Bombs, and Stinger missiles,” he said.",
+   "timestamp": "2026-07-07T20:18:10+00:00",
+   "has_media": true
+  },
   {
    "id": "ccdde765662d850b229e728ded3883e6",
    "url": "https://t.me/OSINTWarfare/5599",
@@ -63,33 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "A Type 094 nuclear-powered ballistic missile submarine (SSBN) of the Chinese People's Liberation Army Navy (PLAN) successfully launched a JL-2/3 submarine-launched ballistic missile (SLBM) carrying a simulated warhead into the Pacific Ocean on July 6, 2026.",
    "timestamp": "2026-07-06T14:41:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "925a81ce0e64fee25de454b1d418e32a",
-   "url": "https://t.me/OSINTWarfare/5581",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russian Iskander-M ballistic missiles and Zircon hypersonic cruise missiles struck Ukraine's Zhulyany Machine-Building Plant \"Vizar\" in Vyshneve, Kyiv Oblast.  The plant is responsible for manufacturing components for the R-360 Neptune cruise missile…",
-   "timestamp": "2026-07-06T03:11:09+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d31ed9a918e3205b5d372934d53d4ad1",
-   "url": "https://t.me/OSINTWarfare/5580",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russian Iskander-M ballistic missiles and Zircon hypersonic cruise missiles struck Ukraine's Zhulyany Machine-Building Plant \"Vizar\" in Vyshneve, Kyiv Oblast.\nThe plant is responsible for manufacturing components for the R-360 Neptune cruise missile, as well as missiles from the 5V55 and 48N6 families used by the S-300 air defense system.\n@IntelSlava",
-   "timestamp": "2026-07-06T03:06:20+00:00",
-   "has_media": false
-  },
-  {
-   "id": "37c8781729fcc7df0d403d8bd6d164ae",
-   "url": "https://t.me/OSINTWarfare/5579",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian missile destroyed a Roshen Corporation building in Kyiv. Roshen is a Ukrainian confectionery manufacturing company.",
-   "timestamp": "2026-07-06T00:53:09+00:00",
    "has_media": true
   },
   {
