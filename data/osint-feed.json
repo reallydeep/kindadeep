@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-07T11:31:22Z",
- "count": 34,
+ "generated_utc": "2026-07-07T13:39:06Z",
+ "count": 32,
  "items": [
+  {
+   "id": "cae7a2ace5cd791acaea0569e3978d97",
+   "url": "https://t.me/warmonitors/44851",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nBritish military says a second ship has been hit in the Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-07T13:32:16+00:00",
+   "has_media": false
+  },
   {
    "id": "c13fdd0a454f5c203b55d9a3dec3b058",
    "url": "https://t.me/warmonitors/44844",
@@ -45,15 +54,6 @@
    "channel": "OSINTWarfare",
    "text": "A Type 094 nuclear-powered ballistic missile submarine (SSBN) of the Chinese People's Liberation Army Navy (PLAN) successfully launched a JL-2/3 submarine-launched ballistic missile (SLBM) carrying a simulated warhead into the Pacific Ocean on July 6, 2026.",
    "timestamp": "2026-07-06T14:41:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d975a3f273ae3ec67ae4927a54c0cd20",
-   "url": "https://t.me/warmonitors/44830",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nBelgian federation says it is challenging FIFA's decision to let U.S. forward Folarin Balogun play in World Cup match\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-06T13:47:15+00:00",
    "has_media": true
   },
   {
@@ -108,24 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows Russian Iskander ballistic missile impacts in Kyiv.",
    "timestamp": "2026-07-05T23:45:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d679629e02801e10c9d2befe6f8ea24b",
-   "url": "https://t.me/OSINTWarfare/5573",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) launched an attack on forces of the Saudi-backed Presidential Leadership Council (PLC) in Jabal Dabbas, south of the port city of Hodeidah (Al Hudaydah), Yemen, killing 14 soldiers and injuring 23.\nAnsar Allah fighters briefly seized government positions using snipers, drones, and mortars before being pushed back at dawn.",
-   "timestamp": "2026-07-05T19:53:10+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d9772bc6d4c0cf718046a544867599d6",
-   "url": "https://t.me/OSINTWarfare/5572",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage released by Air Command West of the Ukrainian Air Force shows a Skynex air defense system operated by the 223rd Anti-Aircraft Missile Regiment intercepting a Russian Kh-101 cruise missile and Geran-2 loitering munitions.",
-   "timestamp": "2026-07-05T18:45:38+00:00",
    "has_media": true
   },
   {
