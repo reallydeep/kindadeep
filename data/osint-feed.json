@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-06T23:47:57Z",
+ "generated_utc": "2026-07-07T01:25:39Z",
  "count": 35,
  "items": [
+  {
+   "id": "15ce80d8d3daad2acce4b3e41900c64e",
+   "url": "https://t.me/OSINTWarfare/5588",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia's Africa Corps has released footage showing strikes on vehicles belonging to the Azawad Liberation Front (FLA) and Jama’at Nusrat al-Islam wal-Muslimin (JNIM) in Anéfis, in Mali's northeastern Kidal Region.\nIt's unclear what munition was used in the first strike, though it appears to be a guided missile. The second clip clearly shows an FPV drone strike.",
+   "timestamp": "2026-07-07T00:39:17+00:00",
+   "has_media": true
+  },
   {
    "id": "5c2287bd4012326319794a077023e533",
    "url": "https://t.me/OSINTWarfare/5587",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage released by Air Command West of the Ukrainian Air Force shows a Skynex air defense system operated by the 223rd Anti-Aircraft Missile Regiment intercepting a Russian Kh-101 cruise missile and Geran-2 loitering munitions.",
    "timestamp": "2026-07-05T18:45:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6ec00b69b258eb13201a6d2cf0b4857c",
-   "url": "https://t.me/OSINTWarfare/5567",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Cockpit footage from a Ukrainian MiG-29MU1 Multirole Fighter captures the moment it launches an air-to-air missile.",
-   "timestamp": "2026-07-05T15:05:45+00:00",
    "has_media": true
   },
   {
