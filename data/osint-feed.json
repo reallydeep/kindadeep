@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-07T18:14:25Z",
+ "generated_utc": "2026-07-07T20:14:52Z",
  "count": 30,
  "items": [
+  {
+   "id": "ccdde765662d850b229e728ded3883e6",
+   "url": "https://t.me/OSINTWarfare/5599",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Treasury Department has revoked its authorization permitting the sale of Iranian oil, petrochemical products, and natural gas exports, as tensions in the Strait of Hormuz continue to rise.",
+   "timestamp": "2026-07-07T19:10:37+00:00",
+   "has_media": false
+  },
   {
    "id": "cae7a2ace5cd791acaea0569e3978d97",
    "url": "https://t.me/warmonitors/44851",
@@ -81,15 +90,6 @@
    "channel": "OSINTWarfare",
    "text": "A Russian missile destroyed a Roshen Corporation building in Kyiv. Roshen is a Ukrainian confectionery manufacturing company.",
    "timestamp": "2026-07-06T00:53:09+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d47191e06ca6c80bf0b651624f4fa2ba",
-   "url": "https://t.me/OSINTWarfare/5578",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russian Kh-101 cruise missiles are striking targets in Kyiv and its surrounding suburbs.",
-   "timestamp": "2026-07-06T00:23:49+00:00",
    "has_media": true
   },
   {
