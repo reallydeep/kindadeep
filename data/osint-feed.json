@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-07T13:39:06Z",
- "count": 32,
+ "generated_utc": "2026-07-07T16:07:51Z",
+ "count": 31,
  "items": [
   {
    "id": "cae7a2ace5cd791acaea0569e3978d97",
@@ -99,15 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "A Russian missile struck a multi-story residential building in Kyiv's Podilskyi District.",
    "timestamp": "2026-07-06T00:04:11+00:00",
-   "has_media": true
-  },
-  {
-   "id": "16914b9a298d07977c32607aa84a5018",
-   "url": "https://t.me/OSINTWarfare/5575",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Russian Iskander ballistic missile impacts in Kyiv.",
-   "timestamp": "2026-07-05T23:45:48+00:00",
    "has_media": true
   },
   {
