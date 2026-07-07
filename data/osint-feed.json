@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-07T16:07:51Z",
- "count": 31,
+ "generated_utc": "2026-07-07T18:14:25Z",
+ "count": 30,
  "items": [
   {
    "id": "cae7a2ace5cd791acaea0569e3978d97",
@@ -90,15 +90,6 @@
    "channel": "OSINTWarfare",
    "text": "Russian Kh-101 cruise missiles are striking targets in Kyiv and its surrounding suburbs.",
    "timestamp": "2026-07-06T00:23:49+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e949af1ad6aa7b31ff1bed3d776abd3a",
-   "url": "https://t.me/OSINTWarfare/5576",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian missile struck a multi-story residential building in Kyiv's Podilskyi District.",
-   "timestamp": "2026-07-06T00:04:11+00:00",
    "has_media": true
   },
   {
