@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-08T12:53:27Z",
- "count": 38,
+ "generated_utc": "2026-07-08T15:06:01Z",
+ "count": 40,
  "items": [
+  {
+   "id": "a547513c0d787a2feef3229710c7f28a",
+   "url": "https://t.me/OSINTWarfare/5625",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from yesterday's U.S. airstrikes on the Bandar Abbas fishing pier on Iran's southern coast.\nIn addition to the fishing pier, military facilities were also targeted. So far, eight fatalities have been reported.",
+   "timestamp": "2026-07-08T14:17:06+00:00",
+   "has_media": true
+  },
+  {
+   "id": "966898d3d764f8a3d2c2587731476b45",
+   "url": "https://t.me/OSINTWarfare/5624",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including Kheibar Shekan, Fattah-1, and Zolfaghar/Dezful missiles, targeting U.S. bases in Kuwait and Bahrain.",
+   "timestamp": "2026-07-08T13:38:01+00:00",
+   "has_media": true
+  },
+  {
+   "id": "96c76fb955f359ca5521297533fdbef2",
+   "url": "https://t.me/warmonitors/44869",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#UPDATE\nTrump warns US will 'probably' strike Iran again Wednesday after saying at NATO summit that ceasefire is 'over'\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-08T13:12:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "73dd9e8e9c8df5c43c4a00cf3ffa9168",
+   "url": "https://t.me/warmonitors/44867",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIranians release new footage from the compound where Khamenei was reportedly killed.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-08T13:07:15+00:00",
+   "has_media": true
+  },
   {
    "id": "7767ef29618281fe62b75960ebdfe2f1",
    "url": "https://t.me/OSINTWarfare/5621",
@@ -126,24 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage from earlier tonight showing U.S. airstrikes on Qeshm Island in southern Iran.",
    "timestamp": "2026-07-07T22:49:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a4c0f22a55af77be6b26ddb78a576655",
-   "url": "https://t.me/OSINTWarfare/5605",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows plumes of smoke and a large fire following U.S. airstrikes on Shahid Haghani Port in Bandar Abbas.",
-   "timestamp": "2026-07-07T22:02:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d58de11acca9cfa583dcb0e9fe906d6e",
-   "url": "https://t.me/OSINTWarfare/5603",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows plumes of smoke and a large fire following U.S. airstrikes on Shahid Haghani Port in Bandar Abbas.",
-   "timestamp": "2026-07-07T21:58:26+00:00",
    "has_media": true
   },
   {
