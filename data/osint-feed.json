@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-07T23:37:16Z",
- "count": 33,
+ "generated_utc": "2026-07-08T01:06:13Z",
+ "count": 35,
  "items": [
+  {
+   "id": "59c73eea9f3b2b14fe0225797b39646c",
+   "url": "https://t.me/OSINTWarfare/5611",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy launched anti-ship cruise missiles and multiple drones at U.S. Navy vessels in the Sea of Oman.",
+   "timestamp": "2026-07-08T00:41:38+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c9d99c45535c66fd3abf4479954154fe",
+   "url": "https://t.me/OSINTWarfare/5610",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian drones targeted Russia's Saratov oil refinery during tonight's attack.",
+   "timestamp": "2026-07-08T00:12:13+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5568ac85baaedc538add380e9a292a03",
+   "url": "https://t.me/OSINTWarfare/5609",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of renewed U.S. airstrikes targeting Qeshm and Kharg islands in southern Iran.",
+   "timestamp": "2026-07-08T00:08:18+00:00",
+   "has_media": false
+  },
   {
    "id": "030e4bcf5bb2d7f9b8cda9ac813e8f19",
    "url": "https://t.me/OSINTWarfare/5608",
@@ -108,15 +135,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nFootage documenting the moment one of the explosions occurred near Macron's hotel in Damascus. He had left the location 15 minutes before it happened\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-07T07:57:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "15ce80d8d3daad2acce4b3e41900c64e",
-   "url": "https://t.me/OSINTWarfare/5588",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia's Africa Corps has released footage showing strikes on vehicles belonging to the Azawad Liberation Front (FLA) and Jama’at Nusrat al-Islam wal-Muslimin (JNIM) in Anéfis, in Mali's northeastern Kidal Region.\nIt's unclear what munition was used in the first strike, though it appears to be a guided missile. The second clip clearly shows an FPV drone strike.",
-   "timestamp": "2026-07-07T00:39:17+00:00",
    "has_media": true
   },
   {
