@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-08T22:55:55Z",
- "count": 43,
+ "generated_utc": "2026-07-08T23:59:13Z",
+ "count": 42,
  "items": [
+  {
+   "id": "50571484cf5e04af037860d075e8745e",
+   "url": "https://t.me/OSINTWarfare/5635",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Turkish-made TB2 unmanned combat aerial vehicle (UCAV) operated by the Malian Armed Forces (FAMa) carrying out an airstrike on Azawad Liberation Front (FLA) militants hiding under trees.\nThe strike killed the militants and destroyed their pickup truck.",
+   "timestamp": "2026-07-08T23:58:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4788e1363b831fd2e52a2d40b4225a5a",
+   "url": "https://t.me/OSINTWarfare/5633",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. airstrikes also targeted the port city of Bushehr in southern Iran. According to Iranian sources, one of the strikes hit an air defense site, which can be seen in the footage.",
+   "timestamp": "2026-07-08T23:07:51+00:00",
+   "has_media": true
+  },
   {
    "id": "5025dd14e4ca8d6d94c24781d9f10877",
    "url": "https://t.me/OSINTWarfare/5632",
@@ -172,33 +190,6 @@
    "text": "⚡️\n#BREAKING\nTop Iran official warns US after strikes: 'The era of bullying and extortion is over. It leads nowhere. We don’t fold.' — AP\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-08T04:12:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "08df45409dac4d14aca224ace7f48e9d",
-   "url": "https://t.me/OSINTWarfare/5615",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Interceptions over Bahrain.",
-   "timestamp": "2026-07-08T03:12:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "01857bb16e43f933f718193f9531896a",
-   "url": "https://t.me/OSINTWarfare/5614",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the city of Khormoj, Bushehr Province, southern Iran.\nUnconfirmed reports also indicate that two additional MQ-9 drones may have been downed, one over Tabriz and another over Isfahan.",
-   "timestamp": "2026-07-08T03:10:07+00:00",
-   "has_media": false
-  },
-  {
-   "id": "90a4df5a195f92a0dfe2d5fe2e8c1fc6",
-   "url": "https://t.me/OSINTWarfare/5613",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to locals, the IRGC has launched four ballistic missiles from Fars Province.",
-   "timestamp": "2026-07-08T03:04:09+00:00",
-   "has_media": true
   },
   {
    "id": "94c4eeb5934d8bc5325f6b172e01c078",
