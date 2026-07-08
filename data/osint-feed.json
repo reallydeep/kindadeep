@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-08T21:56:11Z",
- "count": 42,
+ "generated_utc": "2026-07-08T22:55:55Z",
+ "count": 43,
  "items": [
+  {
+   "id": "5025dd14e4ca8d6d94c24781d9f10877",
+   "url": "https://t.me/OSINTWarfare/5632",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows U.S. airstrikes targeting the city of Bushehr in southern Iran. One of the strikes destroyed the traffic control tower at Chabahar Port.",
+   "timestamp": "2026-07-08T22:44:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "57ba34a20f36f2d1ce0ce5b90b4f58f5",
+   "url": "https://t.me/OSINTWarfare/5631",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Images of the downed U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) in Bushehr Province, southern Iran.  The other two reports were false and resulted from confusion with the confirmed MQ-9A that was shot down over Bushehr.",
+   "timestamp": "2026-07-08T22:24:21+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0f8a770e5865a1dd4be5644c6015df06",
+   "url": "https://t.me/warmonitors/44875",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nStrikes reported on Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-08T22:12:15+00:00",
+   "has_media": true
+  },
   {
    "id": "4b2814396fbd6c15b3c9c1d0a6c0c1d5",
    "url": "https://t.me/warmonitors/44874",
@@ -172,24 +199,6 @@
    "text": "According to locals, the IRGC has launched four ballistic missiles from Fars Province.",
    "timestamp": "2026-07-08T03:04:09+00:00",
    "has_media": true
-  },
-  {
-   "id": "ae65b6e53d52ae40598652dc32522e9f",
-   "url": "https://t.me/OSINTWarfare/5612",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command (CENTCOM) announced that it conducted a wave of airstrikes against 80 targets using precision-guided munitions and destroyed 60 IRGC Navy fast-attack boats in retaliation for Iranian attacks on the vessels M/T Al Rekayyat, M/T Wedyan, and M/T Cyprus Prosperity.\nAccording to CENTCOM, U.S. forces targeted Iranian air defense systems, command-and-control networks, coastal radar sites, anti-ship missile capabilities, and more than 60 Islamic Revolutionary Guard Corps (IRGC) small boats operating in and around the Strait. The strikes were aimed at degrading Iran’s ability to continue attacks against international commercial shipping along the vital trade corridor.",
-   "timestamp": "2026-07-08T02:53:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "59c73eea9f3b2b14fe0225797b39646c",
-   "url": "https://t.me/OSINTWarfare/5611",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy launched anti-ship cruise missiles and multiple drones at U.S. Navy vessels in the Sea of Oman.",
-   "timestamp": "2026-07-08T00:41:38+00:00",
-   "has_media": false
   },
   {
    "id": "94c4eeb5934d8bc5325f6b172e01c078",
