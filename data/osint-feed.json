@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-08T15:06:01Z",
- "count": 40,
+ "generated_utc": "2026-07-08T16:46:52Z",
+ "count": 39,
  "items": [
+  {
+   "id": "9e2a1604cc3eb0dfc8e0509557e332da",
+   "url": "https://t.me/OSINTWarfare/5628",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Russia’s Africa Corps targeting pickup trucks belonging to the Azawad Liberation Front (FLA) in Anéfis, Mali, with FPV drones.",
+   "timestamp": "2026-07-08T15:46:28+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4ee9f362d2137478cf9bc38d474305bf",
+   "url": "https://t.me/OSINTWarfare/5626",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ali Moeini, a member of the Islamic Republic of Iran Air Force, and Shahab Omidi, a First Lieutenant in the Iranian Navy’s Special Operations Forces, were among those killed in this morning’s U.S. strikes.",
+   "timestamp": "2026-07-08T15:10:55+00:00",
+   "has_media": true
+  },
   {
    "id": "a547513c0d787a2feef3229710c7f28a",
    "url": "https://t.me/OSINTWarfare/5625",
@@ -135,33 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Ukrainian drones targeted Russia's Saratov oil refinery during tonight's attack.",
    "timestamp": "2026-07-08T00:12:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5568ac85baaedc538add380e9a292a03",
-   "url": "https://t.me/OSINTWarfare/5609",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of renewed U.S. airstrikes targeting Qeshm and Kharg islands in southern Iran.",
-   "timestamp": "2026-07-08T00:08:18+00:00",
-   "has_media": false
-  },
-  {
-   "id": "030e4bcf5bb2d7f9b8cda9ac813e8f19",
-   "url": "https://t.me/OSINTWarfare/5608",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier tonight, the Israeli Air Force (IAF) carried out a series of airstrikes against targets in Beit Yahoun and Baraachit, southern Lebanon.",
-   "timestamp": "2026-07-07T23:31:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "101fad3e19704fe57a0d5fc4114d496a",
-   "url": "https://t.me/OSINTWarfare/5606",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from earlier tonight showing U.S. airstrikes on Qeshm Island in southern Iran.",
-   "timestamp": "2026-07-07T22:49:15+00:00",
    "has_media": true
   },
   {
