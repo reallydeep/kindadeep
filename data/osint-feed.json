@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-08T16:46:52Z",
+ "generated_utc": "2026-07-08T18:08:00Z",
  "count": 39,
  "items": [
+  {
+   "id": "ee08a6ba7d805a44a44f1a7d54f76e3f",
+   "url": "https://t.me/OSINTWarfare/5630",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Indian Navy Drishti-10 Starliner unmanned aerial vehicle (UAV) crashed in an open field near Dharampur village, close to Porbandar Airfield in Gujarat, India.\nAccording to the Indian Navy, the UAV went down shortly after takeoff in the vicinity of the airfield.\nThe cause of the crash has not been confirmed. The Drishti-10 fleet has previously experienced multiple SATCOM disconnection incidents, which may have been a contributing factor.\nThe Drishti-10 is the Indian-built version of the Israeli Hermes 900 UAV, manufactured by Adani Defence & Aerospace under license from Elbit Systems.",
+   "timestamp": "2026-07-08T17:59:29+00:00",
+   "has_media": true
+  },
   {
    "id": "9e2a1604cc3eb0dfc8e0509557e332da",
    "url": "https://t.me/OSINTWarfare/5628",
@@ -145,15 +154,6 @@
    "text": "The IRGC Navy launched anti-ship cruise missiles and multiple drones at U.S. Navy vessels in the Sea of Oman.",
    "timestamp": "2026-07-08T00:41:38+00:00",
    "has_media": false
-  },
-  {
-   "id": "c9d99c45535c66fd3abf4479954154fe",
-   "url": "https://t.me/OSINTWarfare/5610",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian drones targeted Russia's Saratov oil refinery during tonight's attack.",
-   "timestamp": "2026-07-08T00:12:13+00:00",
-   "has_media": true
   },
   {
    "id": "94c4eeb5934d8bc5325f6b172e01c078",
