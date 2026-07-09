@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-08T23:59:13Z",
- "count": 42,
+ "generated_utc": "2026-07-09T02:52:29Z",
+ "count": 43,
  "items": [
+  {
+   "id": "b046958716b8e56d8698b7bbb5096ea9",
+   "url": "https://t.me/OSINTWarfare/5636",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. airstrikes targeted a railway bridge in Aqqala, Golestan Province, northern Iran. The strikes left a large crater beneath the tracks, severing the rails and concrete supports.\nThe bridge is part of the Incheboroon–Gorgan railway line, which opened in late 2013 and serves as the final link of the New Eurasian Land Bridge, connecting Xi'an in eastern China to the Aprin Dry Port near Tehran.\nAccording to available information, the bridge was struck by seven projectiles.",
+   "timestamp": "2026-07-09T00:12:01+00:00",
+   "has_media": true
+  },
   {
    "id": "50571484cf5e04af037860d075e8745e",
    "url": "https://t.me/OSINTWarfare/5635",
