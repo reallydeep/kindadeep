@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-09T22:11:37Z",
- "count": 39,
+ "generated_utc": "2026-07-09T23:36:48Z",
+ "count": 38,
  "items": [
+  {
+   "id": "2b4463cc84895e442d03f4e217572612",
+   "url": "https://t.me/OSINTWarfare/5653",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "After suffering significant UAV losses during the conflict with Iran, the Pentagon plans to develop a new, lower-cost UAV to replace the MQ-9A Reaper.\nThe new platform will have long-range capabilities, be suitable for mass production, and is expected to enter service by 2031.",
+   "timestamp": "2026-07-09T22:59:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dbe80ab4b375a00e06e90421d476bd44",
+   "url": "https://t.me/warmonitors/44900",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Iranian news agency IRNA, quoting an official from Bushehr, said: The sound of the explosion heard in the city was caused by the activity of the air defense system. It was also reported that a military site on the outskirts of Bushehr was hit by a US-Israeli missile.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T22:57:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f017ced231b396184ac306a43178be2c",
+   "url": "https://t.me/OSINTWarfare/5651",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian forces recovered an unexploded WDU-42/B 1,000-pound (450 kg) blast-fragmentation penetrating warhead from a U.S. AGM-158 JASSM or AGM-158C LRASM stealth cruise missile.\nThe WDU-42/B is designed to destroy hardened targets, including bunkers, reinforced aircraft shelters, underground command posts, and other fortified underground facilities.",
+   "timestamp": "2026-07-09T22:44:45+00:00",
+   "has_media": true
+  },
   {
    "id": "9c07a3f1ed3bc779eb8988f4b4f5630d",
    "url": "https://t.me/warmonitors/44898",
@@ -111,15 +138,6 @@
    "has_media": false
   },
   {
-   "id": "7aa64f03ecfb11f7c88a2ba885d851ce",
-   "url": "https://t.me/warmonitors/44878",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli defence minister Katz: \"We don't need permission from anyone to stay in Lebanon\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-09T06:27:15+00:00",
-   "has_media": false
-  },
-  {
    "id": "b046958716b8e56d8698b7bbb5096ea9",
    "url": "https://t.me/OSINTWarfare/5636",
    "source": "telegram",
@@ -144,33 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "U.S. airstrikes also targeted the port city of Bushehr in southern Iran. According to Iranian sources, one of the strikes hit an air defense site, which can be seen in the footage.",
    "timestamp": "2026-07-08T23:07:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5025dd14e4ca8d6d94c24781d9f10877",
-   "url": "https://t.me/OSINTWarfare/5632",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows U.S. airstrikes targeting the city of Bushehr in southern Iran. One of the strikes destroyed the traffic control tower at Chabahar Port.",
-   "timestamp": "2026-07-08T22:44:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "57ba34a20f36f2d1ce0ce5b90b4f58f5",
-   "url": "https://t.me/OSINTWarfare/5631",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Images of the downed U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) in Bushehr Province, southern Iran.  The other two reports were false and resulted from confusion with the confirmed MQ-9A that was shot down over Bushehr.",
-   "timestamp": "2026-07-08T22:24:21+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ee08a6ba7d805a44a44f1a7d54f76e3f",
-   "url": "https://t.me/OSINTWarfare/5630",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Indian Navy Drishti-10 Starliner unmanned aerial vehicle (UAV) crashed in an open field near Dharampur village, close to Porbandar Airfield in Gujarat, India.\nAccording to the Indian Navy, the UAV went down shortly after takeoff in the vicinity of the airfield.\nThe cause of the crash has not been confirmed. The Drishti-10 fleet has previously experienced multiple SATCOM disconnection incidents, which may have been a contributing factor.\nThe Drishti-10 is the Indian-built version of the Israeli Hermes 900 UAV, manufactured by Adani Defence & Aerospace under license from Elbit Systems.",
-   "timestamp": "2026-07-08T17:59:29+00:00",
    "has_media": true
   },
   {
