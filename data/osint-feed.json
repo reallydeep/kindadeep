@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-09T19:09:50Z",
- "count": 44,
+ "generated_utc": "2026-07-09T20:54:45Z",
+ "count": 39,
  "items": [
+  {
+   "id": "30323a950e3d5e38fd67375564c27e2f",
+   "url": "https://t.me/warmonitors/44892",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nLebanese Communications Minister to Al-Arabiya: We will try all available means to see Israel's seriousness\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T20:02:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e2f79271390150cc22129a72ae4a0ecd",
+   "url": "https://t.me/OSINTWarfare/5650",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of medium-range ballistic missiles, including Kheibar Shekan, targeting Muwaffaq Salti Air Base in Jordan.",
+   "timestamp": "2026-07-09T19:12:15+00:00",
+   "has_media": false
+  },
   {
    "id": "98531761128748e090432f40dfb30f60",
    "url": "https://t.me/OSINTWarfare/5649",
@@ -9,24 +27,6 @@
    "channel": "OSINTWarfare",
    "text": "Earlier, airstrikes targeted Iranian coastal cities, U.S. officials denied their involvment and apparently one of the Gulf States carried out the attack.",
    "timestamp": "2026-07-09T18:55:04+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9fccb8c9f48233f22c41aa2d2705db59",
-   "url": "https://t.me/warmonitors/44890",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAttacks also in Bandar Abbas, Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-09T18:22:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "68746b8cde39716bb38a86bc4a8d2874",
-   "url": "https://t.me/warmonitors/44888",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThird night in a row: Iran reports explosions now heard in southern Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-09T18:17:15+00:00",
    "has_media": false
   },
   {
@@ -165,57 +165,12 @@
    "has_media": true
   },
   {
-   "id": "0f8a770e5865a1dd4be5644c6015df06",
-   "url": "https://t.me/warmonitors/44875",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nStrikes reported on Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T22:12:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4b2814396fbd6c15b3c9c1d0a6c0c1d5",
-   "url": "https://t.me/warmonitors/44874",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump on Truth Social: This is revenge for Iran bombing ships yesterday. If it happens again, it will be much worse!\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T21:42:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "77f763a5755adddf869446ed69f2d5c9",
-   "url": "https://t.me/warmonitors/44873",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nThe U.S. military is conducting strikes against Iranian military targets in the Strait of Hormuz — U.S. official\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T20:47:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e088658b36a8b4539f81277832904a9c",
-   "url": "https://t.me/warmonitors/44872",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nTrump: \"We had 111 missiles shot by the Islamic Republic of Japan\"\nFunniest statement ever told.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T19:57:15+00:00",
-   "has_media": true
-  },
-  {
    "id": "ee08a6ba7d805a44a44f1a7d54f76e3f",
    "url": "https://t.me/OSINTWarfare/5630",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "An Indian Navy Drishti-10 Starliner unmanned aerial vehicle (UAV) crashed in an open field near Dharampur village, close to Porbandar Airfield in Gujarat, India.\nAccording to the Indian Navy, the UAV went down shortly after takeoff in the vicinity of the airfield.\nThe cause of the crash has not been confirmed. The Drishti-10 fleet has previously experienced multiple SATCOM disconnection incidents, which may have been a contributing factor.\nThe Drishti-10 is the Indian-built version of the Israeli Hermes 900 UAV, manufactured by Adani Defence & Aerospace under license from Elbit Systems.",
    "timestamp": "2026-07-08T17:59:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9e2a1604cc3eb0dfc8e0509557e332da",
-   "url": "https://t.me/OSINTWarfare/5628",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Russia’s Africa Corps targeting pickup trucks belonging to the Azawad Liberation Front (FLA) in Anéfis, Mali, with FPV drones.",
-   "timestamp": "2026-07-08T15:46:28+00:00",
    "has_media": true
   },
   {
