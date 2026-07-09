@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-07-09T10:10:50Z",
- "count": 45,
+ "generated_utc": "2026-07-09T15:45:06Z",
+ "count": 43,
  "items": [
+  {
+   "id": "31aa8655759d2e1878e87632cd4780cb",
+   "url": "https://t.me/warmonitors/44885",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nReports from Iran: The United States has attacked Asaluyeh in Bushehr.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T13:07:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c2776a72637d78484198294500c26e48",
+   "url": "https://t.me/warmonitors/44884",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nJordanian army announces interception of eight missiles launched towards the kingdom\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T12:02:17+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6b3e89e44dc1fa5f88f68a9316cf78b6",
+   "url": "https://t.me/warmonitors/44883",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nUS attack near the Bushehr nuclear power plant.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T12:02:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2cf8d32c5cdccb43e97d0537ce532381",
+   "url": "https://t.me/warmonitors/44881",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIranian official accuses US of launching an airstrike near Bushehr nuclear power plant; no acknowledgment by US\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T12:02:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9997b0db52d10d9e5e8e7e448f6b4463",
+   "url": "https://t.me/warmonitors/44882",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nExplosions also reported in Kuwait\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-09T12:02:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ce7afd416faa6683d2c613f80308eef9",
+   "url": "https://t.me/OSINTWarfare/5639",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian ballistic missiles were launched from Arak, Khomein, Urmia, and Tabriz, likely targeting Muwaffaq Salti Air Base in Jordan.",
+   "timestamp": "2026-07-09T10:49:42+00:00",
+   "has_media": true
+  },
   {
    "id": "27b1f9ff7e341ec379febd946269deca",
    "url": "https://t.me/warmonitors/44879",
@@ -138,33 +192,6 @@
    "has_media": true
   },
   {
-   "id": "4ee9f362d2137478cf9bc38d474305bf",
-   "url": "https://t.me/OSINTWarfare/5626",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ali Moeini, a member of the Islamic Republic of Iran Air Force, and Shahab Omidi, a First Lieutenant in the Iranian Navy’s Special Operations Forces, were among those killed in this morning’s U.S. strikes.",
-   "timestamp": "2026-07-08T15:10:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a547513c0d787a2feef3229710c7f28a",
-   "url": "https://t.me/OSINTWarfare/5625",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from yesterday's U.S. airstrikes on the Bandar Abbas fishing pier on Iran's southern coast.\nIn addition to the fishing pier, military facilities were also targeted. So far, eight fatalities have been reported.",
-   "timestamp": "2026-07-08T14:17:06+00:00",
-   "has_media": true
-  },
-  {
-   "id": "966898d3d764f8a3d2c2587731476b45",
-   "url": "https://t.me/OSINTWarfare/5624",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including Kheibar Shekan, Fattah-1, and Zolfaghar/Dezful missiles, targeting U.S. bases in Kuwait and Bahrain.",
-   "timestamp": "2026-07-08T13:38:01+00:00",
-   "has_media": true
-  },
-  {
    "id": "96c76fb955f359ca5521297533fdbef2",
    "url": "https://t.me/warmonitors/44869",
    "source": "telegram",
@@ -181,51 +208,6 @@
    "text": "⚡️\nIranians release new footage from the compound where Khamenei was reportedly killed.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-08T13:07:15+00:00",
    "has_media": true
-  },
-  {
-   "id": "7767ef29618281fe62b75960ebdfe2f1",
-   "url": "https://t.me/OSINTWarfare/5621",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the city of Khormoj, Bushehr Province, southern Iran.  Unconfirmed reports also indicate that two additional MQ-9 drones may have been downed, one over Tabriz and another…",
-   "timestamp": "2026-07-08T12:34:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2d0504792594e2c8ee45479ffe67d5b8",
-   "url": "https://t.me/warmonitors/44866",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nWar secretary Pete Hegseth has cancelled his trip to Israel, per source with knowledge of the matter\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T09:32:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6c1b7fc75dbda94ee9fbff147f9eb5cb",
-   "url": "https://t.me/warmonitors/44865",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nTrump says after launching new strikes on Iran that ceasefire is 'over' but says negotiations can continue\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T08:37:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b96bc86d02823f4806393571ff63fdfa",
-   "url": "https://t.me/warmonitors/44863",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nBahrain sounds its missile alert sirens for a second time after Iran targets island kingdom over earlier US airstrikes\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T04:47:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cc77965ae64b1d1ff494111ede22c50b",
-   "url": "https://t.me/warmonitors/44861",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nTop Iran official warns US after strikes: 'The era of bullying and extortion is over. It leads nowhere. We don’t fold.' — AP\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-08T04:12:15+00:00",
-   "has_media": false
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
