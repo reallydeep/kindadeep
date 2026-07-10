@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-10T05:08:07Z",
- "count": 36,
+ "generated_utc": "2026-07-10T08:33:21Z",
+ "count": 37,
  "items": [
+  {
+   "id": "50ae72bc8b7988abd72725a7ad96c6d5",
+   "url": "https://t.me/OSINTWarfare/5660",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to the Turkish newspaper Hürriyet, Turkey has resold its Russian S-400 long-range surface-to-air missile (SAM) systems to a Gulf country, possibly the United Arab Emirates or Qatar, in exchange for the United States agreeing to lift sanctions on Ankara and allow Turkey to rejoin the F-35 fighter program.\nBoth countries are looking to strengthen their air defense capabilities amid heightened regional tensions caused by the U.S.-Iran war. Qatar, in particular, has previously been reported to be interested in acquiring the Russian S-400 system.",
+   "timestamp": "2026-07-10T08:26:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "415903314a385c1b670ee4afa92b1dc0",
+   "url": "https://t.me/OSINTWarfare/5659",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russian Aerospace Forces' daily combat operations across multiple sectors.\n0:00–0:13: A Kh-39 Light Multipurpose Guided Missile (LMUR) strikes a Ukrainian troop deployment point in the border village of Hrushivka, northern Kharkiv Oblast.\n0:14–0:28: Five FAB-250 glide bombs fitted with UMPK guidance kits strike Ukrainian troop positions in Orikhiv, Zaporizhzhia Oblast.\n0:29–0:44: Two FAB-500 bombs equipped with UMPK guidance kits strike the position of a Ukrainian drone unit in Dobropillia, Donetsk Oblast.",
+   "timestamp": "2026-07-10T08:03:23+00:00",
+   "has_media": false
+  },
   {
    "id": "2b4463cc84895e442d03f4e217572612",
    "url": "https://t.me/OSINTWarfare/5653",
@@ -136,15 +154,6 @@
    "text": "⚡️\nIran's Health Ministry says two days of US airstrikes have killed at least 14 people and wounded 78 others\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-09T07:02:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "b046958716b8e56d8698b7bbb5096ea9",
-   "url": "https://t.me/OSINTWarfare/5636",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. airstrikes targeted a railway bridge in Aqqala, Golestan Province, northern Iran. The strikes left a large crater beneath the tracks, severing the rails and concrete supports.\nThe bridge is part of the Incheboroon–Gorgan railway line, which opened in late 2013 and serves as the final link of the New Eurasian Land Bridge, connecting Xi'an in eastern China to the Aprin Dry Port near Tehran.\nAccording to available information, the bridge was struck by seven projectiles.",
-   "timestamp": "2026-07-09T00:12:01+00:00",
-   "has_media": true
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
