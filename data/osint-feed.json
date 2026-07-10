@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-10T21:28:12Z",
- "count": 33,
+ "generated_utc": "2026-07-10T22:31:18Z",
+ "count": 34,
  "items": [
+  {
+   "id": "dd9387e5b555dab7a301c30b82ee38ea",
+   "url": "https://t.me/OSINTWarfare/5663",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Several drones launched from Republika Srpska targeted the Federation of Bosnia and Herzegovina.\nDashcam footage captured one of the drones striking a civilian vehicle on Bojnička Street, near the A1 motorway on the outskirts of Sarajevo.\nAuthorities have so far reported one civilian fatality.\nSource:\n@bosnianwarupdates",
+   "timestamp": "2026-07-10T22:27:32+00:00",
+   "has_media": true
+  },
   {
    "id": "063ead43e35e795dbbe78fce2d2296f5",
    "url": "https://t.me/OSINTWarfare/5662",
