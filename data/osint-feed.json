@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-10T17:27:35Z",
- "count": 34,
+ "generated_utc": "2026-07-10T18:56:44Z",
+ "count": 33,
  "items": [
+  {
+   "id": "c66f17a9ec4115c82299725dbfd9f7c0",
+   "url": "https://t.me/OSINTWarfare/5661",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Interesting footage showing the launch of a modified Ukrainian S-200 surface-to-air missile, repurposed for use as a ground-to-ground strike missile.",
+   "timestamp": "2026-07-10T18:12:44+00:00",
+   "has_media": true
+  },
   {
    "id": "c68f05c321811474c85cfce7f00fe6ac",
    "url": "https://t.me/warmonitors/44905",
@@ -109,24 +118,6 @@
    "text": "Earlier, airstrikes targeted Iranian coastal cities, U.S. officials denied their involvment and apparently one of the Gulf States carried out the attack.",
    "timestamp": "2026-07-09T18:55:04+00:00",
    "has_media": false
-  },
-  {
-   "id": "92dd27e08d9c813c6c580b3115508268",
-   "url": "https://t.me/warmonitors/44887",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#UPDATE\nAndy Burnham has apologised for Labour’s response to the conflict in Gaza\n“My party didn’t get it right… I am sorry. We need to do better. We’ve got to do more to put pressure on the Israeli Government. The UK was too slow to call for a ceasefire”\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-09T17:47:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ce7afd416faa6683d2c613f80308eef9",
-   "url": "https://t.me/OSINTWarfare/5639",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian ballistic missiles were launched from Arak, Khomein, Urmia, and Tabriz, likely targeting Muwaffaq Salti Air Base in Jordan.",
-   "timestamp": "2026-07-09T10:49:42+00:00",
-   "has_media": true
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
