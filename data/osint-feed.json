@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-11T20:11:36Z",
- "count": 35,
+ "generated_utc": "2026-07-11T21:06:55Z",
+ "count": 36,
  "items": [
+  {
+   "id": "482dfa60c7dfa0d20843ce4a9e17644f",
+   "url": "https://t.me/OSINTWarfare/5676",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Image showing a crater caused by an Iranian ballistic missile strike at Muwaffaq Salti Air Base in Jordan.  The exact date the photo was taken is unclear. It may date back to the Ramadan War (40-Day War).  Correction: Old image from June 2022.",
+   "timestamp": "2026-07-11T21:01:30+00:00",
+   "has_media": false
+  },
+  {
+   "id": "469cab3ecdc2ea1befce09ef46483146",
+   "url": "https://t.me/OSINTWarfare/5675",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Image showing a crater caused by an Iranian ballistic missile strike at Muwaffaq Salti Air Base in Jordan.\nThe exact date the photo was taken is unclear. It may date back to the Ramadan War (40-Day War).\nCorrection: Old image from June 2022.",
+   "timestamp": "2026-07-11T20:37:18+00:00",
+   "has_media": true
+  },
   {
    "id": "fc72efcdfa6f0aa81d5cc51315885d7d",
    "url": "https://t.me/warmonitors/44925",
@@ -172,15 +190,6 @@
    "text": "🚢\nUKMTO reported that the IRGC issued a call at 09h00 a.m. UTC ordering merchant vessels to leave Ras Al Khaimah for Dubai, with warnings that the consequences are their responsibility if they do not comply.\nSeveral ships have complied since this morning.\n@MenchOsint",
    "timestamp": "2026-05-03T19:53:36+00:00",
    "has_media": true
-  },
-  {
-   "id": "0d4cb7489462b1d888c002da6c4d27c1",
-   "url": "https://t.me/TerrorAlarm/39",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "🚨\n🇺🇸\n🇮🇷\nExclusive: During a meeting with Pakistan's Prime Minister Shehbaz Sharif, Vice President JD Vance laid out Washington's firm 'red lines' for ending the conflict with Iran.\nVance’s reported surrender terms are uncompromising:\n1- Zero Funds Unblocked: No release of frozen Iranian assets or sanctions relief until all U.S. objectives are fully met.\n2- Immediate Strait Access: The Strait of Hormuz must be opened unconditionally to all international shipping.",
-   "timestamp": "2026-04-11T12:03:24+00:00",
-   "has_media": false
   },
   {
    "id": "bb24fd57b2eb634ff892b0222b0b3ac1",
