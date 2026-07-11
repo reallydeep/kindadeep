@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-11T14:07:42Z",
+ "generated_utc": "2026-07-11T15:10:01Z",
  "count": 34,
  "items": [
+  {
+   "id": "a1a8969d425fc2a1b921886327c7dbbd",
+   "url": "https://t.me/OSINTWarfare/5674",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, an Israeli airstrike targeted the town of Al-Mansouri in Lebanon's Tyre District.",
+   "timestamp": "2026-07-11T14:12:19+00:00",
+   "has_media": true
+  },
   {
    "id": "e622fff39fdc775d9dbf07e1ac83cf2d",
    "url": "https://t.me/OSINTWarfare/5668",
@@ -127,15 +136,6 @@
    "text": "Russian Aerospace Forces' daily combat operations across multiple sectors.\n0:00–0:13: A Kh-39 Light Multipurpose Guided Missile (LMUR) strikes a Ukrainian troop deployment point in the border village of Hrushivka, northern Kharkiv Oblast.\n0:14–0:28: Five FAB-250 glide bombs fitted with UMPK guidance kits strike Ukrainian troop positions in Orikhiv, Zaporizhzhia Oblast.\n0:29–0:44: Two FAB-500 bombs equipped with UMPK guidance kits strike the position of a Ukrainian drone unit in Dobropillia, Donetsk Oblast.",
    "timestamp": "2026-07-10T08:03:23+00:00",
    "has_media": false
-  },
-  {
-   "id": "2b4463cc84895e442d03f4e217572612",
-   "url": "https://t.me/OSINTWarfare/5653",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "After suffering significant UAV losses during the conflict with Iran, the Pentagon plans to develop a new, lower-cost UAV to replace the MQ-9A Reaper.\nThe new platform will have long-range capabilities, be suitable for mass production, and is expected to enter service by 2031.",
-   "timestamp": "2026-07-09T22:59:57+00:00",
-   "has_media": true
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
