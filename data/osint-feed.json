@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-11T12:40:08Z",
- "count": 37,
+ "generated_utc": "2026-07-11T14:07:42Z",
+ "count": 34,
  "items": [
+  {
+   "id": "e622fff39fdc775d9dbf07e1ac83cf2d",
+   "url": "https://t.me/OSINTWarfare/5668",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Australia's Department of Defence announced that, during the Taipan Strike 26 exercise at the Woomera Test Range in South Australia, the Royal Australian Navy launched a Standard Missile-2 (SM-2) surface-to-air missile from a trailer-mounted, two-cell Expeditionary Launch System (ELS) ground launcher, designated Derringer.\nThe system, designed for ground-based air and missile defense, combines the SM-2 missile with an active electronically scanned array (AESA) radar developed by Australian company CEA Technologies and a virtualized AEGIS weapon system.\nThe trials, led by the Royal Australian Air Force, were conducted in cooperation with the Royal Australian Navy, Australia's Capability Acquisition and Sustainment Group (CASG), U.S. government agencies, and defense industry partners from both Australia and the United States.",
+   "timestamp": "2026-07-11T12:41:10+00:00",
+   "has_media": true
+  },
   {
    "id": "635fe5399e9fcae69af6e0ba2486ad5c",
    "url": "https://t.me/OSINTWarfare/5667",
@@ -127,42 +136,6 @@
    "text": "After suffering significant UAV losses during the conflict with Iran, the Pentagon plans to develop a new, lower-cost UAV to replace the MQ-9A Reaper.\nThe new platform will have long-range capabilities, be suitable for mass production, and is expected to enter service by 2031.",
    "timestamp": "2026-07-09T22:59:57+00:00",
    "has_media": true
-  },
-  {
-   "id": "dbe80ab4b375a00e06e90421d476bd44",
-   "url": "https://t.me/warmonitors/44900",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Iranian news agency IRNA, quoting an official from Bushehr, said: The sound of the explosion heard in the city was caused by the activity of the air defense system. It was also reported that a military site on the outskirts of Bushehr was hit by a US-Israeli missile.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-09T22:57:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f017ced231b396184ac306a43178be2c",
-   "url": "https://t.me/OSINTWarfare/5651",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian forces recovered an unexploded WDU-42/B 1,000-pound (450 kg) blast-fragmentation penetrating warhead from a U.S. AGM-158 JASSM or AGM-158C LRASM stealth cruise missile.\nThe WDU-42/B is designed to destroy hardened targets, including bunkers, reinforced aircraft shelters, underground command posts, and other fortified underground facilities.",
-   "timestamp": "2026-07-09T22:44:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e2f79271390150cc22129a72ae4a0ecd",
-   "url": "https://t.me/OSINTWarfare/5650",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of medium-range ballistic missiles, including Kheibar Shekan, targeting Muwaffaq Salti Air Base in Jordan.",
-   "timestamp": "2026-07-09T19:12:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "98531761128748e090432f40dfb30f60",
-   "url": "https://t.me/OSINTWarfare/5649",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, airstrikes targeted Iranian coastal cities, U.S. officials denied their involvment and apparently one of the Gulf States carried out the attack.",
-   "timestamp": "2026-07-09T18:55:04+00:00",
-   "has_media": false
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
