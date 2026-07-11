@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-11T11:41:37Z",
- "count": 36,
+ "generated_utc": "2026-07-11T12:40:08Z",
+ "count": 37,
  "items": [
+  {
+   "id": "635fe5399e9fcae69af6e0ba2486ad5c",
+   "url": "https://t.me/OSINTWarfare/5667",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An explosion was heard earlier in southeastern Tehran. According to the IRGC, the blast was caused by the controlled disposal of unexploded ordnance.",
+   "timestamp": "2026-07-11T12:32:17+00:00",
+   "has_media": false
+  },
   {
    "id": "9ca215fc5353737749d5793095059aed",
    "url": "https://t.me/OSINTWarfare/5665",
