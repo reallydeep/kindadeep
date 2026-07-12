@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-12T11:22:34Z",
+ "generated_utc": "2026-07-12T12:10:43Z",
  "count": 42,
  "items": [
+  {
+   "id": "3f347eddd64bf018f193948dea661e99",
+   "url": "https://t.me/OSINTWarfare/5687",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of short- and medium-range ballistic missiles targeting U.S. military bases across the Gulf region.\nThe strikes involved Ghadr (Qadr) and Emad liquid-fueled ballistic missiles, along with Kheibar Shekan, Fateh-110, and Zolfaghar solid-fueled ballistic missiles.",
+   "timestamp": "2026-07-12T11:37:49+00:00",
+   "has_media": false
+  },
   {
    "id": "35a4cb4688e74a1946beea582f77b09b",
    "url": "https://t.me/warmonitors/44936",
@@ -199,15 +208,6 @@
    "text": "Australia's Department of Defence announced that, during the Taipan Strike 26 exercise at the Woomera Test Range in South Australia, the Royal Australian Navy launched a Standard Missile-2 (SM-2) surface-to-air missile from a trailer-mounted, two-cell Expeditionary Launch System (ELS) ground launcher, designated Derringer.\nThe system, designed for ground-based air and missile defense, combines the SM-2 missile with an active electronically scanned array (AESA) radar developed by Australian company CEA Technologies and a virtualized AEGIS weapon system.\nThe trials, led by the Royal Australian Air Force, were conducted in cooperation with the Royal Australian Navy, Australia's Capability Acquisition and Sustainment Group (CASG), U.S. government agencies, and defense industry partners from both Australia and the United States.",
    "timestamp": "2026-07-11T12:41:10+00:00",
    "has_media": true
-  },
-  {
-   "id": "635fe5399e9fcae69af6e0ba2486ad5c",
-   "url": "https://t.me/OSINTWarfare/5667",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An explosion was heard earlier in southeastern Tehran. According to the IRGC, the blast was caused by the controlled disposal of unexploded ordnance.",
-   "timestamp": "2026-07-11T12:32:17+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
