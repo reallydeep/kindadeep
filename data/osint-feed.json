@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-12T22:07:40Z",
- "count": 44,
+ "generated_utc": "2026-07-12T23:03:39Z",
+ "count": 48,
  "items": [
+  {
+   "id": "d8b2b17220778ce846375f7dfdb01223",
+   "url": "https://t.me/OSINTWarfare/5692",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of U.S. airstrikes targeting the 4th Tactical Fighter Base in Dezful, western Iran.\nThe strikes were reportedly carried out using bunker-buster munitions, although this has not been independently confirmed.",
+   "timestamp": "2026-07-12T23:03:10+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d83eb50756a4c6fe5faa8539e1a0e868",
+   "url": "https://t.me/OSINTWarfare/5691",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "You can't make a deal with the devil and expect them to keep their word. Those who pushed for the MoU, Masoud Pezeshkian and others, despite the Supreme Leader's warnings, have only ended up looking foolish in the eyes of the public.  Some states simply don't…",
+   "timestamp": "2026-07-12T22:45:45+00:00",
+   "has_media": false
+  },
+  {
+   "id": "77acad57188fda23609df6a98fa0d991",
+   "url": "https://t.me/OSINTWarfare/5690",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the U.S. Army launching a salvo of ATACMS tactical ballistic missiles from M142 High Mobility Artillery Rocket Systems (HIMARS) in Kuwait toward targets in Iran.",
+   "timestamp": "2026-07-12T22:29:53+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e09744f53f1fe3d8728f9789af797a57",
+   "url": "https://t.me/OSINTWarfare/5689",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, the IRGC allegedly struck a U.S. Army M142 High Mobility Artillery Rocket System (HIMARS) at the former UN Base Camp in Abdali, Kuwait.\nThe M142 HIMARS is capable of launching guided rockets, ATACMS tactical ballistic missiles, and the Precision Strike Missile (PrSM).\nApproximate location: 30°00'03.9\"N 47°57'00.2\"E",
+   "timestamp": "2026-07-12T22:07:39+00:00",
+   "has_media": true
+  },
   {
    "id": "0f200a9dcae7921be8e099c66dd4da64",
    "url": "https://t.me/warmonitors/44949",
