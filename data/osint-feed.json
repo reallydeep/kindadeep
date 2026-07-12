@@ -1,7 +1,97 @@
 {
- "generated_utc": "2026-07-11T23:01:04Z",
- "count": 36,
+ "generated_utc": "2026-07-12T00:04:28Z",
+ "count": 42,
  "items": [
+  {
+   "id": "ed7bda0e8f3b4f7877c6c330f8856cdc",
+   "url": "https://t.me/OSINTWarfare/5682",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in Jask, Kangan, and Chabahar in southern Iran.",
+   "timestamp": "2026-07-12T00:01:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "325551379a098b5a850e217430c80fdd",
+   "url": "https://t.me/OSINTWarfare/5681",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Image allegedly showing the aftermath of a U.S. airstrike in Bandar Abbas, southern Iran.",
+   "timestamp": "2026-07-11T23:50:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a3713f207683842c7f9a000c4d56d853",
+   "url": "https://t.me/warmonitors/44934",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#UPDATE\nBarak Ravid: U.S. military is conducting strikes against Iranian targets in the Strait of Hormuz area in response to IRGC attack on commercial ship, U.S. official says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-11T23:42:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "54b568eedf43914f636c072e5dc658fa",
+   "url": "https://t.me/OSINTWarfare/5680",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The police headquarters in Ahvaz was struck in an airstrike. U.S. airstrikes also targeted Minab, Kangan, Bandar Abbas, Ardabil, and the port of Bandar Dayyer.\nThe image allegedly shows the aftermath of the strike on Bandar Dayyer.",
+   "timestamp": "2026-07-11T23:40:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "69d229ec7f974f67d9693eaf1f04b6c0",
+   "url": "https://t.me/warmonitors/44932",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nAmerican missiles in the skies over Iraq.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-11T23:37:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0df950e489a78939ce5ad86ab8713552",
+   "url": "https://t.me/warmonitors/44933",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Iranian Press TV network reports: Explosions were heard in Bushehr and Asluyeh in southern Iran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-11T23:37:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3ad66afc1d6e631c7ad607df8d0892fb",
+   "url": "https://t.me/warmonitors/44931",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli Media: Americans are firing missiles from Bahrain towards southern Iran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-11T23:32:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6f564c8bbfefdec0fb551f088ce24983",
+   "url": "https://t.me/OSINTWarfare/5679",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possibly ATACMS or HIMARS launches were carried out from Bahrain toward Iran.",
+   "timestamp": "2026-07-11T23:30:11+00:00",
+   "has_media": true
+  },
+  {
+   "id": "fabdea54d70174360fce041b9f92056b",
+   "url": "https://t.me/warmonitors/44930",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIran says Strait of Hormuz is closed, claims it struck vessel using 'unauthorized route'\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-11T23:27:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4c0387b403b1586dafec10e8531fae16",
+   "url": "https://t.me/OSINTWarfare/5678",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in Asaluyeh and Bushehr, southern Iran.",
+   "timestamp": "2026-07-11T23:22:27+00:00",
+   "has_media": false
+  },
   {
    "id": "482dfa60c7dfa0d20843ce4a9e17644f",
    "url": "https://t.me/OSINTWarfare/5676",
@@ -120,15 +210,6 @@
    "has_media": false
   },
   {
-   "id": "da28d8ee72766a979a0b16ba742964ce",
-   "url": "https://t.me/warmonitors/44914",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nBarak Ravid:\n- A U.S. official said the Iranians reached out to the administration after two days of skirmishes earlier this week and sought further talks to resolve the dispute\n- \"They told us, 'We screwed up. We made a mistake. Let's keep talking,'\" the official claimed\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-10T22:52:15+00:00",
-   "has_media": false
-  },
-  {
    "id": "063ead43e35e795dbbe78fce2d2296f5",
    "url": "https://t.me/OSINTWarfare/5662",
    "source": "telegram",
@@ -136,33 +217,6 @@
    "text": "You can't make a deal with the devil and expect them to keep their word. Those who pushed for the MoU, Masoud Pezeshkian and others, despite the Supreme Leader's warnings, have only ended up looking foolish in the eyes of the public.\nSome states simply don't respond to negotiations or agreements, they respond to strength. Focus on rebuilding intelligently: develop a capable air force, establish a strong layered air defense network, abolish the IRGC and integrate its personnel and capabilities into the regular Armed Forces under a single unified military command, make the GCC contribute to reconstruction through investment, and, above all, root out corruption across every sector.\nAnd one more thing: acquire a nuclear deterrent.",
    "timestamp": "2026-07-10T20:21:45+00:00",
    "has_media": true
-  },
-  {
-   "id": "c66f17a9ec4115c82299725dbfd9f7c0",
-   "url": "https://t.me/OSINTWarfare/5661",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Interesting footage showing the launch of a modified Ukrainian S-200 surface-to-air missile, repurposed for use as a ground-to-ground strike missile.",
-   "timestamp": "2026-07-10T18:12:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "50ae72bc8b7988abd72725a7ad96c6d5",
-   "url": "https://t.me/OSINTWarfare/5660",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to the Turkish newspaper Hürriyet, Turkey has resold its Russian S-400 long-range surface-to-air missile (SAM) systems to a Gulf country, possibly the United Arab Emirates or Qatar, in exchange for the United States agreeing to lift sanctions on Ankara and allow Turkey to rejoin the F-35 fighter program.\nBoth countries are looking to strengthen their air defense capabilities amid heightened regional tensions caused by the U.S.-Iran war. Qatar, in particular, has previously been reported to be interested in acquiring the Russian S-400 system.",
-   "timestamp": "2026-07-10T08:26:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "415903314a385c1b670ee4afa92b1dc0",
-   "url": "https://t.me/OSINTWarfare/5659",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russian Aerospace Forces' daily combat operations across multiple sectors.\n0:00–0:13: A Kh-39 Light Multipurpose Guided Missile (LMUR) strikes a Ukrainian troop deployment point in the border village of Hrushivka, northern Kharkiv Oblast.\n0:14–0:28: Five FAB-250 glide bombs fitted with UMPK guidance kits strike Ukrainian troop positions in Orikhiv, Zaporizhzhia Oblast.\n0:29–0:44: Two FAB-500 bombs equipped with UMPK guidance kits strike the position of a Ukrainian drone unit in Dobropillia, Donetsk Oblast.",
-   "timestamp": "2026-07-10T08:03:23+00:00",
-   "has_media": false
   },
   {
    "id": "288be7f23350308d6cd00bfd62581203",
