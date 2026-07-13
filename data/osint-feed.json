@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-12T23:03:39Z",
+ "generated_utc": "2026-07-13T00:04:16Z",
  "count": 48,
  "items": [
+  {
+   "id": "641f2ec6768e61f4f7411490e2999bed",
+   "url": "https://t.me/OSINTWarfare/5696",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A fire has broken out at an oil depot in Mikhaylovsk, Russia's Stavropol Krai, following a Ukrainian drone strike.",
+   "timestamp": "2026-07-12T23:56:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "35ade9c2ef259ef2fbe5aa22bbf26e51",
+   "url": "https://t.me/OSINTWarfare/5694",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of U.S. airstrikes targeting the 4th Tactical Fighter Base in Dezful, western Iran.  The strikes were reportedly carried out using bunker-buster munitions, although this has not been independently confirmed.",
+   "timestamp": "2026-07-12T23:38:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "129457389fb487fce73ecbddb63a31e4",
+   "url": "https://t.me/OSINTWarfare/5693",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A U.S. airstrike has been reported along the Ahvaz–Haftkel highway in Khuzestan Province, Iran.",
+   "timestamp": "2026-07-12T23:27:18+00:00",
+   "has_media": true
+  },
   {
    "id": "d8b2b17220778ce846375f7dfdb01223",
    "url": "https://t.me/OSINTWarfare/5692",
@@ -235,33 +262,6 @@
    "text": "Image showing a crater caused by an Iranian ballistic missile strike at Muwaffaq Salti Air Base in Jordan.  The exact date the photo was taken is unclear. It may date back to the Ramadan War (40-Day War).  Correction: Old image from June 2022.",
    "timestamp": "2026-07-11T21:01:30+00:00",
    "has_media": false
-  },
-  {
-   "id": "469cab3ecdc2ea1befce09ef46483146",
-   "url": "https://t.me/OSINTWarfare/5675",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Image showing a crater caused by an Iranian ballistic missile strike at Muwaffaq Salti Air Base in Jordan.\nThe exact date the photo was taken is unclear. It may date back to the Ramadan War (40-Day War).\nCorrection: Old image from June 2022.",
-   "timestamp": "2026-07-11T20:37:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a1a8969d425fc2a1b921886327c7dbbd",
-   "url": "https://t.me/OSINTWarfare/5674",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, an Israeli airstrike targeted the town of Al-Mansouri in Lebanon's Tyre District.",
-   "timestamp": "2026-07-11T14:12:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e622fff39fdc775d9dbf07e1ac83cf2d",
-   "url": "https://t.me/OSINTWarfare/5668",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Australia's Department of Defence announced that, during the Taipan Strike 26 exercise at the Woomera Test Range in South Australia, the Royal Australian Navy launched a Standard Missile-2 (SM-2) surface-to-air missile from a trailer-mounted, two-cell Expeditionary Launch System (ELS) ground launcher, designated Derringer.\nThe system, designed for ground-based air and missile defense, combines the SM-2 missile with an active electronically scanned array (AESA) radar developed by Australian company CEA Technologies and a virtualized AEGIS weapon system.\nThe trials, led by the Royal Australian Air Force, were conducted in cooperation with the Royal Australian Navy, Australia's Capability Acquisition and Sustainment Group (CASG), U.S. government agencies, and defense industry partners from both Australia and the United States.",
-   "timestamp": "2026-07-11T12:41:10+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
