@@ -1,7 +1,70 @@
 {
- "generated_utc": "2026-07-13T00:04:16Z",
- "count": 48,
+ "generated_utc": "2026-07-13T03:49:36Z",
+ "count": 45,
  "items": [
+  {
+   "id": "40e4e686fac84e58930c19e46d2bf6ee",
+   "url": "https://t.me/OSINTWarfare/5709",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Central Command (CENTCOM) has released footage showing U.S. Navy F/A-18E Super Hornets assigned to Strike Fighter Squadron 151 (VFA-151) taking off from the USS Abraham Lincoln (CVN-72), alongside BGM-109E Tomahawk land-attack cruise missiles (LACMs) being launched from Arleigh Burke-class guided-missile destroyers toward targets in Iran.",
+   "timestamp": "2026-07-13T03:11:23+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e30f5855990268d9fe498edf04ccb6f2",
+   "url": "https://t.me/OSINTWarfare/5708",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC claims it struck Ali Al-Salem Air Base and Ahmed Al-Jaber Air Base in Kuwait, alleging that the attacks destroyed fuel storage tanks, a Patriot air defense system, and an FPS radar system.",
+   "timestamp": "2026-07-13T03:05:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "36b589b2270ca2889ebea3aa08736918",
+   "url": "https://t.me/OSINTWarfare/5707",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier footage shows Iranian ballistic missile launches from Jam, Bushehr Province, southern Iran.",
+   "timestamp": "2026-07-13T02:51:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "eb20e081e007df5db4bed93b8e825fb9",
+   "url": "https://t.me/OSINTWarfare/5705",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier footage shows Iranian ballistic missile launches from Jam, Bushehr Province, southern Iran.",
+   "timestamp": "2026-07-13T02:28:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2d225da1d96b1ceab7942eb04b87838f",
+   "url": "https://t.me/OSINTWarfare/5701",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran has begun its response, with the IRGC launching two ballistic missiles from Khomeyn, central Iran.",
+   "timestamp": "2026-07-13T01:20:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2d8929a3746e499b2870b1475deaafbd",
+   "url": "https://t.me/OSINTWarfare/5700",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran has begun its response, with the IRGC launching two ballistic missiles from Khomeyn, central Iran.",
+   "timestamp": "2026-07-13T01:07:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "03e9fe5f2b96fad56db662808b1a0dc9",
+   "url": "https://t.me/OSINTWarfare/5698",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage showing the aftermath of U.S. strikes on Aghajari Airport in Omidiyeh, Khuzestan Province.\nThe strikes were reportedly carried out using ATACMS tactical ballistic missiles launched by U.S. Army M142 HIMARS from Kuwait.\nTo avoid any confusion, Aghajari Airport and Omidiyeh Airport refer to the same facility, they are simply two different names for the same airport.",
+   "timestamp": "2026-07-13T00:26:47+00:00",
+   "has_media": true
+  },
   {
    "id": "641f2ec6768e61f4f7411490e2999bed",
    "url": "https://t.me/OSINTWarfare/5696",
@@ -120,15 +183,6 @@
    "has_media": false
   },
   {
-   "id": "3f347eddd64bf018f193948dea661e99",
-   "url": "https://t.me/OSINTWarfare/5687",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of short- and medium-range ballistic missiles targeting U.S. military bases across the Gulf region.\nThe strikes involved Ghadr (Qadr) and Emad liquid-fueled ballistic missiles, along with Kheibar Shekan, Fateh-110, and Zolfaghar solid-fueled ballistic missiles.",
-   "timestamp": "2026-07-12T11:37:49+00:00",
-   "has_media": false
-  },
-  {
    "id": "35a4cb4688e74a1946beea582f77b09b",
    "url": "https://t.me/warmonitors/44936",
    "source": "telegram",
@@ -138,51 +192,6 @@
    "has_media": false
   },
   {
-   "id": "79609da0b928028bc0187c4ead4f8ebf",
-   "url": "https://t.me/OSINTWarfare/5686",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Photo allegedly captured during the U.S. strikes on Bushehr, southern Iran.",
-   "timestamp": "2026-07-12T01:40:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9abd4ef684816b190664e6c49c445462",
-   "url": "https://t.me/OSINTWarfare/5685",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Islamic Republic of Iran Air Force (IRIAF) fighter jets are active over Tehran.",
-   "timestamp": "2026-07-12T00:28:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3982bc16048fa1b3677c0b5c795b2616",
-   "url": "https://t.me/OSINTWarfare/5684",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The police headquarters in Ahvaz was struck in an airstrike. U.S. airstrikes also targeted Minab, Kangan, Bandar Abbas, Ardabil, and the port of Bandar Dayyer.  The image allegedly shows the aftermath of the strike on Bandar Dayyer.",
-   "timestamp": "2026-07-12T00:22:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ed7bda0e8f3b4f7877c6c330f8856cdc",
-   "url": "https://t.me/OSINTWarfare/5682",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Jask, Kangan, and Chabahar in southern Iran.",
-   "timestamp": "2026-07-12T00:01:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "325551379a098b5a850e217430c80fdd",
-   "url": "https://t.me/OSINTWarfare/5681",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Image allegedly showing the aftermath of a U.S. airstrike in Bandar Abbas, southern Iran.",
-   "timestamp": "2026-07-11T23:50:02+00:00",
-   "has_media": true
-  },
-  {
    "id": "a3713f207683842c7f9a000c4d56d853",
    "url": "https://t.me/warmonitors/44934",
    "source": "telegram",
@@ -190,15 +199,6 @@
    "text": "⚡\n#UPDATE\nBarak Ravid: U.S. military is conducting strikes against Iranian targets in the Strait of Hormuz area in response to IRGC attack on commercial ship, U.S. official says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-11T23:42:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "54b568eedf43914f636c072e5dc658fa",
-   "url": "https://t.me/OSINTWarfare/5680",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The police headquarters in Ahvaz was struck in an airstrike. U.S. airstrikes also targeted Minab, Kangan, Bandar Abbas, Ardabil, and the port of Bandar Dayyer.\nThe image allegedly shows the aftermath of the strike on Bandar Dayyer.",
-   "timestamp": "2026-07-11T23:40:32+00:00",
-   "has_media": true
   },
   {
    "id": "69d229ec7f974f67d9693eaf1f04b6c0",
@@ -228,15 +228,6 @@
    "has_media": false
   },
   {
-   "id": "6f564c8bbfefdec0fb551f088ce24983",
-   "url": "https://t.me/OSINTWarfare/5679",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Possibly ATACMS or HIMARS launches were carried out from Bahrain toward Iran.",
-   "timestamp": "2026-07-11T23:30:11+00:00",
-   "has_media": true
-  },
-  {
    "id": "fabdea54d70174360fce041b9f92056b",
    "url": "https://t.me/warmonitors/44930",
    "source": "telegram",
@@ -244,24 +235,6 @@
    "text": "⚡️\n#BREAKING\nIran says Strait of Hormuz is closed, claims it struck vessel using 'unauthorized route'\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-11T23:27:15+00:00",
    "has_media": true
-  },
-  {
-   "id": "4c0387b403b1586dafec10e8531fae16",
-   "url": "https://t.me/OSINTWarfare/5678",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Asaluyeh and Bushehr, southern Iran.",
-   "timestamp": "2026-07-11T23:22:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "482dfa60c7dfa0d20843ce4a9e17644f",
-   "url": "https://t.me/OSINTWarfare/5676",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Image showing a crater caused by an Iranian ballistic missile strike at Muwaffaq Salti Air Base in Jordan.  The exact date the photo was taken is unclear. It may date back to the Ramadan War (40-Day War).  Correction: Old image from June 2022.",
-   "timestamp": "2026-07-11T21:01:30+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
