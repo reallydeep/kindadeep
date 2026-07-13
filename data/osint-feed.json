@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-13T09:59:02Z",
- "count": 45,
+ "generated_utc": "2026-07-13T12:29:54Z",
+ "count": 43,
  "items": [
+  {
+   "id": "54d4b4ee382f8a901c41aa3f480d0098",
+   "url": "https://t.me/OSINTWarfare/5713",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian Mahan Air civilian aircraft carrying an Ansar Allah delegation landed at Hodeidah International Airport following Saudi airstrikes on Sana'a International Airport.\nSaudi Arabia doesn't seem happy about Iran breaking the blockade.",
+   "timestamp": "2026-07-13T12:08:54+00:00",
+   "has_media": true
+  },
+  {
+   "id": "3ad231095248a6f9d4652aba33eb66b5",
+   "url": "https://t.me/OSINTWarfare/5711",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of multiple Saudi airstrikes targeting Sana'a International Airport.",
+   "timestamp": "2026-07-13T11:10:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c0900eada4d3ada6f723aa29fffc8b02",
+   "url": "https://t.me/OSINTWarfare/5710",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of multiple Saudi airstrikes targeting Sana'a International Airport.",
+   "timestamp": "2026-07-13T11:03:37+00:00",
+   "has_media": false
+  },
   {
    "id": "40e4e686fac84e58930c19e46d2bf6ee",
    "url": "https://t.me/OSINTWarfare/5709",
@@ -81,51 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of U.S. airstrikes targeting the 4th Tactical Fighter Base in Dezful, western Iran.  The strikes were reportedly carried out using bunker-buster munitions, although this has not been independently confirmed.",
    "timestamp": "2026-07-12T23:38:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "129457389fb487fce73ecbddb63a31e4",
-   "url": "https://t.me/OSINTWarfare/5693",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. airstrike has been reported along the Ahvaz–Haftkel highway in Khuzestan Province, Iran.",
-   "timestamp": "2026-07-12T23:27:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d8b2b17220778ce846375f7dfdb01223",
-   "url": "https://t.me/OSINTWarfare/5692",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of U.S. airstrikes targeting the 4th Tactical Fighter Base in Dezful, western Iran.\nThe strikes were reportedly carried out using bunker-buster munitions, although this has not been independently confirmed.",
-   "timestamp": "2026-07-12T23:03:10+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d83eb50756a4c6fe5faa8539e1a0e868",
-   "url": "https://t.me/OSINTWarfare/5691",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "You can't make a deal with the devil and expect them to keep their word. Those who pushed for the MoU, Masoud Pezeshkian and others, despite the Supreme Leader's warnings, have only ended up looking foolish in the eyes of the public.  Some states simply don't…",
-   "timestamp": "2026-07-12T22:45:45+00:00",
-   "has_media": false
-  },
-  {
-   "id": "77acad57188fda23609df6a98fa0d991",
-   "url": "https://t.me/OSINTWarfare/5690",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the U.S. Army launching a salvo of ATACMS tactical ballistic missiles from M142 High Mobility Artillery Rocket Systems (HIMARS) in Kuwait toward targets in Iran.",
-   "timestamp": "2026-07-12T22:29:53+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e09744f53f1fe3d8728f9789af797a57",
-   "url": "https://t.me/OSINTWarfare/5689",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, the IRGC allegedly struck a U.S. Army M142 High Mobility Artillery Rocket System (HIMARS) at the former UN Base Camp in Abdali, Kuwait.\nThe M142 HIMARS is capable of launching guided rockets, ATACMS tactical ballistic missiles, and the Precision Strike Missile (PrSM).\nApproximate location: 30°00'03.9\"N 47°57'00.2\"E",
-   "timestamp": "2026-07-12T22:07:39+00:00",
    "has_media": true
   },
   {
