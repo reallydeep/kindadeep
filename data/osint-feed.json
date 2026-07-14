@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-14T14:13:44Z",
+ "generated_utc": "2026-07-14T15:45:52Z",
  "count": 46,
  "items": [
+  {
+   "id": "ab1023d92970a48a9186152533595505",
+   "url": "https://t.me/OSINTWarfare/5743",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran's IRGC-affiliated Fars News Agency has released high-resolution satellite imagery showing the damage caused by recent Iranian missile strikes.  The first image appears to show damage to a warehouse or hangar at Al Udeid Air Base in Qatar, contradicting…",
+   "timestamp": "2026-07-14T15:08:21+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b03a1a640d59270cb1be2d5e3362982b",
+   "url": "https://t.me/OSINTWarfare/5741",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran's IRGC-affiliated Fars News Agency has released high-resolution satellite imagery showing the damage caused by recent Iranian missile strikes.\nThe first image appears to show damage to a warehouse or hangar at Al Udeid Air Base in Qatar, contradicting the Qatari Ministry of Defense's claim that all incoming missiles were successfully intercepted.",
+   "timestamp": "2026-07-14T15:08:03+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f3a231e46d863e54067b7dee1b30740d",
+   "url": "https://t.me/OSINTWarfare/5740",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Arabia acquired $47.2 million worth of drones from Taiwanese manufacturer Young Drone Industry last month.",
+   "timestamp": "2026-07-14T14:56:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "98f2eabba74fc05df73b4b58ffc2894f",
+   "url": "https://t.me/OSINTWarfare/5739",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy and U.S. Air Force aircraft carrying out airstrikes against Iranian military targets.\nAmong the targets was an M192 HAWK launcher that appears to have been either a decoy or an abandoned system, based on its appearance and the absence of a secondary explosion. The footage also shows several other apparent decoy or abandoned missile launchers and military vehicles being struck.",
+   "timestamp": "2026-07-14T14:16:50+00:00",
+   "has_media": true
+  },
   {
    "id": "e8b229ed47c25ad0a21f0a0f67adc262",
    "url": "https://t.me/OSINTWarfare/5735",
@@ -207,42 +243,6 @@
    "channel": "OSINTWarfare",
    "text": "In response to the Saudi strike on Sana'a International Airport in Yemen, Ansar Allah launched a wave of ballistic missiles at Abha International Airport in southwestern Saudi Arabia, with confirmed impacts on the target.",
    "timestamp": "2026-07-13T19:09:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5089d8bd885d7752b27a5f72fd3e78eb",
-   "url": "https://t.me/warmonitors/44954",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nEU helps raise $1 billion from dozens of nations for recovery fund in Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-13T15:42:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c60e514c810e3607b5e41c8143d81aae",
-   "url": "https://t.me/OSINTWarfare/5721",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Central Command (CENTCOM) has released footage showing the first reported use of Corsair unmanned surface vessels (USVs) against a facility used for the maintenance of Iranian Navy submarines at Bandar Abbas Naval Base.\nThe facility was already destroyed, so either this is just a PR move, or the USVs were being tested in an operational environment.",
-   "timestamp": "2026-07-13T15:08:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fcac0d20806f0fe11271b8ded18367ab",
-   "url": "https://t.me/OSINTWarfare/5720",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of ballistic missiles targeting U.S. military bases across the Gulf region.\nThe strikes involved Ghadr (Qadr), Emad, Kheibar Shekan, and Fattah-1 medium-range ballistic missiles, alongside Qader anti-ship cruise missiles.",
-   "timestamp": "2026-07-13T13:52:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e2875bcb2d4e109a1d9084527be7657c",
-   "url": "https://t.me/OSINTWarfare/5716",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the use and aftermath of a Geran-2 or Garpiya-A1 loitering munition strike carried out by Russia's Africa Corps against an Azawad Liberation Front (FLA) position.",
-   "timestamp": "2026-07-13T13:34:14+00:00",
    "has_media": true
   },
   {
