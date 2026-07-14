@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-14T22:09:53Z",
- "count": 42,
+ "generated_utc": "2026-07-14T23:08:41Z",
+ "count": 40,
  "items": [
+  {
+   "id": "fd03ba1951298cdd5ac0dd68e683ef20",
+   "url": "https://t.me/OSINTWarfare/5747",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Kaliningrad Oblast Governor Alexey Besprozvannykh's visited the 689th Guards Fighter Aviation Regiment of the Russian Aerospace Forces (VKS), based at Chkalovsk Air Base in Kaliningrad Oblast, the regiment was re-equipped last year with new Su-35S and Su-30SM2 fighter aircraft.\nIn 2024, the 689th Aviation Regiment was transferred from the Baltic Fleet's Naval Aviation, where it had served since 1994, to the 6th Leningrad Red Banner Air and Air Defense Army. It is now reported to be part of the newly formed 149th Mixed Aviation Division of that army.\nThe regiment had already received four two-seat Su-30SM2 fighters in late 2023. However, until recently, its primary aircraft remained the aging Su-27 fighters. A number of Su-27P and Su-27UB aircraft remain in service with the regiment.\nPersonnel from the regiment are participating in Russia's “Special Military Operation.”",
+   "timestamp": "2026-07-14T22:54:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "39474e93b770fe7de24494ec57c38fca",
+   "url": "https://t.me/warmonitors/44991",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nIran reports activation of air defense systems in the area of ​​the Bushehr nuclear power plant\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-14T22:12:15+00:00",
+   "has_media": false
+  },
   {
    "id": "dd1b1a0118015283b7db8f5d00355630",
    "url": "https://t.me/warmonitors/44988",
@@ -138,15 +156,6 @@
    "has_media": true
   },
   {
-   "id": "6686cbcdf1cd3265e3c02b83bf7e67c0",
-   "url": "https://t.me/warmonitors/44971",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nAttack in the Strait of Hormuz: An oil tanker was attacked by a missile near the coast of Oman.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-14T07:57:15+00:00",
-   "has_media": true
-  },
-  {
    "id": "9154b6c62a2abd2ce863d57e90677289",
    "url": "https://t.me/OSINTWarfare/5732",
    "source": "telegram",
@@ -181,33 +190,6 @@
    "text": "Reports of Islamic Republic of Iran Air Force (IRIAF) fighter jet activity over central Tehran, Tehran Province, Iran.",
    "timestamp": "2026-07-13T19:50:37+00:00",
    "has_media": false
-  },
-  {
-   "id": "bcd29ca2b62669994e3a2c2661e594f4",
-   "url": "https://t.me/OSINTWarfare/5728",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "VHF Radio Channel 16:\n“Attention all vessels in Strait of Hormuz and Oman Sea. This is the IRGC Navy; I repeat, this is the IRGC Navy.\nIn order to ensure your safety and the safety of your crew, please avoid approaching the Strait of Hormuz. If you approach, you will be targeted. Change your course immediately, or you will face the consequences.”",
-   "timestamp": "2026-07-13T19:34:49+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8eaf3793240c73b5d476710877df44a1",
-   "url": "https://t.me/OSINTWarfare/5727",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several U.S. airstrikes targeted Chabahar, Ahvaz, Konarak, and Bandar Abbas.  Iranian anti-ship cruise missiles were also launched from Qeshm Island. The fact that Iran has retained launch capabilities on the island despite months of strikes and repeated claims…",
-   "timestamp": "2026-07-13T19:26:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c3d8aec45f4e68b755c009886b344386",
-   "url": "https://t.me/OSINTWarfare/5725",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several U.S. airstrikes targeted Chabahar, Ahvaz, Konarak, and Bandar Abbas.\nIranian anti-ship cruise missiles were also launched from Qeshm Island. The fact that Iran has retained launch capabilities on the island despite months of strikes and repeated claims that its launch platforms had been eliminated is noteworthy.",
-   "timestamp": "2026-07-13T19:18:35+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
