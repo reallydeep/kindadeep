@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-15T03:23:23Z",
- "count": 42,
+ "generated_utc": "2026-07-15T05:44:14Z",
+ "count": 43,
  "items": [
+  {
+   "id": "d3c9e66e7cfa9d95677c27e14a3d656d",
+   "url": "https://t.me/OSINTWarfare/5766",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Jordanian Armed Forces announced the interception of three ballistic missiles launched from Iran. More than three missiles were launched.",
+   "timestamp": "2026-07-15T03:26:00+00:00",
+   "has_media": false
+  },
   {
    "id": "368c9a58fb230887532c15875e2b7644",
    "url": "https://t.me/OSINTWarfare/5763",
