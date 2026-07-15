@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-15T21:35:07Z",
- "count": 46,
+ "generated_utc": "2026-07-15T22:33:20Z",
+ "count": 47,
  "items": [
+  {
+   "id": "bc8ee980becd1e6688806ba5e6f30315",
+   "url": "https://t.me/OSINTWarfare/5773",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian drone struck a target in Kuwait near the Iraqi border. No details on the nature of the target are available at this time.",
+   "timestamp": "2026-07-15T22:31:50+00:00",
+   "has_media": true
+  },
   {
    "id": "b9f148331759605b214c6a744cdadb8a",
    "url": "https://t.me/OSINTWarfare/5772",
