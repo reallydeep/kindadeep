@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-15T22:33:20Z",
- "count": 47,
+ "generated_utc": "2026-07-15T23:34:04Z",
+ "count": 46,
  "items": [
   {
    "id": "bc8ee980becd1e6688806ba5e6f30315",
@@ -216,15 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage captures ballistic missile launches by the IRGC Aerospace Force from Tabriz, western Iran.",
    "timestamp": "2026-07-14T23:32:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "91c06418ff701fcadf4e6459e8e9eb40",
-   "url": "https://t.me/OSINTWarfare/5752",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage of the third wave of Operation ‘Nasr-2’ (Victory-2), showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Zolfaghar, and Fath-360L, alongside Qader anti-ship cruise missile (ASCM), and Shahed-136, Shahed-107, and Hadid-110 loitering munitions, targeting U.S. military bases across the Gulf region.",
-   "timestamp": "2026-07-14T23:27:34+00:00",
    "has_media": false
   },
   {
