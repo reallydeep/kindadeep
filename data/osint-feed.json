@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-07-14T23:08:41Z",
- "count": 40,
+ "generated_utc": "2026-07-15T00:02:01Z",
+ "count": 39,
  "items": [
+  {
+   "id": "d79437c62ef45ee3c0af35a323c59a9c",
+   "url": "https://t.me/OSINTWarfare/5755",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports of explosions heard in Kuwait.",
+   "timestamp": "2026-07-14T23:49:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cc5f07a9c4fab1c3acb291bfa6767d6f",
+   "url": "https://t.me/OSINTWarfare/5754",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage captures ballistic missile launches by the IRGC Aerospace Force from Tabriz, western Iran.",
+   "timestamp": "2026-07-14T23:32:05+00:00",
+   "has_media": false
+  },
+  {
+   "id": "91c06418ff701fcadf4e6459e8e9eb40",
+   "url": "https://t.me/OSINTWarfare/5752",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage of the third wave of Operation ‘Nasr-2’ (Victory-2), showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Zolfaghar, and Fath-360L, alongside Qader anti-ship cruise missile (ASCM), and Shahed-136, Shahed-107, and Hadid-110 loitering munitions, targeting U.S. military bases across the Gulf region.",
+   "timestamp": "2026-07-14T23:27:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5d6e2e6b6663ab3cd2c68037cb2ba688",
+   "url": "https://t.me/warmonitors/44992",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nOdds on Iran conducting military action against a Gulf state on July 17 is about 70%.\nDo you think the ongoing back and forth will persist until then?\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-14T23:27:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d94a2112af0446ae4591a0a3095c3de9",
+   "url": "https://t.me/OSINTWarfare/5750",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage captures ballistic missile launches by the IRGC Aerospace Force from Tabriz, western Iran.",
+   "timestamp": "2026-07-14T23:10:38+00:00",
+   "has_media": true
+  },
   {
    "id": "fd03ba1951298cdd5ac0dd68e683ef20",
    "url": "https://t.me/OSINTWarfare/5747",
@@ -129,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "5219400f6bd2f6537d1efadb86874af1",
-   "url": "https://t.me/OSINTWarfare/5733",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from approximately two hours ago showing U.S. airstrikes on Bushehr, southern Iran.",
-   "timestamp": "2026-07-14T12:29:55+00:00",
-   "has_media": true
-  },
-  {
    "id": "8b43ac478f90285921497b9f08b773da",
    "url": "https://t.me/warmonitors/44973",
    "source": "telegram",
@@ -145,51 +181,6 @@
    "text": "⚡️\nUp to 20 American tankers present at Ben Gurion Airport, Israel.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-14T10:57:15+00:00",
    "has_media": true
-  },
-  {
-   "id": "ce7bf439b12b4a9ea0bf6adb4a3af9be",
-   "url": "https://t.me/warmonitors/44972",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nDutch shipper Stolt Tankers says one of its ships was attacked off Oman in the Arabian Sea as Iran targeted vessels\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-14T10:22:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9154b6c62a2abd2ce863d57e90677289",
-   "url": "https://t.me/OSINTWarfare/5732",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The UAE Ministry of Defense has announced that the Emirati oil tankers Mombasa and Al Bahia were struck by Iranian anti-ship cruise missiles near Omani territorial waters.\nAn Indian crewmember aboard Mombasa was killed, while eight others were injured. Both tankers sustained damage and caught fire, but the fires were later brought under control.",
-   "timestamp": "2026-07-13T22:40:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3e855f96adce843d035a7b9c78584193",
-   "url": "https://t.me/OSINTWarfare/5731",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC has shot down a U.S. MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.",
-   "timestamp": "2026-07-13T20:21:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4bc7bc9b1623ca356deeb719b2247aa1",
-   "url": "https://t.me/OSINTWarfare/5730",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier tonight, the U.S. targeted the Islamic Republic of Iran Air Force (IRIAF) 10th Tactical Air Base, also known as Shahidan Baradarane Delkhosh Tactical Air Base, in Konarak County, Sistan and Baluchestan Province, southern Iran.",
-   "timestamp": "2026-07-13T20:16:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5e9fdda5ce3f048d60b95071cfe30cd6",
-   "url": "https://t.me/OSINTWarfare/5729",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of Islamic Republic of Iran Air Force (IRIAF) fighter jet activity over central Tehran, Tehran Province, Iran.",
-   "timestamp": "2026-07-13T19:50:37+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
