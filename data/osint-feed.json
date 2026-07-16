@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-16T22:28:46Z",
+ "generated_utc": "2026-07-16T23:24:08Z",
  "count": 48,
  "items": [
+  {
+   "id": "398ee4c377cebfd27f2afc24e7399bec",
+   "url": "https://t.me/OSINTWarfare/5797",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Several explosions were reported across Bandar Lengeh in Hormozgan Province.\nMeanwhile, U.S. missile strikes are targeting air and naval bases in Bushehr, southern Iran.",
+   "timestamp": "2026-07-16T22:41:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "444790f1bacb579739cb1f8bd16816b6",
+   "url": "https://t.me/OSINTWarfare/5796",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Iranian drones striking target(s) in Kuwait near the Iraqi border.  Claims circulating online suggest the target were either a radar installation or a HIMARS launcher, though there is currently no way to independently verify those reports.",
+   "timestamp": "2026-07-16T22:30:58+00:00",
+   "has_media": false
+  },
   {
    "id": "6a831cb4550c55db74370bba43b7a713",
    "url": "https://t.me/OSINTWarfare/5795",
@@ -162,24 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "A recent video from the area around Bandar Abbas, Iran, shows a UAE-made Yabhon family one-way attack drone being engaged by Iranian forces with small arms fire.\nThe UAE used large numbers of these loitering munitions in strikes against Iran during March and April.",
    "timestamp": "2026-07-16T15:00:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7dd90c8205dbfb681081ae8b4abdfcb7",
-   "url": "https://t.me/OSINTWarfare/5777",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the city of Andimeshk, Khuzestan Province.",
-   "timestamp": "2026-07-16T01:04:30+00:00",
-   "has_media": false
-  },
-  {
-   "id": "56d2c669c67d4b2a0270fe3a58dcadd1",
-   "url": "https://t.me/OSINTWarfare/5775",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a Bahraini MIM-104 Patriot air defense system engaging Iranian drones. As seen in the first clip, one of the drones was successfully intercepted.",
-   "timestamp": "2026-07-15T23:59:28+00:00",
    "has_media": true
   },
   {
