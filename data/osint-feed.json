@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-16T01:01:49Z",
+ "generated_utc": "2026-07-16T04:17:19Z",
  "count": 45,
  "items": [
+  {
+   "id": "7dd90c8205dbfb681081ae8b4abdfcb7",
+   "url": "https://t.me/OSINTWarfare/5777",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the city of Andimeshk, Khuzestan Province.",
+   "timestamp": "2026-07-16T01:04:30+00:00",
+   "has_media": false
+  },
   {
    "id": "56d2c669c67d4b2a0270fe3a58dcadd1",
    "url": "https://t.me/OSINTWarfare/5775",
@@ -198,15 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "Military checkpoints have been established on roads leading to Khatam al-Anbiya Hospital in Iranshahr as the dead and wounded from the attack on the Iranian Army's 388th Mechanised Assault Brigade are being transported there.\nAccording to reports, dozens of people were killed in the U.S. strike, with casualties said to be extensive.\nAt the time of the attack, the soldiers were inside their barracks, and the strike directly hit the area where they were housed.",
    "timestamp": "2026-07-15T00:24:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b0eee32bf4622c6d694d9cb05307a2de",
-   "url": "https://t.me/OSINTWarfare/5756",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows an Iranian Shahed-136 loitering munition striking Kuwait's Mina Abdullah Port.\nA fire caused by an earlier drone strike can also be seen burning in the background.",
-   "timestamp": "2026-07-15T00:13:04+00:00",
    "has_media": true
   },
   {
