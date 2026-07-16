@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-15T23:34:04Z",
- "count": 46,
+ "generated_utc": "2026-07-16T01:01:49Z",
+ "count": 45,
  "items": [
+  {
+   "id": "56d2c669c67d4b2a0270fe3a58dcadd1",
+   "url": "https://t.me/OSINTWarfare/5775",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Bahraini MIM-104 Patriot air defense system engaging Iranian drones. As seen in the first clip, one of the drones was successfully intercepted.",
+   "timestamp": "2026-07-15T23:59:28+00:00",
+   "has_media": true
+  },
   {
    "id": "bc8ee980becd1e6688806ba5e6f30315",
    "url": "https://t.me/OSINTWarfare/5773",
@@ -199,24 +208,6 @@
    "text": "Footage shows an Iranian Shahed-136 loitering munition striking Kuwait's Mina Abdullah Port.\nA fire caused by an earlier drone strike can also be seen burning in the background.",
    "timestamp": "2026-07-15T00:13:04+00:00",
    "has_media": true
-  },
-  {
-   "id": "d79437c62ef45ee3c0af35a323c59a9c",
-   "url": "https://t.me/OSINTWarfare/5755",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed reports of explosions heard in Kuwait.",
-   "timestamp": "2026-07-14T23:49:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cc5f07a9c4fab1c3acb291bfa6767d6f",
-   "url": "https://t.me/OSINTWarfare/5754",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage captures ballistic missile launches by the IRGC Aerospace Force from Tabriz, western Iran.",
-   "timestamp": "2026-07-14T23:32:05+00:00",
-   "has_media": false
   },
   {
    "id": "5d6e2e6b6663ab3cd2c68037cb2ba688",
