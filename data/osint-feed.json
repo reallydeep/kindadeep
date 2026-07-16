@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-07-16T21:29:21Z",
+ "generated_utc": "2026-07-16T22:28:46Z",
  "count": 48,
  "items": [
+  {
+   "id": "6a831cb4550c55db74370bba43b7a713",
+   "url": "https://t.me/OSINTWarfare/5795",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇰🇼\n🇺🇸\n— Reports of explosions in Kuwait. Iran appears to be focusing its attacks on Kuwait tonight following repeated launches of ATACMS tactical ballistic missiles from the country.\n@IntelSlava",
+   "timestamp": "2026-07-16T22:13:56+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9ac892fc9ddf968ba1cf6d9778a0e41c",
+   "url": "https://t.me/OSINTWarfare/5794",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of multiple cruise missile launches from Sirik, Hormozgan Province, southern Iran. It remains unclear whether they were fired at U.S. Navy vessels, commercial shipping, or targets elsewhere in the region.",
+   "timestamp": "2026-07-16T22:00:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a969f7c5da2cb035a9bf75d554056cfc",
+   "url": "https://t.me/OSINTWarfare/5792",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Intense U.S. airstrikes on the port city of Bushehr, southern Iran.\n@IntelSlava",
+   "timestamp": "2026-07-16T21:57:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ed123831fac8cffec762b69807ffccfc",
+   "url": "https://t.me/OSINTWarfare/5790",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Fires have broken out following an intense wave of Iranian drone strikes that apparently targeted a U.S. installation in Kuwait.",
+   "timestamp": "2026-07-16T21:47:13+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0ff3d97a80e1316e0f1d1a8bf871162c",
+   "url": "https://t.me/OSINTWarfare/5788",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Iranian drones striking target(s) in Kuwait near the Iraqi border.\nClaims circulating online suggest the target were either a radar installation or a HIMARS launcher, though there is currently no way to independently verify those reports.",
+   "timestamp": "2026-07-16T21:34:48+00:00",
+   "has_media": true
+  },
   {
    "id": "465385a4cd2851abfc5dc83e3aaa007e",
    "url": "https://t.me/warmonitors/45009",
@@ -138,33 +183,6 @@
    "has_media": true
   },
   {
-   "id": "bc8ee980becd1e6688806ba5e6f30315",
-   "url": "https://t.me/OSINTWarfare/5773",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Iranian drone struck a target in Kuwait near the Iraqi border. No details on the nature of the target are available at this time.",
-   "timestamp": "2026-07-15T22:31:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b9f148331759605b214c6a744cdadb8a",
-   "url": "https://t.me/OSINTWarfare/5772",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ahvaz Children's Hospital was struck by a U.S. missile. The hospital is being evacuated.\nEdit: It fell near the hospital.",
-   "timestamp": "2026-07-15T20:37:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0de62265d3836b7b0a2d37f8dcfb7483",
-   "url": "https://t.me/OSINTWarfare/5770",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ahvaz is under attack by U.S. Army ATACMS tactical ballistic missiles launched from M142 HIMARS systems in Kuwait.",
-   "timestamp": "2026-07-15T20:09:47+00:00",
-   "has_media": true
-  },
-  {
    "id": "bd6e04ca7fd3c00583bbedb006bd09aa",
    "url": "https://t.me/warmonitors/45002",
    "source": "telegram",
@@ -189,24 +207,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nA series of explosions targeted opposition headquarters in the Erbil province of northern Iraq.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-15T18:07:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c70cffb21f7f5c48166392adab15dc36",
-   "url": "https://t.me/OSINTWarfare/5769",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Fattah-1, and Zolfaghar/Fateh-110, targeting U.S. military bases across the Gulf region.",
-   "timestamp": "2026-07-15T16:23:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "04d759ad752d9ec496531ee779120fd6",
-   "url": "https://t.me/OSINTWarfare/5768",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "— Dear subscribers, join our affiliates folder: WAR FILES\nWAR FILES is a curated collective of independent news channels and conflict monitors — united by one mission: accurate, fast, and uncompromising coverage of global conflicts and geopolitical developments.\nWe don’t chase headlines — we document, verify, and expose.\nEvery channel in this folder shares a commitment to truth over trend, facts over propaganda, and depth over noise.\nOur network spans multiple regions and perspectives — military analysts, field observers, journalists, and open-source researchers — giving you a 360° understanding of events as they unfold.\nDiversity of thought is encouraged; misinformation is not tolerated.\nExpect real-time updates, field reports, verified intelligence, and analytical breakdowns of ongoing wars, defense movements, and regional flashpoints.\nIf you seek clarity amid chaos — if you want coverage that cuts through bias and distortion — then WAR FILES is for you.\nJoin\nWAR FILES\n👈",
-   "timestamp": "2026-07-15T16:01:39+00:00",
    "has_media": true
   },
   {
