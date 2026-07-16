@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-16T18:06:18Z",
+ "generated_utc": "2026-07-16T19:27:00Z",
  "count": 46,
  "items": [
+  {
+   "id": "d3a045eeb8c6f54e21c5aaa47246af6d",
+   "url": "https://t.me/OSINTWarfare/5780",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy F/A-18E Super Hornets from Strike Fighter Squadron 151 (VFA-151) launching from the USS Abraham Lincoln (CVN-72), an Arleigh Burke-class guided-missile destroyer firing BGM-109E Tomahawk land-attack cruise missiles (LACMs), and U.S. Air Force aircraft striking Iranian military targets.\nAmong the targets were an Iranian Majid (AD-08) short-range air defense (SHORAD) system, disassembled and partially destroyed Mohajer-6 unmanned combat aerial vehicles (UCAVs), a communications tower, and a Kaman-99 one-way attack drone.\nThe Kaman-99 is one of the Iranian Army's newest loitering munitions, first unveiled in January 2025. If the identification is correct, this would be the first known evidence of the Kaman-99 being used in combat by Iran.",
+   "timestamp": "2026-07-16T19:10:43+00:00",
+   "has_media": false
+  },
   {
    "id": "e6c1adc9cd5890f1a20dbe2fa24b3d33",
    "url": "https://t.me/warmonitors/45005",
@@ -207,15 +216,6 @@
    "channel": "OSINTWarfare",
    "text": "Military checkpoints have been established on roads leading to Khatam al-Anbiya Hospital in Iranshahr as the dead and wounded from the attack on the Iranian Army's 388th Mechanised Assault Brigade are being transported there.  According to reports, dozens…",
    "timestamp": "2026-07-15T01:15:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "988f6710dafb8a180068eb27bbc9486d",
-   "url": "https://t.me/OSINTWarfare/5759",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows an Iranian ballistic missile striking Naval Support Activity (NSA) Bahrain.",
-   "timestamp": "2026-07-15T00:51:48+00:00",
    "has_media": true
   },
   {
