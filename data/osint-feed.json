@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-17T19:47:32Z",
- "count": 45,
+ "generated_utc": "2026-07-17T20:36:09Z",
+ "count": 44,
  "items": [
+  {
+   "id": "2f6216f010abf54b74f29c6b81e5a4a3",
+   "url": "https://t.me/warmonitors/45027",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nUS military says it's launched strikes on Iran for a seventh night in a row as fighting escalates over Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-17T20:22:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5318c109d03be13f0d8b1a0de9cdf509",
+   "url": "https://t.me/OSINTWarfare/5807",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Haj Qassem, and Zolfaghar, as well as Shahed-136 loitering munitions, targeting U.S. military bases across…",
+   "timestamp": "2026-07-17T19:53:08+00:00",
+   "has_media": true
+  },
   {
    "id": "559410bf3926f0e83c58562871ce0584",
    "url": "https://t.me/warmonitors/45025",
@@ -192,15 +210,6 @@
    "has_media": true
   },
   {
-   "id": "0ff3d97a80e1316e0f1d1a8bf871162c",
-   "url": "https://t.me/OSINTWarfare/5788",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Iranian drones striking target(s) in Kuwait near the Iraqi border.\nClaims circulating online suggest the target were either a radar installation or a HIMARS launcher, though there is currently no way to independently verify those reports.",
-   "timestamp": "2026-07-16T21:34:48+00:00",
-   "has_media": true
-  },
-  {
    "id": "465385a4cd2851abfc5dc83e3aaa007e",
    "url": "https://t.me/warmonitors/45009",
    "source": "telegram",
@@ -217,24 +226,6 @@
    "text": "⚡️\n#LATEST\nU.S bombs Iranian bridge\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-16T21:17:15+00:00",
    "has_media": true
-  },
-  {
-   "id": "778cdf9b3c11448a2860414cf4bc6003",
-   "url": "https://t.me/OSINTWarfare/5787",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. missiles/bombs struck a bridge in Kahurstan, southern Iran, moments ago.",
-   "timestamp": "2026-07-16T21:12:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a6e52e3da60c569920d014836577d342",
-   "url": "https://t.me/warmonitors/45007",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nIranian Fars News Agency: A bridge in the city of Bandar Hamir was attacked in the American attack.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-16T21:07:16+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
