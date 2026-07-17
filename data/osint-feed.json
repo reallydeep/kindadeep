@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-17T11:41:04Z",
+ "generated_utc": "2026-07-17T12:48:29Z",
  "count": 48,
  "items": [
+  {
+   "id": "d5e1f6ee96e0e966cef04f58fe0e8c42",
+   "url": "https://t.me/OSINTWarfare/5803",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian fishermen recovered an intercepted U.S. FLM-136 LUCAS loitering munition from the waters of the Strait of Hormuz.",
+   "timestamp": "2026-07-17T11:46:24+00:00",
+   "has_media": false
+  },
   {
    "id": "00b74df86db2abdaf26fb6caa40cca03",
    "url": "https://t.me/OSINTWarfare/5802",
@@ -198,15 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "U.S. missiles/bombs struck a bridge in Kahurstan, southern Iran, moments ago.",
    "timestamp": "2026-07-16T20:08:06+00:00",
-   "has_media": true
-  },
-  {
-   "id": "22913f3476800f0cca23f1ac4f667e22",
-   "url": "https://t.me/OSINTWarfare/5782",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. airstrike struck a telecommunications tower in Bandar Abbas, southern Iran.",
-   "timestamp": "2026-07-16T19:43:40+00:00",
    "has_media": true
   },
   {
