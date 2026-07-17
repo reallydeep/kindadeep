@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-17T10:14:43Z",
- "count": 47,
+ "generated_utc": "2026-07-17T11:41:04Z",
+ "count": 48,
  "items": [
+  {
+   "id": "00b74df86db2abdaf26fb6caa40cca03",
+   "url": "https://t.me/OSINTWarfare/5802",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Haj Qassem, and Zolfaghar, as well as Shahed-136 loitering munitions, targeting U.S. military bases across the Gulf region.\nThe IRGC used an unprecedented number of Haj Qassem ballistic missiles.",
+   "timestamp": "2026-07-17T11:20:15+00:00",
+   "has_media": false
+  },
   {
    "id": "5aa490ab3d0302aa58a37619867649bf",
    "url": "https://t.me/warmonitors/45015",
