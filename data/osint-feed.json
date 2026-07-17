@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-17T21:26:28Z",
+ "generated_utc": "2026-07-17T22:11:12Z",
  "count": 40,
  "items": [
+  {
+   "id": "04d7fb3ea8bcfcca6c45bd357decb007",
+   "url": "https://t.me/OSINTWarfare/5818",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, the U.S. also carried out airstrikes on the city of Yazd in central Iran's Yazd Province.",
+   "timestamp": "2026-07-17T21:28:41+00:00",
+   "has_media": true
+  },
   {
    "id": "0ed46aa1667a27eaf9be1e256b6c4e58",
    "url": "https://t.me/OSINTWarfare/5817",
@@ -162,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows a salvo of four ballistic missiles launched by the IRGC toward one of the U.S. bases in the region.",
    "timestamp": "2026-07-16T23:58:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "342903b0fce85e550f1ff0e4f5a7ed43",
-   "url": "https://t.me/OSINTWarfare/5798",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Bahrain is launching dozens of Patriot interceptors in an attempt to counter an Iranian ballistic missile attack.",
-   "timestamp": "2026-07-16T23:46:12+00:00",
    "has_media": true
   },
   {
