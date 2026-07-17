@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-17T20:36:09Z",
- "count": 44,
+ "generated_utc": "2026-07-17T21:26:28Z",
+ "count": 40,
  "items": [
+  {
+   "id": "0ed46aa1667a27eaf9be1e256b6c4e58",
+   "url": "https://t.me/OSINTWarfare/5817",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Footage shows U.S. airstrikes near the road connecting Gresh and Lar in Iran's Fars Province.\n@IntelSlava",
+   "timestamp": "2026-07-17T21:25:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8cc90f6eca1facf1077522dff883a04b",
+   "url": "https://t.me/OSINTWarfare/5810",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, Iran carried out strikes on Kurdish militant bases and ammunition depots in Sulaymaniyah, Iraqi Kurdistan, using Shahed-136 and Arash-2 loitering munitions.\nOf course. Iran knows that Iraqi Kurdistan could be used as a staging ground by Iranian Kurdish militant groups, so since the war began it has been trying to suppress them.\nI also previously reported on the mobilization of Iranian Special Forces in western Iran, likely as a precaution against any cross-border activity or escalation.",
+   "timestamp": "2026-07-17T20:48:04+00:00",
+   "has_media": true
+  },
   {
    "id": "2f6216f010abf54b74f29c6b81e5a4a3",
    "url": "https://t.me/warmonitors/45027",
@@ -153,60 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "Bahrain is launching dozens of Patriot interceptors in an attempt to counter an Iranian ballistic missile attack.",
    "timestamp": "2026-07-16T23:46:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "398ee4c377cebfd27f2afc24e7399bec",
-   "url": "https://t.me/OSINTWarfare/5797",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several explosions were reported across Bandar Lengeh in Hormozgan Province.\nMeanwhile, U.S. missile strikes are targeting air and naval bases in Bushehr, southern Iran.",
-   "timestamp": "2026-07-16T22:41:40+00:00",
-   "has_media": false
-  },
-  {
-   "id": "444790f1bacb579739cb1f8bd16816b6",
-   "url": "https://t.me/OSINTWarfare/5796",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Iranian drones striking target(s) in Kuwait near the Iraqi border.  Claims circulating online suggest the target were either a radar installation or a HIMARS launcher, though there is currently no way to independently verify those reports.",
-   "timestamp": "2026-07-16T22:30:58+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6a831cb4550c55db74370bba43b7a713",
-   "url": "https://t.me/OSINTWarfare/5795",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇰🇼\n🇺🇸\n— Reports of explosions in Kuwait. Iran appears to be focusing its attacks on Kuwait tonight following repeated launches of ATACMS tactical ballistic missiles from the country.\n@IntelSlava",
-   "timestamp": "2026-07-16T22:13:56+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9ac892fc9ddf968ba1cf6d9778a0e41c",
-   "url": "https://t.me/OSINTWarfare/5794",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of multiple cruise missile launches from Sirik, Hormozgan Province, southern Iran. It remains unclear whether they were fired at U.S. Navy vessels, commercial shipping, or targets elsewhere in the region.",
-   "timestamp": "2026-07-16T22:00:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a969f7c5da2cb035a9bf75d554056cfc",
-   "url": "https://t.me/OSINTWarfare/5792",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n❌\n🇮🇷\n— Intense U.S. airstrikes on the port city of Bushehr, southern Iran.\n@IntelSlava",
-   "timestamp": "2026-07-16T21:57:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ed123831fac8cffec762b69807ffccfc",
-   "url": "https://t.me/OSINTWarfare/5790",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Fires have broken out following an intense wave of Iranian drone strikes that apparently targeted a U.S. installation in Kuwait.",
-   "timestamp": "2026-07-16T21:47:13+00:00",
    "has_media": true
   },
   {
