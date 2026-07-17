@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-16T23:24:08Z",
+ "generated_utc": "2026-07-17T00:56:53Z",
  "count": 48,
  "items": [
+  {
+   "id": "154f79f18480fe26b13cbacc88b8e91a",
+   "url": "https://t.me/OSINTWarfare/5800",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇺🇸\n🇶🇦\n— Footage shows an Iranian ballistic missile being intercepted by a Patriot interceptor over Doha, Qatar. There are also reports of impacts at Al Udeid Air Base.\n@IntelSlava",
+   "timestamp": "2026-07-17T00:48:28+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a80601bc4ca886e42bb7c28c7f7f1c61",
+   "url": "https://t.me/OSINTWarfare/5799",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a salvo of four ballistic missiles launched by the IRGC toward one of the U.S. bases in the region.",
+   "timestamp": "2026-07-16T23:58:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "342903b0fce85e550f1ff0e4f5a7ed43",
+   "url": "https://t.me/OSINTWarfare/5798",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Bahrain is launching dozens of Patriot interceptors in an attempt to counter an Iranian ballistic missile attack.",
+   "timestamp": "2026-07-16T23:46:12+00:00",
+   "has_media": true
+  },
   {
    "id": "398ee4c377cebfd27f2afc24e7399bec",
    "url": "https://t.me/OSINTWarfare/5797",
@@ -147,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "d3a045eeb8c6f54e21c5aaa47246af6d",
-   "url": "https://t.me/OSINTWarfare/5780",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy F/A-18E Super Hornets from Strike Fighter Squadron 151 (VFA-151) launching from the USS Abraham Lincoln (CVN-72), an Arleigh Burke-class guided-missile destroyer firing BGM-109E Tomahawk land-attack cruise missiles (LACMs), and U.S. Air Force aircraft striking Iranian military targets.\nAmong the targets were an Iranian Majid (AD-08) short-range air defense (SHORAD) system, disassembled and partially destroyed Mohajer-6 unmanned combat aerial vehicles (UCAVs), a communications tower, and a Kaman-99 one-way attack drone.\nThe Kaman-99 is one of the Iranian Army's newest loitering munitions, first unveiled in January 2025. If the identification is correct, this would be the first known evidence of the Kaman-99 being used in combat by Iran.",
-   "timestamp": "2026-07-16T19:10:43+00:00",
-   "has_media": false
-  },
-  {
    "id": "e6c1adc9cd5890f1a20dbe2fa24b3d33",
    "url": "https://t.me/warmonitors/45005",
    "source": "telegram",
@@ -163,24 +181,6 @@
    "text": "⚡\nDubai government denies Reuters report of explosions in Dubai\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-16T16:57:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "68612f3228ac9c1ca93d14a2201bc47a",
-   "url": "https://t.me/OSINTWarfare/5779",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short-, medium-, and intermediate-range ballistic missiles, including the Fateh-110, Zolfaghar, Kheibar Shekan, and Sejjil-2, targeting U.S. military bases across the Gulf region.",
-   "timestamp": "2026-07-16T15:17:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6f459557e132aad3aa39f4f66364b36c",
-   "url": "https://t.me/OSINTWarfare/5778",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A recent video from the area around Bandar Abbas, Iran, shows a UAE-made Yabhon family one-way attack drone being engaged by Iranian forces with small arms fire.\nThe UAE used large numbers of these loitering munitions in strikes against Iran during March and April.",
-   "timestamp": "2026-07-16T15:00:13+00:00",
-   "has_media": true
   },
   {
    "id": "bd6e04ca7fd3c00583bbedb006bd09aa",
