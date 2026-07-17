@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-17T22:11:12Z",
+ "generated_utc": "2026-07-17T23:08:23Z",
  "count": 40,
  "items": [
+  {
+   "id": "e9a26bcdce46f26aff595ab323f20f16",
+   "url": "https://t.me/OSINTWarfare/5819",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ballistic missile launches from Tabriz and Khorramabad toward Jordan.",
+   "timestamp": "2026-07-17T22:48:31+00:00",
+   "has_media": true
+  },
   {
    "id": "04d7fb3ea8bcfcca6c45bd357decb007",
    "url": "https://t.me/OSINTWarfare/5818",
@@ -162,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "🇮🇷\n❌\n🇺🇸\n🇶🇦\n— Footage shows an Iranian ballistic missile being intercepted by a Patriot interceptor over Doha, Qatar. There are also reports of impacts at Al Udeid Air Base.\n@IntelSlava",
    "timestamp": "2026-07-17T00:48:28+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a80601bc4ca886e42bb7c28c7f7f1c61",
-   "url": "https://t.me/OSINTWarfare/5799",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a salvo of four ballistic missiles launched by the IRGC toward one of the U.S. bases in the region.",
-   "timestamp": "2026-07-16T23:58:36+00:00",
    "has_media": true
   },
   {
