@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-17T23:08:23Z",
- "count": 40,
+ "generated_utc": "2026-07-18T00:04:09Z",
+ "count": 39,
  "items": [
+  {
+   "id": "d7c821292250d187cc0db5a0d58db7af",
+   "url": "https://t.me/OSINTWarfare/5822",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows at least two Iranian ballistic missile impacts at Muwaffaq Salti Air Base in Jordan. Several MIM-104 Patriot interceptors can be seen being launched, but at least two Iranian missiles still penetrated the air defenses and struck the base.\nDespite launching relatively small waves of ballistic missiles, Iran's strike success rate appears to have increased steadily over the past several days.",
+   "timestamp": "2026-07-17T23:47:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2cda69d474d6f49846560a85bba82aa7",
+   "url": "https://t.me/OSINTWarfare/5820",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ballistic missile launches from Tabriz and Khorramabad toward Jordan.",
+   "timestamp": "2026-07-17T23:13:04+00:00",
+   "has_media": true
+  },
   {
    "id": "e9a26bcdce46f26aff595ab323f20f16",
    "url": "https://t.me/OSINTWarfare/5819",
@@ -120,15 +138,6 @@
    "has_media": false
   },
   {
-   "id": "00b74df86db2abdaf26fb6caa40cca03",
-   "url": "https://t.me/OSINTWarfare/5802",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Haj Qassem, and Zolfaghar, as well as Shahed-136 loitering munitions, targeting U.S. military bases across the Gulf region.\nThe IRGC used an unprecedented number of Haj Qassem ballistic missiles.",
-   "timestamp": "2026-07-17T11:20:15+00:00",
-   "has_media": false
-  },
-  {
    "id": "5aa490ab3d0302aa58a37619867649bf",
    "url": "https://t.me/warmonitors/45015",
    "source": "telegram",
@@ -147,15 +156,6 @@
    "has_media": true
   },
   {
-   "id": "6a5cd8e77f0d03fd9b34c6fb9852fbce",
-   "url": "https://t.me/OSINTWarfare/5801",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "New satellite imagery shows that three warehouses at Sheikh Zayed Military City in Abu Dhabi, UAE, were destroyed in Iranian ballistic missile strikes on July 13.\nEach warehouse appears to have been struck by a direct hit, with one missile impacting each building, indicating a very high degree of accuracy.\n📍\n24°29'44.9\"N 54°58'57.1\"E",
-   "timestamp": "2026-07-17T08:24:51+00:00",
-   "has_media": true
-  },
-  {
    "id": "da65ec299b2793abcb87596ad7750d3d",
    "url": "https://t.me/warmonitors/45011",
    "source": "telegram",
@@ -163,15 +163,6 @@
    "text": "⚡️\nUS ends its latest round of airstrikes on Iran, the sixth night in a row, as fighting over Strait of Hormuz intensifies\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-17T02:32:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "154f79f18480fe26b13cbacc88b8e91a",
-   "url": "https://t.me/OSINTWarfare/5800",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇺🇸\n🇶🇦\n— Footage shows an Iranian ballistic missile being intercepted by a Patriot interceptor over Doha, Qatar. There are also reports of impacts at Al Udeid Air Base.\n@IntelSlava",
-   "timestamp": "2026-07-17T00:48:28+00:00",
-   "has_media": true
   },
   {
    "id": "465385a4cd2851abfc5dc83e3aaa007e",
