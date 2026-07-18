@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-18T16:30:22Z",
- "count": 44,
+ "generated_utc": "2026-07-18T17:35:18Z",
+ "count": 46,
  "items": [
+  {
+   "id": "16203c7e5a8a61cb922479ec9b697769",
+   "url": "https://t.me/OSINTWarfare/5834",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) announced that two U.S. service members were killed in action on Friday in Jordan while U.S. and partner forces defended against Iranian ballistic missile and drone attacks.\nOne additional U.S. service member remains missing.\nFour U.S. personnel were medically evacuated to hospitals in Jordan and have since been released. Others who sustained minor injuries were treated and have already returned to duty.",
+   "timestamp": "2026-07-18T17:32:44+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3f80fe213b4a07294eebcd00a0e1357f",
+   "url": "https://t.me/OSINTWarfare/5833",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports claim that two Kuwaiti Air Force Eurofighter Typhoon Multirole Fighters were destroyed in an Iranian ballistic missile strike targeting Ali Al Salem Air Base.",
+   "timestamp": "2026-07-18T16:39:44+00:00",
+   "has_media": true
+  },
   {
    "id": "b6ceb3d119e23ce70c5e75a5cb1ccab6",
    "url": "https://t.me/OSINTWarfare/5832",
