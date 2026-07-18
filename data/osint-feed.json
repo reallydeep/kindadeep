@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-18T18:31:33Z",
- "count": 44,
+ "generated_utc": "2026-07-18T19:45:21Z",
+ "count": 45,
  "items": [
+  {
+   "id": "a69572f23d06ae24f809eaa631571e0a",
+   "url": "https://t.me/OSINTWarfare/5841",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Objective control footage shows an Iskander-M tactical ballistic missile strike targeting a USPU-360 mobile launcher and a TZM-360 transport-loader vehicle belonging to an R-360 Neptune/RK-360MC Neptune-D anti-ship missile system near the village of Rybakivka, Mykolaiv Oblast.\nThe missile impacted in close proximity to the TZM-360 transport-loader vehicle. It remains unclear whether the strike caused any damage to the Neptune launcher.",
+   "timestamp": "2026-07-18T18:51:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "fa9e63746363ce93a796ca4244478a82",
+   "url": "https://t.me/OSINTWarfare/5840",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows U.S. Army M142 HIMARS systems launching two M57 ATACMS tactical ballistic missiles from Kuwait toward Iran earlier this week.",
+   "timestamp": "2026-07-18T18:32:02+00:00",
+   "has_media": true
+  },
   {
    "id": "bdf1af5df8543dcfaeeb2b05bc6c4c71",
    "url": "https://t.me/OSINTWarfare/5839",
@@ -153,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "Ballistic missile launches from Tabriz and Khorramabad toward Jordan.",
    "timestamp": "2026-07-17T23:13:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e9a26bcdce46f26aff595ab323f20f16",
-   "url": "https://t.me/OSINTWarfare/5819",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ballistic missile launches from Tabriz and Khorramabad toward Jordan.",
-   "timestamp": "2026-07-17T22:48:31+00:00",
    "has_media": true
   },
   {
