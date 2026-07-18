@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-18T22:10:45Z",
- "count": 44,
+ "generated_utc": "2026-07-18T23:10:56Z",
+ "count": 43,
  "items": [
+  {
+   "id": "b6bc4675f7c92ab14935ea41cf322745",
+   "url": "https://t.me/OSINTWarfare/5842",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. C-RAM air defense system has been activated in Erbil Province, northern Iraq. Several Iranian drones have been intercepted.",
+   "timestamp": "2026-07-18T22:34:08+00:00",
+   "has_media": true
+  },
   {
    "id": "a69572f23d06ae24f809eaa631571e0a",
    "url": "https://t.me/OSINTWarfare/5841",
@@ -154,24 +163,6 @@
    "text": "⚡\n#BREAKING\nU.S. official: Iran launched a ballistic missile at a U.S. base in Saudi Arabia\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-18T00:37:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "d7c821292250d187cc0db5a0d58db7af",
-   "url": "https://t.me/OSINTWarfare/5822",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows at least two Iranian ballistic missile impacts at Muwaffaq Salti Air Base in Jordan. Several MIM-104 Patriot interceptors can be seen being launched, but at least two Iranian missiles still penetrated the air defenses and struck the base.\nDespite launching relatively small waves of ballistic missiles, Iran's strike success rate appears to have increased steadily over the past several days.",
-   "timestamp": "2026-07-17T23:47:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2cda69d474d6f49846560a85bba82aa7",
-   "url": "https://t.me/OSINTWarfare/5820",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ballistic missile launches from Tabriz and Khorramabad toward Jordan.",
-   "timestamp": "2026-07-17T23:13:04+00:00",
-   "has_media": true
   },
   {
    "id": "2f6216f010abf54b74f29c6b81e5a4a3",
