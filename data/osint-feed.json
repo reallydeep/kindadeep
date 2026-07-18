@@ -1,7 +1,70 @@
 {
- "generated_utc": "2026-07-18T00:04:09Z",
- "count": 39,
+ "generated_utc": "2026-07-18T03:21:00Z",
+ "count": 42,
  "items": [
+  {
+   "id": "7eca98142341211e6454b1cfa3b20e60",
+   "url": "https://t.me/OSINTWarfare/5828",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy F/A-18E Super Hornets from Strike Fighter Squadron 103 (VFA-103) launching from the USS Abraham Lincoln (CVN-72), an Arleigh Burke-class guided-missile destroyer firing BGM-109E Tomahawk land-attack cruise missiles (LACMs), and U.S. Air Force aircraft striking Iranian military targets.",
+   "timestamp": "2026-07-18T02:11:40+00:00",
+   "has_media": true
+  },
+  {
+   "id": "731e24ef406f35b316467692f469f525",
+   "url": "https://t.me/OSINTWarfare/5827",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of ATACMS tactical ballistic missile launches by the U.S. Army from Kuwait targeting Iran. The variant used is most likely the M57 Block IA.",
+   "timestamp": "2026-07-18T01:55:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1481cfadc6ab6f5d95b93f21abd0e8d9",
+   "url": "https://t.me/OSINTWarfare/5826",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of ATACMS tactical ballistic missile launches by the U.S. Army from Kuwait targeting Iran. The variant used is most likely the M57 Block IA.",
+   "timestamp": "2026-07-18T01:43:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c7c8112709db4bc5c2f85e641d07832c",
+   "url": "https://t.me/OSINTWarfare/5825",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from around two hours ago shows an Iranian ballistic missile impacting Prince Sultan Air Base in the Al-Kharj region of Saudi Arabia.",
+   "timestamp": "2026-07-18T01:27:23+00:00",
+   "has_media": true
+  },
+  {
+   "id": "64442575a01c54bac53aced163ccb97a",
+   "url": "https://t.me/OSINTWarfare/5824",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, Iran carried out strikes on Kurdish militant bases and ammunition depots in Sulaymaniyah, Iraqi Kurdistan, using Shahed-136 and Arash-2 loitering munitions.  Of course. Iran knows that Iraqi Kurdistan could be used as a staging ground by Iranian…",
+   "timestamp": "2026-07-18T00:59:48+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9e5860c46e342cf716605f4f4f89ce88",
+   "url": "https://t.me/OSINTWarfare/5823",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows at least two Iranian ballistic missile impacts at Muwaffaq Salti Air Base in Jordan. Several MIM-104 Patriot interceptors can be seen being launched, but at least two Iranian missiles still penetrated the air defenses and struck the base.  Despite…",
+   "timestamp": "2026-07-18T00:52:11+00:00",
+   "has_media": true
+  },
+  {
+   "id": "553718b71958fe96a2f647dbe33527ee",
+   "url": "https://t.me/warmonitors/45028",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nU.S. official: Iran launched a ballistic missile at a U.S. base in Saudi Arabia\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-18T00:37:15+00:00",
+   "has_media": false
+  },
   {
    "id": "d7c821292250d187cc0db5a0d58db7af",
    "url": "https://t.me/OSINTWarfare/5822",
@@ -120,24 +183,6 @@
    "has_media": true
   },
   {
-   "id": "64ed7aac93a312dd4db011f0e9998b1b",
-   "url": "https://t.me/OSINTWarfare/5804",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia's Africa Corps is extensively using Geran-2 loitering munitions against Azawad Liberation Front (FLA) positions in northern Mali.\nOne Geran-2 drone that was shot down crashed into a truck carrying food supplies in the village of Talhandak, in the Kidal Region near the Algerian border.",
-   "timestamp": "2026-07-17T16:21:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d5e1f6ee96e0e966cef04f58fe0e8c42",
-   "url": "https://t.me/OSINTWarfare/5803",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian fishermen recovered an intercepted U.S. FLM-136 LUCAS loitering munition from the waters of the Strait of Hormuz.",
-   "timestamp": "2026-07-17T11:46:24+00:00",
-   "has_media": false
-  },
-  {
    "id": "5aa490ab3d0302aa58a37619867649bf",
    "url": "https://t.me/warmonitors/45015",
    "source": "telegram",
@@ -163,24 +208,6 @@
    "text": "⚡️\nUS ends its latest round of airstrikes on Iran, the sixth night in a row, as fighting over Strait of Hormuz intensifies\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-17T02:32:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "465385a4cd2851abfc5dc83e3aaa007e",
-   "url": "https://t.me/warmonitors/45009",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nU.S strike on a bridge in Bandar Abbas.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-16T21:17:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cccfa3a8570e5937c3cd23be6bedc580",
-   "url": "https://t.me/warmonitors/45008",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#LATEST\nU.S bombs Iranian bridge\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-16T21:17:15+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
