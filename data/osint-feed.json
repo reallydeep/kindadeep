@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-18T12:07:18Z",
- "count": 43,
+ "generated_utc": "2026-07-18T13:42:51Z",
+ "count": 44,
  "items": [
+  {
+   "id": "b6ceb3d119e23ce70c5e75a5cb1ccab6",
+   "url": "https://t.me/OSINTWarfare/5832",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran has suspended its compliance with the obligations of the Memorandum of Understanding (MoU) with the United States, signed on June 18, 2026, Deputy Foreign Minister Kazem Gharibabadi announced.",
+   "timestamp": "2026-07-18T13:00:43+00:00",
+   "has_media": false
+  },
   {
    "id": "a683cd7e1535d69cb6ffd4702776be66",
    "url": "https://t.me/OSINTWarfare/5830",
