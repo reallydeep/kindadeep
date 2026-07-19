@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-19T20:29:47Z",
- "count": 41,
+ "generated_utc": "2026-07-19T21:24:33Z",
+ "count": 43,
  "items": [
+  {
+   "id": "93e1bac1735d1786c36343a6ddad2e61",
+   "url": "https://t.me/OSINTWarfare/5867",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Resistance in Iraq announced its readiness to directly engage in the conflict with the United States if Washington continues to escalate its aggression against the Islamic Republic of Iran.\nThe group stated that it would target all U.S. interests and military bases in Iraq and across the region.",
+   "timestamp": "2026-07-19T21:23:24+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dd14f9a48528b450a75f36e0d20cd95b",
+   "url": "https://t.me/OSINTWarfare/5866",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Sirens in Bahrain + Unconfirmed reports of explosions in Kuwait.",
+   "timestamp": "2026-07-19T21:08:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d5e8d8c89bfcd99311f11b22d749b2dd",
+   "url": "https://t.me/OSINTWarfare/5864",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇺🇸\n— Reports of ballistic missile launches from Khomeyn, Markazi Province, Iran.  @IntelSlava",
+   "timestamp": "2026-07-19T20:50:53+00:00",
+   "has_media": true
+  },
+  {
+   "id": "16dfdbbcf994ab97e5f946906b406679",
+   "url": "https://t.me/OSINTWarfare/5863",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇺🇸\n—\nReports of ballistic missile launches from Khomeyn, Markazi Province, Iran.\n@IntelSlava",
+   "timestamp": "2026-07-19T20:49:42+00:00",
+   "has_media": false
+  },
   {
    "id": "11222221bd503e9a4879cb0df443b13b",
    "url": "https://t.me/OSINTWarfare/5862",
@@ -144,24 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n❌\n🇺🇦\n— More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava",
    "timestamp": "2026-07-18T23:21:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "36a641e2fb747c0e132d60141bbbaada",
-   "url": "https://t.me/OSINTWarfare/5844",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n❌\n🇺🇦\n— More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.\n@IntelSlava",
-   "timestamp": "2026-07-18T23:21:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b6bc4675f7c92ab14935ea41cf322745",
-   "url": "https://t.me/OSINTWarfare/5842",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. C-RAM air defense system has been activated in Erbil Province, northern Iraq. Several Iranian drones have been intercepted.",
-   "timestamp": "2026-07-18T22:34:08+00:00",
    "has_media": true
   },
   {
