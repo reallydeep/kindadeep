@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-19T21:24:33Z",
- "count": 43,
+ "generated_utc": "2026-07-19T22:12:53Z",
+ "count": 40,
  "items": [
+  {
+   "id": "ed195af8e01dccfdff681e354af4b1a4",
+   "url": "https://t.me/OSINTWarfare/5869",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Explosion in Argentina",
+   "timestamp": "2026-07-19T21:51:07+00:00",
+   "has_media": true
+  },
+  {
+   "id": "35422a74c6208eb06b1a8e478797fa55",
+   "url": "https://t.me/OSINTWarfare/5868",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Explosion in Argentina",
+   "timestamp": "2026-07-19T21:49:27+00:00",
+   "has_media": false
+  },
   {
    "id": "93e1bac1735d1786c36343a6ddad2e61",
    "url": "https://t.me/OSINTWarfare/5867",
@@ -156,33 +174,6 @@
    "has_media": true
   },
   {
-   "id": "10fa48dff4c72f5d14408de62d7ba4e4",
-   "url": "https://t.me/OSINTWarfare/5850",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to The New York Times, Iran's attack on Jordan damaged a \"significant number\" of UH-60 Black Hawk helicopters.",
-   "timestamp": "2026-07-19T00:05:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3c7ed6244c48d50b9f40709cb814558e",
-   "url": "https://t.me/OSINTWarfare/5849",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed reports claim that two Kuwaiti Air Force Eurofighter Typhoon Multirole Fighters were destroyed in an Iranian ballistic missile strike targeting Ali Al Salem Air Base.",
-   "timestamp": "2026-07-18T23:43:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d1d9fdd3e52932a65b486203e6318128",
-   "url": "https://t.me/OSINTWarfare/5848",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n❌\n🇺🇦\n— More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava",
-   "timestamp": "2026-07-18T23:21:12+00:00",
-   "has_media": true
-  },
-  {
    "id": "5ddbd799c805cc60e6ca878c29e8c925",
    "url": "https://t.me/warmonitors/45033",
    "source": "telegram",
@@ -199,24 +190,6 @@
    "text": "⚡\nOvernight, multiple Iranian drones targeted the Kurdistan Region of Iraq, hitting Iranian opposition camps and U.S. bases across the region, including Sulaymaniyah and Erbil.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-18T07:32:24+00:00",
    "has_media": true
-  },
-  {
-   "id": "553718b71958fe96a2f647dbe33527ee",
-   "url": "https://t.me/warmonitors/45028",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nU.S. official: Iran launched a ballistic missile at a U.S. base in Saudi Arabia\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-18T00:37:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2f6216f010abf54b74f29c6b81e5a4a3",
-   "url": "https://t.me/warmonitors/45027",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nUS military says it's launched strikes on Iran for a seventh night in a row as fighting escalates over Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-17T20:22:15+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
