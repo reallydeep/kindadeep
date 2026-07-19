@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-18T23:10:56Z",
- "count": 43,
+ "generated_utc": "2026-07-19T00:09:53Z",
+ "count": 40,
  "items": [
+  {
+   "id": "10fa48dff4c72f5d14408de62d7ba4e4",
+   "url": "https://t.me/OSINTWarfare/5850",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to The New York Times, Iran's attack on Jordan damaged a \"significant number\" of UH-60 Black Hawk helicopters.",
+   "timestamp": "2026-07-19T00:05:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "3c7ed6244c48d50b9f40709cb814558e",
+   "url": "https://t.me/OSINTWarfare/5849",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports claim that two Kuwaiti Air Force Eurofighter Typhoon Multirole Fighters were destroyed in an Iranian ballistic missile strike targeting Ali Al Salem Air Base.",
+   "timestamp": "2026-07-18T23:43:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d1d9fdd3e52932a65b486203e6318128",
+   "url": "https://t.me/OSINTWarfare/5848",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n❌\n🇺🇦\n— More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.  @IntelSlava",
+   "timestamp": "2026-07-18T23:21:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "36a641e2fb747c0e132d60141bbbaada",
+   "url": "https://t.me/OSINTWarfare/5844",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n❌\n🇺🇦\n— More than 30 Russian ballistic missiles struck the Ukrainian capital, Kiev. One of the powerful strikes caused part of the entrance hall at the Lukianivska metro station to collapse.\n@IntelSlava",
+   "timestamp": "2026-07-18T23:21:03+00:00",
+   "has_media": true
+  },
   {
    "id": "b6bc4675f7c92ab14935ea41cf322745",
    "url": "https://t.me/OSINTWarfare/5842",
@@ -84,75 +120,12 @@
    "has_media": false
   },
   {
-   "id": "0bdf49eeb4166bb4908e28c0d970b780",
-   "url": "https://t.me/OSINTWarfare/5829",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In response to the overnight U.S. strike on an Iranian desalination plant near Jask, Iran launched retaliatory strikes this morning on another power station and desalination plant in Kuwait.\nKuwait's Ministry of Electricity, Water and Renewable Energy said the attack sparked a fire, forcing the shutdown of several power generation units.\nThe Kuwait Petroleum Corporation also reported that \"one of the vital facilities in the oil sector\" was hit by repeated Iranian attacks, resulting in \"multiple injuries and significant material damage.\"",
-   "timestamp": "2026-07-18T11:29:06+00:00",
-   "has_media": false
-  },
-  {
    "id": "43c678f6b8cc8cc3c363dd50aeac14ea",
    "url": "https://t.me/warmonitors/45030",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nOvernight, multiple Iranian drones targeted the Kurdistan Region of Iraq, hitting Iranian opposition camps and U.S. bases across the region, including Sulaymaniyah and Erbil.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-18T07:32:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7eca98142341211e6454b1cfa3b20e60",
-   "url": "https://t.me/OSINTWarfare/5828",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command (CENTCOM) has released footage showing U.S. Navy F/A-18E Super Hornets from Strike Fighter Squadron 103 (VFA-103) launching from the USS Abraham Lincoln (CVN-72), an Arleigh Burke-class guided-missile destroyer firing BGM-109E Tomahawk land-attack cruise missiles (LACMs), and U.S. Air Force aircraft striking Iranian military targets.",
-   "timestamp": "2026-07-18T02:11:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "731e24ef406f35b316467692f469f525",
-   "url": "https://t.me/OSINTWarfare/5827",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of ATACMS tactical ballistic missile launches by the U.S. Army from Kuwait targeting Iran. The variant used is most likely the M57 Block IA.",
-   "timestamp": "2026-07-18T01:55:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1481cfadc6ab6f5d95b93f21abd0e8d9",
-   "url": "https://t.me/OSINTWarfare/5826",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of ATACMS tactical ballistic missile launches by the U.S. Army from Kuwait targeting Iran. The variant used is most likely the M57 Block IA.",
-   "timestamp": "2026-07-18T01:43:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c7c8112709db4bc5c2f85e641d07832c",
-   "url": "https://t.me/OSINTWarfare/5825",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from around two hours ago shows an Iranian ballistic missile impacting Prince Sultan Air Base in the Al-Kharj region of Saudi Arabia.",
-   "timestamp": "2026-07-18T01:27:23+00:00",
-   "has_media": true
-  },
-  {
-   "id": "64442575a01c54bac53aced163ccb97a",
-   "url": "https://t.me/OSINTWarfare/5824",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier tonight, Iran carried out strikes on Kurdish militant bases and ammunition depots in Sulaymaniyah, Iraqi Kurdistan, using Shahed-136 and Arash-2 loitering munitions.  Of course. Iran knows that Iraqi Kurdistan could be used as a staging ground by Iranian…",
-   "timestamp": "2026-07-18T00:59:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9e5860c46e342cf716605f4f4f89ce88",
-   "url": "https://t.me/OSINTWarfare/5823",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows at least two Iranian ballistic missile impacts at Muwaffaq Salti Air Base in Jordan. Several MIM-104 Patriot interceptors can be seen being launched, but at least two Iranian missiles still penetrated the air defenses and struck the base.  Despite…",
-   "timestamp": "2026-07-18T00:52:11+00:00",
    "has_media": true
   },
   {
