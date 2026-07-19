@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-19T00:09:53Z",
+ "generated_utc": "2026-07-19T03:47:48Z",
  "count": 40,
  "items": [
+  {
+   "id": "89bfcc64f9c789d7eb4dbc27c345b73d",
+   "url": "https://t.me/OSINTWarfare/5852",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— During Russia's largest-ever ballistic missile attack on Kyiv, around 50 missiles were launched. The majority were Iskander-M tactical ballistic missiles, with the remainder consisting of modified S-400 ground-to-ground missiles and Zircon hypersonic cruise missiles.\nAccording to open-source information and CCTV footage analysis, Ukraine launched at least 16 Patriot PAC-3 interceptors during the attack from the 40 interceptors recently delivered.\nOnly a limited number of interceptors remain available.\n@IntelSlava",
+   "timestamp": "2026-07-19T01:44:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "98a4e377ddcf966f05c1d0421273cfcf",
+   "url": "https://t.me/OSINTWarfare/5851",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. airstrikes have targeted Qeshm Island, southern Iran, tonight.",
+   "timestamp": "2026-07-19T00:31:42+00:00",
+   "has_media": true
+  },
   {
    "id": "10fa48dff4c72f5d14408de62d7ba4e4",
    "url": "https://t.me/OSINTWarfare/5850",
@@ -100,24 +118,6 @@
    "text": "Unconfirmed reports claim that two Kuwaiti Air Force Eurofighter Typhoon Multirole Fighters were destroyed in an Iranian ballistic missile strike targeting Ali Al Salem Air Base.",
    "timestamp": "2026-07-18T16:39:44+00:00",
    "has_media": true
-  },
-  {
-   "id": "b6ceb3d119e23ce70c5e75a5cb1ccab6",
-   "url": "https://t.me/OSINTWarfare/5832",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran has suspended its compliance with the obligations of the Memorandum of Understanding (MoU) with the United States, signed on June 18, 2026, Deputy Foreign Minister Kazem Gharibabadi announced.",
-   "timestamp": "2026-07-18T13:00:43+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a683cd7e1535d69cb6ffd4702776be66",
-   "url": "https://t.me/OSINTWarfare/5830",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Haj Qassem, Zolfaghar and Fateh-110, as well as Shahed-136 loitering munitions, targeting U.S. military bases across the Gulf region.\nI love Khorramshahr Symphony, the orchestral piece composed by Iranian musician Majid Entezami, so I added it to the footage.",
-   "timestamp": "2026-07-18T11:46:44+00:00",
-   "has_media": false
   },
   {
    "id": "43c678f6b8cc8cc3c363dd50aeac14ea",
