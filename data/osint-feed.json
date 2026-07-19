@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-19T19:46:13Z",
- "count": 40,
+ "generated_utc": "2026-07-19T20:29:47Z",
+ "count": 41,
  "items": [
+  {
+   "id": "11222221bd503e9a4879cb0df443b13b",
+   "url": "https://t.me/OSINTWarfare/5862",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of possible ballistic missile launches from Iran.",
+   "timestamp": "2026-07-19T20:22:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f05476a81c41576cb3d1ac7a55a3eb2f",
+   "url": "https://t.me/OSINTWarfare/5861",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran's Supreme Leader, Mojtaba Khamenei, has refused Iraqi Prime Minister Ali Al-Zaidi's request for a meeting during his visit to Tehran next week.\nJust to be clear, Ali Al-Zaidi is a friend of Mossad.",
+   "timestamp": "2026-07-19T20:07:24+00:00",
+   "has_media": false
+  },
+  {
+   "id": "afd5d6e2e7fa572174784d67e791b213",
+   "url": "https://t.me/OSINTWarfare/5860",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "So, did the Iranian ballistic missile strike literally vaporize the third soldier?\nAnother U.S. service member was killed in Iraq while conducting a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone. Doesn't sound controlled to me.",
+   "timestamp": "2026-07-19T19:49:01+00:00",
+   "has_media": true
+  },
   {
    "id": "755d34418584cd84c4355491a5a6f811",
    "url": "https://t.me/OSINTWarfare/5858",
@@ -135,24 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "The U.S. C-RAM air defense system has been activated in Erbil Province, northern Iraq. Several Iranian drones have been intercepted.",
    "timestamp": "2026-07-18T22:34:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a69572f23d06ae24f809eaa631571e0a",
-   "url": "https://t.me/OSINTWarfare/5841",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Objective control footage shows an Iskander-M tactical ballistic missile strike targeting a USPU-360 mobile launcher and a TZM-360 transport-loader vehicle belonging to an R-360 Neptune/RK-360MC Neptune-D anti-ship missile system near the village of Rybakivka, Mykolaiv Oblast.\nThe missile impacted in close proximity to the TZM-360 transport-loader vehicle. It remains unclear whether the strike caused any damage to the Neptune launcher.",
-   "timestamp": "2026-07-18T18:51:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fa9e63746363ce93a796ca4244478a82",
-   "url": "https://t.me/OSINTWarfare/5840",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows U.S. Army M142 HIMARS systems launching two M57 ATACMS tactical ballistic missiles from Kuwait toward Iran earlier this week.",
-   "timestamp": "2026-07-18T18:32:02+00:00",
    "has_media": true
   },
   {
