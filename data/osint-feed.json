@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-19T22:12:53Z",
- "count": 40,
+ "generated_utc": "2026-07-19T23:11:51Z",
+ "count": 38,
  "items": [
+  {
+   "id": "d234e7e05e5165d40a2b1500b52bbdcd",
+   "url": "https://t.me/OSINTWarfare/5874",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Army launched two ATACMS tactical ballistic missiles from Kuwait toward Iran.",
+   "timestamp": "2026-07-19T23:04:19+00:00",
+   "has_media": false
+  },
+  {
+   "id": "103a8a54ef2d8b8e94849d2bd935adae",
+   "url": "https://t.me/OSINTWarfare/5872",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to a friend, two explosions were heard in northern Kuwait.",
+   "timestamp": "2026-07-19T22:27:34+00:00",
+   "has_media": true
+  },
   {
    "id": "ed195af8e01dccfdff681e354af4b1a4",
    "url": "https://t.me/OSINTWarfare/5869",
@@ -120,24 +138,6 @@
    "has_media": true
   },
   {
-   "id": "93bdc8685784b36e0d0e1cd76bef4bdf",
-   "url": "https://t.me/OSINTWarfare/5854",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing the interception of a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Asaluyeh, Bushehr Province, in southern Iran.",
-   "timestamp": "2026-07-19T18:11:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "793f62d8a71c282ad1babf64b354d61d",
-   "url": "https://t.me/OSINTWarfare/5853",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing the interception of a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Asaluyeh, Bushehr Province, in southern Iran.",
-   "timestamp": "2026-07-19T17:53:16+00:00",
-   "has_media": true
-  },
-  {
    "id": "9899191b8c500c24492c009a6e3d5314",
    "url": "https://t.me/warmonitors/45042",
    "source": "telegram",
@@ -153,24 +153,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nU.S. attack on a bridge in Bandar Abbas, Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-19T08:02:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89bfcc64f9c789d7eb4dbc27c345b73d",
-   "url": "https://t.me/OSINTWarfare/5852",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— During Russia's largest-ever ballistic missile attack on Kyiv, around 50 missiles were launched. The majority were Iskander-M tactical ballistic missiles, with the remainder consisting of modified S-400 ground-to-ground missiles and Zircon hypersonic cruise missiles.\nAccording to open-source information and CCTV footage analysis, Ukraine launched at least 16 Patriot PAC-3 interceptors during the attack from the 40 interceptors recently delivered.\nOnly a limited number of interceptors remain available.\n@IntelSlava",
-   "timestamp": "2026-07-19T01:44:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "98a4e377ddcf966f05c1d0421273cfcf",
-   "url": "https://t.me/OSINTWarfare/5851",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. airstrikes have targeted Qeshm Island, southern Iran, tonight.",
-   "timestamp": "2026-07-19T00:31:42+00:00",
    "has_media": true
   },
   {
