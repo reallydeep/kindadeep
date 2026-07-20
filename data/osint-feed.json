@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-07-20T12:28:17Z",
+ "generated_utc": "2026-07-20T14:37:14Z",
  "count": 37,
  "items": [
+  {
+   "id": "40a3c34d0efcb5e86618ff61209739b3",
+   "url": "https://t.me/OSINTWarfare/5882",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. airstrikes targeted Shiraz, Fars Province, in southwestern Iran. One of the strikes reportedly hit the Electronic Industries Complex.",
+   "timestamp": "2026-07-20T14:09:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4f45c3799f2751d66ac36d8dd2d6f55e",
+   "url": "https://t.me/warmonitors/45059",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nUS strike against the Iranian city of Shiraz.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-20T14:02:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "96da83ae63a2276d6adc108f98c93edf",
+   "url": "https://t.me/warmonitors/45058",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAlarms in Bahrain; Explosions in Kuwait\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-20T13:52:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cc74692553bfa992f7ba51a58c19c38b",
+   "url": "https://t.me/OSINTWarfare/5881",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including the Kheibar Shekan, Emad, Zolfaghar, Ababil, and Fateh-110, targeting U.S. military bases across the Gulf region during Waves 21 and 22 of Operation Nasr 2.",
+   "timestamp": "2026-07-20T13:28:59+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6f9096f98e8fde1a0d50dd5a4a0c4202",
+   "url": "https://t.me/OSINTWarfare/5880",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's Ansar Allah (Houthis) have announced an immediate naval blockade of Saudi Arabia in retaliation for Saudi Arabia's blockade of Yemen's air and sea ports during the decade-long siege of the country.",
+   "timestamp": "2026-07-20T13:00:28+00:00",
+   "has_media": false
+  },
   {
    "id": "dee2bf1f9c595a724b9a07d52472ab97",
    "url": "https://t.me/OSINTWarfare/5877",
@@ -111,57 +156,12 @@
    "has_media": true
   },
   {
-   "id": "16dfdbbcf994ab97e5f946906b406679",
-   "url": "https://t.me/OSINTWarfare/5863",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇺🇸\n—\nReports of ballistic missile launches from Khomeyn, Markazi Province, Iran.\n@IntelSlava",
-   "timestamp": "2026-07-19T20:49:42+00:00",
-   "has_media": false
-  },
-  {
-   "id": "11222221bd503e9a4879cb0df443b13b",
-   "url": "https://t.me/OSINTWarfare/5862",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of possible ballistic missile launches from Iran.",
-   "timestamp": "2026-07-19T20:22:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f05476a81c41576cb3d1ac7a55a3eb2f",
-   "url": "https://t.me/OSINTWarfare/5861",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran's Supreme Leader, Mojtaba Khamenei, has refused Iraqi Prime Minister Ali Al-Zaidi's request for a meeting during his visit to Tehran next week.\nJust to be clear, Ali Al-Zaidi is a friend of Mossad.",
-   "timestamp": "2026-07-19T20:07:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "afd5d6e2e7fa572174784d67e791b213",
-   "url": "https://t.me/OSINTWarfare/5860",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "So, did the Iranian ballistic missile strike literally vaporize the third soldier?\nAnother U.S. service member was killed in Iraq while conducting a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone. Doesn't sound controlled to me.",
-   "timestamp": "2026-07-19T19:49:01+00:00",
-   "has_media": true
-  },
-  {
    "id": "9899191b8c500c24492c009a6e3d5314",
    "url": "https://t.me/warmonitors/45042",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\n#BREAKING\nIran claims to have shot down an American MQ9 Reaper drone\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-19T08:42:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7fa94136228369e24b2bf4aaaf37f19f",
-   "url": "https://t.me/warmonitors/45040",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nU.S. attack on a bridge in Bandar Abbas, Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-19T08:02:17+00:00",
    "has_media": true
   },
   {
