@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-20T07:21:00Z",
+ "generated_utc": "2026-07-20T10:22:22Z",
  "count": 38,
  "items": [
+  {
+   "id": "4d80e1a7c35714f887f80e21f0cf5a0f",
+   "url": "https://t.me/OSINTWarfare/5876",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lockheed Martin has unveiled the new PAC-3 Adapted Capability Effector (ACE) interceptor for the Patriot air defense system.\nDesigned to reduce the cost of air and missile defense, the PAC-3 ACE is expected to cost less than half the price of a PAC-3 MSE interceptor, potentially under $2 million compared to roughly $4 million for the PAC-3 MSE.\nSerial production is planned within the next three years, with manufacturing shared between the United States and Europe.\nThe PAC-3 ACE is intended to intercept less sophisticated ballistic missile threats, allowing the more capable PAC-3 MSE to be reserved for the most demanding targets.\nIn other words, it will be just as useless as the PAC-3 MSE against Russia's Iskander-M ballistic missile.",
+   "timestamp": "2026-07-20T10:14:41+00:00",
+   "has_media": true
+  },
   {
    "id": "981d82850a68b43d0aeecd7a669c642d",
    "url": "https://t.me/OSINTWarfare/5875",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Satellite imagery showing a destroyed aircraft hangar at Muwaffaq al-Salti Air Base in Jordan as a result of an Iranian ballistic missile strike.  The hangar was likely being used to shelter U.S. MQ-9A Reaper UCAVs.",
    "timestamp": "2026-07-19T19:07:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "50f299e7fc72776daef3d29f9d6c5000",
-   "url": "https://t.me/OSINTWarfare/5856",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The main U.S. Air Force equipment and spare parts warehouse at Al Udeid Air Base in Qatar was struck by an Iranian ballistic missile.  The missile impact left a crater approximately 76 meters (249 feet) in diameter.",
-   "timestamp": "2026-07-19T19:06:51+00:00",
    "has_media": true
   },
   {
