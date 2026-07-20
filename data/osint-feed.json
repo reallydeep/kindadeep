@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-20T21:11:16Z",
- "count": 37,
+ "generated_utc": "2026-07-20T22:13:11Z",
+ "count": 36,
  "items": [
   {
    "id": "b833df6f517945278b2bffe8d2be3fea",
@@ -153,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "According to a friend, two explosions were heard in northern Kuwait.",
    "timestamp": "2026-07-19T22:27:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ed195af8e01dccfdff681e354af4b1a4",
-   "url": "https://t.me/OSINTWarfare/5869",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosion in Argentina",
-   "timestamp": "2026-07-19T21:51:07+00:00",
    "has_media": true
   },
   {
