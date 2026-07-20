@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-20T22:13:11Z",
- "count": 36,
+ "generated_utc": "2026-07-20T23:14:23Z",
+ "count": 37,
  "items": [
+  {
+   "id": "23ad1151064d3106a6674bd8fdb035c3",
+   "url": "https://t.me/OSINTWarfare/5892",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Ground Forces has released footage showing the launch of ballistic missiles targeting U.S. Army M142 HIMARS positions at Camp Arifjan, Kuwait.",
+   "timestamp": "2026-07-20T23:01:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "60c6372c18c780e5efad2a1aae997d93",
+   "url": "https://t.me/OSINTWarfare/5891",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the moment U.S. Navy aircraft carried out airstrikes on Imam Ali Air Base in Chabahar, Sistan and Baluchestan Province, southern Iran.",
+   "timestamp": "2026-07-20T22:26:47+00:00",
+   "has_media": true
+  },
   {
    "id": "b833df6f517945278b2bffe8d2be3fea",
    "url": "https://t.me/OSINTWarfare/5885",
@@ -145,15 +163,6 @@
    "text": "The U.S. Army launched two ATACMS tactical ballistic missiles from Kuwait toward Iran.",
    "timestamp": "2026-07-19T23:04:19+00:00",
    "has_media": false
-  },
-  {
-   "id": "103a8a54ef2d8b8e94849d2bd935adae",
-   "url": "https://t.me/OSINTWarfare/5872",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to a friend, two explosions were heard in northern Kuwait.",
-   "timestamp": "2026-07-19T22:27:34+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
