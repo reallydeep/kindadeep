@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-20T19:59:16Z",
- "count": 39,
+ "generated_utc": "2026-07-20T21:11:16Z",
+ "count": 37,
  "items": [
+  {
+   "id": "b833df6f517945278b2bffe8d2be3fea",
+   "url": "https://t.me/OSINTWarfare/5885",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Preparation of a Russian Orion reconnaissance-strike UAV for a combat mission, with Kh-BPLA (TKB-1030) laser-guided missiles being mounted on its pylons.\nThe Kh-BPLA is the air-launched variant of the Kornet-D anti-tank guided missile (ATGM).",
+   "timestamp": "2026-07-20T20:58:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ca04cbb26824adc2061807a2e52d309e",
+   "url": "https://t.me/warmonitors/45068",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nJordan says Iran launches another missile attack after an earlier one killed at least 2 U.S. forces there\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-20T20:12:15+00:00",
+   "has_media": false
+  },
   {
    "id": "7a5d1b51611aaa05ff9759fcced907f8",
    "url": "https://t.me/OSINTWarfare/5884",
@@ -144,42 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Explosion in Argentina",
    "timestamp": "2026-07-19T21:51:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "35422a74c6208eb06b1a8e478797fa55",
-   "url": "https://t.me/OSINTWarfare/5868",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Explosion in Argentina",
-   "timestamp": "2026-07-19T21:49:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "93e1bac1735d1786c36343a6ddad2e61",
-   "url": "https://t.me/OSINTWarfare/5867",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Resistance in Iraq announced its readiness to directly engage in the conflict with the United States if Washington continues to escalate its aggression against the Islamic Republic of Iran.\nThe group stated that it would target all U.S. interests and military bases in Iraq and across the region.",
-   "timestamp": "2026-07-19T21:23:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "dd14f9a48528b450a75f36e0d20cd95b",
-   "url": "https://t.me/OSINTWarfare/5866",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Sirens in Bahrain + Unconfirmed reports of explosions in Kuwait.",
-   "timestamp": "2026-07-19T21:08:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d5e8d8c89bfcd99311f11b22d749b2dd",
-   "url": "https://t.me/OSINTWarfare/5864",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇺🇸\n— Reports of ballistic missile launches from Khomeyn, Markazi Province, Iran.  @IntelSlava",
-   "timestamp": "2026-07-19T20:50:53+00:00",
    "has_media": true
   },
   {
