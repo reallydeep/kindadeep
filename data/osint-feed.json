@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-20T10:22:22Z",
- "count": 38,
+ "generated_utc": "2026-07-20T12:28:17Z",
+ "count": 37,
  "items": [
+  {
+   "id": "dee2bf1f9c595a724b9a07d52472ab97",
+   "url": "https://t.me/OSINTWarfare/5877",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "High-resolution satellite imagery shows the aftermath of Iranian ballistic missile strikes on the U.S.-used Muwaffaq Salti Air Base in Jordan.\nOne strike destroyed several military blast shelters. Another hit the shelters housing U.S. MQ-9A Reaper unmanned combat aerial vehicles (UCAVs). One shelter was completely destroyed, while two others were heavily damaged.\nAt least one nearby MQ-9A Reaper was also heavily damaged, while additional aircraft may have sustained damage.\nTwo other strikes destroyed two large aircraft maintenance hangars.",
+   "timestamp": "2026-07-20T12:09:00+00:00",
+   "has_media": true
+  },
   {
    "id": "4d80e1a7c35714f887f80e21f0cf5a0f",
    "url": "https://t.me/OSINTWarfare/5876",
@@ -135,24 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "So, did the Iranian ballistic missile strike literally vaporize the third soldier?\nAnother U.S. service member was killed in Iraq while conducting a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone. Doesn't sound controlled to me.",
    "timestamp": "2026-07-19T19:49:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "755d34418584cd84c4355491a5a6f811",
-   "url": "https://t.me/OSINTWarfare/5858",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian villagers were seen transporting the Honeywell TPE331-10GD turboprop engine recovered from a downed U.S. MQ-9A Reaper UCAV on a donkey.",
-   "timestamp": "2026-07-19T19:25:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9924d15c101a197f7061aa7db22fb7b1",
-   "url": "https://t.me/OSINTWarfare/5857",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery showing a destroyed aircraft hangar at Muwaffaq al-Salti Air Base in Jordan as a result of an Iranian ballistic missile strike.  The hangar was likely being used to shelter U.S. MQ-9A Reaper UCAVs.",
-   "timestamp": "2026-07-19T19:07:12+00:00",
    "has_media": true
   },
   {
