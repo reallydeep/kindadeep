@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-21T08:44:39Z",
- "count": 38,
+ "generated_utc": "2026-07-21T10:49:52Z",
+ "count": 40,
  "items": [
+  {
+   "id": "77ee094d7b21bd38a380e845bb98b97d",
+   "url": "https://t.me/OSINTWarfare/5894",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including Kheibar Shekan, Fattah-1, Emad, and Fateh-313 missiles, along with Paveh cruise missiles and Shahed-136 loitering munitions, targeting U.S. military bases across the Gulf region during Wave 24 of Operation Nasr 2.",
+   "timestamp": "2026-07-21T10:03:22+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9750682bb9c40f80c1c6d55c50fd5832",
+   "url": "https://t.me/warmonitors/45071",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nThe Lebanese army entered Zawtar al-Arabiya after Israeli forces withdrew.\nIts almost as if diplomacy does work…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-21T09:37:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4fd4af2568e77f32dc13424e53efb2a0",
+   "url": "https://t.me/warmonitors/45070",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Iranians continue to launch missiles at Jordan and the Gulf states\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-21T09:37:15+00:00",
+   "has_media": false
+  },
   {
    "id": "624ffedc59fe50f5207c05746524256e",
    "url": "https://t.me/OSINTWarfare/5893",
@@ -162,15 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nReports of US strikes on the Iranian city of Tabriz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-19T23:37:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d234e7e05e5165d40a2b1500b52bbdcd",
-   "url": "https://t.me/OSINTWarfare/5874",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Army launched two ATACMS tactical ballistic missiles from Kuwait toward Iran.",
-   "timestamp": "2026-07-19T23:04:19+00:00",
    "has_media": false
   },
   {
