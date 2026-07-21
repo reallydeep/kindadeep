@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-07-21T22:23:36Z",
- "count": 39,
+ "generated_utc": "2026-07-21T23:24:53Z",
+ "count": 42,
  "items": [
+  {
+   "id": "9654743d621fc39c469103d4dc609463",
+   "url": "https://t.me/OSINTWarfare/5910",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.",
+   "timestamp": "2026-07-21T23:20:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a9b13dc22a25a183bcd25e218cc1cb2b",
+   "url": "https://t.me/OSINTWarfare/5909",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.",
+   "timestamp": "2026-07-21T23:18:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6acdd9363e4be24b0faefc6019794de3",
+   "url": "https://t.me/OSINTWarfare/5908",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.",
+   "timestamp": "2026-07-21T23:09:22+00:00",
+   "has_media": false
+  },
+  {
+   "id": "67642ba783c0c2a4e8d88095b21fcbf3",
+   "url": "https://t.me/OSINTWarfare/5907",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in eastern Tehran.",
+   "timestamp": "2026-07-21T23:04:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "15612447d7e28d3d6cd5d92d19edc997",
+   "url": "https://t.me/OSINTWarfare/5904",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in eastern Tehran.",
+   "timestamp": "2026-07-21T22:51:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "96128e2c6fe179348c54102bea33a6c2",
+   "url": "https://t.me/OSINTWarfare/5903",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in eastern Tehran.",
+   "timestamp": "2026-07-21T22:40:01+00:00",
+   "has_media": false
+  },
   {
    "id": "d5d7817554481560c38fe29b86344a3e",
    "url": "https://t.me/OSINTWarfare/5902",
@@ -147,15 +201,6 @@
    "has_media": true
   },
   {
-   "id": "b833df6f517945278b2bffe8d2be3fea",
-   "url": "https://t.me/OSINTWarfare/5885",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Preparation of a Russian Orion reconnaissance-strike UAV for a combat mission, with Kh-BPLA (TKB-1030) laser-guided missiles being mounted on its pylons.\nThe Kh-BPLA is the air-launched variant of the Kornet-D anti-tank guided missile (ATGM).",
-   "timestamp": "2026-07-20T20:58:15+00:00",
-   "has_media": true
-  },
-  {
    "id": "ca04cbb26824adc2061807a2e52d309e",
    "url": "https://t.me/warmonitors/45068",
    "source": "telegram",
@@ -163,24 +208,6 @@
    "text": "⚡️\nJordan says Iran launches another missile attack after an earlier one killed at least 2 U.S. forces there\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-20T20:12:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "7a5d1b51611aaa05ff9759fcced907f8",
-   "url": "https://t.me/OSINTWarfare/5884",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the launch of a ballistic missile from Lar, Fars Province, Iran, toward Bahrain.",
-   "timestamp": "2026-07-20T15:46:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "40a3c34d0efcb5e86618ff61209739b3",
-   "url": "https://t.me/OSINTWarfare/5882",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. airstrikes targeted Shiraz, Fars Province, in southwestern Iran. One of the strikes reportedly hit the Electronic Industries Complex.",
-   "timestamp": "2026-07-20T14:09:50+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
