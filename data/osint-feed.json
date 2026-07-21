@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-20T23:14:23Z",
- "count": 37,
+ "generated_utc": "2026-07-21T00:09:06Z",
+ "count": 38,
  "items": [
+  {
+   "id": "624ffedc59fe50f5207c05746524256e",
+   "url": "https://t.me/OSINTWarfare/5893",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports have emerged of Iranian troop deployments in Khuzestan Province near the Iraqi border and the border with Kuwait. Although Iraq separates Iran and Kuwait by roughly 50 km, some people have started making stupid claims that Iran is preparing for a ground assault on Kuwait.\nThat's simply not realistic. Iran is preparing for all possible scenarios, including a potential U.S.-led ground invasion through Iraq or Kuwait. That's why there has been a noticeable buildup of troops along its western frontier, not because it's planning to invade Kuwait.",
+   "timestamp": "2026-07-20T23:20:37+00:00",
+   "has_media": false
+  },
   {
    "id": "23ad1151064d3106a6674bd8fdb035c3",
    "url": "https://t.me/OSINTWarfare/5892",
