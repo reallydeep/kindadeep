@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-22T08:45:01Z",
- "count": 42,
+ "generated_utc": "2026-07-22T10:51:31Z",
+ "count": 40,
  "items": [
+  {
+   "id": "a77b0d8ce3fe8eb95587c4f914e35df0",
+   "url": "https://t.me/OSINTWarfare/5922",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Satellite imagery shows the complete destruction of the U.S. AN/FPS-117 long-range 3D air surveillance and early warning radar at Ahmad al-Jaber Air Base in Kuwait.",
+   "timestamp": "2026-07-22T09:51:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1d9742ab0795c246f4bc869857e8d5ad",
+   "url": "https://t.me/warmonitors/45089",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nIran reports three explosions in the port city of Sirik in the south of the country\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-22T09:42:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0e89b836583d1d9db259dab3a912f819",
+   "url": "https://t.me/warmonitors/45088",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nJordanian Army: 6 missiles were launched\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-22T09:27:15+00:00",
+   "has_media": false
+  },
   {
    "id": "75522be4fe42aff195f48b92e01ac049",
    "url": "https://t.me/OSINTWarfare/5920",
@@ -93,33 +120,6 @@
    "has_media": false
   },
   {
-   "id": "15612447d7e28d3d6cd5d92d19edc997",
-   "url": "https://t.me/OSINTWarfare/5904",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in eastern Tehran.",
-   "timestamp": "2026-07-21T22:51:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "96128e2c6fe179348c54102bea33a6c2",
-   "url": "https://t.me/OSINTWarfare/5903",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in eastern Tehran.",
-   "timestamp": "2026-07-21T22:40:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d5d7817554481560c38fe29b86344a3e",
-   "url": "https://t.me/OSINTWarfare/5902",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "If you're interested in joining my friend's Discord server, The Headquarters – Geopolitics, OSINT & Intelligence\n• Real-time geopolitical news, conflict updates & OSINT analysis\n• Military, economic & intelligence discussions\n• Contributors include former/current DoD Intel, Space Force, Patriot operators & other experienced members\n• High-quality resources, education & informed discussion\nOwner:\n@GEOIMINT\nhttps://discord.gg/m9ByZYGxY5",
-   "timestamp": "2026-07-21T21:42:38+00:00",
-   "has_media": false
-  },
-  {
    "id": "53ee8186d365a4f4ee775abea6e8c6c2",
    "url": "https://t.me/warmonitors/45084",
    "source": "telegram",
@@ -190,24 +190,6 @@
    "text": "⚡️\nThe Lebanese army entered Zawtar al-Gharbiyah after Israeli forces withdrew.\nIts almost as if diplomacy does work…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-21T09:37:16+00:00",
    "has_media": true
-  },
-  {
-   "id": "4fd4af2568e77f32dc13424e53efb2a0",
-   "url": "https://t.me/warmonitors/45070",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Iranians continue to launch missiles at Jordan and the Gulf states\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-21T09:37:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ca04cbb26824adc2061807a2e52d309e",
-   "url": "https://t.me/warmonitors/45068",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nJordan says Iran launches another missile attack after an earlier one killed at least 2 U.S. forces there\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-20T20:12:15+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
