@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-22T00:12:41Z",
- "count": 41,
+ "generated_utc": "2026-07-22T03:46:33Z",
+ "count": 42,
  "items": [
+  {
+   "id": "563aca28d3840d6c24518647e6b4d6f1",
+   "url": "https://t.me/OSINTWarfare/5916",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The aftermath of U.S. airstrikes targeting the Bakhordian Base in Behbahan, Khuzestan Province.",
+   "timestamp": "2026-07-22T01:04:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cd45b11ee812ce69d784fac8562fd734",
+   "url": "https://t.me/OSINTWarfare/5914",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Tracers from anti-aircraft guns firing at the sky in Tehran.",
+   "timestamp": "2026-07-22T00:13:14+00:00",
+   "has_media": true
+  },
   {
    "id": "5859d6d420c325dc255da70688795aba",
    "url": "https://t.me/OSINTWarfare/5913",
@@ -162,15 +180,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nKuwait: Iran attacked water desalination facilities and power plants in the country\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-21T11:47:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "77ee094d7b21bd38a380e845bb98b97d",
-   "url": "https://t.me/OSINTWarfare/5894",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of a mix of short- and medium-range ballistic missiles, including Kheibar Shekan, Fattah-1, Qiam, and Fateh-313 missiles, along with Paveh cruise missiles and Shahed-136 loitering munitions, targeting U.S. military bases across the Gulf region during Wave 24 of Operation Nasr 2.",
-   "timestamp": "2026-07-21T10:03:22+00:00",
    "has_media": false
   },
   {
