@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-21T23:24:53Z",
- "count": 42,
+ "generated_utc": "2026-07-22T00:12:41Z",
+ "count": 41,
  "items": [
+  {
+   "id": "5859d6d420c325dc255da70688795aba",
+   "url": "https://t.me/OSINTWarfare/5913",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the aftermath of ATACMS ballistic missile strikes on Behbahan, southwestern Iran.",
+   "timestamp": "2026-07-21T23:41:44+00:00",
+   "has_media": false
+  },
+  {
+   "id": "00ac80607bd2543eada09fddf9a3b9fa",
+   "url": "https://t.me/OSINTWarfare/5911",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Loud explosions are being heard in Tabriz, northwestern Iran, as U.S. airstrikes continue.",
+   "timestamp": "2026-07-21T23:27:43+00:00",
+   "has_media": true
+  },
   {
    "id": "9654743d621fc39c469103d4dc609463",
    "url": "https://t.me/OSINTWarfare/5910",
@@ -172,33 +190,6 @@
    "text": "⚡\nThe Iranians continue to launch missiles at Jordan and the Gulf states\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-21T09:37:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "624ffedc59fe50f5207c05746524256e",
-   "url": "https://t.me/OSINTWarfare/5893",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports have emerged of Iranian troop deployments in Khuzestan Province near the Iraqi border and the border with Kuwait. Although Iraq separates Iran and Kuwait by roughly 50 km, some people have started making stupid claims that Iran is preparing for a ground assault on Kuwait.\nThat's simply not realistic. Iran is preparing for all possible scenarios, including a potential U.S.-led ground invasion through Iraq or Kuwait. That's why there has been a noticeable buildup of troops along its western frontier, not because it's planning to invade Kuwait.",
-   "timestamp": "2026-07-20T23:20:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "23ad1151064d3106a6674bd8fdb035c3",
-   "url": "https://t.me/OSINTWarfare/5892",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Republic of Iran Ground Forces has released footage showing the launch of ballistic missiles targeting U.S. Army M142 HIMARS positions at Camp Arifjan, Kuwait.",
-   "timestamp": "2026-07-20T23:01:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "60c6372c18c780e5efad2a1aae997d93",
-   "url": "https://t.me/OSINTWarfare/5891",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the moment U.S. Navy aircraft carried out airstrikes on Imam Ali Air Base in Chabahar, Sistan and Baluchestan Province, southern Iran.",
-   "timestamp": "2026-07-20T22:26:47+00:00",
-   "has_media": true
   },
   {
    "id": "ca04cbb26824adc2061807a2e52d309e",
