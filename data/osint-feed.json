@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-22T10:51:31Z",
- "count": 40,
+ "generated_utc": "2026-07-22T12:19:32Z",
+ "count": 42,
  "items": [
+  {
+   "id": "070578935b6abd2a6ab60923a87a5f87",
+   "url": "https://t.me/OSINTWarfare/5926",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Ghadr (Qadr) and Kheibar Shekan medium-range ballistic missiles, as well as Shahed-136 loitering munitions, targeting U.S. military installations in Jordan.",
+   "timestamp": "2026-07-22T11:13:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "51345598eee8efc866118e4a99f233b1",
+   "url": "https://t.me/OSINTWarfare/5925",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to the IRGC, its strikes on the King Faisal and Prince Hassan Air Bases destroyed multiple U.S. drones and caused significant damage to military infrastructure.\nThe IRGC claims it struck an F-15 preparation hangar, destroyed a drone preparation hangar containing eight brand-new MQ-9A unmanned combat aerial vehicles (UCAVs) that were still in their packaging and had not yet been assembled for service, and heavily damaged two additional drones positioned outside the hangar.\nThe IRGC also says it hit a helicopter maintenance hangar, causing major damage to two heavy U.S. helicopters, and struck accommodation facilities, killing and injuring several personnel.",
+   "timestamp": "2026-07-22T11:07:02+00:00",
+   "has_media": false
+  },
   {
    "id": "a77b0d8ce3fe8eb95587c4f914e35df0",
    "url": "https://t.me/OSINTWarfare/5922",
