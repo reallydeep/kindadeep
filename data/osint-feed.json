@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-22T23:51:51Z",
+ "generated_utc": "2026-07-23T01:26:34Z",
  "count": 40,
  "items": [
+  {
+   "id": "6904f529f7e653841f15c510606a6bef",
+   "url": "https://t.me/OSINTWarfare/5930",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy fighting has erupted in Yemen between Ansar Allah (Houthis) and the Saudi-backed Yemeni forces, with clashes reported across multiple frontlines.",
+   "timestamp": "2026-07-23T00:07:36+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0ba487c3fa1dc6f7f488d57263fd22d4",
+   "url": "https://t.me/OSINTWarfare/5929",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s Ansar Allah (Houthis) announced that they targeted the Saudi oil tankers ENCELIA and LAYLA with ballistic missiles and drones.",
+   "timestamp": "2026-07-22T23:59:02+00:00",
+   "has_media": false
+  },
   {
    "id": "8d10169197f9c2f23b20cca847796f53",
    "url": "https://t.me/warmonitors/45097",
@@ -154,24 +172,6 @@
    "text": "Loud explosions are being heard in Tabriz, northwestern Iran, as U.S. airstrikes continue.",
    "timestamp": "2026-07-21T23:27:43+00:00",
    "has_media": true
-  },
-  {
-   "id": "9654743d621fc39c469103d4dc609463",
-   "url": "https://t.me/OSINTWarfare/5910",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.",
-   "timestamp": "2026-07-21T23:20:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a9b13dc22a25a183bcd25e218cc1cb2b",
-   "url": "https://t.me/OSINTWarfare/5909",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Possible M57 ATACMS tactical ballistic missiles launched by the U.S. Army from Kuwait targeted the cities of Bandar-e Mahshahr and Behbahan in Khuzestan Province, southwestern Iran.",
-   "timestamp": "2026-07-21T23:18:13+00:00",
-   "has_media": false
   },
   {
    "id": "53ee8186d365a4f4ee775abea6e8c6c2",
