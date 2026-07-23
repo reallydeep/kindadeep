@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-07-23T12:57:56Z",
- "count": 41,
+ "generated_utc": "2026-07-23T15:04:03Z",
+ "count": 44,
  "items": [
+  {
+   "id": "c785c0c82f057b9029338fb4b1b64d03",
+   "url": "https://t.me/OSINTWarfare/5936",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Qiam-1 and Fattah-1 medium-range ballistic missiles, along with Shahed-136, Shahed-238, and Shahed-107 loitering munitions targeting U.S. military installations across the region.",
+   "timestamp": "2026-07-23T15:01:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4114236143ebed3e3a77a057f99a17f8",
+   "url": "https://t.me/OSINTWarfare/5934",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "New Russian military vehicles that recently arrived in the Sahel aboard a Russian cargo ship docking in Lomé, Togo, have been observed moving toward Mali to reinforce the Africa Corps.\nAmong the vehicles identified are several Tigr-M GAZ-233114 multipurpose armored vehicles, MAZ-6317 and Ural-4320 trucks, as well as one BTR-82A armored personnel carrier and one BMP-3 infantry fighting vehicle.",
+   "timestamp": "2026-07-23T14:43:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b02a475d7d25556314a9ae36eb1ef5f3",
+   "url": "https://t.me/OSINTWarfare/5933",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Prototypes of the French Thundart Multiple Launch Rocket System (MLRS) will undergo testing in Ukraine.\nThe system is being developed by MBDA and Safran to replace the aging M270 LRU (Lance-Roquettes Unitaire), the French variant of the American M270.\nThe Thundart's rockets are compatible with the M270 LRU, although their full specifications have not yet been disclosed. The only confirmed detail is a range of 150 km, with plans to increase it to 500 km in the future.\nSafran is expected to integrate the same guidance system used in the AASM Hammer family of precision-guided air-to-ground bombs into the rocket.\nThe launcher is mounted on a Scania 8×8 truck chassis equipped with a rotating launcher mount.",
+   "timestamp": "2026-07-23T14:02:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d0a86a4f993b87f0337e4370c58c89a5",
+   "url": "https://t.me/warmonitors/45100",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nTrump says Saudi nuclear agreement requires the kingdom to normalize relations with Israel through the Abraham Accords\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-23T13:42:18+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7a5fc41c43ec98745b12ec533ee4c4e6",
+   "url": "https://t.me/warmonitors/45099",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nKuwait's military says drones attacked its border crossing with Iraq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-23T13:42:15+00:00",
+   "has_media": false
+  },
   {
    "id": "abe597f78b7e1a76daeedb88e30651ec",
    "url": "https://t.me/OSINTWarfare/5932",
@@ -163,24 +208,6 @@
    "text": "The aftermath of U.S. airstrikes targeting the Bakhordian Base in Behbahan, Khuzestan Province.",
    "timestamp": "2026-07-22T01:04:02+00:00",
    "has_media": true
-  },
-  {
-   "id": "cd45b11ee812ce69d784fac8562fd734",
-   "url": "https://t.me/OSINTWarfare/5914",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Tracers from anti-aircraft guns firing at the sky in Tehran.",
-   "timestamp": "2026-07-22T00:13:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5859d6d420c325dc255da70688795aba",
-   "url": "https://t.me/OSINTWarfare/5913",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the aftermath of ATACMS ballistic missile strikes on Behbahan, southwestern Iran.",
-   "timestamp": "2026-07-21T23:41:44+00:00",
-   "has_media": false
   },
   {
    "id": "53ee8186d365a4f4ee775abea6e8c6c2",
