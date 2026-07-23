@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-23T22:34:24Z",
- "count": 44,
+ "generated_utc": "2026-07-23T23:31:21Z",
+ "count": 45,
  "items": [
+  {
+   "id": "bbfe493be871c44e74b694e166c1582f",
+   "url": "https://t.me/OSINTWarfare/5941",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of U.S. Air Force airstrikes on Ahvaz.",
+   "timestamp": "2026-07-23T23:21:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c7816c82e5b19d233dd79b694910ff0c",
+   "url": "https://t.me/warmonitors/45105",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nA woman has died from wounds sustained in an Israeli airstrike on a residential apartment on Al-Jalaa Street in Gaza City.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-23T22:57:15+00:00",
+   "has_media": false
+  },
   {
    "id": "cfe2de6a14d1bb4c95e415f57cd21e3c",
    "url": "https://t.me/warmonitors/45104",
@@ -217,15 +235,6 @@
    "text": "⚡\nJordanian Army: 6 missiles were launched\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-22T09:27:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "75522be4fe42aff195f48b92e01ac049",
-   "url": "https://t.me/OSINTWarfare/5920",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian drones struck two Wildberries (Russia's Amazon) warehouses in the cities of Nevinnomyssk and Krasnodar, triggering massive fires.",
-   "timestamp": "2026-07-22T08:20:56+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
