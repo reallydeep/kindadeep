@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-23T11:29:01Z",
+ "generated_utc": "2026-07-23T12:57:56Z",
  "count": 41,
  "items": [
+  {
+   "id": "abe597f78b7e1a76daeedb88e30651ec",
+   "url": "https://t.me/OSINTWarfare/5932",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC Aerospace Force has released footage showing the launch of Ghadr (Qadr), Emad, Kheibar Shekan, Fattah-1, and Haj Qassem medium-range ballistic missiles, as well as Shahed-136 loitering munitions and Paveh cruise missiles, targeting U.S. military installations in Jordan and Kuwait.\n@IntelSlava",
+   "timestamp": "2026-07-23T12:10:39+00:00",
+   "has_media": false
+  },
   {
    "id": "64841f92fd979c86d2d87bc7881efa93",
    "url": "https://t.me/warmonitors/45098",
@@ -172,15 +181,6 @@
    "text": "Footage shows the aftermath of ATACMS ballistic missile strikes on Behbahan, southwestern Iran.",
    "timestamp": "2026-07-21T23:41:44+00:00",
    "has_media": false
-  },
-  {
-   "id": "00ac80607bd2543eada09fddf9a3b9fa",
-   "url": "https://t.me/OSINTWarfare/5911",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Loud explosions are being heard in Tabriz, northwestern Iran, as U.S. airstrikes continue.",
-   "timestamp": "2026-07-21T23:27:43+00:00",
-   "has_media": true
   },
   {
    "id": "53ee8186d365a4f4ee775abea6e8c6c2",
