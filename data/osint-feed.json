@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-24T15:50:42Z",
- "count": 42,
+ "generated_utc": "2026-07-24T17:18:05Z",
+ "count": 43,
  "items": [
+  {
+   "id": "5403416f6465c9494af831295c9751c1",
+   "url": "https://t.me/OSINTWarfare/5950",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Zolfaghar short-range ballistic missiles (SRBMs), along with a Paveh cruise missile, during the 27th wave of Operation Nasr 2, targeting U.S. military installations across the region.",
+   "timestamp": "2026-07-24T17:16:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4fffcec7607cb5adf939208b42f79f19",
+   "url": "https://t.me/warmonitors/45110",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nWall Street Journal report: Kuwait and Bahrain attacked Iran earlier this month. Targets: missile depots and drones.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-24T16:52:16+00:00",
+   "has_media": false
+  },
   {
    "id": "ebf788d836565e063c8a0726daa9e672",
    "url": "https://t.me/warmonitors/45108",
@@ -163,15 +181,6 @@
    "text": "⚡\nThe U.S. military used a B-1 long-range bomber on Tuesday to strike Islamic Revolutionary Guard Corps targets in Iran, U.S. officials said.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-23T06:37:15+00:00",
    "has_media": true
-  },
-  {
-   "id": "6904f529f7e653841f15c510606a6bef",
-   "url": "https://t.me/OSINTWarfare/5930",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy fighting has erupted in Yemen between Ansar Allah (Houthis) and the Saudi-backed Yemeni forces, with clashes reported across multiple frontlines.",
-   "timestamp": "2026-07-23T00:07:36+00:00",
-   "has_media": false
   },
   {
    "id": "8d10169197f9c2f23b20cca847796f53",
