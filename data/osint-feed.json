@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-23T23:31:21Z",
- "count": 45,
+ "generated_utc": "2026-07-24T01:00:45Z",
+ "count": 46,
  "items": [
+  {
+   "id": "727bded2a34503d59137f015c62e9977",
+   "url": "https://t.me/OSINTWarfare/5946",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of the aftermath of a U.S. airstrike on Jask, Hormozgan Province, southern Iran.",
+   "timestamp": "2026-07-24T00:32:24+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b4a27296780d438399eebbdc34669cbf",
+   "url": "https://t.me/OSINTWarfare/5945",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of an explosion at the port of Konarak in Sistan and Baluchestan Province, southeastern Iran.",
+   "timestamp": "2026-07-24T00:28:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "bc6e1a8e609bc9d99ee7e57ac1518447",
+   "url": "https://t.me/OSINTWarfare/5944",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Air Force (USAF) conducted airstrikes on Yazd in central Iran.",
+   "timestamp": "2026-07-24T00:27:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0442a223aaa4a5e5389dc6633497a558",
+   "url": "https://t.me/OSINTWarfare/5942",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of U.S. Air Force airstrikes on Ahvaz.",
+   "timestamp": "2026-07-23T23:41:00+00:00",
+   "has_media": true
+  },
   {
    "id": "bbfe493be871c44e74b694e166c1582f",
    "url": "https://t.me/OSINTWarfare/5941",
@@ -189,33 +225,6 @@
    "channel": "OSINTWarfare",
    "text": "Brigadier General Abolfazl Shekarchi, spokesperson for the Armed Forces of the Islamic Republic of Iran, stated that ballistic missile production continued uninterrupted throughout the 40-Day War (Ramadan War), including after the ceasefire agreement was breached.\nHe also said that, despite the United States employing its full range of intelligence-gathering capabilities, it remains unable to locate Iran's ballistic missile production facilities.",
    "timestamp": "2026-07-22T12:32:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "070578935b6abd2a6ab60923a87a5f87",
-   "url": "https://t.me/OSINTWarfare/5926",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Ghadr (Qadr) and Kheibar Shekan medium-range ballistic missiles, as well as Shahed-136 loitering munitions, targeting U.S. military installations in Jordan.",
-   "timestamp": "2026-07-22T11:13:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "51345598eee8efc866118e4a99f233b1",
-   "url": "https://t.me/OSINTWarfare/5925",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to the IRGC, its strikes on the King Faisal and Prince Hassan Air Bases destroyed multiple U.S. drones and caused significant damage to military infrastructure.\nThe IRGC claims it struck an F-15 preparation hangar, destroyed a drone preparation hangar containing eight brand-new MQ-9A unmanned combat aerial vehicles (UCAVs) that were still in their packaging and had not yet been assembled for service, and heavily damaged two additional drones positioned outside the hangar.\nThe IRGC also says it hit a helicopter maintenance hangar, causing major damage to two heavy U.S. helicopters, and struck accommodation facilities, killing and injuring several personnel.",
-   "timestamp": "2026-07-22T11:07:02+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a77b0d8ce3fe8eb95587c4f914e35df0",
-   "url": "https://t.me/OSINTWarfare/5922",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery shows the complete destruction of the U.S. AN/FPS-117 long-range 3D air surveillance and early warning radar at Ahmad al-Jaber Air Base in Kuwait.",
-   "timestamp": "2026-07-22T09:51:16+00:00",
    "has_media": true
   },
   {
