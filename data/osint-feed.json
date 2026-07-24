@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-24T20:04:15Z",
- "count": 42,
+ "generated_utc": "2026-07-24T21:15:12Z",
+ "count": 43,
  "items": [
+  {
+   "id": "10ec023212e49da886387b143a127219",
+   "url": "https://t.me/OSINTWarfare/5957",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a surface-to-air missile (SAM) fired by Ansar Allah at a Royal Saudi Air Force (RSAF) fighter jet operating over Yemeni airspace.",
+   "timestamp": "2026-07-24T20:56:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b9d9452aea056eee634e4404507d67a5",
+   "url": "https://t.me/OSINTWarfare/5956",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Aftermath of Saudi airstrikes that struck fuel storage tanks at the Port of Hodeidah.",
+   "timestamp": "2026-07-24T20:27:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a5105a4fa939b634cb7e6675413b22a7",
+   "url": "https://t.me/OSINTWarfare/5955",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of Royal Saudi Air Force (RSAF) airstrikes targeting Yemen's Kamaran Island.",
+   "timestamp": "2026-07-24T20:27:01+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4e2e2886d241081439a6c2d723354fa9",
+   "url": "https://t.me/OSINTWarfare/5954",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Royal Saudi Air Force (RSAF) carried out several airstrikes on the Houthi-controlled Port of Hodeidah in western Yemen.",
+   "timestamp": "2026-07-24T20:13:21+00:00",
+   "has_media": true
+  },
   {
    "id": "2377c41e68abda8b71b7b5f293b98c5d",
    "url": "https://t.me/OSINTWarfare/5953",
@@ -138,24 +174,6 @@
    "has_media": false
   },
   {
-   "id": "c785c0c82f057b9029338fb4b1b64d03",
-   "url": "https://t.me/OSINTWarfare/5936",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Qiam-1 and Fattah-1 medium-range ballistic missiles, along with Shahed-136, Shahed-238, and Shahed-107 loitering munitions targeting U.S. military installations across the region.",
-   "timestamp": "2026-07-23T15:01:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4114236143ebed3e3a77a057f99a17f8",
-   "url": "https://t.me/OSINTWarfare/5934",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "New Russian military vehicles that recently arrived in the Sahel aboard a Russian cargo ship docking in Lomé, Togo, have been observed moving toward Mali to reinforce the Africa Corps.\nAmong the vehicles identified are several Tigr-M GAZ-233114 multipurpose armored vehicles, MAZ-6317 and Ural-4320 trucks, as well as one BTR-82A armored personnel carrier and one BMP-3 infantry fighting vehicle.",
-   "timestamp": "2026-07-23T14:43:36+00:00",
-   "has_media": true
-  },
-  {
    "id": "d0a86a4f993b87f0337e4370c58c89a5",
    "url": "https://t.me/warmonitors/45100",
    "source": "telegram",
@@ -198,15 +216,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#UPDATE\nExplosions reported in Iran's southern port city of Sirik\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-22T21:37:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4c6294e1bc4ae006f719fb92d0cb0d6d",
-   "url": "https://t.me/warmonitors/45094",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump: We're hitting Iran very hard, and they want to make a deal. But I say, 'They're not ready to make a deal yet.' Soon they will be.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-22T19:57:16+00:00",
    "has_media": false
   },
   {
