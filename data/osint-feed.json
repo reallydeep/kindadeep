@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-24T23:18:00Z",
- "count": 44,
+ "generated_utc": "2026-07-25T00:16:19Z",
+ "count": 45,
  "items": [
+  {
+   "id": "b1fc0eef567e8d257cdfc38bea59c23a",
+   "url": "https://t.me/OSINTWarfare/5960",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "India's Ministry of Defence has announced the first-ever flight test of the indigenous Kusha long-range surface-to-air missile (LR-SAM), conducted at the Abdul Kalam Island test range.\nThe Kusha M1 variant will have a range of up to 150 km, while the M2 and M3 variants are expected to achieve ranges of 250 km and 350 km, respectively.\nThe Kusha air defense system will also feature two indigenous AESA (Active Electronically Scanned Array) radars, one for target detection and another for missile guidance.\nDeployment of the Kusha M1 system is currently projected to begin in 2028.",
+   "timestamp": "2026-07-24T23:56:46+00:00",
+   "has_media": true
+  },
   {
    "id": "2e6b13e8a8254daab4e530fb71d4acf0",
    "url": "https://t.me/OSINTWarfare/5959",
