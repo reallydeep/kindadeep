@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-25T22:10:35Z",
+ "generated_utc": "2026-07-25T23:12:51Z",
  "count": 44,
  "items": [
+  {
+   "id": "b2b6fbf826baec8e2e12aff411cd814a",
+   "url": "https://t.me/OSINTWarfare/5977",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Royal Saudi Air Force (RSAF) fighter jets can be heard flying over Al Jawf Governorate, where fighting is ongoing between Ansar Allah (Houthis) and Saudi-backed tribal fighters.",
+   "timestamp": "2026-07-25T23:04:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2f49e9128a958f2865589002ec2fc106",
+   "url": "https://t.me/OSINTWarfare/5976",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force (IAF) carried out an airstrike on the outskirts of Nabatieh Al-Fawqa, southern Lebanon.",
+   "timestamp": "2026-07-25T22:17:02+00:00",
+   "has_media": true
+  },
   {
    "id": "cdd5c4deab026f94cb3a7da3e26e1be1",
    "url": "https://t.me/OSINTWarfare/5975",
@@ -136,24 +154,6 @@
    "text": "Footage shows a surface-to-air missile (SAM) fired by Ansar Allah at a Royal Saudi Air Force (RSAF) fighter jet operating over Yemeni airspace.",
    "timestamp": "2026-07-24T20:56:10+00:00",
    "has_media": true
-  },
-  {
-   "id": "b9d9452aea056eee634e4404507d67a5",
-   "url": "https://t.me/OSINTWarfare/5956",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Aftermath of Saudi airstrikes that struck fuel storage tanks at the Port of Hodeidah.",
-   "timestamp": "2026-07-24T20:27:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a5105a4fa939b634cb7e6675413b22a7",
-   "url": "https://t.me/OSINTWarfare/5955",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of Royal Saudi Air Force (RSAF) airstrikes targeting Yemen's Kamaran Island.",
-   "timestamp": "2026-07-24T20:27:01+00:00",
-   "has_media": false
   },
   {
    "id": "4fffcec7607cb5adf939208b42f79f19",
