@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-25T12:12:55Z",
- "count": 43,
+ "generated_utc": "2026-07-25T14:01:45Z",
+ "count": 42,
  "items": [
+  {
+   "id": "1780dfe3d740d2184a0a4ac93b9b798d",
+   "url": "https://t.me/OSINTWarfare/5964",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Plumes of smoke continue to rise from Saudi Aramco's Jazan oil refinery following Ansar Allah's (Houthis) overnight ballistic missile strike.\nAnsar Allah, unlike Iran, simply doesn't make political calculations. They're not like, \"This will piss them off,\" or whatever, they just go straight for the goods.",
+   "timestamp": "2026-07-25T12:14:31+00:00",
+   "has_media": true
+  },
   {
    "id": "ebcd5ae0d6c234c953554dc883f63fec",
    "url": "https://t.me/warmonitors/45117",
@@ -135,24 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage of the aftermath of a U.S. airstrike on Jask, Hormozgan Province, southern Iran.",
    "timestamp": "2026-07-24T00:32:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b4a27296780d438399eebbdc34669cbf",
-   "url": "https://t.me/OSINTWarfare/5945",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of an explosion at the port of Konarak in Sistan and Baluchestan Province, southeastern Iran.",
-   "timestamp": "2026-07-24T00:28:46+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bc6e1a8e609bc9d99ee7e57ac1518447",
-   "url": "https://t.me/OSINTWarfare/5944",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Air Force (USAF) conducted airstrikes on Yazd in central Iran.",
-   "timestamp": "2026-07-24T00:27:19+00:00",
    "has_media": true
   },
   {
