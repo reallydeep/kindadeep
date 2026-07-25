@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-25T20:25:00Z",
- "count": 43,
+ "generated_utc": "2026-07-25T21:13:33Z",
+ "count": 44,
  "items": [
+  {
+   "id": "4d47412a645925240264cb661507a514",
+   "url": "https://t.me/OSINTWarfare/5971",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.  So far, four Saudi-backed Al-Juayd fighters have been killed, with their identities…",
+   "timestamp": "2026-07-25T20:51:23+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f0eee8dbeb57b44dc79c46f3eff046ec",
+   "url": "https://t.me/OSINTWarfare/5969",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.\nSo far, four Saudi-backed Al-Juayd fighters have been killed, with their identities already released.",
+   "timestamp": "2026-07-25T20:51:12+00:00",
+   "has_media": true
+  },
   {
    "id": "e4754dbddf97f61857c3a2863b297d88",
    "url": "https://t.me/OSINTWarfare/5968",
@@ -136,15 +154,6 @@
    "text": "Reports of Saudi airstrikes on Houthi-controlled Hodeidah city, Yemen.",
    "timestamp": "2026-07-24T19:53:46+00:00",
    "has_media": false
-  },
-  {
-   "id": "5403416f6465c9494af831295c9751c1",
-   "url": "https://t.me/OSINTWarfare/5950",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Zolfaghar short-range ballistic missiles (SRBMs), along with a Paveh cruise missile, during the 27th wave of Operation Nasr 2, targeting U.S. military installations across the region.",
-   "timestamp": "2026-07-24T17:16:19+00:00",
-   "has_media": true
   },
   {
    "id": "4fffcec7607cb5adf939208b42f79f19",
