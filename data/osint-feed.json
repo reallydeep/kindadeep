@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-25T21:13:33Z",
+ "generated_utc": "2026-07-25T22:10:35Z",
  "count": 44,
  "items": [
+  {
+   "id": "cdd5c4deab026f94cb3a7da3e26e1be1",
+   "url": "https://t.me/OSINTWarfare/5975",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
+   "timestamp": "2026-07-25T22:06:36+00:00",
+   "has_media": false
+  },
+  {
+   "id": "29750f20af50ffb825c3b65172139146",
+   "url": "https://t.me/OSINTWarfare/5974",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
+   "timestamp": "2026-07-25T21:17:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "34cf85f3019b0dcd91c3c34365d8bdbf",
+   "url": "https://t.me/OSINTWarfare/5973",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.  So far, four Saudi-backed Al-Juayd fighters have been killed, with their identities…",
+   "timestamp": "2026-07-25T21:14:31+00:00",
+   "has_media": true
+  },
   {
    "id": "4d47412a645925240264cb661507a514",
    "url": "https://t.me/OSINTWarfare/5971",
@@ -126,33 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of Royal Saudi Air Force (RSAF) airstrikes targeting Yemen's Kamaran Island.",
    "timestamp": "2026-07-24T20:27:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4e2e2886d241081439a6c2d723354fa9",
-   "url": "https://t.me/OSINTWarfare/5954",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Royal Saudi Air Force (RSAF) carried out several airstrikes on the Houthi-controlled Port of Hodeidah in western Yemen.",
-   "timestamp": "2026-07-24T20:13:21+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2377c41e68abda8b71b7b5f293b98c5d",
-   "url": "https://t.me/OSINTWarfare/5953",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of Saudi airstrikes on Houthi-controlled Hodeidah city, Yemen.",
-   "timestamp": "2026-07-24T20:02:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e291bc535268cb3374059dcc1eb7b599",
-   "url": "https://t.me/OSINTWarfare/5952",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of Saudi airstrikes on Houthi-controlled Hodeidah city, Yemen.",
-   "timestamp": "2026-07-24T19:53:46+00:00",
    "has_media": false
   },
   {
