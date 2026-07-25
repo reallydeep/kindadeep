@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-25T00:16:19Z",
- "count": 45,
+ "generated_utc": "2026-07-25T03:39:14Z",
+ "count": 44,
  "items": [
   {
    "id": "b1fc0eef567e8d257cdfc38bea59c23a",
@@ -144,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage of U.S. Air Force airstrikes on Ahvaz.",
    "timestamp": "2026-07-23T23:41:00+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bbfe493be871c44e74b694e166c1582f",
-   "url": "https://t.me/OSINTWarfare/5941",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of U.S. Air Force airstrikes on Ahvaz.",
-   "timestamp": "2026-07-23T23:21:14+00:00",
    "has_media": true
   },
   {
