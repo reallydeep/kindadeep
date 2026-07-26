@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-26T18:36:49Z",
+ "generated_utc": "2026-07-26T19:47:14Z",
  "count": 43,
  "items": [
+  {
+   "id": "764162221edfb30f15c515e43b136c9f",
+   "url": "https://t.me/OSINTWarfare/5989",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) operated by the Royal Saudi Air Force (RSAF) over Al Jawf Governorate.",
+   "timestamp": "2026-07-26T19:12:48+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a65d654da681396699edde6ae174c45f",
+   "url": "https://t.me/OSINTWarfare/5988",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The cargo ship\nGOLDEN LEO\n, which was reportedly struck by three Russian Kh-59/Kh-69 cruise missiles last week, is now believed to have sunk.",
+   "timestamp": "2026-07-26T19:07:25+00:00",
+   "has_media": true
+  },
   {
    "id": "87ad29dc5cd6a713eaf5247e8d87dfad",
    "url": "https://t.me/warmonitors/45121",
@@ -120,15 +138,6 @@
    "has_media": true
   },
   {
-   "id": "e4754dbddf97f61857c3a2863b297d88",
-   "url": "https://t.me/OSINTWarfare/5968",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An unidentified UAV (drone) crashed near the residence of Israeli National Security Minister Itamar Ben-Gvir in Hebron.\nThe drone is believed to have been a commercial model, with no indication that the incident was an assassination attempt or a deliberate attack.",
-   "timestamp": "2026-07-25T20:22:26+00:00",
-   "has_media": false
-  },
-  {
    "id": "effa8337f49f2f3d6c965ca35f109a20",
    "url": "https://t.me/warmonitors/45118",
    "source": "telegram",
@@ -136,15 +145,6 @@
    "text": "⚡\n#UPDATE\nTrump ordered U.S military not to conduct strikes in Iran Friday — Axios\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-25T18:12:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "2763fcf05bacdae96a654c6aea9f9aa4",
-   "url": "https://t.me/OSINTWarfare/5967",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine's 1st Corps of the National Guard's Azov Brigade destroyed a Russian 300mm Sarma multiple launch rocket system (MLRS) in Donetsk.\nThe system had been deployed to support a Russian mechanized assault on the Dobropillia axis on July 22, involving elements of the 8th and 41st Combined Arms Armies, as well as the 90th Tank Division.",
-   "timestamp": "2026-07-25T15:56:10+00:00",
-   "has_media": true
   },
   {
    "id": "ebcd5ae0d6c234c953554dc883f63fec",
