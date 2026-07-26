@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-25T23:12:51Z",
+ "generated_utc": "2026-07-26T00:13:07Z",
  "count": 44,
  "items": [
+  {
+   "id": "a1955466d4eb5115e629e4104472e47a",
+   "url": "https://t.me/OSINTWarfare/5978",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage allegedly shows a pickup truck belonging to Ansar Allah (Houthis) fighters burning in Al Yatamah village, Al Jawf Governorate, Yemen.\nPro-Presidential Leadership Council (PLC) sources claim that Al-Juayd tribal fighters captured the Al-Muhayr checkpoint, forcing Ansar Allah fighters to withdraw.",
+   "timestamp": "2026-07-25T23:35:39+00:00",
+   "has_media": false
+  },
   {
    "id": "b2b6fbf826baec8e2e12aff411cd814a",
    "url": "https://t.me/OSINTWarfare/5977",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows the impact of an Iranian ballistic missile in Manama, Bahrain.",
    "timestamp": "2026-07-24T21:54:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "10ec023212e49da886387b143a127219",
-   "url": "https://t.me/OSINTWarfare/5957",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a surface-to-air missile (SAM) fired by Ansar Allah at a Royal Saudi Air Force (RSAF) fighter jet operating over Yemeni airspace.",
-   "timestamp": "2026-07-24T20:56:10+00:00",
    "has_media": true
   },
   {
