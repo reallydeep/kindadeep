@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-26T22:34:10Z",
+ "generated_utc": "2026-07-26T23:32:59Z",
  "count": 40,
  "items": [
+  {
+   "id": "e35115fe1dc4465dc2d4c28ab50a131e",
+   "url": "https://t.me/OSINTWarfare/5990",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "For the second consecutive night, clashes have erupted between pro-Presidential Leadership Council (PLC) tribal fighters and Ansar Allah (Houthis) in Al Jawf Governorate.\nAccording to PLC sources, Ansar Allah fighters killed Abdullah Al-Wahasi and wounded Fa'al Al-Tawil of the Al-Wahas tribe at the Qarn Bin Shaman checkpoint in Wadi Al-Qa'if. The fighting began in Wadi Al-Qa'if before spreading to Al Yatamah.",
+   "timestamp": "2026-07-26T23:07:26+00:00",
+   "has_media": true
+  },
   {
    "id": "764162221edfb30f15c515e43b136c9f",
    "url": "https://t.me/OSINTWarfare/5989",
@@ -127,15 +136,6 @@
    "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.  So far, four Saudi-backed Al-Juayd fighters have been killed, with their identities…",
    "timestamp": "2026-07-25T20:51:23+00:00",
    "has_media": false
-  },
-  {
-   "id": "f0eee8dbeb57b44dc79c46f3eff046ec",
-   "url": "https://t.me/OSINTWarfare/5969",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.\nSo far, four Saudi-backed Al-Juayd fighters have been killed, with their identities already released.",
-   "timestamp": "2026-07-25T20:51:12+00:00",
-   "has_media": true
   },
   {
    "id": "effa8337f49f2f3d6c965ca35f109a20",
