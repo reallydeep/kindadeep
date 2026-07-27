@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-27T22:43:29Z",
+ "generated_utc": "2026-07-27T23:45:35Z",
  "count": 40,
  "items": [
+  {
+   "id": "1770f28c8c0a65b4862f170ae3c8c069",
+   "url": "https://t.me/OSINTWarfare/6000",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lasar's Group Special Purpose Detachment of the National Guard of Ukraine has released footage showing strikes on a 9A317M TELAR of a Buk-M3 surface-to-air missile system, as well as a 9A83 TELAR of an S-300V surface-to-air missile system, on the Kostiantynivka axis in Donetsk Oblast.\nTELAR = Transporter Erector Launcher and Radar",
+   "timestamp": "2026-07-27T23:30:33+00:00",
+   "has_media": true
+  },
   {
    "id": "32c678f0154777b960f10f75f6a19bd6",
    "url": "https://t.me/OSINTWarfare/5999",
@@ -153,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) operated by the Royal Saudi Air Force (RSAF) over Al Jawf Governorate.",
    "timestamp": "2026-07-26T11:32:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "79d7b097914beda9bb6adc58e2e26271",
-   "url": "https://t.me/OSINTWarfare/5979",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Additional footage from tonight's clashes between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters in Al Yatamah village.",
-   "timestamp": "2026-07-26T01:06:24+00:00",
    "has_media": true
   },
   {
