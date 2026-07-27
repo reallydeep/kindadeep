@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-27T20:40:40Z",
+ "generated_utc": "2026-07-27T21:48:01Z",
  "count": 40,
  "items": [
+  {
+   "id": "32c678f0154777b960f10f75f6a19bd6",
+   "url": "https://t.me/OSINTWarfare/5999",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian drone attack is underway in Erbil, Iraqi Kurdistan.",
+   "timestamp": "2026-07-27T20:48:16+00:00",
+   "has_media": false
+  },
   {
    "id": "4ba5d09ff8827c49d54e91b61a60405b",
    "url": "https://t.me/OSINTWarfare/5996",
@@ -154,15 +163,6 @@
    "text": "Additional footage from tonight's clashes between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters in Al Yatamah village.",
    "timestamp": "2026-07-26T01:06:24+00:00",
    "has_media": true
-  },
-  {
-   "id": "a1955466d4eb5115e629e4104472e47a",
-   "url": "https://t.me/OSINTWarfare/5978",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage allegedly shows a pickup truck belonging to Ansar Allah (Houthis) fighters burning in Al Yatamah village, Al Jawf Governorate, Yemen.\nPro-Presidential Leadership Council (PLC) sources claim that Al-Juayd tribal fighters captured the Al-Muhayr checkpoint, forcing Ansar Allah fighters to withdraw.",
-   "timestamp": "2026-07-25T23:35:39+00:00",
-   "has_media": false
   },
   {
    "id": "effa8337f49f2f3d6c965ca35f109a20",
