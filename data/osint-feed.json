@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-27T16:13:34Z",
- "count": 42,
+ "generated_utc": "2026-07-27T17:55:31Z",
+ "count": 40,
  "items": [
+  {
+   "id": "4ba5d09ff8827c49d54e91b61a60405b",
+   "url": "https://t.me/OSINTWarfare/5996",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, the Iraqi Armed Forces shot down an unidentified unmanned aerial vehicle (UAV) in the Muwailihah area, north of Babylon Governorate, southern Iraq.\nThere is considerable speculation regarding the UAV's identity, with some suggesting it could be a Chinese-made CH-4B or Wing Loong II operated by the Royal Saudi Air Force (RSAF).\nHowever, the wreckage appears to show a 4-blade composite pusher propeller, whereas both the CH-4B and Wing Loong II are equipped with 3-blade pusher propellers.\nBased on that detail, those two platforms seem unlikely. The only UAVs that come to mind with a 4-blade pusher propeller are the MQ-9B (SkyGuardian/SeaGuardian) and the MQ-9A Extended Range (ER).\nThe standard MQ-9A (Block 1/Block 5) uses a 3-blade propeller.",
+   "timestamp": "2026-07-27T17:22:40+00:00",
+   "has_media": true
+  },
   {
    "id": "9b7068c491ac9eeba9f266e673c5f4fb",
    "url": "https://t.me/warmonitors/45129",
@@ -153,33 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage allegedly shows a pickup truck belonging to Ansar Allah (Houthis) fighters burning in Al Yatamah village, Al Jawf Governorate, Yemen.\nPro-Presidential Leadership Council (PLC) sources claim that Al-Juayd tribal fighters captured the Al-Muhayr checkpoint, forcing Ansar Allah fighters to withdraw.",
    "timestamp": "2026-07-25T23:35:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b2b6fbf826baec8e2e12aff411cd814a",
-   "url": "https://t.me/OSINTWarfare/5977",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Royal Saudi Air Force (RSAF) fighter jets can be heard flying over Al Jawf Governorate, where fighting is ongoing between Ansar Allah (Houthis) and Saudi-backed tribal fighters.",
-   "timestamp": "2026-07-25T23:04:46+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2f49e9128a958f2865589002ec2fc106",
-   "url": "https://t.me/OSINTWarfare/5976",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) carried out an airstrike on the outskirts of Nabatieh Al-Fawqa, southern Lebanon.",
-   "timestamp": "2026-07-25T22:17:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cdd5c4deab026f94cb3a7da3e26e1be1",
-   "url": "https://t.me/OSINTWarfare/5975",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
-   "timestamp": "2026-07-25T22:06:36+00:00",
    "has_media": false
   },
   {
