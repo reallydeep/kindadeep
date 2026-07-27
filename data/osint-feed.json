@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-07-27T08:19:32Z",
- "count": 40,
+ "generated_utc": "2026-07-27T11:43:48Z",
+ "count": 41,
  "items": [
+  {
+   "id": "0a8db6f5da3b1a8b6f004dd0daad8521",
+   "url": "https://t.me/OSINTWarfare/5994",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On the night of July 25–26, 2026, operators from the Department of Unmanned Systems of the Main Directorate of Intelligence of Ukraine's Ministry of Defence (HUR) targeted a 5P85SE2 transporter-erector-launcher (TEL) and a 96L6 \"Cheese Board\" 3D early-warning and acquisition radar belonging to an S-400 air defense system in Crimea.\nIt remains unclear whether the radar was directly hit.",
+   "timestamp": "2026-07-27T10:58:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b57d63289df06c156ddf89f423ece09d",
+   "url": "https://t.me/OSINTWarfare/5993",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian drone struck a Kurdish opposition camp near the city of Koya in Erbil Governorate, Iraqi Kurdistan.",
+   "timestamp": "2026-07-27T10:43:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e25670d1217c542d6468d546df8cc5ac",
+   "url": "https://t.me/OSINTWarfare/5992",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "⚡️\n🇵🇸\n🇮🇱\nA massive archive of evidence showing Israeli war crimes committed over the past 3+ years is now  publicly available.\nThe archive is searchable, sorted by various tags, with incidents geolocated on a map. All media is downloadable. New evidence continues to be logged as mew incidents occur.\nWARNING: This is an extremely upsetting feed to scroll through.\nMAIN SITE\nhttps://archivegenocide.com/\nMIRROR SITES\nhttps://archivegenocide.is/\nhttps://archivegenocide.org/\n@medmannews",
+   "timestamp": "2026-07-27T10:34:41+00:00",
+   "has_media": false
+  },
   {
    "id": "84bf93e3a33e26f4e85cb3dd9c0aeb5e",
    "url": "https://t.me/warmonitors/45125",
@@ -126,24 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
    "timestamp": "2026-07-25T21:17:14+00:00",
-   "has_media": false
-  },
-  {
-   "id": "34cf85f3019b0dcd91c3c34365d8bdbf",
-   "url": "https://t.me/OSINTWarfare/5973",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.  So far, four Saudi-backed Al-Juayd fighters have been killed, with their identities…",
-   "timestamp": "2026-07-25T21:14:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4d47412a645925240264cb661507a514",
-   "url": "https://t.me/OSINTWarfare/5971",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy clashes are ongoing between Ansar Allah (Houthis) and Saudi-backed Al-Juayd tribal fighters at the Al-Muhayr checkpoint in Al Yatamah village, Al Jawf Governorate, Yemen.  So far, four Saudi-backed Al-Juayd fighters have been killed, with their identities…",
-   "timestamp": "2026-07-25T20:51:23+00:00",
    "has_media": false
   },
   {
