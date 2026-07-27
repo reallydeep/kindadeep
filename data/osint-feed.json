@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-27T11:43:48Z",
- "count": 41,
+ "generated_utc": "2026-07-27T13:58:13Z",
+ "count": 42,
  "items": [
+  {
+   "id": "a141317ce0b0397a25cf07f5eca6089f",
+   "url": "https://t.me/warmonitors/45126",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nSaudi Arabia says it shot down drones fired by Iran-backed militias in Iraq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-27T12:22:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "13b3a5022ca7be082498189bf8aa5433",
+   "url": "https://t.me/OSINTWarfare/5995",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇾🇪\n🇸🇦\n⚡️\n— Due to the Ansar Allah (Houthis) blockade, Saudi Arabia's oil exports fell by an estimated 50%, disrupting roughly 3–4 million barrels per day as shipments were delayed, rerouted, or unable to leave port.\n@IntelSlava",
+   "timestamp": "2026-07-27T12:04:32+00:00",
+   "has_media": false
+  },
   {
    "id": "0a8db6f5da3b1a8b6f004dd0daad8521",
    "url": "https://t.me/OSINTWarfare/5994",
@@ -144,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
    "timestamp": "2026-07-25T22:06:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "29750f20af50ffb825c3b65172139146",
-   "url": "https://t.me/OSINTWarfare/5974",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of 2 explosions in Bandar Abbas, southern Iran.",
-   "timestamp": "2026-07-25T21:17:14+00:00",
    "has_media": false
   },
   {
