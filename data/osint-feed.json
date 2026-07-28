@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-28T13:14:10Z",
- "count": 39,
+ "generated_utc": "2026-07-28T15:34:35Z",
+ "count": 38,
  "items": [
+  {
+   "id": "c75d1445397249376639003aef971d62",
+   "url": "https://t.me/OSINTWarfare/6009",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Interception of a Russian Geran-2 drone by a Ukrainian Air Force MiG-29MU1 Multirole Fighter near Mykolaiv.",
+   "timestamp": "2026-07-28T14:36:39+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d7a52068691f0d5b8c10508296733c1b",
+   "url": "https://t.me/OSINTWarfare/6008",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Syrian Democratic Forces (SDF) are withdrawing from all checkpoints in and around the city of Hasakah, as well as Mabdah in the Qamishli countryside, and are handing them over to the Syrian Internal Security Forces.\nMeanwhile, the Sotoro forces, the Syriac Military Council, and the Khabur Guards, formations affiliated with the Kurdish-led SDF, are being integrated into the Syrian Ministries of Interior and Defense.\nThe integration is being carried out on an individual basis, with officers retaining their current ranks.",
+   "timestamp": "2026-07-28T13:51:10+00:00",
+   "has_media": false
+  },
   {
    "id": "e73e02d7ce3ed59582d5d194e2558b0a",
    "url": "https://t.me/warmonitors/45137",
@@ -147,39 +165,12 @@
    "has_media": true
   },
   {
-   "id": "764162221edfb30f15c515e43b136c9f",
-   "url": "https://t.me/OSINTWarfare/5989",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) operated by the Royal Saudi Air Force (RSAF) over Al Jawf Governorate.",
-   "timestamp": "2026-07-26T19:12:48+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a65d654da681396699edde6ae174c45f",
-   "url": "https://t.me/OSINTWarfare/5988",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The cargo ship\nGOLDEN LEO\n, which was reportedly struck by three Russian Kh-59/Kh-69 cruise missiles last week, is now believed to have sunk.",
-   "timestamp": "2026-07-26T19:07:25+00:00",
-   "has_media": true
-  },
-  {
    "id": "87ad29dc5cd6a713eaf5247e8d87dfad",
    "url": "https://t.me/warmonitors/45121",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nIranian official tells Reuters: Iran will stop attacks as long as US upholds latest ceasefire, there is more skepticism than optimism [in Iran] following halt in US attacks on Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-26T13:57:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "effa8337f49f2f3d6c965ca35f109a20",
-   "url": "https://t.me/warmonitors/45118",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#UPDATE\nTrump ordered U.S military not to conduct strikes in Iran Friday — Axios\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-25T18:12:15+00:00",
    "has_media": false
   },
   {
