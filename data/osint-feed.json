@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-28T09:25:47Z",
- "count": 37,
+ "generated_utc": "2026-07-28T11:32:14Z",
+ "count": 38,
  "items": [
+  {
+   "id": "917027612355f962c3813a6ffc296802",
+   "url": "https://t.me/OSINTWarfare/6005",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian Navy officer's vehicle was targeted in an explosion this morning on Semen Palii Street in Odesa.\nAn explosive device had been placed beneath the front left wheel of the BMW X5 and detonated as the vehicle began moving.\nThe officer, identified as Viacheslav Sazonov, a senior officer in the Operations Department of the Logistics Directorate at the Headquarters of the Ukrainian Naval Forces Command, sustained only minor injuries due to the device's relatively small explosive yield.",
+   "timestamp": "2026-07-28T11:17:14+00:00",
+   "has_media": true
+  },
   {
    "id": "b88628c47e36967e2fc54938a693ce98",
    "url": "https://t.me/OSINTWarfare/6001",
