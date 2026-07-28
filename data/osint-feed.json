@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-28T19:57:16Z",
- "count": 38,
+ "generated_utc": "2026-07-28T21:01:49Z",
+ "count": 39,
  "items": [
+  {
+   "id": "5ac64512130aa775c20029ae1727bba6",
+   "url": "https://t.me/OSINTWarfare/6016",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Arabia says it intercepted and destroyed several drones targeting oil facilities in the Eastern Province, attributing the attack to Iranian-backed Iraqi factions.",
+   "timestamp": "2026-07-28T20:03:50+00:00",
+   "has_media": false
+  },
   {
    "id": "fa15624cd8a74b8b78cdde8b025da29c",
    "url": "https://t.me/OSINTWarfare/6015",
