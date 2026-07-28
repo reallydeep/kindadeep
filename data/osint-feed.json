@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-27T23:45:35Z",
- "count": 40,
+ "generated_utc": "2026-07-28T01:05:13Z",
+ "count": 38,
  "items": [
+  {
+   "id": "b88628c47e36967e2fc54938a693ce98",
+   "url": "https://t.me/OSINTWarfare/6001",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A crane has been brought to Ali Khani Square in Isfahan in preparation for the public hanging of three individuals, Alireza Sepahi, Abolfazl Sepahi, and Amirhossein Safari, in relation to the protests that took place in Isfahan on December 18, 2023.\nOn that day, clashes erupted between protesters and government forces. The Islamic Republic said that four members of the Basij and the police were killed during the unrest.",
+   "timestamp": "2026-07-27T23:52:47+00:00",
+   "has_media": true
+  },
   {
    "id": "1770f28c8c0a65b4862f170ae3c8c069",
    "url": "https://t.me/OSINTWarfare/6000",
@@ -136,33 +145,6 @@
    "text": "⚡\nIranian official tells Reuters: Iran will stop attacks as long as US upholds latest ceasefire, there is more skepticism than optimism [in Iran] following halt in US attacks on Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-26T13:57:16+00:00",
    "has_media": false
-  },
-  {
-   "id": "9366d5aca4bf303a2c9f567bd65fa2d8",
-   "url": "https://t.me/OSINTWarfare/5983",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "New Russian military vehicles that recently arrived in the Sahel aboard a Russian cargo ship docking in Lomé, Togo, have been observed moving toward Mali to reinforce the Africa Corps.  Among the vehicles identified are several Tigr-M GAZ-233114 multipurpose…",
-   "timestamp": "2026-07-26T13:53:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "36f49ce54cdf45dde77c742587d71604",
-   "url": "https://t.me/OSINTWarfare/5982",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The first high-quality footage capturing the moment a Russian S8000 Banderol cruise missile struck Kharkiv this morning.",
-   "timestamp": "2026-07-26T13:04:53+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a80535b98d9042b0ebf70e90a4033859",
-   "url": "https://t.me/OSINTWarfare/5981",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) operated by the Royal Saudi Air Force (RSAF) over Al Jawf Governorate.",
-   "timestamp": "2026-07-26T11:32:39+00:00",
-   "has_media": true
   },
   {
    "id": "effa8337f49f2f3d6c965ca35f109a20",
