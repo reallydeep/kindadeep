@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-28T15:34:35Z",
- "count": 38,
+ "generated_utc": "2026-07-28T17:03:57Z",
+ "count": 39,
  "items": [
+  {
+   "id": "ac0823b4a1e76982443c7285c1f6b261",
+   "url": "https://t.me/OSINTWarfare/6011",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A screenshot from a RIA Novosti report shows the Russian S8000 Banderol lightweight cruise missile on a ground-based catapult launcher.\nI cannot determine whether the image is entirely AI-generated or an authentic image that has been digitally altered using AI.\nIn any case, after examining the image metadata, I can confirm that AI was used in its creation or editing.",
+   "timestamp": "2026-07-28T17:02:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6a5d4ddb5f0aeb528e7f3829c7ed6b52",
+   "url": "https://t.me/OSINTWarfare/6010",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wildfires in France are threatening military facilities involved in the production of solid rocket motors for the M51 submarine-launched nuclear ballistic missile (SLBM).\nLarge wildfires in the Gironde region of southwestern France have approached the CESTA (CEA/DAM) facility and ArianeGroup's site in Saint-Médard-en-Jalles, where solid rocket motors for the M51 SLBM are produced.\nThe fires have also threatened Dassault Aviation's plant in Martignas-sur-Jalle, which manufactures Rafale fighter components, and its assembly facility in Bordeaux-Mérignac.\nAuthorities launched large-scale evacuations, with 55,000 people displaced on Sunday night and 220,000 evacuated in total.\nDassault Aviation relocated sensitive equipment from Martignas-sur-Jalle and its Cesta logistics center to Mérignac and Air Base 106. ArianeGroup evacuated its facilities west of Bordeaux and implemented protective measures.\nFirefighting operations remain underway with significant emergency response resources deployed.",
+   "timestamp": "2026-07-28T16:53:09+00:00",
+   "has_media": true
+  },
   {
    "id": "c75d1445397249376639003aef971d62",
    "url": "https://t.me/OSINTWarfare/6009",
@@ -154,15 +172,6 @@
    "text": "⚡️\nAt least four people including a child were wounded by gunfire at a Seattle festival, a hospital spokesperson says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-27T06:12:15+00:00",
    "has_media": false
-  },
-  {
-   "id": "e35115fe1dc4465dc2d4c28ab50a131e",
-   "url": "https://t.me/OSINTWarfare/5990",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "For the second consecutive night, clashes have erupted between pro-Presidential Leadership Council (PLC) tribal fighters and Ansar Allah (Houthis) in Al Jawf Governorate.\nAccording to PLC sources, Ansar Allah fighters killed Abdullah Al-Wahasi and wounded Fa'al Al-Tawil of the Al-Wahas tribe at the Qarn Bin Shaman checkpoint in Wadi Al-Qa'if. The fighting began in Wadi Al-Qa'if before spreading to Al Yatamah.",
-   "timestamp": "2026-07-26T23:07:26+00:00",
-   "has_media": true
   },
   {
    "id": "87ad29dc5cd6a713eaf5247e8d87dfad",
