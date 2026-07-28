@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-28T22:13:01Z",
- "count": 39,
+ "generated_utc": "2026-07-28T23:15:31Z",
+ "count": 40,
  "items": [
+  {
+   "id": "15fc6853ba0a45660cc238694fa3024d",
+   "url": "https://t.me/OSINTWarfare/6021",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇯🇴\n🇺🇸\n— EXCLUSIVE: IRAN TARGETED US BASES IN JORDAN.  VIDEO SENT BY A JORDANIAN SUBSCRIBER .  @IntelSlava",
+   "timestamp": "2026-07-28T22:44:54+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0e05c8240aee47538d554d53237bcfa6",
+   "url": "https://t.me/OSINTWarfare/6020",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇯🇴\n🇺🇸\n—\nEXCLUSIVE\n: IRAN TARGETED US BASES IN JORDAN.\nVIDEO SENT BY A JORDANIAN SUBSCRIBER .\n@IntelSlava",
+   "timestamp": "2026-07-28T22:44:32+00:00",
+   "has_media": true
+  },
   {
    "id": "66594845713ce58d46864dbcb3bfca82",
    "url": "https://t.me/OSINTWarfare/6018",
@@ -126,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "A crane has been brought to Ali Khani Square in Isfahan in preparation for the public hanging of three individuals, Alireza Sepahi, Abolfazl Sepahi, and Amirhossein Safari, in relation to the protests that took place in Isfahan on December 18, 2023.\nOn that day, clashes erupted between protesters and government forces. The Islamic Republic said that four members of the Basij and the police were killed during the unrest.",
    "timestamp": "2026-07-27T23:52:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1770f28c8c0a65b4862f170ae3c8c069",
-   "url": "https://t.me/OSINTWarfare/6000",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lasar's Group Special Purpose Detachment of the National Guard of Ukraine has released footage showing strikes on a 9A317M TELAR of a Buk-M3 surface-to-air missile system, as well as a 9A83 TELAR of an S-300V surface-to-air missile system, on the Kostiantynivka axis in Donetsk Oblast.\nTELAR = Transporter Erector Launcher and Radar",
-   "timestamp": "2026-07-27T23:30:33+00:00",
    "has_media": true
   },
   {
