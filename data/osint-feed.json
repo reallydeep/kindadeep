@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-29T17:55:33Z",
+ "generated_utc": "2026-07-29T18:52:51Z",
  "count": 45,
  "items": [
+  {
+   "id": "211ae44e308c8616abd08a92db03b4c0",
+   "url": "https://t.me/OSINTWarfare/6040",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A drone struck a U.S.-owned floating liquefied natural gas (LNG) storage facility at Damietta Port, Egypt.  The world certainly seems to be becoming more peaceful by the day, doesn't it?",
+   "timestamp": "2026-07-29T18:15:43+00:00",
+   "has_media": false
+  },
   {
    "id": "127e92c68d0092fd9b6d876d0431cb80",
    "url": "https://t.me/warmonitors/45151",
@@ -217,15 +226,6 @@
    "text": "🇮🇷\n❌\n🇯🇴\n🇺🇸\n— EXCLUSIVE: IRAN TARGETED US BASES IN JORDAN.  VIDEO SENT BY A JORDANIAN SUBSCRIBER .  @IntelSlava",
    "timestamp": "2026-07-28T22:44:54+00:00",
    "has_media": false
-  },
-  {
-   "id": "0e05c8240aee47538d554d53237bcfa6",
-   "url": "https://t.me/OSINTWarfare/6020",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇯🇴\n🇺🇸\n—\nEXCLUSIVE\n: IRAN TARGETED US BASES IN JORDAN.\nVIDEO SENT BY A JORDANIAN SUBSCRIBER .\n@IntelSlava",
-   "timestamp": "2026-07-28T22:44:32+00:00",
-   "has_media": true
   },
   {
    "id": "e73e02d7ce3ed59582d5d194e2558b0a",
