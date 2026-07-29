@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-29T09:09:10Z",
+ "generated_utc": "2026-07-29T11:31:44Z",
  "count": 45,
  "items": [
+  {
+   "id": "b9eac47ec78b808582359677794abd95",
+   "url": "https://t.me/OSINTWarfare/6028",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Vestel Karayel unmanned aerial vehicle (UAV) operated by the Royal Saudi Air Force (RSAF) over Saada Governorate in northern Yemen.\nSaudi Arabia operates the armed Karayel-SU Tactical Unmanned Aerial Vehicle (TUAV) variant.",
+   "timestamp": "2026-07-29T11:17:30+00:00",
+   "has_media": true
+  },
   {
    "id": "903afe6952eba9c4459ca3a21833fded",
    "url": "https://t.me/warmonitors/45147",
@@ -70,7 +79,7 @@
    "url": "https://t.me/OSINTWarfare/6026",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.   The 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
+   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.  The 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
    "timestamp": "2026-07-29T01:28:31+00:00",
    "has_media": false
   },
@@ -199,15 +208,6 @@
    "text": "Interception of a Russian Geran-2 drone by a Ukrainian Air Force MiG-29MU1 Multirole Fighter near Mykolaiv.",
    "timestamp": "2026-07-28T14:36:39+00:00",
    "has_media": true
-  },
-  {
-   "id": "d7a52068691f0d5b8c10508296733c1b",
-   "url": "https://t.me/OSINTWarfare/6008",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Syrian Democratic Forces (SDF) are withdrawing from all checkpoints in and around the city of Hasakah, as well as Mabdah in the Qamishli countryside, and are handing them over to the Syrian Internal Security Forces.\nMeanwhile, the Sotoro forces, the Syriac Military Council, and the Khabur Guards, formations affiliated with the Kurdish-led SDF, are being integrated into the Syrian Ministries of Interior and Defense.\nThe integration is being carried out on an individual basis, with officers retaining their current ranks.",
-   "timestamp": "2026-07-28T13:51:10+00:00",
-   "has_media": false
   },
   {
    "id": "e73e02d7ce3ed59582d5d194e2558b0a",
