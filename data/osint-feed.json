@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-28T23:15:31Z",
+ "generated_utc": "2026-07-29T00:09:15Z",
  "count": 40,
  "items": [
+  {
+   "id": "6644e15314309b13cb9a6be2db5a37fb",
+   "url": "https://t.me/OSINTWarfare/6022",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Air Force (USAF) fighter aircraft carried out airstrikes on a Popular Mobilization Forces (PMF) position in the town of Al-Dayr, Basra Governorate, southern Iraq.\nSecondary explosions can be heard in the footage, suggesting that an ammunition depot was struck.",
+   "timestamp": "2026-07-29T00:07:43+00:00",
+   "has_media": true
+  },
   {
    "id": "15fc6853ba0a45660cc238694fa3024d",
    "url": "https://t.me/OSINTWarfare/6021",
@@ -135,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "A Ukrainian Navy officer's vehicle was targeted in an explosion this morning on Semen Palii Street in Odesa.\nAn explosive device had been placed beneath the front left wheel of the BMW X5 and detonated as the vehicle began moving.\nThe officer, identified as Viacheslav Sazonov, a senior officer in the Operations Department of the Logistics Directorate at the Headquarters of the Ukrainian Naval Forces Command, sustained only minor injuries due to the device's relatively small explosive yield.",
    "timestamp": "2026-07-28T11:17:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b88628c47e36967e2fc54938a693ce98",
-   "url": "https://t.me/OSINTWarfare/6001",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A crane has been brought to Ali Khani Square in Isfahan in preparation for the public hanging of three individuals, Alireza Sepahi, Abolfazl Sepahi, and Amirhossein Safari, in relation to the protests that took place in Isfahan on December 18, 2023.\nOn that day, clashes erupted between protesters and government forces. The Islamic Republic said that four members of the Basij and the police were killed during the unrest.",
-   "timestamp": "2026-07-27T23:52:47+00:00",
    "has_media": true
   },
   {
