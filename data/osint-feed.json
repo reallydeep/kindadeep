@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-29T15:20:22Z",
+ "generated_utc": "2026-07-29T16:44:00Z",
  "count": 43,
  "items": [
+  {
+   "id": "9ff6bd793e9ab6af5ef2824dcab386be",
+   "url": "https://t.me/OSINTWarfare/6037",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A drone struck a U.S.-owned floating liquefied natural gas (LNG) storage facility at Damietta Port, Egypt.\nThe world certainly seems to be becoming more peaceful by the day, doesn't it?",
+   "timestamp": "2026-07-29T16:19:28+00:00",
+   "has_media": true
+  },
   {
    "id": "225d61831a032e96a2bf0e32603870b6",
    "url": "https://t.me/OSINTWarfare/6035",
@@ -198,15 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "Earlier, the IRGC Aerospace Force launched several ballistic missiles from Khomeyn, Markazi Province, toward Jordan.",
    "timestamp": "2026-07-28T22:03:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9b3c838543b57c67761c63c8ae9c3edc",
-   "url": "https://t.me/OSINTWarfare/6017",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A clear image shows Russia's S8000 Banderol lightweight cruise missile mounted on an Orion unmanned aerial vehicle (UAV).",
-   "timestamp": "2026-07-28T21:46:12+00:00",
    "has_media": true
   },
   {
