@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-29T13:17:26Z",
- "count": 44,
+ "generated_utc": "2026-07-29T15:20:22Z",
+ "count": 43,
  "items": [
+  {
+   "id": "225d61831a032e96a2bf0e32603870b6",
+   "url": "https://t.me/OSINTWarfare/6035",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Four members of the IRGC Quds Force were killed in yesterday's airstrike in Diyala Governorate.",
+   "timestamp": "2026-07-29T14:20:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d63d36b4b1dcf9cbe8144ea2fd2f12b7",
+   "url": "https://t.me/OSINTWarfare/6034",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "For the first time, Iran took the initiative by launching what the United States described as a “surprise attack” without any immediate trigger. That said, it is hard to call the launch of just five or six ballistic missiles a true surprise attack.\nIt is unclear what message Tehran is trying to send. One possibility is that it wants to restart the cycle of tit-for-tat attacks with the United States, a dynamic that likely benefits Iran more, as it forces the U.S. to use expensive interceptors and precision-guided munitions.\nThe United States will likely have to respond, as doing nothing could be seen as a sign of weakness. On the other hand, Washington may consider its attack on Popular Mobilization Forces (PMF) headquarters in Iraq to have already been its response. Another possibility is that, since all of the missiles were intercepted and caused no significant damage, the U.S. may decide that no retaliation is necessary.",
+   "timestamp": "2026-07-29T13:48:57+00:00",
+   "has_media": false
+  },
   {
    "id": "9f02dae00bcb04e4df0a4d5c4770906d",
    "url": "https://t.me/warmonitors/45149",
@@ -189,33 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "A clear image shows Russia's S8000 Banderol lightweight cruise missile mounted on an Orion unmanned aerial vehicle (UAV).",
    "timestamp": "2026-07-28T21:46:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5ac64512130aa775c20029ae1727bba6",
-   "url": "https://t.me/OSINTWarfare/6016",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi Arabia says it intercepted and destroyed several drones targeting oil facilities in the Eastern Province, attributing the attack to Iranian-backed Iraqi factions.",
-   "timestamp": "2026-07-28T20:03:50+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fa15624cd8a74b8b78cdde8b025da29c",
-   "url": "https://t.me/OSINTWarfare/6015",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) announced that it targeted the Saudi oil tanker NCC GHAZAL with multiple ballistic missiles after the vessel violated the naval blockade imposed on Saudi Arabia.",
-   "timestamp": "2026-07-28T18:15:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fbecdcdf37e7693e712c75de9474c73f",
-   "url": "https://t.me/OSINTWarfare/6014",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of the rare Ukrainian STASH air defense system mounted on a Ford F-350 chassis, equipped with an Israeli-made RADA radar and AGM-114L Longbow Hellfire missiles.",
-   "timestamp": "2026-07-28T17:36:09+00:00",
    "has_media": true
   },
   {
