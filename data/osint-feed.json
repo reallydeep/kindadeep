@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-29T00:09:15Z",
- "count": 40,
+ "generated_utc": "2026-07-29T03:32:47Z",
+ "count": 42,
  "items": [
+  {
+   "id": "bd43a599529c8f5e084a7f9df131577f",
+   "url": "https://t.me/OSINTWarfare/6027",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of a Saudi-U.S. airstrike targeting a site in the Al-Mada'in area of Baghdad.",
+   "timestamp": "2026-07-29T01:36:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e18ed04ce67ded3150d2d027fac16d45",
+   "url": "https://t.me/OSINTWarfare/6026",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.   The 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
+   "timestamp": "2026-07-29T01:28:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d7cf247cbf88dfb171c711a15fbdcd39",
+   "url": "https://t.me/OSINTWarfare/6024",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.\nThe 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
+   "timestamp": "2026-07-29T01:00:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b483fa792dfa4a48dc7e47d227de5a6b",
+   "url": "https://t.me/OSINTWarfare/6023",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command says U.S. forces and the Royal Saudi Air Force (RSAF) carried out precision airstrikes in eastern Iraq, targeting Iran-aligned groups that it said were directed by the IRGC to attack U.S. forces and Saudi energy infrastructure.",
+   "timestamp": "2026-07-29T00:33:08+00:00",
+   "has_media": false
+  },
   {
    "id": "6644e15314309b13cb9a6be2db5a37fb",
    "url": "https://t.me/OSINTWarfare/6022",
@@ -127,24 +163,6 @@
    "text": "⚡\nBarak Ravid: Three hours before their meeting President Trump on Fox News sends a chilling message to Netanyahu and claim's Bibi is talking about Pickaxe mountain in Iran because he wants to convince him to stay involved in the war. He stressed Bibi should have spoke to him about it privately and not \"tell the world\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-28T12:57:16+00:00",
    "has_media": false
-  },
-  {
-   "id": "9ebf3d3f08f7bbf225a60321e6dbdf67",
-   "url": "https://t.me/OSINTWarfare/6007",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Main Directorate of Intelligence of Ukraine's Ministry of Defence (HUR) has warned the military that Iran may launch at least three medium-range ballistic missiles from Tabriz in northwestern Iran against military infrastructure in Kyiv within the next 48 hours, in response to Ukraine's attack on an Iranian vessel in the Caspian Sea several days ago.\nIranian Foreign Minister Abbas Araghchi stated that Ukraine's attack \"cannot go unanswered.\"\nSeparately, several Ukrainian military-affiliated channels have also reported that Iran is preparing to launch ballistic missiles at targets in Ukraine, echoing the HUR warning.",
-   "timestamp": "2026-07-28T12:25:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "917027612355f962c3813a6ffc296802",
-   "url": "https://t.me/OSINTWarfare/6005",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian Navy officer's vehicle was targeted in an explosion this morning on Semen Palii Street in Odesa.\nAn explosive device had been placed beneath the front left wheel of the BMW X5 and detonated as the vehicle began moving.\nThe officer, identified as Viacheslav Sazonov, a senior officer in the Operations Department of the Logistics Directorate at the Headquarters of the Ukrainian Naval Forces Command, sustained only minor injuries due to the device's relatively small explosive yield.",
-   "timestamp": "2026-07-28T11:17:14+00:00",
-   "has_media": true
   },
   {
    "id": "9b7068c491ac9eeba9f266e673c5f4fb",
