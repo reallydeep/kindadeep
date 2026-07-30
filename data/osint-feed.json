@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-30T08:43:52Z",
- "count": 49,
+ "generated_utc": "2026-07-30T10:51:10Z",
+ "count": 47,
  "items": [
+  {
+   "id": "ce586fab89a2ccc1562d0ecf5f20e6b4",
+   "url": "https://t.me/OSINTWarfare/6047",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A large crater was discovered near the village of Targowisko in eastern Poland this morning after a Russian Kh-101 cruise missile crossed into Polish airspace and struck approximately 105 km from the Ukrainian border.",
+   "timestamp": "2026-07-30T10:08:48+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6b71fa0e619ec06b9ad8e29b4e9a12f5",
+   "url": "https://t.me/warmonitors/45160",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nMost Americans say Iran war isn't worthwhile as even Republican support slips slightly: new AP-NORC poll\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-07-30T09:12:16+00:00",
+   "has_media": true
+  },
   {
    "id": "e737f7b6e8b547f825c0c46f31392d01",
    "url": "https://t.me/warmonitors/45159",
@@ -201,15 +219,6 @@
    "has_media": true
   },
   {
-   "id": "b9eac47ec78b808582359677794abd95",
-   "url": "https://t.me/OSINTWarfare/6028",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has announced the downing of a Turkish-made Vestel Karayel unmanned aerial vehicle (UAV) operated by the Royal Saudi Air Force (RSAF) over Saada Governorate in northern Yemen.\nSaudi Arabia operates the armed Karayel-SU Tactical Unmanned Aerial Vehicle (TUAV) variant.",
-   "timestamp": "2026-07-29T11:17:30+00:00",
-   "has_media": true
-  },
-  {
    "id": "903afe6952eba9c4459ca3a21833fded",
    "url": "https://t.me/warmonitors/45147",
    "source": "telegram",
@@ -237,15 +246,6 @@
    "has_media": false
   },
   {
-   "id": "3d0830d67d54e0af80adc9e72a84e07f",
-   "url": "https://t.me/warmonitors/45142",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nThe US military says it's thwarted an Iranian missile attack on American troops, breaking the pause in the fighting\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-29T05:37:16+00:00",
-   "has_media": false
-  },
-  {
    "id": "025e8de232e35826016e2a1e4b0cab0e",
    "url": "https://t.me/warmonitors/45143",
    "source": "telegram",
@@ -253,24 +253,6 @@
    "text": "⚡️\nJordan’s military says the country’s air defenses have intercepted five missiles launched from Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-29T05:37:16+00:00",
    "has_media": false
-  },
-  {
-   "id": "f3e7bae87eb44b9a07def23fbe81cced",
-   "url": "https://t.me/warmonitors/45141",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran launched at least 4 ballistic missiles towards a U.S. base in Jordan, US official tells the Jerusalem Post and adds \"it was a large attack\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-07-29T05:32:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bd43a599529c8f5e084a7f9df131577f",
-   "url": "https://t.me/OSINTWarfare/6027",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of a Saudi-U.S. airstrike targeting a site in the Al-Mada'in area of Baghdad.",
-   "timestamp": "2026-07-29T01:36:09+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
