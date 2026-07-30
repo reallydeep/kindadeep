@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-30T17:48:48Z",
+ "generated_utc": "2026-07-30T19:02:04Z",
  "count": 47,
  "items": [
+  {
+   "id": "b7c6f2e9fa131d96f18134087da6ff0e",
+   "url": "https://t.me/OSINTWarfare/6053",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to Ukrainian Air Force spokesperson Yurii Ihnat, Russia has resumed using North Korean Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missiles, better known as the KN-23, against Ukraine.\nEarly battlefield wreckage analyses and tracking data from 2024 showed that the missile performed poorly. Early production batches suffered from guidance and manufacturing flaws, resulting in a reported circular error probable (CEP) of around 800–1,000 meters, and in some cases even missing targets by several kilometers. By comparison, Russia's Iskander-M has a CEP of about 5–10 meters.\nFollowing its poor performance, North Korea reportedly introduced a series of upgrades to the Hwasongpho-11Ga. These improvements are believed to have reduced the missile's CEP to around 100–200 meters, with later versions reportedly achieving a CEP of as little as 1–5 meters.",
+   "timestamp": "2026-07-30T17:57:34+00:00",
+   "has_media": true
+  },
   {
    "id": "252cca54387f6128009a277bbb387857",
    "url": "https://t.me/OSINTWarfare/6051",
@@ -217,15 +226,6 @@
    "text": "⚡\nTrump to Fox News: We're going to hit Iran hard, we're going to knock them out of shape\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-29T12:32:16+00:00",
    "has_media": false
-  },
-  {
-   "id": "fa81195394f5b5edf48e42c16fb8fc6d",
-   "url": "https://t.me/OSINTWarfare/6032",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The first confirmed launch of the YJ-20 hypersonic anti-ship ballistic missile (AShBM) from a Type 052D guided-missile destroyer of the People's Liberation Army Navy (PLAN).\nThe Type 052D is now the second class of PLAN destroyer, after the Type 055, to be equipped with the YJ-20 hypersonic anti-ship ballistic missile.",
-   "timestamp": "2026-07-29T12:27:37+00:00",
-   "has_media": true
   },
   {
    "id": "903afe6952eba9c4459ca3a21833fded",
