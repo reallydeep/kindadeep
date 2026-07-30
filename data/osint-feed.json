@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-07-30T00:10:58Z",
- "count": 46,
+ "generated_utc": "2026-07-30T03:28:45Z",
+ "count": 45,
  "items": [
+  {
+   "id": "2171083eba027d6a1ea3053cf9b1364b",
+   "url": "https://t.me/OSINTWarfare/6046",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of at least six Russian Iskander-M ballistic missiles striking targets in Kyiv.",
+   "timestamp": "2026-07-30T01:25:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "400b20baaf877b93afbe3ef5a71a4e1d",
+   "url": "https://t.me/OSINTWarfare/6045",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Army M142 HIMARS systems launched M57 ATACMS and/or Precision Strike Missiles (PrSM) from Kuwait against targets in Iran.",
+   "timestamp": "2026-07-30T00:54:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "80f0fee597f901d544da1323d3459566",
+   "url": "https://t.me/OSINTWarfare/6043",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Army M142 HIMARS systems launched M57 ATACMS and/or Precision Strike Missiles (PrSM) from Kuwait against targets in Iran.",
+   "timestamp": "2026-07-30T00:37:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "37800c33bc019269f834307c55802e0e",
+   "url": "https://t.me/OSINTWarfare/6041",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-backed Presidential Leadership Council (PLC) forces have been ordered to prepare for an offensive to capture Al Hazm, the capital of Al Jawf Governorate, which is currently under Ansar Allah (Houthis) control.",
+   "timestamp": "2026-07-30T00:19:12+00:00",
+   "has_media": true
+  },
   {
    "id": "844fc2fadba358a6abc17b516afb18ac",
    "url": "https://t.me/warmonitors/45152",
@@ -190,51 +226,6 @@
    "text": "Reports of a Saudi-U.S. airstrike targeting a site in the Al-Mada'in area of Baghdad.",
    "timestamp": "2026-07-29T01:36:09+00:00",
    "has_media": true
-  },
-  {
-   "id": "e18ed04ce67ded3150d2d027fac16d45",
-   "url": "https://t.me/OSINTWarfare/6026",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.  The 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
-   "timestamp": "2026-07-29T01:28:31+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d7cf247cbf88dfb171c711a15fbdcd39",
-   "url": "https://t.me/OSINTWarfare/6024",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi-U.S. airstrikes targeted the headquarters of the 30th Brigade (Shabak Brigade) in the town of Bartella, Nineveh Governorate, Iraq.\nThe 30th Brigade, also known as the Shabak Brigade, is part of the Popular Mobilization Forces (PMF).",
-   "timestamp": "2026-07-29T01:00:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b483fa792dfa4a48dc7e47d227de5a6b",
-   "url": "https://t.me/OSINTWarfare/6023",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command says U.S. forces and the Royal Saudi Air Force (RSAF) carried out precision airstrikes in eastern Iraq, targeting Iran-aligned groups that it said were directed by the IRGC to attack U.S. forces and Saudi energy infrastructure.",
-   "timestamp": "2026-07-29T00:33:08+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6644e15314309b13cb9a6be2db5a37fb",
-   "url": "https://t.me/OSINTWarfare/6022",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Air Force (USAF) fighter aircraft carried out airstrikes on a Popular Mobilization Forces (PMF) position in the town of Al-Dayr, Basra Governorate, southern Iraq.\nSecondary explosions can be heard in the footage, suggesting that an ammunition depot was struck.",
-   "timestamp": "2026-07-29T00:07:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "15fc6853ba0a45660cc238694fa3024d",
-   "url": "https://t.me/OSINTWarfare/6021",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇯🇴\n🇺🇸\n— EXCLUSIVE: IRAN TARGETED US BASES IN JORDAN.  VIDEO SENT BY A JORDANIAN SUBSCRIBER .  @IntelSlava",
-   "timestamp": "2026-07-28T22:44:54+00:00",
-   "has_media": false
   },
   {
    "id": "e73e02d7ce3ed59582d5d194e2558b0a",
