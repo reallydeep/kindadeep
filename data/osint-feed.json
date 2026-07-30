@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-30T10:51:10Z",
- "count": 47,
+ "generated_utc": "2026-07-30T12:20:42Z",
+ "count": 48,
  "items": [
+  {
+   "id": "efec25636b468ccc885dea761d900332",
+   "url": "https://t.me/OSINTWarfare/6050",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Qadr F (Ghadr F), Kheibar Shekan, and Haj Qassem medium-range ballistic missiles, along with Shahed-136 loitering munitions, targeting Muwaffaq Al Salti Air Base in Jordan.\nThe IRGC claims the strike destroyed three U.S. Air Force F-35A multirole fighters and damaged three others. It also claims that several U.S. officers and technicians were killed in the attack.",
+   "timestamp": "2026-07-30T11:32:11+00:00",
+   "has_media": true
+  },
+  {
+   "id": "460214d940ffd9f917b0d3dc49aca36a",
+   "url": "https://t.me/OSINTWarfare/6049",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Three IRGC personnel from the air defense unit of the 36th Ansar al-Mahdi Brigade in Zanjan Province were killed during overnight U.S. strikes.\n• Colonel Mahmoud Mollajabbari\n• Major Mohammad-Reza Cheraghi\n• Captain Jamal Amiri",
+   "timestamp": "2026-07-30T11:04:31+00:00",
+   "has_media": false
+  },
   {
    "id": "ce586fab89a2ccc1562d0ecf5f20e6b4",
    "url": "https://t.me/OSINTWarfare/6047",
@@ -207,15 +225,6 @@
    "channel": "OSINTWarfare",
    "text": "The Nigerian Air Force (NAF) has received the first batch of three Italian-made M-346FA light combat aircraft, marking a significant step forward in its ongoing modernization program.",
    "timestamp": "2026-07-29T12:08:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5352da4567a07f41025f9177f61e0dad",
-   "url": "https://t.me/OSINTWarfare/6029",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Republic of Iran Air Force (IRIAF) says the body of Brig. Gen. Majid Kazemi, a Su-24MK tactical bomber pilot shot down on March 2 by Qatar Emiri Air Force (QEAF) F-15QAs while attempting to strike Al Udeid Air Base, has been located and will be repatriated within the coming hours.\nThe IRIAF added that search efforts are still ongoing to locate the three remaining Su-24MK pilots who were also shot down.",
-   "timestamp": "2026-07-29T11:55:46+00:00",
    "has_media": true
   },
   {
