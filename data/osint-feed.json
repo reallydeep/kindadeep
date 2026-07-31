@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-07-31T12:11:24Z",
- "count": 45,
+ "generated_utc": "2026-07-31T14:35:21Z",
+ "count": 44,
  "items": [
+  {
+   "id": "2a5a621cbeee361987d230085be68a23",
+   "url": "https://t.me/OSINTWarfare/6059",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Today, eight Ukrainian FP-5 Flamingo cruise missiles were intercepted while attempting to strike targets over Rostov Oblast.",
+   "timestamp": "2026-07-31T13:30:06+00:00",
+   "has_media": true
+  },
   {
    "id": "1737604fe6e9bfbde1c805f0afc01870",
    "url": "https://t.me/warmonitors/45167",
@@ -208,24 +217,6 @@
    "text": "⚡\nIranian “Crown Prince” Pahlavi spoke with Prime Minister Netanyahu during Lindsey Graham's funeral\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-07-29T17:22:16+00:00",
    "has_media": false
-  },
-  {
-   "id": "1cd38c0788fd6cb77df8f302901d910a",
-   "url": "https://t.me/OSINTWarfare/6039",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A drone struck a U.S.-owned floating liquefied natural gas (LNG) storage facility at Damietta Port, Egypt.  The world certainly seems to be becoming more peaceful by the day, doesn't it?",
-   "timestamp": "2026-07-29T17:16:21+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9ff6bd793e9ab6af5ef2824dcab386be",
-   "url": "https://t.me/OSINTWarfare/6037",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A drone struck a U.S.-owned floating liquefied natural gas (LNG) storage facility at Damietta Port, Egypt.\nThe world certainly seems to be becoming more peaceful by the day, doesn't it?",
-   "timestamp": "2026-07-29T16:19:28+00:00",
-   "has_media": true
   },
   {
    "id": "9f02dae00bcb04e4df0a4d5c4770906d",
