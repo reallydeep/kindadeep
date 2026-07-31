@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-07-31T19:03:23Z",
- "count": 38,
+ "generated_utc": "2026-07-31T20:25:06Z",
+ "count": 37,
  "items": [
   {
    "id": "1db709e9f6e1d6ec5ef995f32ae0d02c",
@@ -162,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "U.S. Army M142 HIMARS systems launched M57 ATACMS and/or Precision Strike Missiles (PrSM) from Kuwait against targets in Iran.",
    "timestamp": "2026-07-30T00:37:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "37800c33bc019269f834307c55802e0e",
-   "url": "https://t.me/OSINTWarfare/6041",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi-backed Presidential Leadership Council (PLC) forces have been ordered to prepare for an offensive to capture Al Hazm, the capital of Al Jawf Governorate, which is currently under Ansar Allah (Houthis) control.",
-   "timestamp": "2026-07-30T00:19:12+00:00",
    "has_media": true
   },
   {
