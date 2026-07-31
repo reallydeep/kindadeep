@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-07-30T23:42:17Z",
+ "generated_utc": "2026-07-31T01:14:16Z",
  "count": 46,
  "items": [
+  {
+   "id": "a8b7f71bff3603bb9d56e5582168da78",
+   "url": "https://t.me/OSINTWarfare/6056",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Japan has successfully conducted its first-ever live launch of a U.S.-made Tomahawk cruise missile from the JS Chokai, an Aegis-equipped destroyer fitted with Mk 41 vertical launch systems. The exact Tomahawk variant used was not disclosed.\nWith this launch, Japan became the third country, after Australia and the Netherlands, to fire a Tomahawk missile from a surface warship outside the U.S. Navy.\nJapan plans to acquire up to 400 Tomahawk missiles, 200 Block IV and 200 Block V variants, for an estimated $1.03 billion.\nBy the end of the current program, five of Japan's eight Aegis destroyers are expected to be capable of launching Tomahawk missiles: JS Chokai, JS Kirishima, JS Haguro, JS Myoko, and JS Atago.",
+   "timestamp": "2026-07-31T00:19:00+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d86e4661415db1b859e1f43e316b35b9",
+   "url": "https://t.me/OSINTWarfare/6055",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The same new variant of the Haj Qassem was used once again, equipped with a new adapter installed between the warhead and the missile's solid-fuel booster, along with a redesigned single-cone warhead.",
+   "timestamp": "2026-07-30T23:43:37+00:00",
+   "has_media": true
+  },
   {
    "id": "b7c6f2e9fa131d96f18134087da6ff0e",
    "url": "https://t.me/OSINTWarfare/6053",
@@ -190,24 +208,6 @@
    "text": "A drone struck a U.S.-owned floating liquefied natural gas (LNG) storage facility at Damietta Port, Egypt.\nThe world certainly seems to be becoming more peaceful by the day, doesn't it?",
    "timestamp": "2026-07-29T16:19:28+00:00",
    "has_media": true
-  },
-  {
-   "id": "225d61831a032e96a2bf0e32603870b6",
-   "url": "https://t.me/OSINTWarfare/6035",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Four members of the IRGC Quds Force were killed in yesterday's airstrike in Diyala Governorate.",
-   "timestamp": "2026-07-29T14:20:55+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d63d36b4b1dcf9cbe8144ea2fd2f12b7",
-   "url": "https://t.me/OSINTWarfare/6034",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "For the first time, Iran took the initiative by launching what the United States described as a “surprise attack” without any immediate trigger. That said, it is hard to call the launch of just five or six ballistic missiles a true surprise attack.\nIt is unclear what message Tehran is trying to send. One possibility is that it wants to restart the cycle of tit-for-tat attacks with the United States, a dynamic that likely benefits Iran more, as it forces the U.S. to use expensive interceptors and precision-guided munitions.\nThe United States will likely have to respond, as doing nothing could be seen as a sign of weakness. On the other hand, Washington may consider its attack on Popular Mobilization Forces (PMF) headquarters in Iraq to have already been its response. Another possibility is that, since all of the missiles were intercepted and caused no significant damage, the U.S. may decide that no retaliation is necessary.",
-   "timestamp": "2026-07-29T13:48:57+00:00",
-   "has_media": false
   },
   {
    "id": "9f02dae00bcb04e4df0a4d5c4770906d",
