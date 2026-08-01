@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-01T10:48:50Z",
- "count": 35,
+ "generated_utc": "2026-08-01T11:49:05Z",
+ "count": 37,
  "items": [
+  {
+   "id": "d4c86044b5b759d05ebdb765fa6a0e02",
+   "url": "https://t.me/OSINTWarfare/6077",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. missions in Jordan, Iraq, and Israel issued matching security alerts today, advising Americans in the region to consider departing now or be prepared to leave quickly if the security situation escalates.",
+   "timestamp": "2026-08-01T11:46:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1f93aca9177a44b33e722951d6b61659",
+   "url": "https://t.me/OSINTWarfare/6076",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Islamic Republic of Iran Army was spotted moving T-72M/M1 main battle tanks (MBTs) along Road 39 on the Ahvaz–Abadan Expressway toward Abadan, near the Iraqi and Kuwaiti borders.",
+   "timestamp": "2026-08-01T11:28:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cec85285197aefeaf5593f9cfe3aaa30",
+   "url": "https://t.me/OSINTWarfare/6075",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Azawad Liberation Front (FLA) filmed illegal gold miners leaving for their home countries out of fear for their lives following Russian and Malian strikes on FLA positions in northern Mali.",
+   "timestamp": "2026-08-01T11:19:15+00:00",
+   "has_media": true
+  },
   {
    "id": "79aba74b11b4044f7c621a4206de59c4",
    "url": "https://t.me/OSINTWarfare/6074",
@@ -126,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Japan has successfully conducted its first-ever live launch of a U.S.-made Tomahawk cruise missile from the JS Chokai, an Aegis-equipped destroyer fitted with Mk 41 vertical launch systems. The exact Tomahawk variant used was not disclosed.\nWith this launch, Japan became the third country, after Australia and the Netherlands, to fire a Tomahawk missile from a surface warship outside the U.S. Navy.\nJapan plans to acquire up to 400 Tomahawk missiles, 200 Block IV and 200 Block V variants, for an estimated $1.03 billion.\nBy the end of the current program, five of Japan's eight Aegis destroyers are expected to be capable of launching Tomahawk missiles: JS Chokai, JS Kirishima, JS Haguro, JS Myoko, and JS Atago.",
    "timestamp": "2026-07-31T00:19:00+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d86e4661415db1b859e1f43e316b35b9",
-   "url": "https://t.me/OSINTWarfare/6055",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The same new variant of the Haj Qassem was used once again, equipped with a new adapter installed between the warhead and the missile's solid-fuel booster, along with a redesigned single-cone warhead.",
-   "timestamp": "2026-07-30T23:43:37+00:00",
    "has_media": true
   },
   {
