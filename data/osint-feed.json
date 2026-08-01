@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-01T16:15:32Z",
+ "generated_utc": "2026-08-01T17:15:13Z",
  "count": 38,
  "items": [
+  {
+   "id": "3dcfb4de517ce5d133fb3129e73adc10",
+   "url": "https://t.me/OSINTWarfare/6086",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force (IAF) has raised its alert level, with its Air Defense Array mobilizing air defense systems across the country.",
+   "timestamp": "2026-08-01T17:03:30+00:00",
+   "has_media": false
+  },
   {
    "id": "769590c245b06bdb623c8a49a615b825",
    "url": "https://t.me/warmonitors/45181",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n❌\n🇺🇦\n— Footage of tonight's Russian Iskander-M and Zircon missile strikes on Kyiv, Ukraine.\nUkrainian monitoring channels report that 25 missiles were used, including six 3M22 Zircon hypersonic cruise missiles. The remaining missiles were 9M723 Iskander-M tactical ballistic missiles.\n@IntelSlava",
    "timestamp": "2026-07-31T23:54:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "95211831eb251ab3f62a33de5bdfe851",
-   "url": "https://t.me/OSINTWarfare/6066",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian Geran-4 loitering munition equipped with an electro-optical (EO) seeker strikes the Nova Poshta terminal in Dnipropetrovsk Oblast on July 30.",
-   "timestamp": "2026-07-31T22:38:39+00:00",
    "has_media": true
   },
   {
