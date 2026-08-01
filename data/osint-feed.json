@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-01T17:15:13Z",
- "count": 38,
+ "generated_utc": "2026-08-01T18:11:01Z",
+ "count": 39,
  "items": [
+  {
+   "id": "a7ce8a2fa15e2c24c26c631bb6294e09",
+   "url": "https://t.me/OSINTWarfare/6088",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "⚔️\nFrontline Report\ndelivers fast, verified war and geopolitics updates.\n📊\nJoin now for real-time conflict intel",
+   "timestamp": "2026-08-01T18:09:36+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0a5d6e6693661744fa50b6e31f17f7c7",
+   "url": "https://t.me/OSINTWarfare/6087",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Jordan and Syria have delivered a message to Baghdad warning that any attack launched from Iraqi territory against either country will not go unanswered and would trigger strikes on Iranian-backed groups operating in Iraq.",
+   "timestamp": "2026-08-01T17:33:06+00:00",
+   "has_media": false
+  },
   {
    "id": "3dcfb4de517ce5d133fb3129e73adc10",
    "url": "https://t.me/OSINTWarfare/6086",
@@ -126,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n❌\n🇺🇦\n— Footage of tonight's Russian Iskander-M and Zircon missile strikes on Kyiv, Ukraine.  Ukrainian monitoring channels report that 25 missiles were used, including six 3M22 Zircon hypersonic cruise missiles. The remaining missiles were 9M723 Iskander…",
    "timestamp": "2026-08-01T00:02:42+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89a82bba4d0b62514f64569fbede9e26",
-   "url": "https://t.me/OSINTWarfare/6067",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n❌\n🇺🇦\n— Footage of tonight's Russian Iskander-M and Zircon missile strikes on Kyiv, Ukraine.\nUkrainian monitoring channels report that 25 missiles were used, including six 3M22 Zircon hypersonic cruise missiles. The remaining missiles were 9M723 Iskander-M tactical ballistic missiles.\n@IntelSlava",
-   "timestamp": "2026-07-31T23:54:18+00:00",
    "has_media": true
   },
   {
