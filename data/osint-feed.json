@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-01T21:24:15Z",
- "count": 38,
+ "generated_utc": "2026-08-01T22:22:56Z",
+ "count": 39,
  "items": [
+  {
+   "id": "7b6a0a7f6cc06164a114bfe121df48d7",
+   "url": "https://t.me/OSINTWarfare/6092",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Abdullah Badrani, director of Al Mayadeen's Baghdad office, says Kurdish separatist groups in Iraq are preparing to launch operations against Iran from Iraqi territory.",
+   "timestamp": "2026-08-01T22:11:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5287a51897fa9f2073b3be5d4858666b",
+   "url": "https://t.me/OSINTWarfare/6091",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Iraqi Ministry of Interior's Intelligence Directorate has issued a memo requesting updated information on the locations of Popular Mobilization Forces (PMF) headquarters, facilities, and weapons stockpiles to conduct an accurate damage assessment following the Saudi-American airstrikes.",
+   "timestamp": "2026-08-01T21:28:50+00:00",
+   "has_media": false
+  },
   {
    "id": "26d3d61ced9966bc7de018a90f0e5d9f",
    "url": "https://t.me/OSINTWarfare/6090",
@@ -135,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage from Kyiv shows several Russian missile impact sites.",
    "timestamp": "2026-08-01T01:32:35+00:00",
-   "has_media": true
-  },
-  {
-   "id": "31eb134a75781a061d7ff0282a928a6e",
-   "url": "https://t.me/OSINTWarfare/6071",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainians who were running for shelter lie dead on the streets of Kyiv following a Russian missile strike.",
-   "timestamp": "2026-08-01T00:42:51+00:00",
    "has_media": true
   },
   {
