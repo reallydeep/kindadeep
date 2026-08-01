@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-01T01:08:32Z",
+ "generated_utc": "2026-08-01T04:30:44Z",
  "count": 35,
  "items": [
+  {
+   "id": "79aba74b11b4044f7c621a4206de59c4",
+   "url": "https://t.me/OSINTWarfare/6074",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Just to give you an idea of how dire Ukraine's air defense situation has become, only two Patriot missiles were launched during Russia's missile strike.",
+   "timestamp": "2026-08-01T01:41:45+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6481cd4e722943d5683fd1a3f8bee18d",
+   "url": "https://t.me/OSINTWarfare/6072",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from Kyiv shows several Russian missile impact sites.",
+   "timestamp": "2026-08-01T01:32:35+00:00",
+   "has_media": true
+  },
   {
    "id": "31eb134a75781a061d7ff0282a928a6e",
    "url": "https://t.me/OSINTWarfare/6071",
@@ -117,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "The same new variant of the Haj Qassem was used once again, equipped with a new adapter installed between the warhead and the missile's solid-fuel booster, along with a redesigned single-cone warhead.",
    "timestamp": "2026-07-30T23:43:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b7c6f2e9fa131d96f18134087da6ff0e",
-   "url": "https://t.me/OSINTWarfare/6053",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to Ukrainian Air Force spokesperson Yurii Ihnat, Russia has resumed using North Korean Hwasongpho-11Ga (Hwasong-11A) tactical ballistic missiles, better known as the KN-23, against Ukraine.\nEarly battlefield wreckage analyses and tracking data from 2024 showed that the missile performed poorly. Early production batches suffered from guidance and manufacturing flaws, resulting in a reported circular error probable (CEP) of around 800–1,000 meters, and in some cases even missing targets by several kilometers. By comparison, Russia's Iskander-M has a CEP of about 5–10 meters.\nFollowing its poor performance, North Korea reportedly introduced a series of upgrades to the Hwasongpho-11Ga. These improvements are believed to have reduced the missile's CEP to around 100–200 meters, with later versions reportedly achieving a CEP of as little as 1–5 meters.",
-   "timestamp": "2026-07-30T17:57:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "252cca54387f6128009a277bbb387857",
-   "url": "https://t.me/OSINTWarfare/6051",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "— Dear subscribers, join our affiliates folder: WAR FILES\nWAR FILES is a curated collective of independent news channels and conflict monitors — united by one mission: accurate, fast, and uncompromising coverage of global conflicts and geopolitical developments.\nWe don’t chase headlines — we document, verify, and expose.\nEvery channel in this folder shares a commitment to truth over trend, facts over propaganda, and depth over noise.\nOur network spans multiple regions and perspectives — military analysts, field observers, journalists, and open-source researchers — giving you a 360° understanding of events as they unfold.\nDiversity of thought is encouraged; misinformation is not tolerated.\nExpect real-time updates, field reports, verified intelligence, and analytical breakdowns of ongoing wars, defense movements, and regional flashpoints.\nIf you seek clarity amid chaos — if you want coverage that cuts through bias and distortion — then WAR FILES is for you.\nJoin WAR FILES\n👉",
-   "timestamp": "2026-07-30T16:29:53+00:00",
    "has_media": true
   },
   {
