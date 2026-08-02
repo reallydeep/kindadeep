@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-02T01:01:55Z",
- "count": 38,
+ "generated_utc": "2026-08-02T04:32:05Z",
+ "count": 39,
  "items": [
+  {
+   "id": "fb96a3d706bef56243956dcb57c57c12",
+   "url": "https://t.me/OSINTWarfare/6099",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Engels-2 Air Base in Russia's Saratov Oblast came under a Ukrainian drone attack.",
+   "timestamp": "2026-08-02T01:25:08+00:00",
+   "has_media": true
+  },
   {
    "id": "c85bac9f2bf0eeb2652a62fada65101b",
    "url": "https://t.me/OSINTWarfare/6098",
