@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-02T19:47:13Z",
- "count": 39,
+ "generated_utc": "2026-08-02T20:36:31Z",
+ "count": 38,
  "items": [
   {
    "id": "eafbd7ebd0162f4626c207e794f24eaa",
@@ -144,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of explosions in Erbil, Iraqi Kurdistan.",
    "timestamp": "2026-08-01T18:56:18+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a7ce8a2fa15e2c24c26c631bb6294e09",
-   "url": "https://t.me/OSINTWarfare/6088",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚔️\nFrontline Report\ndelivers fast, verified war and geopolitics updates.\n📊\nJoin now for real-time conflict intel",
-   "timestamp": "2026-08-01T18:09:36+00:00",
    "has_media": false
   },
   {
