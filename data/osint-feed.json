@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-02T20:36:31Z",
- "count": 38,
+ "generated_utc": "2026-08-02T21:29:26Z",
+ "count": 37,
  "items": [
   {
    "id": "eafbd7ebd0162f4626c207e794f24eaa",
@@ -135,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Heavy military reinforcements for the Syrian Arab Army's 86th Division, along with additional units from the Syrian Ministry of Defense, have arrived in Bukamal and been deployed to several positions and bases near the Iraqi border.",
    "timestamp": "2026-08-01T21:11:53+00:00",
-   "has_media": false
-  },
-  {
-   "id": "947870b3d85116ad19abae5c87ad14be",
-   "url": "https://t.me/OSINTWarfare/6089",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Erbil, Iraqi Kurdistan.",
-   "timestamp": "2026-08-01T18:56:18+00:00",
    "has_media": false
   },
   {
