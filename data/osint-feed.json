@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-02T11:51:01Z",
- "count": 40,
+ "generated_utc": "2026-08-02T12:51:49Z",
+ "count": 39,
  "items": [
+  {
+   "id": "6ff7d47a323e403bcde57db3c46e43d6",
+   "url": "https://t.me/OSINTWarfare/6102",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Moment a Ukrainian FP-1 long-range drone strikes the Wildberries distribution center in Novosemeykino, Samara Oblast.\nThe facility is one of Wildberries' key distribution hubs in the Volga region, serving Samara and neighboring regions since opening in April 2025.",
+   "timestamp": "2026-08-02T12:24:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a0fba66b58e4326eef716ef9fcefcbe3",
+   "url": "https://t.me/OSINTWarfare/6101",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "And another TACO.. even the Iranians denied that they made such a request xD",
+   "timestamp": "2026-08-02T12:15:05+00:00",
+   "has_media": true
+  },
   {
    "id": "63781b8016662377937169cbc7031d5b",
    "url": "https://t.me/warmonitors/45189",
@@ -129,15 +147,6 @@
    "has_media": false
   },
   {
-   "id": "3dcfb4de517ce5d133fb3129e73adc10",
-   "url": "https://t.me/OSINTWarfare/6086",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) has raised its alert level, with its Air Defense Array mobilizing air defense systems across the country.",
-   "timestamp": "2026-08-01T17:03:30+00:00",
-   "has_media": false
-  },
-  {
    "id": "769590c245b06bdb623c8a49a615b825",
    "url": "https://t.me/warmonitors/45181",
    "source": "telegram",
@@ -147,30 +156,12 @@
    "has_media": false
   },
   {
-   "id": "5d8a4102e7cd3252de1aa0450200346e",
-   "url": "https://t.me/OSINTWarfare/6084",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Scatter orders have been issued to the Islamic Republic of Iran Army and government agencies. Several headquarters, bases, and facilities have been evacuated in anticipation of a possible resumption of the war with the U.S. and Israel.",
-   "timestamp": "2026-08-01T15:13:40+00:00",
-   "has_media": false
-  },
-  {
    "id": "a5fd0e29e0c7ba49a89f579bd5ccbd0a",
    "url": "https://t.me/warmonitors/45180",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nSatellite images reveal what is believed to be the clearest picture yet of the damage to the Saudi Aramco oil refinery in Jazan, caused by drone and missile attacks launched by the Houthis approximately a week ago.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-01T15:02:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8326de7edd769a532729d9561443e0eb",
-   "url": "https://t.me/OSINTWarfare/6079",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian jet-powered Geran-4 loitering munition struck a Rozetka warehouse in Brovary, Kyiv Oblast, today, killing one person and injuring six others.",
-   "timestamp": "2026-08-01T14:49:18+00:00",
    "has_media": true
   },
   {
