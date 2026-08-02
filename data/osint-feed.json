@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-02T18:36:02Z",
+ "generated_utc": "2026-08-02T19:47:13Z",
  "count": 39,
  "items": [
+  {
+   "id": "eafbd7ebd0162f4626c207e794f24eaa",
+   "url": "https://t.me/OSINTWarfare/6107",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian FP-5 Flamingo cruise missile flying at extremely low altitude during one of the missile strikes on Russia.\nThe exact date, location, and other details remain unknown.\nThe footage illustrates how low these missiles can fly, making them much harder to detect and intercept using conventional ground-based radar and air defense systems. This is where airborne early warning and control (AEW&C) aircraft play a critical role.\nRussia could face growing challenges if Ukraine significantly expands production of these cruise missiles or acquires long-range cruise missiles from Western countries. The Russian Aerospace Forces (VKS) operate a limited number of AEW&C aircraft, making it difficult to maintain continuous radar coverage over such a vast territory and respond effectively to repeated large-scale cruise missile attacks.",
+   "timestamp": "2026-08-02T19:08:36+00:00",
+   "has_media": true
+  },
   {
    "id": "b93cdc3ffc0ebbee8eb913b8891a0972",
    "url": "https://t.me/warmonitors/45193",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "⚔️\nFrontline Report\ndelivers fast, verified war and geopolitics updates.\n📊\nJoin now for real-time conflict intel",
    "timestamp": "2026-08-01T18:09:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0a5d6e6693661744fa50b6e31f17f7c7",
-   "url": "https://t.me/OSINTWarfare/6087",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Jordan and Syria have delivered a message to Baghdad warning that any attack launched from Iraqi territory against either country will not go unanswered and would trigger strikes on Iranian-backed groups operating in Iraq.",
-   "timestamp": "2026-08-01T17:33:06+00:00",
    "has_media": false
   },
   {
