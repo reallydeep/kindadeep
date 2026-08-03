@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-03T18:13:37Z",
- "count": 40,
+ "generated_utc": "2026-08-03T19:57:37Z",
+ "count": 36,
  "items": [
   {
    "id": "a52fd3867bc1688af84d528cf9728aca",
@@ -120,48 +120,12 @@
    "has_media": false
   },
   {
-   "id": "fb96a3d706bef56243956dcb57c57c12",
-   "url": "https://t.me/OSINTWarfare/6099",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Engels-2 Air Base in Russia's Saratov Oblast came under a Ukrainian drone attack.",
-   "timestamp": "2026-08-02T01:25:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c85bac9f2bf0eeb2652a62fada65101b",
-   "url": "https://t.me/OSINTWarfare/6098",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S.-led Coalition fighter aircraft are active over Iraq, possibly attempting to intercept incoming Iranian drones.",
-   "timestamp": "2026-08-01T23:30:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8cd9f6eeead9fa31f3b7859f5df66312",
-   "url": "https://t.me/OSINTWarfare/6097",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. C-RAM air defense system has been activated to intercept Iranian drones over Erbil, Iraqi Kurdistan.",
-   "timestamp": "2026-08-01T23:08:29+00:00",
-   "has_media": true
-  },
-  {
    "id": "bc50d93cfbc0ed63644cb4724da19117",
    "url": "https://t.me/warmonitors/45187",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nIranian drone strike hits a separatist base in Sulaymaniyah, Iraq.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-01T23:07:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3952b82b717b2c6505c9cdf7f0e5e3c4",
-   "url": "https://t.me/OSINTWarfare/6095",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran continues to target the positions of Kurdish separatist groups in Sulaymaniyah, Iraqi Kurdistan.",
-   "timestamp": "2026-08-01T22:54:25+00:00",
    "has_media": true
   },
   {
