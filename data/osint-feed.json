@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-03T08:00:28Z",
- "count": 37,
+ "generated_utc": "2026-08-03T11:37:30Z",
+ "count": 38,
  "items": [
+  {
+   "id": "5501b4bd20e8bc978d68eb267a36fc1f",
+   "url": "https://t.me/OSINTWarfare/6111",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An unidentified Ukrainian jet-powered drone was filmed during yesterday's attack on Russian territory.\nIt is believed to be either the Bravo drone developed by Triada Robotics, which reportedly has a range of up to 2,000 km, a 100–200 kg warhead, and a top speed of 650–700 km/h, or a modified variant of the same system.\nBased on its silhouette, the drone appears to be a modified variant, with noticeable changes to both the fuselage and the tail assembly compared to the standard Bravo design.",
+   "timestamp": "2026-08-03T10:59:39+00:00",
+   "has_media": true
+  },
+  {
+   "id": "de1ce4b9e8e05f026f41165c6599050a",
+   "url": "https://t.me/warmonitors/45197",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nRomania reports that several Russian drones have entered its territory in recent days.The threats were intercepted by F-16 fighter jets of the Romanian Air Force.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-03T09:02:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2edc957313a49a3e9b0242f1ef26bd5a",
+   "url": "https://t.me/warmonitors/45196",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent: Two people were injured by Israeli occupation forces' gunfire in the Al-Mawasi area of ​​Khan Younis city, southern Gaza Strip.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-03T08:12:16+00:00",
+   "has_media": false
+  },
   {
    "id": "ac16dbbd50145e3efc8d857111c8cced",
    "url": "https://t.me/OSINTWarfare/6110",
@@ -118,24 +145,6 @@
    "text": "Iran continues to target the positions of Kurdish separatist groups in Sulaymaniyah, Iraqi Kurdistan.",
    "timestamp": "2026-08-01T22:47:07+00:00",
    "has_media": true
-  },
-  {
-   "id": "7b6a0a7f6cc06164a114bfe121df48d7",
-   "url": "https://t.me/OSINTWarfare/6092",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Abdullah Badrani, director of Al Mayadeen's Baghdad office, says Kurdish separatist groups in Iraq are preparing to launch operations against Iran from Iraqi territory.",
-   "timestamp": "2026-08-01T22:11:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5287a51897fa9f2073b3be5d4858666b",
-   "url": "https://t.me/OSINTWarfare/6091",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Iraqi Ministry of Interior's Intelligence Directorate has issued a memo requesting updated information on the locations of Popular Mobilization Forces (PMF) headquarters, facilities, and weapons stockpiles to conduct an accurate damage assessment following the Saudi-American airstrikes.",
-   "timestamp": "2026-08-01T21:28:50+00:00",
-   "has_media": false
   },
   {
    "id": "769590c245b06bdb623c8a49a615b825",
