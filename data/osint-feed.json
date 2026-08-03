@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-03T11:37:30Z",
- "count": 38,
+ "generated_utc": "2026-08-03T13:59:08Z",
+ "count": 40,
  "items": [
+  {
+   "id": "dc5f4bcd56b186858907831f8ce66ef3",
+   "url": "https://t.me/OSINTWarfare/6115",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, the Islamic Revolutionary Guard Corps (IRGC) shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.",
+   "timestamp": "2026-08-03T13:35:22+00:00",
+   "has_media": false
+  },
+  {
+   "id": "377f1faf9a1cff9738df1baae86c1d05",
+   "url": "https://t.me/OSINTWarfare/6114",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian drone struck a beach in Arkhipo-Osipovka, near the town of Gelendzhik in Russia's Krasnodar Krai.\nSix civilians were killed and 40 others were injured.",
+   "timestamp": "2026-08-03T13:02:54+00:00",
+   "has_media": true
+  },
+  {
+   "id": "18a795826faa44d1af13bf2f1ddcd839",
+   "url": "https://t.me/OSINTWarfare/6113",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An adviser to the Commander-in-Chief of the Iranian Army stated that Iranian special forces carried out 14 ground operations against Kurdish armed opposition groups in the cities of Sulaymaniyah and Erbil in Iraqi Kurdistan.\nAccording to the adviser, several members of the groups were killed, others were captured, and the 23rd Takavar Division returned to its base without sustaining any casualties.",
+   "timestamp": "2026-08-03T12:30:44+00:00",
+   "has_media": false
+  },
   {
    "id": "5501b4bd20e8bc978d68eb267a36fc1f",
    "url": "https://t.me/OSINTWarfare/6111",
@@ -135,15 +162,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIranians attacked bases of the Kurdish opposition in Sulaymaniyah, Iraq.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-01T22:47:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7584f881e4f05aa964f9883851d6647c",
-   "url": "https://t.me/OSINTWarfare/6093",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran continues to target the positions of Kurdish separatist groups in Sulaymaniyah, Iraqi Kurdistan.",
-   "timestamp": "2026-08-01T22:47:07+00:00",
    "has_media": true
   },
   {
