@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-03T22:01:26Z",
+ "generated_utc": "2026-08-03T23:13:50Z",
  "count": 36,
  "items": [
+  {
+   "id": "4b68bc3e9f967cf9a744f9aaa19feafc",
+   "url": "https://t.me/OSINTWarfare/6121",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in Kuwait following an Iranian drone attack.",
+   "timestamp": "2026-08-03T22:56:00+00:00",
+   "has_media": true
+  },
   {
    "id": "a52fd3867bc1688af84d528cf9728aca",
    "url": "https://t.me/warmonitors/45198",
@@ -99,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Moment a Ukrainian FP-1 long-range drone strikes the Wildberries distribution center in Novosemeykino, Samara Oblast.\nThe facility is one of Wildberries' key distribution hubs in the Volga region, serving Samara and neighboring regions since opening in April 2025.",
    "timestamp": "2026-08-02T12:24:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a0fba66b58e4326eef716ef9fcefcbe3",
-   "url": "https://t.me/OSINTWarfare/6101",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "And another TACO.. even the Iranians denied that they made such a request xD",
-   "timestamp": "2026-08-02T12:15:05+00:00",
    "has_media": true
   },
   {
