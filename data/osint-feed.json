@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-02T23:27:07Z",
+ "generated_utc": "2026-08-03T01:03:42Z",
  "count": 37,
  "items": [
+  {
+   "id": "ac16dbbd50145e3efc8d857111c8cced",
+   "url": "https://t.me/OSINTWarfare/6110",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Moment a Ukrainian FP-1 long-range drone strikes the Wildberries distribution center in Novosemeykino, Samara Oblast.  The facility is one of Wildberries' key distribution hubs in the Volga region, serving Samara and neighboring regions since opening in April…",
+   "timestamp": "2026-08-02T23:40:31+00:00",
+   "has_media": true
+  },
   {
    "id": "eafbd7ebd0162f4626c207e794f24eaa",
    "url": "https://t.me/OSINTWarfare/6107",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "The Iraqi Ministry of Interior's Intelligence Directorate has issued a memo requesting updated information on the locations of Popular Mobilization Forces (PMF) headquarters, facilities, and weapons stockpiles to conduct an accurate damage assessment following the Saudi-American airstrikes.",
    "timestamp": "2026-08-01T21:28:50+00:00",
-   "has_media": false
-  },
-  {
-   "id": "26d3d61ced9966bc7de018a90f0e5d9f",
-   "url": "https://t.me/OSINTWarfare/6090",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy military reinforcements for the Syrian Arab Army's 86th Division, along with additional units from the Syrian Ministry of Defense, have arrived in Bukamal and been deployed to several positions and bases near the Iraqi border.",
-   "timestamp": "2026-08-01T21:11:53+00:00",
    "has_media": false
   },
   {
