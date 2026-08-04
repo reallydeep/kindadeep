@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-04T21:36:51Z",
+ "generated_utc": "2026-08-04T22:39:20Z",
  "count": 40,
  "items": [
+  {
+   "id": "a5f7a70f0f5f6bc6f63c2bcc2ce1a1b2",
+   "url": "https://t.me/OSINTWarfare/6140",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia has launched a massive missile attack on Kyiv and the surrounding region, firing more than 30 missiles over the past 30 minutes.\nThe strike package included Iskander-M ballistic missiles, modified RM-48U surface-to-surface missiles launched from S-400 systems, and 3M22 Zircon hypersonic cruise missiles.\nThe attacks have sparked fires near Vyshneve and Brovary, as well as in Kyiv's Sviatoshynskyi and Obolonskyi districts.",
+   "timestamp": "2026-08-04T22:15:37+00:00",
+   "has_media": true
+  },
   {
    "id": "ecbcd463a9a499aa57600f25f2efa980",
    "url": "https://t.me/OSINTWarfare/6139",
@@ -126,15 +135,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nA Russian FPV drone operator hunts down and strikes a Ukrainian civilian fruit seller in Kherson City\nVia:\n@AMK_Mapping_\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-04T07:42:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4b68bc3e9f967cf9a744f9aaa19feafc",
-   "url": "https://t.me/OSINTWarfare/6121",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Kuwait following an Iranian drone attack.",
-   "timestamp": "2026-08-03T22:56:00+00:00",
    "has_media": true
   },
   {
