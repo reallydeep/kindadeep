@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-04T15:36:51Z",
- "count": 38,
+ "generated_utc": "2026-08-04T17:14:53Z",
+ "count": 39,
  "items": [
+  {
+   "id": "bc9436739104836eb7dfb410b83bf2b4",
+   "url": "https://t.me/OSINTWarfare/6132",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran is demanding a 7% transit fee on all commercial vessels passing through the Strait of Hormuz, while the United States is seeking to negotiate the rate down to 5%.  Russian and Chinese vessels would be exempt from the fee.",
+   "timestamp": "2026-08-04T15:58:22+00:00",
+   "has_media": false
+  },
+  {
+   "id": "12257c87207f93f0be85c035a19d754b",
+   "url": "https://t.me/OSINTWarfare/6131",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran is demanding a 7% transit fee on all commercial vessels passing through the Strait of Hormuz, while the United States is seeking to negotiate the rate down to 5%.\nRussian and Chinese vessels would be exempt from the fee.",
+   "timestamp": "2026-08-04T15:49:49+00:00",
+   "has_media": false
+  },
   {
    "id": "f23cb5ac1bcafda69e65f9096dae5ac3",
    "url": "https://t.me/warmonitors/45204",
@@ -109,15 +127,6 @@
    "text": "An adviser to the Commander-in-Chief of the Iranian Army stated that Iranian special forces carried out 14 ground operations against Kurdish armed opposition groups in the cities of Sulaymaniyah and Erbil in Iraqi Kurdistan.\nAccording to the adviser, several members of the groups were killed, others were captured, and the 23rd Takavar Division returned to its base without sustaining any casualties.",
    "timestamp": "2026-08-03T12:30:44+00:00",
    "has_media": false
-  },
-  {
-   "id": "5501b4bd20e8bc978d68eb267a36fc1f",
-   "url": "https://t.me/OSINTWarfare/6111",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An unidentified Ukrainian jet-powered drone was filmed during yesterday's attack on Russian territory.\nIt is believed to be either the Bravo drone developed by Triada Robotics, which reportedly has a range of up to 2,000 km, a 100–200 kg warhead, and a top speed of 650–700 km/h, or a modified variant of the same system.\nBased on its silhouette, the drone appears to be a modified variant, with noticeable changes to both the fuselage and the tail assembly compared to the standard Bravo design.",
-   "timestamp": "2026-08-03T10:59:39+00:00",
-   "has_media": true
   },
   {
    "id": "de1ce4b9e8e05f026f41165c6599050a",
