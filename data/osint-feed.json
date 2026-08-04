@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-08-04T18:53:06Z",
- "count": 40,
+ "generated_utc": "2026-08-04T20:16:02Z",
+ "count": 41,
  "items": [
+  {
+   "id": "ecbcd463a9a499aa57600f25f2efa980",
+   "url": "https://t.me/OSINTWarfare/6139",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Syrian Arab Army has raised the state of alert to maximum readiness without providing a reason.\nTroops have been placed on Alert Level C, units have been deployed to the Syrian–Iraqi border, and all military personnel have been ordered to report to their units immediately.",
+   "timestamp": "2026-08-04T20:10:11+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1255ac75b4b9f2b20da6bc9da3ee1041",
+   "url": "https://t.me/OSINTWarfare/6138",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that they carried out a precision drone strike against a “sensitive target” at Najran Airport in Saudi Arabia.",
+   "timestamp": "2026-08-04T20:04:44+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e1982af8d8075b53d5da6d0620814c26",
+   "url": "https://t.me/OSINTWarfare/6134",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage has emerged showing an Iranian Kheibar Shekan medium-range ballistic missile (MRBM) and its transporter-erector-launcher (TEL) destroyed during combat operations in northwestern Iran.\nThe wreckage includes part of a Kheibar Shekan reentry vehicle (RV), exposing its composite thermal protection structure and what appears to be a jamming-resistant four-element Controlled Reception Pattern Antenna (CRPA) for satellite navigation.",
+   "timestamp": "2026-08-04T19:31:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6a380de3e50bdbf1885fc1142148bbd0",
+   "url": "https://t.me/OSINTWarfare/6133",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian Air Force Mirage 2000-5F fighter intercepted a jet-powered Geran-4 loitering munition using a short-range Matra R550 Magic 2 air-to-air missile.",
+   "timestamp": "2026-08-04T19:09:56+00:00",
+   "has_media": true
+  },
   {
    "id": "fd8e9bfe62bee67b12955ed6b5f3c6ef",
    "url": "https://t.me/warmonitors/45205",
@@ -109,33 +145,6 @@
    "text": "🇺🇸\n🇮🇱\nThe U.S. and Israel Are Discussing a Land Blockade of Iran\nWhat Does This Mean for Traders?\nWashington and Jerusalem are considering the possibility of cutting off Iran’s land trade routes. Trump and Netanyahu also discussed maintaining the blockade and the possibility of launching large-scale strikes.\nThe Strait of Hormuz is virtually paralyzed. Tensions remain high.\nThis is the moment when you can predict how the market will behave\nSubscribe now — we’ll show you exactly how to trade this move in the channel\n👉\nhttps://t.me/+4HCIhbYYgWJlZDY6\n#ad",
    "timestamp": "2026-08-03T14:40:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "dc5f4bcd56b186858907831f8ce66ef3",
-   "url": "https://t.me/OSINTWarfare/6115",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, the Islamic Revolutionary Guard Corps (IRGC) shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.",
-   "timestamp": "2026-08-03T13:35:22+00:00",
-   "has_media": false
-  },
-  {
-   "id": "377f1faf9a1cff9738df1baae86c1d05",
-   "url": "https://t.me/OSINTWarfare/6114",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian drone struck a beach in Arkhipo-Osipovka, near the town of Gelendzhik in Russia's Krasnodar Krai.\nSix civilians were killed and 40 others were injured.",
-   "timestamp": "2026-08-03T13:02:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "18a795826faa44d1af13bf2f1ddcd839",
-   "url": "https://t.me/OSINTWarfare/6113",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An adviser to the Commander-in-Chief of the Iranian Army stated that Iranian special forces carried out 14 ground operations against Kurdish armed opposition groups in the cities of Sulaymaniyah and Erbil in Iraqi Kurdistan.\nAccording to the adviser, several members of the groups were killed, others were captured, and the 23rd Takavar Division returned to its base without sustaining any casualties.",
-   "timestamp": "2026-08-03T12:30:44+00:00",
-   "has_media": false
   },
   {
    "id": "de1ce4b9e8e05f026f41165c6599050a",
