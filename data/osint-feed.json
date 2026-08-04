@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-08-04T22:39:20Z",
- "count": 40,
+ "generated_utc": "2026-08-04T23:38:59Z",
+ "count": 42,
  "items": [
+  {
+   "id": "e04a9ea8a71c834e86930589edb13601",
+   "url": "https://t.me/OSINTWarfare/6145",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇦🇪\n⚡️\n— Residents are reporting hearing a loud explosion in Dubai, UAE. The cause of the blast remains unknown.  @IntelSlava",
+   "timestamp": "2026-08-04T23:28:23+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b751b3727298a84061c2a1c47a48b0c5",
+   "url": "https://t.me/OSINTWarfare/6144",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇦🇪\n⚡️\n— Residents are reporting hearing a loud explosion in Dubai, UAE. The cause of the blast remains unknown.\n@IntelSlava",
+   "timestamp": "2026-08-04T23:28:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cdb96f5e8607b27f22b3add36a518684",
+   "url": "https://t.me/OSINTWarfare/6143",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Russian 9M723K1/5 Iskander-M tactical ballistic missile equipped with a cluster warhead was used in tonight's strike on Kyiv.",
+   "timestamp": "2026-08-04T23:08:29+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0287099b168fed1f0d28f1dec443b0a0",
+   "url": "https://t.me/OSINTWarfare/6142",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia has launched a massive missile attack on Kyiv and the surrounding region, firing more than 30 missiles over the past 30 minutes.  The strike package included Iskander-M ballistic missiles, modified RM-48U surface-to-surface missiles launched from S…",
+   "timestamp": "2026-08-04T22:55:45+00:00",
+   "has_media": true
+  },
   {
    "id": "a5f7a70f0f5f6bc6f63c2bcc2ce1a1b2",
    "url": "https://t.me/OSINTWarfare/6140",
@@ -93,15 +129,6 @@
    "has_media": false
   },
   {
-   "id": "8f8302d47ebfa9e54d71445af700a336",
-   "url": "https://t.me/OSINTWarfare/6124",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The aftermath of a Tornado-S MLRS strike on the Cherevkovskyi Bridge over the Kazennyi Torets River in Sloviansk, Donetsk Oblast.\nOne bridge span collapsed completely, while the second remained intact after the guided rocket failed to detonate and was left lying on the bridge deck,  requiring a follow-up strike.",
-   "timestamp": "2026-08-04T11:03:23+00:00",
-   "has_media": true
-  },
-  {
    "id": "415a3470914a8f6fd2d8338e57de97f1",
    "url": "https://t.me/warmonitors/45202",
    "source": "telegram",
@@ -117,15 +144,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nSky News Arabia: A senior Iranian source told Reuters that a temporary plan regarding the Strait of Hormuz is under discussion with Oman, which would give Tehran complete control over incoming shipping traffic.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-04T10:27:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f62d2e93ded9ef5ca83f6cfa054c5b45",
-   "url": "https://t.me/OSINTWarfare/6122",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows air defense crews of the 50th Separate \"Varyag\" UAV Brigade intercepting Ukrainian drones over Kherson Oblast.",
-   "timestamp": "2026-08-04T08:44:56+00:00",
    "has_media": false
   },
   {
