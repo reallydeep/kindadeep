@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-05T09:25:48Z",
- "count": 42,
+ "generated_utc": "2026-08-05T11:34:19Z",
+ "count": 43,
  "items": [
+  {
+   "id": "d6f3bcc2a7dc964f25d6d6754ca54136",
+   "url": "https://t.me/OSINTWarfare/6148",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Aftermath of Russian missile strike on the Nova Poshta Warehouse No. 2 in Kyiv's Obolon district.",
+   "timestamp": "2026-08-05T11:26:40+00:00",
+   "has_media": true
+  },
   {
    "id": "3cdc4cf305d32c51b9836602aaf872a6",
    "url": "https://t.me/warmonitors/45207",
