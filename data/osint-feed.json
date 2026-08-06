@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-06T09:06:13Z",
- "count": 45,
+ "generated_utc": "2026-08-06T11:29:47Z",
+ "count": 43,
  "items": [
+  {
+   "id": "19aa95858a489579b5fd3894d2ca85ab",
+   "url": "https://t.me/OSINTWarfare/6157",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "One of the units of the 56th Anti-Aircraft Missile Regiment of the Belarusian Air Force and Air Defense Forces conducted a training exercise to practice intercepting aerial targets at various altitudes and speeds using the S-300PS surface-to-air missile (SAM) system.\nTo increase the complexity of the exercise, real aircraft were used as target simulators.",
+   "timestamp": "2026-08-06T10:37:41+00:00",
+   "has_media": true
+  },
   {
    "id": "40329ccde1d0527903b242f86e0a79aa",
    "url": "https://t.me/OSINTWarfare/6155",
@@ -126,33 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Russia has launched a massive missile attack on Kyiv and the surrounding region, firing more than 30 missiles over the past 30 minutes.\nThe strike package included Iskander-M ballistic missiles, modified RM-48U surface-to-surface missiles launched from S-400 systems, and 3M22 Zircon hypersonic cruise missiles.\nThe attacks have sparked fires near Vyshneve and Brovary, as well as in Kyiv's Sviatoshynskyi and Obolonskyi districts.",
    "timestamp": "2026-08-04T22:15:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ecbcd463a9a499aa57600f25f2efa980",
-   "url": "https://t.me/OSINTWarfare/6139",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Syrian Arab Army has raised the state of alert to maximum readiness without providing a reason.\nTroops have been placed on Alert Level C, units have been deployed to the Syrian–Iraqi border, and all military personnel have been ordered to report to their units immediately.",
-   "timestamp": "2026-08-04T20:10:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1255ac75b4b9f2b20da6bc9da3ee1041",
-   "url": "https://t.me/OSINTWarfare/6138",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) announced that they carried out a precision drone strike against a “sensitive target” at Najran Airport in Saudi Arabia.",
-   "timestamp": "2026-08-04T20:04:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e1982af8d8075b53d5da6d0620814c26",
-   "url": "https://t.me/OSINTWarfare/6134",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage has emerged showing an Iranian Kheibar Shekan medium-range ballistic missile (MRBM) and its transporter-erector-launcher (TEL) destroyed during combat operations in northwestern Iran.\nThe wreckage includes part of a Kheibar Shekan reentry vehicle (RV), exposing its composite thermal protection structure and what appears to be a jamming-resistant four-element Controlled Reception Pattern Antenna (CRPA) for satellite navigation.",
-   "timestamp": "2026-08-04T19:31:43+00:00",
    "has_media": true
   },
   {
