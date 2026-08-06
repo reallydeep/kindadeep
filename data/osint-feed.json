@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-08-06T06:13:13Z",
- "count": 42,
+ "generated_utc": "2026-08-06T09:06:13Z",
+ "count": 45,
  "items": [
+  {
+   "id": "40329ccde1d0527903b242f86e0a79aa",
+   "url": "https://t.me/OSINTWarfare/6155",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A possible anti-ship ballistic missile was launched by Ansar Allah (Houthis) from Sana'a toward a vessel in the Red Sea.",
+   "timestamp": "2026-08-06T07:55:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f327dcc80345af80f17a9be17aa103d1",
+   "url": "https://t.me/OSINTWarfare/6153",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian drones have struck the Slavneft-YANOS oil refinery in Yaroslavl, Russia.",
+   "timestamp": "2026-08-06T06:59:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a314d23dd7876ab0cd4bdfb133c3c9e2",
+   "url": "https://t.me/warmonitors/45211",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nTwo Israeli soldiers killed in southern Lebanon.\n- Lieutenant Colonel (Res.) Harel Birnstock, 34, from Nokdim, commander of a company in the 2855th Battalion\n- Sergeant Major (Res.) Tamir Vaknin, 33, from Eilat, a soldier in the 2855th Battalion\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-06T06:39:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cb4f419f7f8fa4565057d4eefa46f5b3",
+   "url": "https://t.me/warmonitors/45210",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsraeli army says two soldiers killed in southern Lebanon, the first Israeli deaths since June truce with Hezbollah\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-06T06:29:24+00:00",
+   "has_media": false
+  },
   {
    "id": "172c5d30aed7d022cfa629a7ce45fd4c",
    "url": "https://t.me/OSINTWarfare/6151",
@@ -117,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage has emerged showing an Iranian Kheibar Shekan medium-range ballistic missile (MRBM) and its transporter-erector-launcher (TEL) destroyed during combat operations in northwestern Iran.\nThe wreckage includes part of a Kheibar Shekan reentry vehicle (RV), exposing its composite thermal protection structure and what appears to be a jamming-resistant four-element Controlled Reception Pattern Antenna (CRPA) for satellite navigation.",
    "timestamp": "2026-08-04T19:31:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6a380de3e50bdbf1885fc1142148bbd0",
-   "url": "https://t.me/OSINTWarfare/6133",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian Air Force Mirage 2000-5F fighter intercepted a jet-powered Geran-4 loitering munition using a short-range Matra R550 Magic 2 air-to-air missile.",
-   "timestamp": "2026-08-04T19:09:56+00:00",
    "has_media": true
   },
   {
