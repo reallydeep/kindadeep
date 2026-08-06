@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-06T00:11:54Z",
- "count": 43,
+ "generated_utc": "2026-08-06T03:37:18Z",
+ "count": 42,
  "items": [
+  {
+   "id": "172c5d30aed7d022cfa629a7ce45fd4c",
+   "url": "https://t.me/OSINTWarfare/6151",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "This is what Kyiv looked like last night.\nRussia targeted the capital with four 3M22 Zircon/Oniks missiles, 24 Iskander-M/S-400 missiles, and 115 strike UAVs, including Shahed drones (mostly jet-powered), Gerbera and Italmas drones, as well as \"Parodiya\" decoy drones.\nAccording to the Ukrainian Air Force, none of the Russian missiles launched overnight were intercepted by Ukrainian air defenses.",
+   "timestamp": "2026-08-06T00:26:32+00:00",
+   "has_media": true
+  },
   {
    "id": "061f9521775e17662f5a3df67f22a2a3",
    "url": "https://t.me/warmonitors/45209",
@@ -126,24 +135,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli leader Netanyahu says Israel will not withdraw from Gaza until Hamas has been completely disarmed\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-04T18:32:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bc9436739104836eb7dfb410b83bf2b4",
-   "url": "https://t.me/OSINTWarfare/6132",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran is demanding a 7% transit fee on all commercial vessels passing through the Strait of Hormuz, while the United States is seeking to negotiate the rate down to 5%.  Russian and Chinese vessels would be exempt from the fee.",
-   "timestamp": "2026-08-04T15:58:22+00:00",
-   "has_media": false
-  },
-  {
-   "id": "12257c87207f93f0be85c035a19d754b",
-   "url": "https://t.me/OSINTWarfare/6131",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran is demanding a 7% transit fee on all commercial vessels passing through the Strait of Hormuz, while the United States is seeking to negotiate the rate down to 5%.\nRussian and Chinese vessels would be exempt from the fee.",
-   "timestamp": "2026-08-04T15:49:49+00:00",
    "has_media": false
   },
   {
