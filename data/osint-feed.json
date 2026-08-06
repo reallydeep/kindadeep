@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-06T11:29:47Z",
- "count": 43,
+ "generated_utc": "2026-08-06T13:09:49Z",
+ "count": 42,
  "items": [
+  {
+   "id": "8a717443bdc7f51b57acbf4759dc2390",
+   "url": "https://t.me/OSINTWarfare/6161",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A possible anti-ship ballistic missile was launched by Ansar Allah (Houthis) from Sana'a toward a vessel in the Red Sea.",
+   "timestamp": "2026-08-06T11:34:14+00:00",
+   "has_media": true
+  },
   {
    "id": "19aa95858a489579b5fd3894d2ca85ab",
    "url": "https://t.me/OSINTWarfare/6157",
@@ -117,24 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "A Russian 9M723K1/5 Iskander-M tactical ballistic missile equipped with a cluster warhead was used in tonight's strike on Kyiv.",
    "timestamp": "2026-08-04T23:08:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0287099b168fed1f0d28f1dec443b0a0",
-   "url": "https://t.me/OSINTWarfare/6142",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia has launched a massive missile attack on Kyiv and the surrounding region, firing more than 30 missiles over the past 30 minutes.  The strike package included Iskander-M ballistic missiles, modified RM-48U surface-to-surface missiles launched from S…",
-   "timestamp": "2026-08-04T22:55:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a5f7a70f0f5f6bc6f63c2bcc2ce1a1b2",
-   "url": "https://t.me/OSINTWarfare/6140",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia has launched a massive missile attack on Kyiv and the surrounding region, firing more than 30 missiles over the past 30 minutes.\nThe strike package included Iskander-M ballistic missiles, modified RM-48U surface-to-surface missiles launched from S-400 systems, and 3M22 Zircon hypersonic cruise missiles.\nThe attacks have sparked fires near Vyshneve and Brovary, as well as in Kyiv's Sviatoshynskyi and Obolonskyi districts.",
-   "timestamp": "2026-08-04T22:15:37+00:00",
    "has_media": true
   },
   {
