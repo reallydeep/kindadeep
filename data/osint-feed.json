@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-07T11:21:28Z",
- "count": 41,
+ "generated_utc": "2026-08-07T12:03:44Z",
+ "count": 38,
  "items": [
+  {
+   "id": "916cd846b4fe5ae5c44388859ad4f47a",
+   "url": "https://t.me/OSINTWarfare/6168",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, Ansar Allah (Houthis) struck the Sahn al-Jin military camp, operated by the Saudi-backed Presidential Leadership Council (PLC) forces, in the city of Ma'rib.",
+   "timestamp": "2026-08-07T11:37:56+00:00",
+   "has_media": true
+  },
   {
    "id": "74a6be8d83c791f5bb595f8193a0741f",
    "url": "https://t.me/warmonitors/45220",
@@ -147,15 +156,6 @@
    "has_media": false
   },
   {
-   "id": "d6f3bcc2a7dc964f25d6d6754ca54136",
-   "url": "https://t.me/OSINTWarfare/6148",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Aftermath of Russian missile strike on the Nova Poshta Warehouse No. 2 in Kyiv's Obolon district.",
-   "timestamp": "2026-08-05T11:26:40+00:00",
-   "has_media": true
-  },
-  {
    "id": "3cdc4cf305d32c51b9836602aaf872a6",
    "url": "https://t.me/warmonitors/45207",
    "source": "telegram",
@@ -171,33 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli leader Netanyahu says Israel will not withdraw from Gaza until Hamas has been completely disarmed\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-04T18:32:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f23cb5ac1bcafda69e65f9096dae5ac3",
-   "url": "https://t.me/warmonitors/45204",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nUS x Iran diplomatic meeting by the end of this month is now up to 48%, despite recent escalation.\nDo you see this happening?\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-04T15:02:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "415a3470914a8f6fd2d8338e57de97f1",
-   "url": "https://t.me/warmonitors/45202",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera recently reported: The round of negotiations between Israel and Lebanon has begun, taking place in Rome.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-04T10:27:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4715e67df4d575b1b7321d5b5baee05c",
-   "url": "https://t.me/warmonitors/45203",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSky News Arabia: A senior Iranian source told Reuters that a temporary plan regarding the Strait of Hormuz is under discussion with Oman, which would give Tehran complete control over incoming shipping traffic.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-04T10:27:16+00:00",
    "has_media": false
   },
   {
