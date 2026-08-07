@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-07T14:28:47Z",
- "count": 36,
+ "generated_utc": "2026-08-07T15:23:53Z",
+ "count": 37,
  "items": [
+  {
+   "id": "1c193c8009e535a90e5e7e299cf7216d",
+   "url": "https://t.me/OSINTWarfare/6170",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An explosion was reported in the coastal city of Mokha, west of Taiz, Yemen. The Yemeni National Resistance stated that its forces destroyed an unmanned surface vessel (USV) launched by Ansar Allah (Houthis), which was attempting to target an oil tanker near the Mokha power station.",
+   "timestamp": "2026-08-07T15:17:53+00:00",
+   "has_media": false
+  },
   {
    "id": "916cd846b4fe5ae5c44388859ad4f47a",
    "url": "https://t.me/OSINTWarfare/6168",
