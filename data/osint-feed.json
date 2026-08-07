@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-07T18:43:46Z",
- "count": 37,
+ "generated_utc": "2026-08-07T19:38:46Z",
+ "count": 38,
  "items": [
+  {
+   "id": "873153a374c96e036a2932fccc60b3f6",
+   "url": "https://t.me/OSINTWarfare/6172",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Russian fiber-optic FPV drone being intercepted by a net-equipped FPV drone.",
+   "timestamp": "2026-08-07T18:46:14+00:00",
+   "has_media": true
+  },
   {
    "id": "f6348466dfabbdd1926dd43f86622b44",
    "url": "https://t.me/OSINTWarfare/6171",
