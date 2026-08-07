@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-07T21:01:49Z",
- "count": 37,
+ "generated_utc": "2026-08-07T21:50:09Z",
+ "count": 38,
  "items": [
+  {
+   "id": "dc06c36dff5bb6ab9ef361a2fe4e1c02",
+   "url": "https://t.me/OSINTWarfare/6177",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of Ukrainian RAM-2X loitering munition strikes on Russian mobile air defense groups providing protection for rear-area routes in the Zaporizhzhia direction.",
+   "timestamp": "2026-08-07T21:29:42+00:00",
+   "has_media": true
+  },
   {
    "id": "5dffcdb86f98e816f5779251c68510ee",
    "url": "https://t.me/OSINTWarfare/6173",
