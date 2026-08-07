@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-07T20:18:15Z",
- "count": 38,
+ "generated_utc": "2026-08-07T21:01:49Z",
+ "count": 37,
  "items": [
+  {
+   "id": "5dffcdb86f98e816f5779251c68510ee",
+   "url": "https://t.me/OSINTWarfare/6173",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In Iran, an exhibition displaying the wreckage of various intercepted Israeli and U.S. aerial vehicles has been established at one of the country’s underground bases.\nAmong the displayed debris are fragments of U.S. MQ-9A Reaper and MQ-1C Gray Eagle unmanned aerial vehicles (UAVs), as well as an Israeli Hermes 900 UAV.\nThe exhibition also shows the ACES II ejection seat system and canopy from a U.S. Air Force F-15E Strike Eagle assigned to the 494th Fighter Squadron, part of the 48th Fighter Wing based at RAF Lakenheath, United Kingdom.\nThe F-15E was intercepted over southern Iran in April of this year.",
+   "timestamp": "2026-08-07T20:49:11+00:00",
+   "has_media": true
+  },
   {
    "id": "873153a374c96e036a2932fccc60b3f6",
    "url": "https://t.me/OSINTWarfare/6172",
@@ -126,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "One of the units of the 56th Anti-Aircraft Missile Regiment of the Belarusian Air Force and Air Defense Forces conducted a training exercise to practice intercepting aerial targets at various altitudes and speeds using the S-300PS surface-to-air missile (SAM) system.\nTo increase the complexity of the exercise, real aircraft were used as target simulators.",
    "timestamp": "2026-08-06T10:37:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "40329ccde1d0527903b242f86e0a79aa",
-   "url": "https://t.me/OSINTWarfare/6155",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A possible anti-ship ballistic missile was launched by Ansar Allah (Houthis) from Sana'a toward a vessel in the Red Sea.",
-   "timestamp": "2026-08-06T07:55:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f327dcc80345af80f17a9be17aa103d1",
-   "url": "https://t.me/OSINTWarfare/6153",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian drones have struck the Slavneft-YANOS oil refinery in Yaroslavl, Russia.",
-   "timestamp": "2026-08-06T06:59:46+00:00",
    "has_media": true
   },
   {
