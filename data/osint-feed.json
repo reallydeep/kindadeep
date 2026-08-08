@@ -1,13 +1,22 @@
 {
- "generated_utc": "2026-08-07T23:56:42Z",
- "count": 35,
+ "generated_utc": "2026-08-08T00:58:45Z",
+ "count": 34,
  "items": [
+  {
+   "id": "e656008c15e80b279d19638a4674b92a",
+   "url": "https://t.me/OSINTWarfare/6186",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a Russian Iskander-M ballistic missile striking Kyiv, Ukraine.",
+   "timestamp": "2026-08-08T00:34:49+00:00",
+   "has_media": true
+  },
   {
    "id": "e2766575d38e9933c3f063a61dbb3e79",
    "url": "https://t.me/OSINTWarfare/6184",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Heavy clashes are currently underway between Ansar Allah (Houthis) and Saudi-backed Presidential Leadership Council (PLC) forces south of Hodeidah (Al Hudaydah), southwestern Yemen.",
+   "text": "Heavy clashes are currently underway between Ansar Allah (Houthis) and Saudi-backed Yemeni National Resistance forces south of Hodeidah (Al Hudaydah), southwestern Yemen.",
    "timestamp": "2026-08-07T23:14:26+00:00",
    "has_media": true
   },
@@ -82,24 +91,6 @@
    "text": "Earlier, Ansar Allah (Houthis) launched a missile toward positions of the Saudi-backed forces in Ma’rib Governorate.",
    "timestamp": "2026-08-06T20:31:56+00:00",
    "has_media": false
-  },
-  {
-   "id": "857d191a930d358a5edacd06fde34592",
-   "url": "https://t.me/OSINTWarfare/6166",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, Ansar Allah (Houthis) launched a missile toward positions of the Saudi-backed forces in Ma’rib Governorate.",
-   "timestamp": "2026-08-06T20:11:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "04099d331fb72a930398c97cd72ff242",
-   "url": "https://t.me/OSINTWarfare/6165",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine successfully tested the Sapsan (also known as Grom, Grim-2, or Hrіm-2) tactical ballistic missile system in July, with the missile reportedly striking its intended target.",
-   "timestamp": "2026-08-06T20:00:36+00:00",
-   "has_media": true
   },
   {
    "id": "71afe6befc3973db58348db36caaae25",
