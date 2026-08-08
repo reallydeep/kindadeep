@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-08T12:36:11Z",
+ "generated_utc": "2026-08-08T13:29:01Z",
  "count": 33,
  "items": [
+  {
+   "id": "fd1b057123616b7abb295542d41a38e1",
+   "url": "https://t.me/OSINTWarfare/6193",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) artillery targeted Saudi-backed National Shield Forces position at Al-Halala Camp in Qatabah, Al-Dhale’e Governorate.",
+   "timestamp": "2026-08-08T13:16:05+00:00",
+   "has_media": true
+  },
   {
    "id": "4aa0a24d661e9f9d15158bbe661281ec",
    "url": "https://t.me/OSINTWarfare/6190",
@@ -63,15 +72,6 @@
    "channel": "OSINTWarfare",
    "text": "In Iran, an exhibition displaying the wreckage of various intercepted Israeli and U.S. aerial vehicles has been established at one of the country’s underground bases.\nAmong the displayed debris are fragments of U.S. MQ-9A Reaper and MQ-1C Gray Eagle unmanned aerial vehicles (UAVs), as well as an Israeli Hermes 900 UAV.\nThe exhibition also shows the ACES II ejection seat system and canopy from a U.S. Air Force F-15E Strike Eagle assigned to the 494th Fighter Squadron, part of the 48th Fighter Wing based at RAF Lakenheath, United Kingdom.\nThe F-15E was intercepted over southern Iran in April of this year.",
    "timestamp": "2026-08-07T20:49:11+00:00",
-   "has_media": true
-  },
-  {
-   "id": "873153a374c96e036a2932fccc60b3f6",
-   "url": "https://t.me/OSINTWarfare/6172",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a Russian fiber-optic FPV drone being intercepted by a net-equipped FPV drone.",
-   "timestamp": "2026-08-07T18:46:14+00:00",
    "has_media": true
   },
   {
