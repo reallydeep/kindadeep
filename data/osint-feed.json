@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-08T00:58:45Z",
+ "generated_utc": "2026-08-08T02:52:49Z",
  "count": 34,
  "items": [
+  {
+   "id": "94c4cbd003424e6c00ef53012dc1817f",
+   "url": "https://t.me/OSINTWarfare/6189",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Saudi-backed Hadhrami Emergency Forces engaging one-way attack UAVs (OWA-UAVs) launched by Ansar Allah (Houthis) with anti-aircraft guns over Seiyun, Hadhramaut Governorate.",
+   "timestamp": "2026-08-08T01:35:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7db9846c4e1571aff6ece5e23e346a39",
+   "url": "https://t.me/OSINTWarfare/6188",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian drones struck the Ilsky Oil Refinery in Krasnodar Krai.",
+   "timestamp": "2026-08-08T01:26:52+00:00",
+   "has_media": true
+  },
   {
    "id": "e656008c15e80b279d19638a4674b92a",
    "url": "https://t.me/OSINTWarfare/6186",
@@ -66,30 +84,12 @@
    "has_media": false
   },
   {
-   "id": "916cd846b4fe5ae5c44388859ad4f47a",
-   "url": "https://t.me/OSINTWarfare/6168",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, Ansar Allah (Houthis) struck the Sahn al-Jin military camp, operated by the Saudi-backed Presidential Leadership Council (PLC) forces, in the city of Ma'rib.",
-   "timestamp": "2026-08-07T11:37:56+00:00",
-   "has_media": true
-  },
-  {
    "id": "74a6be8d83c791f5bb595f8193a0741f",
    "url": "https://t.me/warmonitors/45220",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nSky News Arabia: AFP, quoting a Yemeni source: Three Yemeni government soldiers killed in a new Houthi attack\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-07T08:14:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cc0ea3feb82476cd8a83679b6053a48d",
-   "url": "https://t.me/OSINTWarfare/6167",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, Ansar Allah (Houthis) launched a missile toward positions of the Saudi-backed forces in Ma’rib Governorate.",
-   "timestamp": "2026-08-06T20:31:56+00:00",
    "has_media": false
   },
   {
