@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-08T22:29:17Z",
+ "generated_utc": "2026-08-08T22:57:21Z",
  "count": 33,
  "items": [
+  {
+   "id": "2fd93b0ab4025c0360c600b0262d3141",
+   "url": "https://t.me/warmonitors/45235",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nThe IDF is artillery striking and detonating Lebanese towns in southern Lebanon tonight\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-08T22:54:25+00:00",
+   "has_media": true
+  },
   {
    "id": "734ec26cccc9a6fc9a840566e5cb9eca",
    "url": "https://t.me/warmonitors/45234",
@@ -99,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Heavy clashes are currently underway between Ansar Allah (Houthis) and Saudi-backed Yemeni National Resistance forces south of Hodeidah (Al Hudaydah), southwestern Yemen.",
    "timestamp": "2026-08-07T23:14:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dc06c36dff5bb6ab9ef361a2fe4e1c02",
-   "url": "https://t.me/OSINTWarfare/6177",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of Ukrainian RAM-2X loitering munition strikes on Russian mobile air defense groups providing protection for rear-area routes in the Zaporizhzhia direction.",
-   "timestamp": "2026-08-07T21:29:42+00:00",
    "has_media": true
   },
   {
