@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-08T11:57:49Z",
- "count": 34,
+ "generated_utc": "2026-08-08T12:36:11Z",
+ "count": 33,
  "items": [
   {
    "id": "4aa0a24d661e9f9d15158bbe661281ec",
@@ -73,15 +73,6 @@
    "text": "Footage shows a Russian fiber-optic FPV drone being intercepted by a net-equipped FPV drone.",
    "timestamp": "2026-08-07T18:46:14+00:00",
    "has_media": true
-  },
-  {
-   "id": "f6348466dfabbdd1926dd43f86622b44",
-   "url": "https://t.me/OSINTWarfare/6171",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Islamic Resistance in Iraq announced that it has postponed \"the response that was scheduled for today\" to the U.S. and Saudi airstrikes targeting Popular Mobilization Forces (PMF) bases and positions.",
-   "timestamp": "2026-08-07T17:04:51+00:00",
-   "has_media": false
   },
   {
    "id": "74a6be8d83c791f5bb595f8193a0741f",
