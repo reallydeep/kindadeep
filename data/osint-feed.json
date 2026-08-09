@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-09T11:23:55Z",
- "count": 37,
+ "generated_utc": "2026-08-09T11:51:38Z",
+ "count": 38,
  "items": [
+  {
+   "id": "8fa78a5ee4085002c1d3969883eb9282",
+   "url": "https://t.me/OSINTWarfare/6205",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia's Rosatom has begun returning specialists to Iran to work at the Bushehr nuclear power plant, with the first five already on duty.",
+   "timestamp": "2026-08-09T11:34:13+00:00",
+   "has_media": false
+  },
   {
    "id": "948e6849ad67df1a8ca63f59aad9c6e7",
    "url": "https://t.me/OSINTWarfare/6204",
