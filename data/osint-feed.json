@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-09T20:03:56Z",
- "count": 41,
+ "generated_utc": "2026-08-09T20:46:13Z",
+ "count": 38,
  "items": [
+  {
+   "id": "77b69f194862bd969a61f860fd655523",
+   "url": "https://t.me/OSINTWarfare/6221",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Personnel of the Armenian Armed Forces' Air Defence Troops conducted training exercises using the recently acquired “Karich,” the Iranian Majid (AD-08) short-range air defense system, and “Lusan,” India's Akash surface-to-air missile system.",
+   "timestamp": "2026-08-09T20:13:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4b6f5e479681799493b3fc235fa23b68",
+   "url": "https://t.me/OSINTWarfare/6217",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Personnel of the Armenian Armed Forces' Air Defence Troops conducted training exercises using the recently acquired “Karich,” the Iranian Majid (AD-08) short-range air defense system, and “Lusan,” India's Akash surface-to-air missile system.",
+   "timestamp": "2026-08-09T20:13:26+00:00",
+   "has_media": true
+  },
   {
    "id": "a682ecb0eff1e971eaf976956e1788ff",
    "url": "https://t.me/warmonitors/45244",
@@ -111,33 +129,6 @@
    "has_media": false
   },
   {
-   "id": "b77e38db9bc4aeadf7a2ad9158d35084",
-   "url": "https://t.me/OSINTWarfare/6203",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Accounts circulating this footage claiming it shows the aftermath of an Ansar Allah (Houthis) drone strike on the Saudi Aramco refinery in Jazan (Jizan), Saudi Arabia, are spreading false information.\nThe video is old and was filmed in Tehran in June 2025, during the 12-Day War. It shows the aftermath of an Israeli airstrike on an oil depot and is unrelated to the reported strike in Jazan.",
-   "timestamp": "2026-08-09T10:25:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2ac4497b1c4d7faf77f231b4e47f9a1e",
-   "url": "https://t.me/OSINTWarfare/6202",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) announced that it targeted the Aramco refinery in Jizan, Saudi Arabia, with a drone strike, claiming a direct hit. Satellite imagery appears to support the claim, showing a large plume of smoke rising from the facility.",
-   "timestamp": "2026-08-09T09:33:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "41b7d4891bfc22ea713973626a99d5ec",
-   "url": "https://t.me/OSINTWarfare/6201",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.  The shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
-   "timestamp": "2026-08-09T09:24:31+00:00",
-   "has_media": true
-  },
-  {
    "id": "297f87ac1dc263a39245188ea9807dc0",
    "url": "https://t.me/warmonitors/45237",
    "source": "telegram",
@@ -145,24 +136,6 @@
    "text": "⚡\n#BREAKING\nYemeni military sources: Four new explosions rock the city of Mocha in western Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-09T09:24:24+00:00",
    "has_media": false
-  },
-  {
-   "id": "af9f7b5e7987533c2cb454d3372d2b5f",
-   "url": "https://t.me/OSINTWarfare/6199",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.\nThe shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
-   "timestamp": "2026-08-09T09:13:59+00:00",
-   "has_media": true
-  },
-  {
-   "id": "78029825ecce9f0331c13e92fe420502",
-   "url": "https://t.me/OSINTWarfare/6198",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "India has begun official steps to join France’s FCAS sixth-generation fighter program, effectively choosing it over the British-Japanese GCAP.\nFor India, the move is about more than acquiring a new fighter. FCAS is a next-generation combat system designed to link manned fighters with drones, electronic warfare and intelligence assets through a common data network.\nThe decision comes amid the rapid expansion of Chinese airpower and delays to India’s own AMCA program.\nHowever, FCAS is itself undergoing major restructuring following disagreements between Dassault and Airbus, which led France and Germany to abandon their joint development of the manned fighter.\nIt remains unclear which part of the program India intends to join and whether it would receive a full development role, a significant stake, or access to selected technologies.",
-   "timestamp": "2026-08-08T23:52:50+00:00",
-   "has_media": true
   },
   {
    "id": "2fd93b0ab4025c0360c600b0262d3141",
