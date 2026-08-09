@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-09T21:48:09Z",
+ "generated_utc": "2026-08-09T22:12:04Z",
  "count": 38,
  "items": [
+  {
+   "id": "5a0c0845c08d5258a35b092b14a7095c",
+   "url": "https://t.me/OSINTWarfare/6226",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A vessel attempting to violate the blockade is seen burning from the coast of Kumzar, Oman, following an IRGC Navy attack with anti-ship cruise missiles launched from Sirik, southern Iran.",
+   "timestamp": "2026-08-09T21:48:49+00:00",
+   "has_media": true
+  },
   {
    "id": "17a7968c1f5c6f54264a79750ef3e61b",
    "url": "https://t.me/OSINTWarfare/6225",
@@ -118,15 +127,6 @@
    "text": "Footage shows traffic jams on the road leading to the bridge over the Dniester River in Maiaky, Odesa Oblast, following last night’s Russian missile strike.\nThe bridge was temporarily closed due to the damage sustained, but remains operational and has not been completely disabled.",
    "timestamp": "2026-08-09T11:54:19+00:00",
    "has_media": true
-  },
-  {
-   "id": "8fa78a5ee4085002c1d3969883eb9282",
-   "url": "https://t.me/OSINTWarfare/6205",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia's Rosatom has begun returning specialists to Iran to work at the Bushehr nuclear power plant, with the first five already on duty.",
-   "timestamp": "2026-08-09T11:34:13+00:00",
-   "has_media": false
   },
   {
    "id": "297f87ac1dc263a39245188ea9807dc0",
