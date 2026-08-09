@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-09T10:20:19Z",
- "count": 36,
+ "generated_utc": "2026-08-09T10:58:06Z",
+ "count": 37,
  "items": [
+  {
+   "id": "948e6849ad67df1a8ca63f59aad9c6e7",
+   "url": "https://t.me/OSINTWarfare/6204",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Iran's President Masoud Pezeshkian met with the Supreme Leader Ayatollah Mojtaba Khamenei and they held discussions on economic challenges, the military situation, resource management, and foreign economic relations.\n@IntelSlava",
+   "timestamp": "2026-08-09T10:47:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b77e38db9bc4aeadf7a2ad9158d35084",
+   "url": "https://t.me/OSINTWarfare/6203",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Accounts circulating this footage claiming it shows the aftermath of an Ansar Allah (Houthis) drone strike on the Saudi Aramco refinery in Jazan (Jizan), Saudi Arabia, are spreading false information.\nThe video is old and was filmed in Tehran in June 2025, during the 12-Day War. It shows the aftermath of an Israeli airstrike on an oil depot and is unrelated to the reported strike in Jazan.",
+   "timestamp": "2026-08-09T10:25:01+00:00",
+   "has_media": true
+  },
   {
    "id": "2ac4497b1c4d7faf77f231b4e47f9a1e",
    "url": "https://t.me/OSINTWarfare/6202",
@@ -144,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows a Russian Iskander-M ballistic missile striking Kyiv, Ukraine.",
    "timestamp": "2026-08-08T00:34:49+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e2766575d38e9933c3f063a61dbb3e79",
-   "url": "https://t.me/OSINTWarfare/6184",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Heavy clashes are currently underway between Ansar Allah (Houthis) and Saudi-backed Yemeni National Resistance forces south of Hodeidah (Al Hudaydah), southwestern Yemen.",
-   "timestamp": "2026-08-07T23:14:26+00:00",
    "has_media": true
   },
   {
