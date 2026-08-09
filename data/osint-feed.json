@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-08-09T09:07:34Z",
- "count": 33,
+ "generated_utc": "2026-08-09T09:52:01Z",
+ "count": 37,
  "items": [
+  {
+   "id": "2ac4497b1c4d7faf77f231b4e47f9a1e",
+   "url": "https://t.me/OSINTWarfare/6202",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that it targeted the Aramco refinery in Jizan, Saudi Arabia, with a drone strike, claiming a direct hit. Satellite imagery appears to support the claim, showing a large plume of smoke rising from the facility.",
+   "timestamp": "2026-08-09T09:33:52+00:00",
+   "has_media": true
+  },
+  {
+   "id": "41b7d4891bfc22ea713973626a99d5ec",
+   "url": "https://t.me/OSINTWarfare/6201",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.  The shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
+   "timestamp": "2026-08-09T09:24:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "297f87ac1dc263a39245188ea9807dc0",
+   "url": "https://t.me/warmonitors/45237",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nYemeni military sources: Four new explosions rock the city of Mocha in western Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-09T09:24:24+00:00",
+   "has_media": false
+  },
+  {
+   "id": "af9f7b5e7987533c2cb454d3372d2b5f",
+   "url": "https://t.me/OSINTWarfare/6199",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.\nThe shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
+   "timestamp": "2026-08-09T09:13:59+00:00",
+   "has_media": true
+  },
   {
    "id": "78029825ecce9f0331c13e92fe420502",
    "url": "https://t.me/OSINTWarfare/6198",
