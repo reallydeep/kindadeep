@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-09T11:51:38Z",
- "count": 38,
+ "generated_utc": "2026-08-09T12:22:38Z",
+ "count": 36,
  "items": [
+  {
+   "id": "1571e7893901825d2065f61c77bfcbbb",
+   "url": "https://t.me/OSINTWarfare/6210",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UAV operators from Ukraine’s 15th Separate Artillery Reconnaissance Brigade “Black Forest” detected and destroyed a 54K6 command post of a Russian S-300P/PM surface-to-air missile (SAM) system using a RAM-2X loitering munition.",
+   "timestamp": "2026-08-09T12:06:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "421e947906e0be7cfd3d95882e88cb96",
+   "url": "https://t.me/OSINTWarfare/6206",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows traffic jams on the road leading to the bridge over the Dniester River in Maiaky, Odesa Oblast, following last night’s Russian missile strike.\nThe bridge was temporarily closed due to the damage sustained, but remains operational and has not been completely disabled.",
+   "timestamp": "2026-08-09T11:54:19+00:00",
+   "has_media": true
+  },
   {
    "id": "8fa78a5ee4085002c1d3969883eb9282",
    "url": "https://t.me/OSINTWarfare/6205",
@@ -135,42 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Ansar Allah (Houthis) artillery targeted Saudi-backed National Shield Forces position at Al-Halala Camp in Qatabah, Al-Dhale’e Governorate.",
    "timestamp": "2026-08-08T13:16:05+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4aa0a24d661e9f9d15158bbe661281ec",
-   "url": "https://t.me/OSINTWarfare/6190",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚡️\n🇮🇷\nA cell in Iran has been confirmed to be operating in an assassination program.\nAn Iranian police officer (Sniper, Security), was kidnapped on August 4th, recently, a video of his torture was released on Iranian telegram channels that were Anti-Regime.\nActions included cutting out his own heart while it was still beating, spitting on his corpse, taking his guts out, and so on.\nThe cell says that anyone who does such actions in Iran will be rewarded between 1,000 to 2,000 US dollars, and they have a list of police officers in Iran they will target.\nThe government confirmed his death today.\n@medmannews",
-   "timestamp": "2026-08-08T10:58:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "94c4cbd003424e6c00ef53012dc1817f",
-   "url": "https://t.me/OSINTWarfare/6189",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Saudi-backed Hadhrami Emergency Forces engaging one-way attack UAVs (OWA-UAVs) launched by Ansar Allah (Houthis) with anti-aircraft guns over Seiyun, Hadhramaut Governorate.",
-   "timestamp": "2026-08-08T01:35:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7db9846c4e1571aff6ece5e23e346a39",
-   "url": "https://t.me/OSINTWarfare/6188",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian drones struck the Ilsky Oil Refinery in Krasnodar Krai.",
-   "timestamp": "2026-08-08T01:26:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e656008c15e80b279d19638a4674b92a",
-   "url": "https://t.me/OSINTWarfare/6186",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows a Russian Iskander-M ballistic missile striking Kyiv, Ukraine.",
-   "timestamp": "2026-08-08T00:34:49+00:00",
    "has_media": true
   },
   {
