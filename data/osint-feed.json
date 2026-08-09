@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-09T20:46:13Z",
+ "generated_utc": "2026-08-09T21:13:23Z",
  "count": 38,
  "items": [
+  {
+   "id": "17a7968c1f5c6f54264a79750ef3e61b",
+   "url": "https://t.me/OSINTWarfare/6225",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) released footage showing the launch of ballistic missiles and one-way attack UAVs (OWA-UAVs) targeting troop concentrations and ammunition depots belonging to Saudi-backed forces in Mokha (Mocha/Mukha), southwestern Yemen.",
+   "timestamp": "2026-08-09T21:02:15+00:00",
+   "has_media": false
+  },
   {
    "id": "77b69f194862bd969a61f860fd655523",
    "url": "https://t.me/OSINTWarfare/6221",
@@ -117,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Russia's Rosatom has begun returning specialists to Iran to work at the Bushehr nuclear power plant, with the first five already on duty.",
    "timestamp": "2026-08-09T11:34:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "948e6849ad67df1a8ca63f59aad9c6e7",
-   "url": "https://t.me/OSINTWarfare/6204",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Iran's President Masoud Pezeshkian met with the Supreme Leader Ayatollah Mojtaba Khamenei and they held discussions on economic challenges, the military situation, resource management, and foreign economic relations.\n@IntelSlava",
-   "timestamp": "2026-08-09T10:47:20+00:00",
    "has_media": false
   },
   {
