@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-09T15:12:28Z",
+ "generated_utc": "2026-08-09T15:46:46Z",
  "count": 40,
  "items": [
+  {
+   "id": "4be2790a6cb3891e4d0cad2fd976b205",
+   "url": "https://t.me/OSINTWarfare/6214",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.  The shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
+   "timestamp": "2026-08-09T15:15:30+00:00",
+   "has_media": true
+  },
   {
    "id": "07dd487b2139faeee72ae11c688b5b1e",
    "url": "https://t.me/OSINTWarfare/6212",
@@ -171,15 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "The U.S. State Department announced that Ukraine has purchased a range of munitions from Turkey for the Ukrainian Armed Forces.\nThe package includes:\n• 12 M270 MLRS launchers\n• 70 M39 ATACMS tactical ballistic missiles\n• 2,524 M26 227 mm unguided rockets with DPICM cluster warheads\n• 47,000 M509A1 203 mm cluster artillery shells for 2S7 Pion and M110 self-propelled howitzers",
    "timestamp": "2026-08-08T21:43:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "69c2060f7af3952f23649c65d562e507",
-   "url": "https://t.me/OSINTWarfare/6194",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Greece is considering deploying two AH-64D Apache attack helicopters to the United Arab Emirates to support counter-drone operations under the bilateral defense agreement signed in 2020.",
-   "timestamp": "2026-08-08T15:13:33+00:00",
    "has_media": true
   },
   {
