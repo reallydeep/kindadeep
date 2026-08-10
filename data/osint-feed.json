@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-10T11:39:40Z",
+ "generated_utc": "2026-08-10T12:28:21Z",
  "count": 41,
  "items": [
+  {
+   "id": "2b6cf6f7b00aeb649f97b7140789ca6f",
+   "url": "https://t.me/OSINTWarfare/6230",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Two Shabwah Defense Forces fighters were killed in Ansar Allah (Houthis) attacks targeting their positions in Bayhan District, Shabwah Governorate.",
+   "timestamp": "2026-08-10T12:19:10+00:00",
+   "has_media": false
+  },
   {
    "id": "ff52e2c9be92573426357caeb99f0c8f",
    "url": "https://t.me/OSINTWarfare/6228",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "UAV operators from Ukraine’s 15th Separate Artillery Reconnaissance Brigade “Black Forest” detected and destroyed a 54K6 command post of a Russian S-300P/PM surface-to-air missile (SAM) system using a RAM-2X loitering munition.",
    "timestamp": "2026-08-09T12:06:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "421e947906e0be7cfd3d95882e88cb96",
-   "url": "https://t.me/OSINTWarfare/6206",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows traffic jams on the road leading to the bridge over the Dniester River in Maiaky, Odesa Oblast, following last night’s Russian missile strike.\nThe bridge was temporarily closed due to the damage sustained, but remains operational and has not been completely disabled.",
-   "timestamp": "2026-08-09T11:54:19+00:00",
    "has_media": true
   },
   {
