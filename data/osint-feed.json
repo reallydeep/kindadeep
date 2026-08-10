@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-10T12:28:21Z",
- "count": 41,
+ "generated_utc": "2026-08-10T13:53:26Z",
+ "count": 40,
  "items": [
+  {
+   "id": "8415d275e84752e9b69333c609877f3f",
+   "url": "https://t.me/OSINTWarfare/6231",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) released footage showing the launch of ballistic missiles and one-way attack UAVs (OWA-UAVs) targeting troop concentrations and ammunition depots belonging to Saudi-backed forces in Mokha (Mocha/Mukha), southwestern Yemen.",
+   "timestamp": "2026-08-10T12:52:33+00:00",
+   "has_media": true
+  },
   {
    "id": "2b6cf6f7b00aeb649f97b7140789ca6f",
    "url": "https://t.me/OSINTWarfare/6230",
@@ -135,24 +144,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#LATEST\nNetanyahu: \"Israel rejects the Gaza Board of Peace 15-point document. The IDF will not make any withdrawal until Hamas disarms. I mean the heavy weapons, the less heavy weapons, all the weapons. And we are talking about real disarmament, not fictitious disarmament\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-09T12:34:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8e77ee40a09afbd3b35b2a9086053c9e",
-   "url": "https://t.me/OSINTWarfare/6211",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Governor of Hodeidah survived an assassination attempt by Ansar Allah (Houthis) after a ballistic missile targeted his residence in Al-Khawkhah District, south of Hodeidah.",
-   "timestamp": "2026-08-09T12:33:54+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1571e7893901825d2065f61c77bfcbbb",
-   "url": "https://t.me/OSINTWarfare/6210",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UAV operators from Ukraine’s 15th Separate Artillery Reconnaissance Brigade “Black Forest” detected and destroyed a 54K6 command post of a Russian S-300P/PM surface-to-air missile (SAM) system using a RAM-2X loitering munition.",
-   "timestamp": "2026-08-09T12:06:20+00:00",
    "has_media": true
   },
   {
