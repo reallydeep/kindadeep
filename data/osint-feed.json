@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-10T16:32:58Z",
- "count": 37,
+ "generated_utc": "2026-08-10T17:30:03Z",
+ "count": 36,
  "items": [
+  {
+   "id": "0cbff41cdc69732bba6e2bdf9e73d29a",
+   "url": "https://t.me/OSINTWarfare/6237",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "China’s CZ-7A rocket, carrying the Zhongxing-4B communications satellite, exploded during first-stage flight approximately 85 seconds after liftoff from the Wenchang Spacecraft Launch Site on Hainan Island.\nThe incident marks the 18th flight of the CZ-7A and only its second launch failure.",
+   "timestamp": "2026-08-10T16:42:08+00:00",
+   "has_media": true
+  },
   {
    "id": "68501919e44b08b3dad66fe388ce27fb",
    "url": "https://t.me/OSINTWarfare/6235",
@@ -111,15 +120,6 @@
    "has_media": false
   },
   {
-   "id": "1b641a001ffa13376667589708dfef80",
-   "url": "https://t.me/OSINTWarfare/6216",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚔️\nFrontline Report\ndelivers fast, verified war and geopolitics updates.\n📊\nJoin now for real-time conflict intel",
-   "timestamp": "2026-08-09T16:04:41+00:00",
-   "has_media": false
-  },
-  {
    "id": "493ecad2025f8c7d1a117d7f42d46799",
    "url": "https://t.me/warmonitors/45243",
    "source": "telegram",
@@ -154,15 +154,6 @@
    "text": "⚡\n#BREAKING\nYemeni military sources: Four new explosions rock the city of Mocha in western Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-09T09:24:24+00:00",
    "has_media": false
-  },
-  {
-   "id": "2fd93b0ab4025c0360c600b0262d3141",
-   "url": "https://t.me/warmonitors/45235",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nThe IDF is artillery striking and detonating Lebanese towns in southern Lebanon tonight\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-08T22:54:25+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
