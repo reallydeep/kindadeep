@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-10T14:48:13Z",
- "count": 40,
+ "generated_utc": "2026-08-10T15:41:32Z",
+ "count": 38,
  "items": [
+  {
+   "id": "68501919e44b08b3dad66fe388ce27fb",
+   "url": "https://t.me/OSINTWarfare/6235",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion…",
+   "timestamp": "2026-08-10T15:17:53+00:00",
+   "has_media": true
+  },
+  {
+   "id": "343889a849a62251a30a70219d1925f8",
+   "url": "https://t.me/OSINTWarfare/6234",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion UAV control antenna, during an operation in Crimea in early August 2026.\nThe intelligence operators used Magura unmanned surface vessels (USVs) configured as motherships to carry and launch FPV drones.",
+   "timestamp": "2026-08-10T15:17:19+00:00",
+   "has_media": false
+  },
   {
    "id": "8415d275e84752e9b69333c609877f3f",
    "url": "https://t.me/OSINTWarfare/6231",
@@ -102,24 +120,6 @@
    "has_media": false
   },
   {
-   "id": "4be2790a6cb3891e4d0cad2fd976b205",
-   "url": "https://t.me/OSINTWarfare/6214",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck a shipment of military equipment shortly after it arrived at Yemen’s Mukha Port.  The shipment was intended for Saudi-backed Presidential Leadership Council (PLC) forces.",
-   "timestamp": "2026-08-09T15:15:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "07dd487b2139faeee72ae11c688b5b1e",
-   "url": "https://t.me/OSINTWarfare/6212",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian sources report that their drones struck a Russian S-400 surface-to-air missile (SAM) system in Gelendzhik, Krasnodar Krai.",
-   "timestamp": "2026-08-09T12:55:02+00:00",
-   "has_media": true
-  },
-  {
    "id": "493ecad2025f8c7d1a117d7f42d46799",
    "url": "https://t.me/warmonitors/45243",
    "source": "telegram",
@@ -171,24 +171,6 @@
    "channel": "WarMonitors",
    "text": "I really thought Trump would give up on the Iran war by now.\nFair enough tbh.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-08T22:14:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3fab4c9950b182c66c3a1fd9570f76e9",
-   "url": "https://t.me/warmonitors/45233",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nAl-Mayadeen correspondent: Israeli warships opened fire off the coast of Khan Younis city in the southern Gaza Strip.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-08T22:04:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c0e448e4bbd2499db0ff57719e145316",
-   "url": "https://t.me/warmonitors/45229",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Manar correspondent: The Israeli army carried out a bombing in the town of Qantara, southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-08T13:49:24+00:00",
    "has_media": false
   },
   {
