@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-10T00:36:24Z",
- "count": 39,
+ "generated_utc": "2026-08-10T02:54:17Z",
+ "count": 41,
  "items": [
+  {
+   "id": "ff52e2c9be92573426357caeb99f0c8f",
+   "url": "https://t.me/OSINTWarfare/6228",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air defense systems stationed around the Al-Maashiq Presidential Palace in Aden were activated to engage Ansar Allah (Houthi) drones.",
+   "timestamp": "2026-08-10T01:26:39+00:00",
+   "has_media": true
+  },
+  {
+   "id": "af0f556c10f3a21f06201d55cb9f28aa",
+   "url": "https://t.me/OSINTWarfare/6227",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from the Yemeni National Resistance side shows clashes with Ansar Allah (Houthis) taking place in Hodeidah, southwestern Yemen.",
+   "timestamp": "2026-08-10T01:13:43+00:00",
+   "has_media": true
+  },
   {
    "id": "33284e51e433a073ee4dafe522fd7b2c",
    "url": "https://t.me/warmonitors/45247",
