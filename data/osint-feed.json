@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-10T18:22:47Z",
- "count": 36,
+ "generated_utc": "2026-08-10T19:26:36Z",
+ "count": 37,
  "items": [
+  {
+   "id": "a80362adf528a25187731995c48c0e8a",
+   "url": "https://t.me/OSINTWarfare/6239",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian Air Force (UAF) MiG-29MU1/MU2 multirole fighter crashed in Odesa Oblast.\nThe aircraft caught fire following an apparent malfunction during a missile launch.",
+   "timestamp": "2026-08-10T18:33:07+00:00",
+   "has_media": true
+  },
   {
    "id": "0cbff41cdc69732bba6e2bdf9e73d29a",
    "url": "https://t.me/OSINTWarfare/6237",
