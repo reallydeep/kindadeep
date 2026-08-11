@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-11T22:22:11Z",
+ "generated_utc": "2026-08-11T23:08:47Z",
  "count": 37,
  "items": [
+  {
+   "id": "d29293d09a4ac1a4cd708ae3e1d7a913",
+   "url": "https://t.me/OSINTWarfare/6253",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Gibka-S self-propelled very short-range air defense system, based on a modified Tigr 4×4 armored vehicle, was seen conducting live-fire exercises, with drones serving as the primary targets.\nThe system uses roof-mounted launchers capable of firing Igla-S or 9K333 Verba MANPADS, using the 9M336, 9M342, or 9M39 surface-to-air missiles. The vehicle can carry four additional missiles internally. Its launcher has 360° traverse and an elevation range of −5° to +80°.\nIt is still too early to classify the Gibka-S specifically as a counter-drone system. However, its high mobility and ability to rapidly relocate could potentially improve the survivability and responsiveness of very short-range air defenses, including against small UAVs.",
+   "timestamp": "2026-08-11T22:22:39+00:00",
+   "has_media": true
+  },
   {
    "id": "0d6b8cdff31b052f68fde47a9c58ad07",
    "url": "https://t.me/warmonitors/45268",
@@ -154,15 +163,6 @@
    "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion UAV control antenna, during an operation in Crimea in early August 2026.\nThe intelligence operators used Magura unmanned surface vessels (USVs) configured as motherships to carry and launch FPV drones.",
    "timestamp": "2026-08-10T15:17:19+00:00",
    "has_media": false
-  },
-  {
-   "id": "8415d275e84752e9b69333c609877f3f",
-   "url": "https://t.me/OSINTWarfare/6231",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) released footage showing the launch of ballistic missiles and one-way attack UAVs (OWA-UAVs) targeting troop concentrations and ammunition depots belonging to Saudi-backed forces in Mokha (Mocha/Mukha), southwestern Yemen.",
-   "timestamp": "2026-08-10T12:52:33+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
