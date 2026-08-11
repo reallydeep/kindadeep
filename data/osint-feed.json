@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-10T23:56:33Z",
- "count": 35,
+ "generated_utc": "2026-08-11T01:02:48Z",
+ "count": 36,
  "items": [
+  {
+   "id": "e4153d5a5ab1ba4b8a15191ab1993bca",
+   "url": "https://t.me/OSINTWarfare/6242",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Major General Fawzi Al-Mansouri, Director of Military Intelligence of the Libyan National Army (LNA), was assassinated in a car bombing outside his home in Benghazi, eastern Libya.",
+   "timestamp": "2026-08-11T00:57:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "fa4f9b162eb9f9b5a5004019e3ae60a2",
+   "url": "https://t.me/OSINTWarfare/6240",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows an Ansar Allah (Houthi) ballistic missile being launched toward Saudi-backed Presidential Leadership Council (PLC) forces in southern Yemen.",
+   "timestamp": "2026-08-11T00:13:22+00:00",
+   "has_media": true
+  },
   {
    "id": "4dd69d79eebfb972ea34e521eeca0880",
    "url": "https://t.me/warmonitors/45263",
@@ -126,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Personnel of the Armenian Armed Forces' Air Defence Troops conducted training exercises using the recently acquired “Karich,” the Iranian Majid (AD-08) short-range air defense system, and “Lusan,” India's Akash surface-to-air missile system.",
    "timestamp": "2026-08-09T20:13:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4b6f5e479681799493b3fc235fa23b68",
-   "url": "https://t.me/OSINTWarfare/6217",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Personnel of the Armenian Armed Forces' Air Defence Troops conducted training exercises using the recently acquired “Karich,” the Iranian Majid (AD-08) short-range air defense system, and “Lusan,” India's Akash surface-to-air missile system.",
-   "timestamp": "2026-08-09T20:13:26+00:00",
    "has_media": true
   },
   {
