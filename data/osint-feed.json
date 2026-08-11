@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-11T11:12:39Z",
- "count": 36,
+ "generated_utc": "2026-08-11T11:56:47Z",
+ "count": 35,
  "items": [
+  {
+   "id": "1c5b16ea51cd4bd5a92d11c72c7c99bd",
+   "url": "https://t.me/OSINTWarfare/6245",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. President Donald Trump is playing golf in Bedminster, with an AN/TWQ-1 Avenger short-range air defense system deployed in the background to protect him.\nDuring the golf tournament, U.S. Air Force F-16 Multirole Fighters intercepted two civilian aircraft that violated the temporary flight restriction zone imposed over the area.\n“I’m not worried about missiles and drones,” Trump said while shaking hands with the air defense personnel guarding his golf club.",
+   "timestamp": "2026-08-11T11:13:56+00:00",
+   "has_media": true
+  },
   {
    "id": "e4153d5a5ab1ba4b8a15191ab1993bca",
    "url": "https://t.me/OSINTWarfare/6242",
@@ -126,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "A vessel attempting to violate the blockade is seen burning from the coast of Kumzar, Oman, following an IRGC Navy attack with anti-ship cruise missiles launched from Sirik, southern Iran.",
    "timestamp": "2026-08-09T21:48:49+00:00",
-   "has_media": true
-  },
-  {
-   "id": "17a7968c1f5c6f54264a79750ef3e61b",
-   "url": "https://t.me/OSINTWarfare/6225",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) released footage showing the launch of ballistic missiles and one-way attack UAVs (OWA-UAVs) targeting troop concentrations and ammunition depots belonging to Saudi-backed forces in Mokha (Mocha/Mukha), southwestern Yemen.",
-   "timestamp": "2026-08-09T21:02:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "77b69f194862bd969a61f860fd655523",
-   "url": "https://t.me/OSINTWarfare/6221",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Personnel of the Armenian Armed Forces' Air Defence Troops conducted training exercises using the recently acquired “Karich,” the Iranian Majid (AD-08) short-range air defense system, and “Lusan,” India's Akash surface-to-air missile system.",
-   "timestamp": "2026-08-09T20:13:47+00:00",
    "has_media": true
   },
   {
