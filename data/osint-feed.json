@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-12T16:14:58Z",
- "count": 39,
+ "generated_utc": "2026-08-12T17:12:14Z",
+ "count": 38,
  "items": [
   {
    "id": "20e273144479ae2aef429bc0066d95be",
@@ -171,15 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "China’s CZ-7A rocket, carrying the Zhongxing-4B communications satellite, exploded during first-stage flight approximately 85 seconds after liftoff from the Wenchang Spacecraft Launch Site on Hainan Island.\nThe incident marks the 18th flight of the CZ-7A and only its second launch failure.",
    "timestamp": "2026-08-10T16:42:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "68501919e44b08b3dad66fe388ce27fb",
-   "url": "https://t.me/OSINTWarfare/6235",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion…",
-   "timestamp": "2026-08-10T15:17:53+00:00",
    "has_media": true
   },
   {
