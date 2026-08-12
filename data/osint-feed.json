@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-12T14:23:23Z",
+ "generated_utc": "2026-08-12T15:25:32Z",
  "count": 39,
  "items": [
+  {
+   "id": "20e273144479ae2aef429bc0066d95be",
+   "url": "https://t.me/OSINTWarfare/6255",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a series of airstrikes carried out by the Russian Aerospace Forces (VKS), as follows:\n• Destruction of the command post of a unit of the Ukrainian Armed Forces’ 38th Anti-Aircraft Missile Regiment using a FAB-3000 equipped with a UMPK guidance kit in Kherson. A substation was also hit in the strike.;\n• A strike with five FAB-500 bombs equipped with UMPK guidance kits against the UAV launch/control position of the 15th Separate Operational Regiment of the National Guard of Ukraine in Dobropillia.",
+   "timestamp": "2026-08-12T14:28:33+00:00",
+   "has_media": true
+  },
   {
    "id": "72513a25bd12ae4555bf28e188b17b04",
    "url": "https://t.me/warmonitors/45274",
@@ -172,15 +181,6 @@
    "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion…",
    "timestamp": "2026-08-10T15:17:53+00:00",
    "has_media": true
-  },
-  {
-   "id": "343889a849a62251a30a70219d1925f8",
-   "url": "https://t.me/OSINTWarfare/6234",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck two transporter-erector-launchers (TELs) associated with Russian S-300/400 surface-to-air missile (SAM) systems, as well as an Orion UAV control antenna, during an operation in Crimea in early August 2026.\nThe intelligence operators used Magura unmanned surface vessels (USVs) configured as motherships to carry and launch FPV drones.",
-   "timestamp": "2026-08-10T15:17:19+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
