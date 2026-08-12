@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-12T17:12:14Z",
- "count": 38,
+ "generated_utc": "2026-08-12T18:07:09Z",
+ "count": 37,
  "items": [
+  {
+   "id": "a19b6ee984553d5a7a07b897963b5267",
+   "url": "https://t.me/OSINTWarfare/6264",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.  The S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched…",
+   "timestamp": "2026-08-12T18:02:55+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9e50b86e63a05f29a254fc5cac1da639",
+   "url": "https://t.me/OSINTWarfare/6260",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.\nThe S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched from Russian Su-57 multirole fighters.",
+   "timestamp": "2026-08-12T18:02:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6dee1fdce53880e95e070d4c74635dc9",
+   "url": "https://t.me/OSINTWarfare/6259",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UAV operators from Ukraine’s Hornet unit of the 3rd Separate Special Operations Regiment struck and destroyed one Buk-M2 and one Buk-M3 surface-to-air missile system.",
+   "timestamp": "2026-08-12T17:40:15+00:00",
+   "has_media": true
+  },
   {
    "id": "20e273144479ae2aef429bc0066d95be",
    "url": "https://t.me/OSINTWarfare/6255",
@@ -120,24 +147,6 @@
    "has_media": true
   },
   {
-   "id": "e4153d5a5ab1ba4b8a15191ab1993bca",
-   "url": "https://t.me/OSINTWarfare/6242",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Major General Fawzi Al-Mansouri, Director of Military Intelligence of the Libyan National Army (LNA), was assassinated in a car bombing outside his home in Benghazi, eastern Libya.",
-   "timestamp": "2026-08-11T00:57:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "fa4f9b162eb9f9b5a5004019e3ae60a2",
-   "url": "https://t.me/OSINTWarfare/6240",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows an Ansar Allah (Houthi) ballistic missile being launched toward Saudi-backed Presidential Leadership Council (PLC) forces in southern Yemen.",
-   "timestamp": "2026-08-11T00:13:22+00:00",
-   "has_media": true
-  },
-  {
    "id": "4dd69d79eebfb972ea34e521eeca0880",
    "url": "https://t.me/warmonitors/45263",
    "source": "telegram",
@@ -154,24 +163,6 @@
    "text": "⚡\nAl Hadath: Iranian Quds Force commander Ismail Qaani arrives in Baghdad\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-10T20:24:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "a80362adf528a25187731995c48c0e8a",
-   "url": "https://t.me/OSINTWarfare/6239",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian Air Force (UAF) MiG-29MU1/MU2 multirole fighter crashed in Odesa Oblast.\nThe aircraft caught fire following an apparent malfunction during a missile launch.",
-   "timestamp": "2026-08-10T18:33:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0cbff41cdc69732bba6e2bdf9e73d29a",
-   "url": "https://t.me/OSINTWarfare/6237",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "China’s CZ-7A rocket, carrying the Zhongxing-4B communications satellite, exploded during first-stage flight approximately 85 seconds after liftoff from the Wenchang Spacecraft Launch Site on Hainan Island.\nThe incident marks the 18th flight of the CZ-7A and only its second launch failure.",
-   "timestamp": "2026-08-10T16:42:08+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
