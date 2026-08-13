@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T22:21:08Z",
- "count": 37,
+ "generated_utc": "2026-08-13T23:09:11Z",
+ "count": 38,
  "items": [
+  {
+   "id": "3386cc3395c3cd87c646a30ea4299f9e",
+   "url": "https://t.me/OSINTWarfare/6280",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "German defense company Rheinmetall has successfully tested its FV-014 loitering munition from its new Containerized Missile Launcher.\nThe truck-mounted system can carry and launch up to 18 drones, including while on the move.",
+   "timestamp": "2026-08-13T22:58:15+00:00",
+   "has_media": true
+  },
   {
    "id": "d7e9688b091500edddaabbec1bc82ee0",
    "url": "https://t.me/OSINTWarfare/6279",
