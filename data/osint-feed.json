@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T00:54:22Z",
- "count": 37,
+ "generated_utc": "2026-08-13T03:20:45Z",
+ "count": 36,
  "items": [
+  {
+   "id": "71225859b95fa8dbceb94be279e9b021",
+   "url": "https://t.me/OSINTWarfare/6266",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Wreckage of a new unidentified Russian UAV, designated “Gerbera-2” by the Ukrainian side.\nThe drone resembles the “Gerbera” externally but is larger and features a new, more powerful 275 cm³ engine, upgraded electronics, different airframe materials, and an enlarged 63-liter fuel tank. These changes reportedly allow it to carry a new 50 kg warhead. It most likely also has the capability for direct control by an operator.",
+   "timestamp": "2026-08-13T01:02:40+00:00",
+   "has_media": true
+  },
   {
    "id": "a19b6ee984553d5a7a07b897963b5267",
    "url": "https://t.me/OSINTWarfare/6264",
@@ -126,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Ukrainian sources report that the new S8000 Banderol small cruise missile is now being launched from Mi-28 attack helicopters.\nAn Mi-28N/NM attack helicopter operating over the Sea of Azov launched several S8000 Banderol missiles toward Odesa. A similar launch was reported from the Kursk region several days ago.",
    "timestamp": "2026-08-11T14:01:46+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6e596d0bbed9ebaa4ac6cdf002ba4bf4",
-   "url": "https://t.me/OSINTWarfare/6248",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Image showing a Haj Qassem ballistic missile decoy somewhere in western Iran, which was targeted by U.S./Israeli airstrikes.",
-   "timestamp": "2026-08-11T12:46:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1c5b16ea51cd4bd5a92d11c72c7c99bd",
-   "url": "https://t.me/OSINTWarfare/6245",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. President Donald Trump is playing golf in Bedminster, with an AN/TWQ-1 Avenger short-range air defense system deployed in the background to protect him.\nDuring the golf tournament, U.S. Air Force F-16 Multirole Fighters intercepted two civilian aircraft that violated the temporary flight restriction zone imposed over the area.\n“I’m not worried about missiles and drones,” Trump said while shaking hands with the air defense personnel guarding his golf club.",
-   "timestamp": "2026-08-11T11:13:56+00:00",
    "has_media": true
   },
   {
