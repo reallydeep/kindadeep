@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T12:04:42Z",
- "count": 35,
+ "generated_utc": "2026-08-13T13:37:12Z",
+ "count": 38,
  "items": [
+  {
+   "id": "ba29555d5c1b01ac2587f71c57629445",
+   "url": "https://t.me/OSINTWarfare/6272",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian Armed Forces T-64BV tank was ambushed by FPV drones near Rubizhne, Kharkiv Oblast.\nAfter the tank entered the engagement area, it was struck repeatedly by FPV drones. Several hits caused critical damage, ignited the vehicle, and ultimately destroyed it.",
+   "timestamp": "2026-08-13T12:29:26+00:00",
+   "has_media": false
+  },
   {
    "id": "e346d4b62beb399e6f9ee43145ae1856",
    "url": "https://t.me/OSINTWarfare/6271",
@@ -147,15 +156,6 @@
    "has_media": false
   },
   {
-   "id": "389553c7d60bff03daa78a0129afad45",
-   "url": "https://t.me/OSINTWarfare/6252",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "📂\n—\nWAR ROOM\nis a curated network of independent news channels, conflict observers, military analysts, and open-source researchers covering conflicts and geopolitical developments around the world.\nOur network brings together channels with different geographical focuses, perspectives, and areas of expertise. While our perspectives and areas of focus may differ, we share one goal:\nto provide fast, accurate, and reliable coverage of the events shaping our world.\nWe believe information should be questioned, sources should be examined, and facts should speak for themselves.\nOur network is built around\nindependent reporting, open-source intelligence, battlefield developments, geopolitical analysis, and breaking events\n— bringing together multiple perspectives to give you a clearer picture of what is happening beyond the headlines.\nWe don't follow narratives. We follow the facts.\nIf you want to stay informed and understand conflicts as they unfold,\nWAR ROOM\nis for you.\n🔗\nJoin WAR ROOM\n👉\n[\nhttps://t.me/addlist/hi7D4cKqJiJiNjFk\n]",
-   "timestamp": "2026-08-11T15:02:44+00:00",
-   "has_media": true
-  },
-  {
    "id": "4dd69d79eebfb972ea34e521eeca0880",
    "url": "https://t.me/warmonitors/45263",
    "source": "telegram",
@@ -174,12 +174,39 @@
    "has_media": false
   },
   {
+   "id": "f7ae6ec872cf68fed30cc823aea01aa1",
+   "url": "https://t.me/MenchOsint/516",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "🛰\n📍\nDirect hits on Muwaffaq Salti Air Base, Azraq, Jordan, following IRGC attack on July 9th.",
+   "timestamp": "2026-07-11T09:12:37+00:00",
+   "has_media": true
+  },
+  {
    "id": "288be7f23350308d6cd00bfd62581203",
    "url": "https://t.me/TerrorAlarm/45",
    "source": "telegram",
    "channel": "terroralarm",
    "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
    "timestamp": "2026-06-23T10:50:51+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b52d1fa340f368abcc88061f6a35eafe",
+   "url": "https://t.me/MenchOsint/508",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "🧵\n🛰\nDetailled map of some US Bases hit by Iran:\nCamp Buehring\nAli Al Salem\nCamp Arifjan\nNSA Bahrain\nISA Air Base\nAl Dhafra Air Base\nLong Range AD/Radar sites at different locations.\n*i used images from Planet, Sentinel-2 & Iran's images.\nFeel free to use/share\n🫡\n@MenchOsint",
+   "timestamp": "2026-06-16T14:19:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "68ec3b511f53182dd5094828dbfc53dd",
+   "url": "https://t.me/MenchOsint/505",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "🚢\nUKMTO reported that the IRGC issued a call at 09h00 a.m. UTC ordering merchant vessels to leave Ras Al Khaimah for Dubai, with warnings that the consequences are their responsibility if they do not comply.\nSeveral ships have complied since this morning.\n@MenchOsint",
+   "timestamp": "2026-05-03T19:53:36+00:00",
    "has_media": true
   },
   {
