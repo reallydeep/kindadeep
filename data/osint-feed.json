@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-13T21:35:11Z",
- "count": 36,
+ "generated_utc": "2026-08-13T22:21:08Z",
+ "count": 37,
  "items": [
+  {
+   "id": "d7e9688b091500edddaabbec1bc82ee0",
+   "url": "https://t.me/OSINTWarfare/6279",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lockheed Martin has conducted the first live-fire tests of its Kodiak containerized launcher, which can accommodate 12 guided rockets from the GMLRS family, as well as other MFOM (MLRS Family of Munitions) weapons used by the M270A2 MLRS and M142 HIMARS systems, including ATACMS and PrSM.\nThe initial tests involved launching Reduced-Range Practice Rocket (RRPR) at the Yakima Training Center in Washington state.\nThe Kodiak launcher is built in the form factor of a standard shipping container and, according to Lockheed Martin, “can be deployed on air, ground, or maritime platforms.”",
+   "timestamp": "2026-08-13T22:17:00+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f5c58cb1bfb4f1ee763c22a0208f8ee9",
+   "url": "https://t.me/OSINTWarfare/6276",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Military equipment intended for the IDF, including D9 bulldozers, Humvees, JLTV armored vehicles, Oshkosh trucks, and other equipment, has arrived at Haifa Port and been fully unloaded.",
+   "timestamp": "2026-08-13T21:50:04+00:00",
+   "has_media": true
+  },
   {
    "id": "d38ff559b04180d847064a1daaa7dc55",
    "url": "https://t.me/warmonitors/45283",
@@ -90,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.\nThe S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched from Russian Su-57 multirole fighters.",
    "timestamp": "2026-08-12T18:02:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6dee1fdce53880e95e070d4c74635dc9",
-   "url": "https://t.me/OSINTWarfare/6259",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UAV operators from Ukraine’s Hornet unit of the 3rd Separate Special Operations Regiment struck and destroyed one Buk-M2 and one Buk-M3 surface-to-air missile system.",
-   "timestamp": "2026-08-12T17:40:15+00:00",
    "has_media": true
   },
   {
