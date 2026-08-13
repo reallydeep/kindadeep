@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T23:09:11Z",
- "count": 38,
+ "generated_utc": "2026-08-13T23:53:17Z",
+ "count": 39,
  "items": [
+  {
+   "id": "29cce8795b9c693e1e4c4e0efc15055d",
+   "url": "https://t.me/OSINTWarfare/6282",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian Shahed-136 loitering munitions have been spotted flying over Erbil in Iraq’s Kurdistan Region.\nSeveral explosions were reported near Erbil International Airport and Harir Air Base.",
+   "timestamp": "2026-08-13T23:24:47+00:00",
+   "has_media": true
+  },
   {
    "id": "3386cc3395c3cd87c646a30ea4299f9e",
    "url": "https://t.me/OSINTWarfare/6280",
