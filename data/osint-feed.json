@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T10:32:32Z",
+ "generated_utc": "2026-08-13T11:23:09Z",
  "count": 38,
  "items": [
+  {
+   "id": "e7f4916a455c72046b1c125a38f6c210",
+   "url": "https://t.me/OSINTWarfare/6270",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On Tuesday, August 11, 2026, Saudi-backed forces reportedly discovered a fully intact fiber-optic FPV drone on the Ma'rib front.\nThis appears to be the first fiber-optic FPV drone operated by Ansar Allah (Houthis) to be recovered by opposition forces.",
+   "timestamp": "2026-08-13T10:56:36+00:00",
+   "has_media": true
+  },
   {
    "id": "5a1aedd6fc04a212890f62ee91cbd13b",
    "url": "https://t.me/warmonitors/45277",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "The U.S. Missile Defense Agency has awarded Raytheon a $745 million contract to manufacture, supply, and maintain Standard Missile-3 Block IIA (SM-3 IIA) interceptors for the U.S. Navy (USN).\nUnder the contract, production will take place at Raytheon facilities in Tucson, Arizona, and Huntsville, Alabama.\nThe contract is separate from previous agreements covering increased production, procurement, and maintenance of SM-3 interceptors, with the latest deal covering entirely new orders.",
    "timestamp": "2026-08-11T14:11:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1d6128bd75ddfe41f54458a50ec7dfc9",
-   "url": "https://t.me/OSINTWarfare/6249",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian sources report that the new S8000 Banderol small cruise missile is now being launched from Mi-28 attack helicopters.\nAn Mi-28N/NM attack helicopter operating over the Sea of Azov launched several S8000 Banderol missiles toward Odesa. A similar launch was reported from the Kursk region several days ago.",
-   "timestamp": "2026-08-11T14:01:46+00:00",
    "has_media": true
   },
   {
