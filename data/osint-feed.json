@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-13T11:23:09Z",
- "count": 38,
+ "generated_utc": "2026-08-13T12:04:42Z",
+ "count": 35,
  "items": [
+  {
+   "id": "e346d4b62beb399e6f9ee43145ae1856",
+   "url": "https://t.me/OSINTWarfare/6271",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The UAE has released several billion dollars’ worth of Iranian assets frozen in UAE banks, including 2 tonnes of gold valued at approximately $283 million.\nThe assets were transported to Iran aboard a Boeing 737-7KK (Reg. A6-RJA) operated by UAE-based RoyalJet. The aircraft flew from Abu Dhabi to Tehran’s Mehrabad Airport and Karaj’s Payam International Airport on August 11 and 12, with each flight lasting around one hour before returning to the UAE.\nOn June 8, the same aircraft flew from Abu Dhabi to Mehrabad, transporting $3 billion worth of gold.",
+   "timestamp": "2026-08-13T11:50:53+00:00",
+   "has_media": true
+  },
   {
    "id": "e7f4916a455c72046b1c125a38f6c210",
    "url": "https://t.me/OSINTWarfare/6270",
@@ -147,15 +156,6 @@
    "has_media": true
   },
   {
-   "id": "7895dc9d1874a3e4cb3940c65fc6d711",
-   "url": "https://t.me/OSINTWarfare/6251",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Missile Defense Agency has awarded Raytheon a $745 million contract to manufacture, supply, and maintain Standard Missile-3 Block IIA (SM-3 IIA) interceptors for the U.S. Navy (USN).\nUnder the contract, production will take place at Raytheon facilities in Tucson, Arizona, and Huntsville, Alabama.\nThe contract is separate from previous agreements covering increased production, procurement, and maintenance of SM-3 interceptors, with the latest deal covering entirely new orders.",
-   "timestamp": "2026-08-11T14:11:29+00:00",
-   "has_media": true
-  },
-  {
    "id": "4dd69d79eebfb972ea34e521eeca0880",
    "url": "https://t.me/warmonitors/45263",
    "source": "telegram",
@@ -174,39 +174,12 @@
    "has_media": false
   },
   {
-   "id": "f7ae6ec872cf68fed30cc823aea01aa1",
-   "url": "https://t.me/MenchOsint/516",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "🛰\n📍\nDirect hits on Muwaffaq Salti Air Base, Azraq, Jordan, following IRGC attack on July 9th.",
-   "timestamp": "2026-07-11T09:12:37+00:00",
-   "has_media": true
-  },
-  {
    "id": "288be7f23350308d6cd00bfd62581203",
    "url": "https://t.me/TerrorAlarm/45",
    "source": "telegram",
    "channel": "terroralarm",
    "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
    "timestamp": "2026-06-23T10:50:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b52d1fa340f368abcc88061f6a35eafe",
-   "url": "https://t.me/MenchOsint/508",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "🧵\n🛰\nDetailled map of some US Bases hit by Iran:\nCamp Buehring\nAli Al Salem\nCamp Arifjan\nNSA Bahrain\nISA Air Base\nAl Dhafra Air Base\nLong Range AD/Radar sites at different locations.\n*i used images from Planet, Sentinel-2 & Iran's images.\nFeel free to use/share\n🫡\n@MenchOsint",
-   "timestamp": "2026-06-16T14:19:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "68ec3b511f53182dd5094828dbfc53dd",
-   "url": "https://t.me/MenchOsint/505",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "🚢\nUKMTO reported that the IRGC issued a call at 09h00 a.m. UTC ordering merchant vessels to leave Ras Al Khaimah for Dubai, with warnings that the consequences are their responsibility if they do not comply.\nSeveral ships have complied since this morning.\n@MenchOsint",
-   "timestamp": "2026-05-03T19:53:36+00:00",
    "has_media": true
   },
   {
