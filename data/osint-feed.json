@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-14T10:42:07Z",
- "count": 36,
+ "generated_utc": "2026-08-14T11:28:28Z",
+ "count": 37,
  "items": [
+  {
+   "id": "4190b35b76049071ad818f662625ec67",
+   "url": "https://t.me/OSINTWarfare/6285",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force (IRGC-AF), operating as part of Iran’s integrated national air defense network, intercepted and shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Hormozgan Province in southern Iran.",
+   "timestamp": "2026-08-14T11:28:20+00:00",
+   "has_media": false
+  },
   {
    "id": "ead0e033bef441094f2c426c2ba07b8a",
    "url": "https://t.me/OSINTWarfare/6284",
