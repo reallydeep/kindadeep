@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-14T11:28:28Z",
+ "generated_utc": "2026-08-14T12:06:21Z",
  "count": 37,
  "items": [
+  {
+   "id": "3bc16e46336c407136870a7c540475a4",
+   "url": "https://t.me/OSINTWarfare/6286",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF has continued targeting Ali Al-Taher Hill in southern Lebanon nonstop for several days now.\nI’m not sure why, since, as I understand it, the Hezbollah fighters who were trapped there managed to leave the area. They were said to have the bodies of IDF soldiers in their possession, but apparently decided to abandon them when they left. I can’t really comment on that because I have no confirmed information.",
+   "timestamp": "2026-08-14T11:53:25+00:00",
+   "has_media": true
+  },
   {
    "id": "4190b35b76049071ad818f662625ec67",
    "url": "https://t.me/OSINTWarfare/6285",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Wreckage of a new unidentified Russian UAV, designated “Gerbera-2” by the Ukrainian side.\nThe drone resembles the “Gerbera” externally but is larger and features a new, more powerful 275 cm³ engine, upgraded electronics, different airframe materials, and an enlarged 63-liter fuel tank. These changes reportedly allow it to carry a new 50 kg warhead. It most likely also has the capability for direct control by an operator.",
    "timestamp": "2026-08-13T01:02:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a19b6ee984553d5a7a07b897963b5267",
-   "url": "https://t.me/OSINTWarfare/6264",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.  The S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched…",
-   "timestamp": "2026-08-12T18:02:55+00:00",
    "has_media": true
   },
   {
