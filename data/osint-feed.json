@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-14T18:06:19Z",
- "count": 37,
+ "generated_utc": "2026-08-14T19:07:24Z",
+ "count": 38,
  "items": [
+  {
+   "id": "25fcaf2134531d007d8520a6a077e250",
+   "url": "https://t.me/OSINTWarfare/6298",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage of strikes by the Security Service of Ukraine’s Special Operations Center “Alpha” on Russian vehicles, command-and-staff vehicles, and other equipment along the line of contact.",
+   "timestamp": "2026-08-14T18:17:20+00:00",
+   "has_media": false
+  },
   {
    "id": "ecd0a14610ed0b26fae523fae503fec0",
    "url": "https://t.me/OSINTWarfare/6297",
