@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-14T00:53:37Z",
+ "generated_utc": "2026-08-14T03:18:06Z",
  "count": 39,
  "items": [
+  {
+   "id": "ead0e033bef441094f2c426c2ba07b8a",
+   "url": "https://t.me/OSINTWarfare/6284",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Radio reports of drones coming from an unknown direction in Libya, attempts to hit energy infrastructure; some were shot down, rest is unknown.\nSource:\n@sigintreports",
+   "timestamp": "2026-08-14T02:51:23+00:00",
+   "has_media": false
+  },
   {
    "id": "29cce8795b9c693e1e4c4e0efc15055d",
    "url": "https://t.me/OSINTWarfare/6282",
@@ -117,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.  The S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched…",
    "timestamp": "2026-08-12T18:02:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9e50b86e63a05f29a254fc5cac1da639",
-   "url": "https://t.me/OSINTWarfare/6260",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Debris from a Russian S-71M “Monokhrom” munition was discovered on August 9 near the settlement of Crocmaz, Moldova, close to the border with Ukraine’s Odesa Oblast.\nThe S-71M is a small, low-observable cruise missile/jet-powered drone designed to be launched from Russian Su-57 multirole fighters.",
-   "timestamp": "2026-08-12T18:02:43+00:00",
    "has_media": true
   },
   {
