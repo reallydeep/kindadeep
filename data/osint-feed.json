@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-14T23:33:15Z",
- "count": 36,
+ "generated_utc": "2026-08-14T23:53:22Z",
+ "count": 38,
  "items": [
   {
    "id": "030d4e2b3677c9964c489c966ce45474",
@@ -174,15 +174,6 @@
    "has_media": false
   },
   {
-   "id": "72513a25bd12ae4555bf28e188b17b04",
-   "url": "https://t.me/warmonitors/45274",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Hadath: The Lebanese state is committed to the option of negotiating with Israel.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-12T14:14:25+00:00",
-   "has_media": false
-  },
-  {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
    "url": "https://t.me/MenchOsint/516",
    "source": "telegram",
@@ -324,6 +315,33 @@
    "channel": "IntelSky",
    "text": "To bring the UAV strike at the\n🇷🇺\n2nd largest oil refinery\n#Kirishi\n, Leningrad Oblast overnight in conjunction w/h the incident at the 2nd biggest U.S. refinery in\n#ElSegundo\n, outside LA on Oct 2, we have an clue that Trump really got orders to hit\n#Russia\n\"deep inside\", he said\n@\nWorldWarIIIInfo\n⚔️\n🌐",
    "timestamp": "2025-10-04T07:47:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "fd7195e95f84dbf29ddd96efda38ae8c",
+   "url": "https://t.me/osinttechnical/304",
+   "source": "telegram",
+   "channel": "OSINTtechnical",
+   "text": "Ukrainian 79th Air Assault Brigade downed a Russian Eleron–3, now it's in the same situation as of most of the drones I own, stuck in a tree.\n@osinttechnical",
+   "timestamp": "2022-06-25T07:17:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7a2c093811e6546d475a2f63ee035463",
+   "url": "https://t.me/osinttechnical/293",
+   "source": "telegram",
+   "channel": "OSINTtechnical",
+   "text": "Ukrainian 14th Separate Mechanized Brigade released a video of recent artillery strikes on Russian positions\n@osinttechnical",
+   "timestamp": "2022-06-17T21:45:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "be9622f6214150969bb1f08e8bf47200",
+   "url": "https://t.me/osinttechnical/282",
+   "source": "telegram",
+   "channel": "OSINTtechnical",
+   "text": "A pair of Ukrainian Mi-8s work a Russian position with unguided rockets from extremely low altitude\n@osinttechnical",
+   "timestamp": "2022-06-15T17:13:33+00:00",
    "has_media": true
   }
  ]
