@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-14T14:33:19Z",
- "count": 39,
+ "generated_utc": "2026-08-14T15:24:16Z",
+ "count": 37,
  "items": [
+  {
+   "id": "bd609c2c26f0ee8568a73488f5d0341c",
+   "url": "https://t.me/OSINTWarfare/6291",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Fresh image of Neustrashimy (772), a Project 11540 Neustrashimy-class (Yastreb-class) guided-missile frigate of the Russian Navy’s Baltic Fleet, currently on combat duty in the North Sea.",
+   "timestamp": "2026-08-14T15:13:43+00:00",
+   "has_media": true
+  },
   {
    "id": "7726b5a05428eb67fc2e269a18910f9b",
    "url": "https://t.me/OSINTWarfare/6289",
@@ -108,33 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "The Come Back Alive Foundation reported that it had delivered 5,400 medium-range strike drones to the “Alpha” Special Operations Center of the Security Service of Ukraine (SBU).",
    "timestamp": "2026-08-13T14:28:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ba29555d5c1b01ac2587f71c57629445",
-   "url": "https://t.me/OSINTWarfare/6272",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian Armed Forces T-64BV tank was ambushed by FPV drones near Rubizhne, Kharkiv Oblast.\nAfter the tank entered the engagement area, it was struck repeatedly by FPV drones. Several hits caused critical damage, ignited the vehicle, and ultimately destroyed it.",
-   "timestamp": "2026-08-13T12:29:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e346d4b62beb399e6f9ee43145ae1856",
-   "url": "https://t.me/OSINTWarfare/6271",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The UAE has released several billion dollars’ worth of Iranian assets frozen in UAE banks, including 2 tonnes of gold valued at approximately $283 million.\nThe assets were transported to Iran aboard a Boeing 737-7KK (Reg. A6-RJA) operated by UAE-based RoyalJet. The aircraft flew from Abu Dhabi to Tehran’s Mehrabad Airport and Karaj’s Payam International Airport on August 11 and 12, with each flight lasting around one hour before returning to the UAE.\nOn June 8, the same aircraft flew from Abu Dhabi to Mehrabad, transporting $3 billion worth of gold.",
-   "timestamp": "2026-08-13T11:50:53+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e7f4916a455c72046b1c125a38f6c210",
-   "url": "https://t.me/OSINTWarfare/6270",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On Tuesday, August 11, 2026, Saudi-backed forces reportedly discovered a fully intact fiber-optic FPV drone on the Ma'rib front.\nThis appears to be the first fiber-optic FPV drone operated by Ansar Allah (Houthis) to be recovered by opposition forces.",
-   "timestamp": "2026-08-13T10:56:36+00:00",
    "has_media": true
   },
   {
