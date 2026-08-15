@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T13:28:03Z",
+ "generated_utc": "2026-08-15T13:50:00Z",
  "count": 36,
  "items": [
+  {
+   "id": "8b45ae45f6dc522b67f27efd39997b25",
+   "url": "https://t.me/OSINTWarfare/6306",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "https://x.com/OSINTWarfare/status/2088619877116383334",
+   "timestamp": "2026-08-15T13:34:34+00:00",
+   "has_media": false
+  },
   {
    "id": "6bf1e7c364019680418034eae5afdeff",
    "url": "https://t.me/OSINTWarfare/6303",
@@ -144,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "The Missile Defense Agency has awarded Lockheed Martin a $211.4 million contract modification to build new Configuration 3 (C3) THAAD launchers for the United Arab Emirates (UAE) under a Foreign Military Sales (FMS) agreement.\nThe move is intended to strengthen the UAE’s ballistic missile defense capability while allowing its THAAD launchers to be more widely dispersed across the country.\nThe significance of Configuration 3 goes beyond simply adding more launchers. It is part of THAAD’s broader hardware and software modernization, bringing improvements to cybersecurity and Link 16 communications while enhancing the system’s ability to integrate with a wider range of sensors.\nThis is particularly important for the UAE, where key targets, including air bases, ports, population centers, energy facilities, and logistics infrastructure, are spread across a relatively large area. Recent regional missile attacks have demonstrated that effective interception is only part of the equation. Maintaining sufficient interceptor reserves and the ability to sustain defensive operations through multiple attack waves are equally critical.\nWith the growing threat from ballistic missiles, cruise missiles, and drones across the Middle East, the UAE is moving toward a more dispersed, interconnected, and resilient air defense architecture.",
    "timestamp": "2026-08-14T12:32:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3bc16e46336c407136870a7c540475a4",
-   "url": "https://t.me/OSINTWarfare/6286",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IDF has continued targeting Ali Al-Taher Hill in southern Lebanon nonstop for several days now.\nI’m not sure why, since, as I understand it, the Hezbollah fighters who were trapped there managed to leave the area. They were said to have the bodies of IDF soldiers in their possession, but apparently decided to abandon them when they left. I can’t really comment on that because I have no confirmed information.",
-   "timestamp": "2026-08-14T11:53:25+00:00",
    "has_media": true
   },
   {
