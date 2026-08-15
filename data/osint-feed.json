@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-15T18:10:40Z",
- "count": 35,
+ "generated_utc": "2026-08-15T18:47:24Z",
+ "count": 36,
  "items": [
+  {
+   "id": "2844194b53de552d64475c3371a98066",
+   "url": "https://t.me/OSINTWarfare/6311",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-backed forces of Yemen’s Presidential Leadership Council (PLC) have released their first footage showing the use of fiber-optic FPV drones against what they claim are Ansar Allah (Houthi) vehicles on the Marib front.",
+   "timestamp": "2026-08-15T18:44:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8a11ab1567cd81540ee6037a0df31518",
+   "url": "https://t.me/OSINTWarfare/6310",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇾🇪\n🇾🇪\n🇸🇦\n⚡️\n— A major fire has broken out in one of the areas targeted by Ansar Allah (Houthis) ballistic missiles at Mokha (Al-Mokha) Port.  @IntelSlava",
+   "timestamp": "2026-08-15T18:23:40+00:00",
+   "has_media": true
+  },
   {
    "id": "23df2920483ff55ae5665f1370406a0e",
    "url": "https://t.me/OSINTWarfare/6308",
@@ -135,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Fresh image of Neustrashimy (772), a Project 11540 Neustrashimy-class (Yastreb-class) guided-missile frigate of the Russian Navy’s Baltic Fleet, currently on combat duty in the North Sea.",
    "timestamp": "2026-08-14T15:13:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7726b5a05428eb67fc2e269a18910f9b",
-   "url": "https://t.me/OSINTWarfare/6289",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian MiG-29MU1 Multirole Fighter was spotted today over Odesa Oblast while intercepting a Russian drone.",
-   "timestamp": "2026-08-14T13:31:29+00:00",
    "has_media": true
   },
   {
