@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T19:28:16Z",
- "count": 36,
+ "generated_utc": "2026-08-15T19:43:35Z",
+ "count": 37,
  "items": [
+  {
+   "id": "98ea93859e38f653e1a2d5f1d84daf0e",
+   "url": "https://t.me/OSINTWarfare/6312",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A crew member aboard the USS Abraham Lincoln (CVN-72) sent a photo to a relative showing the carrier’s latest meal service, complaining that the food was being served as mixed scoops rather than allowing sailors to choose individual items.\nThe crew was told that the food had been blended together, with the beans singled out as particularly unappetizing.\nMeanwhile, the USS Boxer (LHD-4), an amphibious assault ship currently deployed against Iran, has run out of women’s hygiene products, likely referring to tampons and sanitary pads.",
+   "timestamp": "2026-08-15T19:33:18+00:00",
+   "has_media": true
+  },
   {
    "id": "2844194b53de552d64475c3371a98066",
    "url": "https://t.me/OSINTWarfare/6311",
