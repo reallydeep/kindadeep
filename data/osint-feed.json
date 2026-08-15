@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T12:59:29Z",
- "count": 38,
+ "generated_utc": "2026-08-15T13:28:03Z",
+ "count": 36,
  "items": [
+  {
+   "id": "6bf1e7c364019680418034eae5afdeff",
+   "url": "https://t.me/OSINTWarfare/6303",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "This morning, Ukrainian FP-5 Flamingo cruise missiles struck the Rocket and Space Centre “Progress” in Samara, Samara Oblast.\nProgress, one of Roscosmos’s key enterprises, is involved in the production of Soyuz-2 launch vehicles and their associated electronics and systems.\nThe FP-5 Flamingo missiles reportedly struck Building 106A, believed to be the only Russian facility involved in the serial assembly of Soyuz-2 launch vehicles. The building reportedly houses production of onboard electrical systems, instruments, circuit boards, control systems and cabling. Building 106B, used for final assembly, is located nearby.\nThis is the first successful Ukrainian Flamingo strike in nearly a month, following several unsuccessful attacks in which Russian air defenses and aircraft intercepted all incoming missiles.",
+   "timestamp": "2026-08-15T13:26:59+00:00",
+   "has_media": true
+  },
   {
    "id": "9eab3407f280f459030adc098042799c",
    "url": "https://t.me/warmonitors/45300",
@@ -144,33 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "The IDF has continued targeting Ali Al-Taher Hill in southern Lebanon nonstop for several days now.\nI’m not sure why, since, as I understand it, the Hezbollah fighters who were trapped there managed to leave the area. They were said to have the bodies of IDF soldiers in their possession, but apparently decided to abandon them when they left. I can’t really comment on that because I have no confirmed information.",
    "timestamp": "2026-08-14T11:53:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4190b35b76049071ad818f662625ec67",
-   "url": "https://t.me/OSINTWarfare/6285",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force (IRGC-AF), operating as part of Iran’s integrated national air defense network, intercepted and shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Hormozgan Province in southern Iran.",
-   "timestamp": "2026-08-14T11:28:20+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ead0e033bef441094f2c426c2ba07b8a",
-   "url": "https://t.me/OSINTWarfare/6284",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Radio reports of drones coming from an unknown direction in Libya, attempts to hit energy infrastructure; some were shot down, rest is unknown.\nSource:\n@sigintreports",
-   "timestamp": "2026-08-14T02:51:23+00:00",
-   "has_media": false
-  },
-  {
-   "id": "29cce8795b9c693e1e4c4e0efc15055d",
-   "url": "https://t.me/OSINTWarfare/6282",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian Shahed-136 loitering munitions have been spotted flying over Erbil in Iraq’s Kurdistan Region.\nSeveral explosions were reported near Erbil International Airport and Harir Air Base.",
-   "timestamp": "2026-08-13T23:24:47+00:00",
    "has_media": true
   },
   {
