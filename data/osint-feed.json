@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T02:01:24Z",
- "count": 37,
+ "generated_utc": "2026-08-15T02:59:42Z",
+ "count": 36,
  "items": [
+  {
+   "id": "5611bf22474e013a4586ae3c419e375c",
+   "url": "https://t.me/OSINTWarfare/6300",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF attempted to advance toward and infiltrate an underground Hezbollah position at Ali Al-Taher Hill in southern Lebanon.\nDuring the advance, an Israeli armored vehicle was struck by a Hezbollah anti-tank guided missile (ATGM), causing casualties among those inside.\nThe IDF responded with airstrikes, artillery fire, and machine-gun fire, while several helicopters were dispatched to evacuate the casualties.",
+   "timestamp": "2026-08-15T02:39:50+00:00",
+   "has_media": true
+  },
   {
    "id": "030d4e2b3677c9964c489c966ce45474",
    "url": "https://t.me/warmonitors/45292",
@@ -117,24 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Iranian Shahed-136 loitering munitions have been spotted flying over Erbil in Iraq’s Kurdistan Region.\nSeveral explosions were reported near Erbil International Airport and Harir Air Base.",
    "timestamp": "2026-08-13T23:24:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3386cc3395c3cd87c646a30ea4299f9e",
-   "url": "https://t.me/OSINTWarfare/6280",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "German defense company Rheinmetall has successfully tested its FV-014 loitering munition from its new Containerized Missile Launcher.\nThe truck-mounted system can carry and launch up to 18 drones, including while on the move.",
-   "timestamp": "2026-08-13T22:58:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d7e9688b091500edddaabbec1bc82ee0",
-   "url": "https://t.me/OSINTWarfare/6279",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lockheed Martin has conducted the first live-fire tests of its Kodiak containerized launcher, which can accommodate 12 guided rockets from the GMLRS family, as well as other MFOM (MLRS Family of Munitions) weapons used by the M270A2 MLRS and M142 HIMARS systems, including ATACMS and PrSM.\nThe initial tests involved launching Reduced-Range Practice Rocket (RRPR) at the Yakima Training Center in Washington state.\nThe Kodiak launcher is built in the form factor of a standard shipping container and, according to Lockheed Martin, “can be deployed on air, ground, or maritime platforms.”",
-   "timestamp": "2026-08-13T22:17:00+00:00",
    "has_media": true
   },
   {
