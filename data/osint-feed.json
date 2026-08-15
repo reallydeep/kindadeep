@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T19:56:17Z",
+ "generated_utc": "2026-08-15T20:11:26Z",
  "count": 37,
  "items": [
+  {
+   "id": "3dcb1b74a6403a83c80bc31038867ef2",
+   "url": "https://t.me/OSINTWarfare/6314",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Three anti-ship cruise missiles were launched from Sirik in Hormozgan Province, southern Iran, possibly targeting vessels.",
+   "timestamp": "2026-08-15T20:10:22+00:00",
+   "has_media": false
+  },
   {
    "id": "98ea93859e38f653e1a2d5f1d84daf0e",
    "url": "https://t.me/OSINTWarfare/6312",
@@ -154,15 +163,6 @@
    "text": "⚡\nAl Arabiya correspondent: Three ballistic missiles launched by the Houthis targeted the port of Mocha.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-14T17:09:24+00:00",
    "has_media": false
-  },
-  {
-   "id": "bd609c2c26f0ee8568a73488f5d0341c",
-   "url": "https://t.me/OSINTWarfare/6291",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Fresh image of Neustrashimy (772), a Project 11540 Neustrashimy-class (Yastreb-class) guided-missile frigate of the Russian Navy’s Baltic Fleet, currently on combat duty in the North Sea.",
-   "timestamp": "2026-08-14T15:13:43+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
