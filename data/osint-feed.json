@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-15T00:30:29Z",
- "count": 38,
+ "generated_utc": "2026-08-15T02:01:24Z",
+ "count": 37,
  "items": [
   {
    "id": "030d4e2b3677c9964c489c966ce45474",
@@ -135,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Lockheed Martin has conducted the first live-fire tests of its Kodiak containerized launcher, which can accommodate 12 guided rockets from the GMLRS family, as well as other MFOM (MLRS Family of Munitions) weapons used by the M270A2 MLRS and M142 HIMARS systems, including ATACMS and PrSM.\nThe initial tests involved launching Reduced-Range Practice Rocket (RRPR) at the Yakima Training Center in Washington state.\nThe Kodiak launcher is built in the form factor of a standard shipping container and, according to Lockheed Martin, “can be deployed on air, ground, or maritime platforms.”",
    "timestamp": "2026-08-13T22:17:00+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f5c58cb1bfb4f1ee763c22a0208f8ee9",
-   "url": "https://t.me/OSINTWarfare/6276",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Military equipment intended for the IDF, including D9 bulldozers, Humvees, JLTV armored vehicles, Oshkosh trucks, and other equipment, has arrived at Haifa Port and been fully unloaded.",
-   "timestamp": "2026-08-13T21:50:04+00:00",
    "has_media": true
   },
   {
