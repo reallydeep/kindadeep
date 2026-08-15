@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-15T15:08:37Z",
+ "generated_utc": "2026-08-15T15:31:45Z",
  "count": 35,
  "items": [
+  {
+   "id": "23df2920483ff55ae5665f1370406a0e",
+   "url": "https://t.me/OSINTWarfare/6308",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Missile Defense Agency (MDA) has issued a pre-solicitation notice for a new mobile radar designed to detect and track ballistic, cruise and hypersonic missiles.\nThe Forward-Based Mode (FBM) Radar Next is intended to provide a more mobile, rapidly deployable sensor that can be transported by C-17 aircraft or tactical ground vehicles and operate in adverse weather conditions.\nThe MDA is seeking a prototype and plans to use accelerated contracting authorities to move the program forward.\nThe effort comes as the U.S. seeks to improve its ability to detect and track increasingly advanced missile threats from China, Russia and Iran, including hypersonic weapons. The new radar would build on the role currently performed by the AN/TPY-2 Forward-Based Mode radar, which is already part of the U.S. ballistic missile defense architecture.",
+   "timestamp": "2026-08-15T15:15:40+00:00",
+   "has_media": true
+  },
   {
    "id": "8b45ae45f6dc522b67f27efd39997b25",
    "url": "https://t.me/OSINTWarfare/6306",
@@ -135,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "A Ukrainian MiG-29MU1 Multirole Fighter was spotted today over Odesa Oblast while intercepting a Russian drone.",
    "timestamp": "2026-08-14T13:31:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4b237885a38e3334a9ad4ffebbb9b349",
-   "url": "https://t.me/OSINTWarfare/6288",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Missile Defense Agency has awarded Lockheed Martin a $211.4 million contract modification to build new Configuration 3 (C3) THAAD launchers for the United Arab Emirates (UAE) under a Foreign Military Sales (FMS) agreement.  The move is intended to strengthen…",
-   "timestamp": "2026-08-14T12:39:20+00:00",
    "has_media": true
   },
   {
