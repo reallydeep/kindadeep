@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-16T13:01:03Z",
+ "generated_utc": "2026-08-16T13:38:30Z",
  "count": 38,
  "items": [
+  {
+   "id": "0b58ae977ebc0e9e727a2a3ab1de8a0e",
+   "url": "https://t.me/OSINTWarfare/6316",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Arabia’s Jazan was targeted in a joint missile and drone attack by Ansar Allah (Houthis) in Yemen.",
+   "timestamp": "2026-08-16T13:07:43+00:00",
+   "has_media": false
+  },
   {
    "id": "2291b6fbd7ca53f32f1009c076ee61fb",
    "url": "https://t.me/warmonitors/45304",
@@ -154,15 +163,6 @@
    "text": "An Ansar Allah (Houthi) military source told the Saba News Agency that, in the past few minutes, Ansar Allah targeted an Aramco facility in Najran, Saudi Arabia, with a drone.",
    "timestamp": "2026-08-14T17:29:21+00:00",
    "has_media": false
-  },
-  {
-   "id": "5ff14e949755a56a28117e04fc3486be",
-   "url": "https://t.me/OSINTWarfare/6296",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇾🇪\n🇾🇪\n🇸🇦\n⚡️\n— A major fire has broken out in one of the areas targeted by Ansar Allah (Houthis) ballistic missiles at Mokha (Al-Mokha) Port.\n@IntelSlava",
-   "timestamp": "2026-08-14T17:28:25+00:00",
-   "has_media": true
   },
   {
    "id": "4d3929364d496597cf0009984b081349",
