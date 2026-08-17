@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-17T14:12:10Z",
+ "generated_utc": "2026-08-17T14:44:53Z",
  "count": 37,
  "items": [
+  {
+   "id": "e33146ef89a60a87dfcae245117c4931",
+   "url": "https://t.me/OSINTWarfare/6327",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian jet-powered Hadid-110 stealth drones targeted the office of Kurdistan Region Prime Minister Masrour Barzani and the headquarters of the region’s intelligence agency last night.",
+   "timestamp": "2026-08-17T14:29:41+00:00",
+   "has_media": true
+  },
   {
    "id": "57a083e37414060456b79ba51949d674",
    "url": "https://t.me/OSINTWarfare/6325",
@@ -109,15 +118,6 @@
    "text": "The U.S. Missile Defense Agency (MDA) has issued a pre-solicitation notice for a new mobile radar designed to detect and track ballistic, cruise and hypersonic missiles.\nThe Forward-Based Mode (FBM) Radar Next is intended to provide a more mobile, rapidly deployable sensor that can be transported by C-17 aircraft or tactical ground vehicles and operate in adverse weather conditions.\nThe MDA is seeking a prototype and plans to use accelerated contracting authorities to move the program forward.\nThe effort comes as the U.S. seeks to improve its ability to detect and track increasingly advanced missile threats from China, Russia and Iran, including hypersonic weapons. The new radar would build on the role currently performed by the AN/TPY-2 Forward-Based Mode radar, which is already part of the U.S. ballistic missile defense architecture.",
    "timestamp": "2026-08-15T15:15:40+00:00",
    "has_media": true
-  },
-  {
-   "id": "8b45ae45f6dc522b67f27efd39997b25",
-   "url": "https://t.me/OSINTWarfare/6306",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "https://x.com/OSINTWarfare/status/2088619877116383334",
-   "timestamp": "2026-08-15T13:34:34+00:00",
-   "has_media": false
   },
   {
    "id": "9eab3407f280f459030adc098042799c",
