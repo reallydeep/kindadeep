@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-17T02:23:28Z",
+ "generated_utc": "2026-08-17T03:24:26Z",
  "count": 37,
  "items": [
+  {
+   "id": "57a083e37414060456b79ba51949d674",
+   "url": "https://t.me/OSINTWarfare/6325",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-backed Presidential Leadership Council (PLC) forces from the 3rd Military Region carried out strikes against Ansar Allah (Houthi) fighters and their vehicles south of Marib, Marib Governorate, Yemen.",
+   "timestamp": "2026-08-17T02:36:01+00:00",
+   "has_media": false
+  },
   {
    "id": "4d5797fe4381f2000d936432b85e35ce",
    "url": "https://t.me/OSINTWarfare/6320",
@@ -109,15 +118,6 @@
    "text": "https://x.com/OSINTWarfare/status/2088619877116383334",
    "timestamp": "2026-08-15T13:34:34+00:00",
    "has_media": false
-  },
-  {
-   "id": "6bf1e7c364019680418034eae5afdeff",
-   "url": "https://t.me/OSINTWarfare/6303",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "This morning, Ukrainian FP-5 Flamingo cruise missiles struck the Rocket and Space Centre “Progress” in Samara, Samara Oblast.\nProgress, one of Roscosmos’s key enterprises, is involved in the production of Soyuz-2 launch vehicles and their associated electronics and systems.\nThe FP-5 Flamingo missiles reportedly struck Building 106A, believed to be the only Russian facility involved in the serial assembly of Soyuz-2 launch vehicles. The building reportedly houses production of onboard electrical systems, instruments, circuit boards, control systems and cabling. Building 106B, used for final assembly, is located nearby.\nThis is the first successful Ukrainian Flamingo strike in nearly a month, following several unsuccessful attacks in which Russian air defenses and aircraft intercepted all incoming missiles.",
-   "timestamp": "2026-08-15T13:26:59+00:00",
-   "has_media": true
   },
   {
    "id": "9eab3407f280f459030adc098042799c",
