@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-17T17:58:52Z",
- "count": 37,
+ "generated_utc": "2026-08-17T18:34:51Z",
+ "count": 38,
  "items": [
+  {
+   "id": "f784e90ab4bf069710cf13251405bbf9",
+   "url": "https://t.me/OSINTWarfare/6330",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Russian S8000 Banderol small cruise missile crashed in a cornfield near Talmaza in southeastern Moldova, more than 20 km from the Ukrainian border.\nMoldovan police secured the crash site and released images of the wreckage, while specialists began examining the missile and investigating the circumstances.",
+   "timestamp": "2026-08-17T18:02:43+00:00",
+   "has_media": true
+  },
   {
    "id": "1ff5c72ac40eadbe627f479ce41d99fc",
    "url": "https://t.me/OSINTWarfare/6329",
