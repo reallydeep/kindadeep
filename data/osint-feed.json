@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-17T08:09:38Z",
- "count": 37,
+ "generated_utc": "2026-08-17T08:56:47Z",
+ "count": 31,
  "items": [
   {
    "id": "57a083e37414060456b79ba51949d674",
@@ -174,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "288be7f23350308d6cd00bfd62581203",
-   "url": "https://t.me/TerrorAlarm/45",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
-   "timestamp": "2026-06-23T10:50:51+00:00",
-   "has_media": true
-  },
-  {
    "id": "b52d1fa340f368abcc88061f6a35eafe",
    "url": "https://t.me/MenchOsint/508",
    "source": "telegram",
@@ -198,51 +189,6 @@
    "channel": "MenchOsint",
    "text": "🚢\nUKMTO reported that the IRGC issued a call at 09h00 a.m. UTC ordering merchant vessels to leave Ras Al Khaimah for Dubai, with warnings that the consequences are their responsibility if they do not comply.\nSeveral ships have complied since this morning.\n@MenchOsint",
    "timestamp": "2026-05-03T19:53:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bb24fd57b2eb634ff892b0222b0b3ac1",
-   "url": "https://t.me/TerrorAlarm/37",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Italy PM Meloni says Italy is “not complicit” in the U.S.-Israel military intervention in Iran.",
-   "timestamp": "2026-04-09T19:46:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "440952d40f89880fc4e5683653e303af",
-   "url": "https://t.me/TerrorAlarm/27",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "🇪🇺\n🇮🇷\n🇷🇺\nEuropean Union is considering seizing billions of euros, gold, and cryptocurrency linked to Russian and Iranian networks across Europe.",
-   "timestamp": "2026-02-19T13:21:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "116292f48990f0f27ca5001deb89f03e",
-   "url": "https://t.me/TerrorAlarm/25",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "🚨\n🇪🇺\nEur\nope on High Alert, Urgent threat from Russia\nTop military officials from Germany and Great Britain urge \"every individual citizen\" in Europe to prepare for a \"possible Russian attack.\"",
-   "timestamp": "2026-02-16T12:55:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a3e32b9924c6923edd033bb3878c08f8",
-   "url": "https://t.me/TerrorAlarm/24",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Israeli producer of Apple TV spy thriller ‘Tehran’ found dead in Athens hotel. Iran is the main suspect.",
-   "timestamp": "2026-02-16T12:53:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b7454928d4ef3274df9f685ee24202be",
-   "url": "https://t.me/TerrorAlarm/18",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "☢️\n🇪🇺\n🇷🇺\nNuclear Exchange Asymmetries\nCredible AI models indicate Europe could see 10% population loss in initial phases, even with NATO targets struck (incl. Denmark, Poland, UK).\nRussia spares heavy targeting of Germany due to major US bases (e.g., Ramstein), instead prioritizing saturation strikes on Denmark - to indirectly favor US interests linked to Greenland disputes.\nRussia faces 70% higher relative casualties plus extensive uninhabitable fallout zones overall.",
-   "timestamp": "2026-01-22T10:48:03+00:00",
    "has_media": true
   },
   {
