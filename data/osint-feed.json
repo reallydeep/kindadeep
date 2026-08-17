@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-17T21:34:00Z",
- "count": 38,
+ "generated_utc": "2026-08-17T21:53:38Z",
+ "count": 37,
  "items": [
+  {
+   "id": "0f20d7e99af8c2eed38d2cbadbc83b90",
+   "url": "https://t.me/OSINTWarfare/6334",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Iraqi Air Force (IQAF) conducted two airstrikes against ISIS hideouts in the Zaghaytun Valley, west of Kirkuk, killing several ISIS members.\nThe strikes were carried out based on precise intelligence from the Directorate of Military Intelligence, which had detected the movement of ISIS members at the site.",
+   "timestamp": "2026-08-17T21:37:41+00:00",
+   "has_media": true
+  },
   {
    "id": "589b7904dba4abb09a89a8276c13962d",
    "url": "https://t.me/OSINTWarfare/6333",
@@ -129,15 +138,6 @@
    "has_media": false
   },
   {
-   "id": "98ea93859e38f653e1a2d5f1d84daf0e",
-   "url": "https://t.me/OSINTWarfare/6312",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A crew member aboard the USS Abraham Lincoln (CVN-72) sent a photo to a relative showing the carrier’s latest meal service, complaining that the food was being served as mixed scoops rather than allowing sailors to choose individual items.\nThe crew was told that the food had been blended together, with the beans singled out as particularly unappetizing.\nMeanwhile, the USS Boxer (LHD-4), an amphibious assault ship currently deployed against Iran, has run out of women’s hygiene products, likely referring to tampons and sanitary pads.",
-   "timestamp": "2026-08-15T19:33:18+00:00",
-   "has_media": true
-  },
-  {
    "id": "9eab3407f280f459030adc098042799c",
    "url": "https://t.me/warmonitors/45300",
    "source": "telegram",
@@ -162,15 +162,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nAnother Israeli attack on civilian homes in Deir al-Zahrani, southern Lebanon.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-15T08:54:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7a18ffa6a689e6c09b7c992afa9f7d39",
-   "url": "https://t.me/warmonitors/45296",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nThe number of martyrs from Israeli artillery shelling has increased following the targeting of civilian homes in Ansar, southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-15T08:49:25+00:00",
    "has_media": true
   },
   {
