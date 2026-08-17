@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-17T17:03:53Z",
+ "generated_utc": "2026-08-17T17:36:53Z",
  "count": 37,
  "items": [
+  {
+   "id": "1ff5c72ac40eadbe627f479ce41d99fc",
+   "url": "https://t.me/OSINTWarfare/6329",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An FPV drone captured the powerful impacts of two Geran-2 loitering munitions striking a temporary deployment point of Ukraine’s 47th Mechanized Brigade in Dobropillia, Donetsk Oblast.",
+   "timestamp": "2026-08-17T17:33:00+00:00",
+   "has_media": false
+  },
   {
    "id": "4038249f1203ed4643c6611ce6646721",
    "url": "https://t.me/OSINTWarfare/6328",
@@ -117,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "🇾🇪\n🇾🇪\n🇸🇦\n⚡️\n— A major fire has broken out in one of the areas targeted by Ansar Allah (Houthis) ballistic missiles at Mokha (Al-Mokha) Port.  @IntelSlava",
    "timestamp": "2026-08-15T18:23:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "23df2920483ff55ae5665f1370406a0e",
-   "url": "https://t.me/OSINTWarfare/6308",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Missile Defense Agency (MDA) has issued a pre-solicitation notice for a new mobile radar designed to detect and track ballistic, cruise and hypersonic missiles.\nThe Forward-Based Mode (FBM) Radar Next is intended to provide a more mobile, rapidly deployable sensor that can be transported by C-17 aircraft or tactical ground vehicles and operate in adverse weather conditions.\nThe MDA is seeking a prototype and plans to use accelerated contracting authorities to move the program forward.\nThe effort comes as the U.S. seeks to improve its ability to detect and track increasingly advanced missile threats from China, Russia and Iran, including hypersonic weapons. The new radar would build on the role currently performed by the AN/TPY-2 Forward-Based Mode radar, which is already part of the U.S. ballistic missile defense architecture.",
-   "timestamp": "2026-08-15T15:15:40+00:00",
    "has_media": true
   },
   {
