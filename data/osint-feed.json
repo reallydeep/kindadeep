@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-18T12:01:27Z",
+ "generated_utc": "2026-08-18T13:02:04Z",
  "count": 36,
  "items": [
+  {
+   "id": "06aec82a695351bc4d427c3fc8f4de89",
+   "url": "https://t.me/OSINTWarfare/6343",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Russian jet-powered Geran-4 loitering munition crashed at an unspecified location in Ukraine. It remains unclear whether it malfunctioned or was brought down by electronic warfare (EW).\nJet-powered Gerans are increasingly being used as a tool to put pressure on Ukraine’s rear areas. While these variants initially appeared only sporadically in Russian strikes, their share has grown significantly over the past year.\nIn July, Ukrainian data suggested that jet-powered drones accounted for up to 20% of Russian attack UAVs in some strikes. In August, Ukrainian Air Force spokesman Yuriy Ihnat stated that their share had reached as high as two-thirds in some attacks.\nFor Ukraine, this presents a growing air-defense challenge. Their higher speed reduces reaction times and makes them more difficult for low-cost interceptor drones to engage. These interceptors have become one of Ukraine’s primary means of countering conventional piston-powered Gerans, prompting Ukrainian and Western companies to accelerate the development of faster interceptor drones.",
+   "timestamp": "2026-08-18T12:54:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d1472eb44bb6b23019f80f9b4aa2c414",
+   "url": "https://t.me/OSINTWarfare/6342",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed reports say that Israeli Air Force (IAF) aircraft carried out four airstrikes on the runway of Abu al-Duhur Air Base in the eastern countryside of Idlib, northwestern Syria, where Turkish forces are stationed.  I highly doubt this happened, but…",
+   "timestamp": "2026-08-18T12:36:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "062df2fbeff7af10c97468692febab40",
+   "url": "https://t.me/OSINTWarfare/6340",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "This morning, Ukrainian FP-5 Flamingo cruise missiles struck the Rocket and Space Centre “Progress” in Samara, Samara Oblast.  Progress, one of Roscosmos’s key enterprises, is involved in the production of Soyuz-2 launch vehicles and their associated electronics…",
+   "timestamp": "2026-08-18T12:08:08+00:00",
+   "has_media": true
+  },
   {
    "id": "2933619540b71db21d6c85a650e7059f",
    "url": "https://t.me/OSINTWarfare/6338",
@@ -100,33 +127,6 @@
    "text": "Iranian jet-powered Hadid-110 stealth drones targeted the office of Kurdistan Region Prime Minister Masrour Barzani and the headquarters of the region’s intelligence agency last night.",
    "timestamp": "2026-08-17T14:29:41+00:00",
    "has_media": true
-  },
-  {
-   "id": "57a083e37414060456b79ba51949d674",
-   "url": "https://t.me/OSINTWarfare/6325",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi-backed Presidential Leadership Council (PLC) forces from the 3rd Military Region carried out strikes against Ansar Allah (Houthi) fighters and their vehicles south of Marib, Marib Governorate, Yemen.",
-   "timestamp": "2026-08-17T02:36:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4d5797fe4381f2000d936432b85e35ce",
-   "url": "https://t.me/OSINTWarfare/6320",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An autonomous combat module of the Pantsir-S1 air defense system mounted on one of the towers in Moscow Oblast.\nIts ammunition load includes the new 19Ya6 (TKB-1055) “Gvozd” short-range surface-to-air missiles housed in TKB-1056 quadruple launchers, as well as standard 9Ya241 transport-launch containers for 57E6/57E6M surface-to-air missiles.",
-   "timestamp": "2026-08-16T18:26:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b8c88f234bdccb9b3070e13a54c152c1",
-   "url": "https://t.me/OSINTWarfare/6319",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy launched an anti-ship cruise missile toward a vessel in the Strait of Hormuz for violating regulations.",
-   "timestamp": "2026-08-16T18:19:51+00:00",
-   "has_media": false
   },
   {
    "id": "d4c060e40b4297958d9758380f9dcff9",
