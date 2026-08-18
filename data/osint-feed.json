@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-18T11:23:44Z",
+ "generated_utc": "2026-08-18T11:46:17Z",
  "count": 36,
  "items": [
+  {
+   "id": "2933619540b71db21d6c85a650e7059f",
+   "url": "https://t.me/OSINTWarfare/6338",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, a Russian Su-35S operating near Horlivka, Donetsk Oblast, attempted to shoot down a possible Ukrainian MiG-29MU2 Multirole Fighter that was launching glide bombs at Russian positions in Kostyantynivka from west of Kramatorsk. The Su-35S engaged the aircraft with an R-37 or R-77 air-to-air missile.\nLater, the Russian Ministry of Defense announced that a Russian fighter had shot down a Ukrainian MiG-29.",
+   "timestamp": "2026-08-18T11:24:24+00:00",
+   "has_media": true
+  },
   {
    "id": "61107da5b93289cc41e3eaaf121790f0",
    "url": "https://t.me/OSINTWarfare/6337",
@@ -118,15 +127,6 @@
    "text": "The IRGC Navy launched an anti-ship cruise missile toward a vessel in the Strait of Hormuz for violating regulations.",
    "timestamp": "2026-08-16T18:19:51+00:00",
    "has_media": false
-  },
-  {
-   "id": "42f968fd7a5ea0322b3becfe125eb045",
-   "url": "https://t.me/OSINTWarfare/6317",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During the night of August 16, the Ukrainian Navy claimed to have struck the launch positions and deployment area of a Russian K-300P Bastion-P coastal defense missile system in Crimea.\nThe Bastion-P is capable of launching P-800 Oniks supersonic cruise missiles, which can engage both maritime and land targets, as well as 3M22 Zircon hypersonic cruise missiles.",
-   "timestamp": "2026-08-16T16:45:33+00:00",
-   "has_media": true
   },
   {
    "id": "d4c060e40b4297958d9758380f9dcff9",
