@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-18T22:16:56Z",
- "count": 31,
+ "generated_utc": "2026-08-18T22:42:41Z",
+ "count": 30,
  "items": [
+  {
+   "id": "1b49c8baa16e8167472435e5767691ca",
+   "url": "https://t.me/OSINTWarfare/6357",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Air Force (IAF) carried out airstrikes on Ali Al-Taher Hill near Nabatieh al-Fawqa in southern Lebanon.",
+   "timestamp": "2026-08-18T22:20:48+00:00",
+   "has_media": true
+  },
   {
    "id": "33f0608b08d891d5aa4c1095e651cb84",
    "url": "https://t.me/OSINTWarfare/6356",
@@ -63,24 +72,6 @@
    "channel": "OSINTWarfare",
    "text": "This morning, Ukrainian FP-5 Flamingo cruise missiles struck the Rocket and Space Centre “Progress” in Samara, Samara Oblast.  Progress, one of Roscosmos’s key enterprises, is involved in the production of Soyuz-2 launch vehicles and their associated electronics…",
    "timestamp": "2026-08-18T12:08:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2933619540b71db21d6c85a650e7059f",
-   "url": "https://t.me/OSINTWarfare/6338",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, a Russian Su-35S operating near Horlivka, Donetsk Oblast, attempted to shoot down a possible Ukrainian MiG-29MU2 Multirole Fighter that was launching glide bombs at Russian positions in Kostyantynivka from west of Kramatorsk. The Su-35S engaged the aircraft with an R-37 or R-77 air-to-air missile.\nLater, the Russian Ministry of Defense announced that a Russian fighter had shot down a Ukrainian MiG-29.",
-   "timestamp": "2026-08-18T11:24:24+00:00",
-   "has_media": true
-  },
-  {
-   "id": "61107da5b93289cc41e3eaaf121790f0",
-   "url": "https://t.me/OSINTWarfare/6337",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed reports say that Israeli Air Force (IAF) aircraft carried out four airstrikes on the runway of Abu al-Duhur Air Base in the eastern countryside of Idlib, northwestern Syria, where Turkish forces are stationed.\nI highly doubt this happened, but let’s wait and see.",
-   "timestamp": "2026-08-18T00:51:33+00:00",
    "has_media": true
   },
   {
