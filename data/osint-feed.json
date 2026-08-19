@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-19T21:41:45Z",
- "count": 31,
+ "generated_utc": "2026-08-19T22:00:44Z",
+ "count": 32,
  "items": [
+  {
+   "id": "4bbc4e4e0b1a679a75e5324b9bad9508",
+   "url": "https://t.me/OSINTWarfare/6372",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Close-up footage showing a Russian double-tap with two Iskander-M/KN-23 tactical ballistic missiles striking the same location in Kyiv.",
+   "timestamp": "2026-08-19T21:41:37+00:00",
+   "has_media": true
+  },
   {
    "id": "d178135b69d2667639d6da646863ec87",
    "url": "https://t.me/OSINTWarfare/6371",
