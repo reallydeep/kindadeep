@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-19T16:47:31Z",
- "count": 30,
+ "generated_utc": "2026-08-19T17:07:04Z",
+ "count": 31,
  "items": [
+  {
+   "id": "d178135b69d2667639d6da646863ec87",
+   "url": "https://t.me/OSINTWarfare/6371",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The 42nd Mechanized Brigade of the Ukrainian Armed Forces detected and destroyed two Russian UAZ vehicles transporting ammunition for Grad multiple rocket launchers.",
+   "timestamp": "2026-08-19T17:00:08+00:00",
+   "has_media": false
+  },
   {
    "id": "74de812d9ff53bd58c76dac5a635320e",
    "url": "https://t.me/OSINTWarfare/6370",
