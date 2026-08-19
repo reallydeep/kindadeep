@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-19T23:11:54Z",
- "count": 33,
+ "generated_utc": "2026-08-19T23:36:29Z",
+ "count": 34,
  "items": [
+  {
+   "id": "868735b3998b72c67b375fc31ecf7337",
+   "url": "https://t.me/OSINTWarfare/6374",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Like every night, the Israeli Air Force (IAF) carried out airstrikes targeting Ali al-Taher Hill, followed by heavy artillery shelling.",
+   "timestamp": "2026-08-19T23:28:44+00:00",
+   "has_media": true
+  },
   {
    "id": "56f4dd450c93106e12001d7e2bc06bb7",
    "url": "https://t.me/OSINTWarfare/6373",
