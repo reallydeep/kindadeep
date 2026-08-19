@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-19T02:15:07Z",
+ "generated_utc": "2026-08-19T03:11:03Z",
  "count": 31,
  "items": [
+  {
+   "id": "6f49069ad391cd6cfa64a1582c1d0545",
+   "url": "https://t.me/OSINTWarfare/6362",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In a rare occurrence, a Russian Su-35S multirole fighter crossed into Ukrainian airspace, flew over the town of Uhroidy in Sumy Oblast, and launched a Kh-59/69 cruise missile at Sumy City before safely returning to Kursk Oblast.\nNormally, Su-35S, Su-30SM/SM2, and Su-34 aircraft launch glide bombs and other guided munitions from roughly 50 km behind the frontline to minimize the risk of interception by Ukrainian air defenses.\nIt may have been an attempt to test Ukraine’s air defense response, but apparently no interception followed. Russia may be increasingly confident that Ukraine currently lacks sufficient PAC-2/3 interceptor missiles to pose a significant threat to its aircraft.",
+   "timestamp": "2026-08-19T02:41:39+00:00",
+   "has_media": true
+  },
   {
    "id": "415264315cad78755dbeac07933d23d1",
    "url": "https://t.me/OSINTWarfare/6361",
@@ -72,15 +81,6 @@
    "channel": "OSINTWarfare",
    "text": "Unconfirmed reports say that Israeli Air Force (IAF) aircraft carried out four airstrikes on the runway of Abu al-Duhur Air Base in the eastern countryside of Idlib, northwestern Syria, where Turkish forces are stationed.  I highly doubt this happened, but…",
    "timestamp": "2026-08-18T12:36:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "062df2fbeff7af10c97468692febab40",
-   "url": "https://t.me/OSINTWarfare/6340",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "This morning, Ukrainian FP-5 Flamingo cruise missiles struck the Rocket and Space Centre “Progress” in Samara, Samara Oblast.  Progress, one of Roscosmos’s key enterprises, is involved in the production of Soyuz-2 launch vehicles and their associated electronics…",
-   "timestamp": "2026-08-18T12:08:08+00:00",
    "has_media": true
   },
   {
