@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-19T22:00:44Z",
- "count": 32,
+ "generated_utc": "2026-08-19T22:34:38Z",
+ "count": 33,
  "items": [
+  {
+   "id": "56f4dd450c93106e12001d7e2bc06bb7",
+   "url": "https://t.me/OSINTWarfare/6373",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows eight 3M14 Kalibr cruise missiles being launched from a Buyan-M-class corvette at the Novorossiysk Naval Base in Russia’s Krasnodar Krai.",
+   "timestamp": "2026-08-19T22:22:22+00:00",
+   "has_media": true
+  },
   {
    "id": "4bbc4e4e0b1a679a75e5324b9bad9508",
    "url": "https://t.me/OSINTWarfare/6372",
