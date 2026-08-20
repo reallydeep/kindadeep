@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-20T18:04:25Z",
+ "generated_utc": "2026-08-20T18:53:14Z",
  "count": 37,
  "items": [
+  {
+   "id": "ef9142c3e9ad8974fc1c3ec1f94cf67e",
+   "url": "https://t.me/OSINTWarfare/6379",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) assesses that, as of July, the Russian military has around 50 Kinzhal aeroballistic missiles and roughly the same number of missiles from the Hwasong-11 family in its inventory.\nAccording to the report, Russia operates the B/A variants of the Hwasong-11 family, known in the West as the KN-23/KN-24, as well as the C variant, referred to in the West as the KN-30. The Hwasong-11C (Hwasong-Da, KN-30) is a larger variant of the Hwasong-11A (KN-23), capable of carrying a 2,500 kg warhead and reaching a range of up to 900 km.",
+   "timestamp": "2026-08-20T18:49:22+00:00",
+   "has_media": true
+  },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
    "url": "https://t.me/warmonitors/45332",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Private Chinese space company LandSpace’s Zhuque-3 Y2 reusable launch vehicle successfully achieved orbital insertion and first-stage recovery.\nThis marks the second successful Chinese rocket recovery in just one month, following the recovery of the Long March 10A.",
    "timestamp": "2026-08-19T01:01:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1b49c8baa16e8167472435e5767691ca",
-   "url": "https://t.me/OSINTWarfare/6357",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) carried out airstrikes on Ali Al-Taher Hill near Nabatieh al-Fawqa in southern Lebanon.",
-   "timestamp": "2026-08-18T22:20:48+00:00",
    "has_media": true
   },
   {
