@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-20T19:21:34Z",
- "count": 37,
+ "generated_utc": "2026-08-20T19:51:30Z",
+ "count": 38,
  "items": [
+  {
+   "id": "141d69ec337345af053b9ce046479a73",
+   "url": "https://t.me/OSINTWarfare/6380",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Castelion has raised $1 billion in funding at a $13 billion valuation to develop and produce the Blackbeard hypersonic strike missile, as well as fund two additional weapons programs.\nThe image shows an updated version of the missile. Earlier prototypes featured a conventional cylindrical body paired with a booster. The new design features a wedge-shaped nose section, while the booster has also been redesigned.",
+   "timestamp": "2026-08-20T19:49:38+00:00",
+   "has_media": true
+  },
   {
    "id": "ef9142c3e9ad8974fc1c3ec1f94cf67e",
    "url": "https://t.me/OSINTWarfare/6379",
