@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T19:18:36Z",
+ "generated_utc": "2026-08-21T19:40:22Z",
  "count": 32,
  "items": [
+  {
+   "id": "09849c74a0a81b141c4119073f3515b1",
+   "url": "https://t.me/OSINTWarfare/6400",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The 102nd Territorial Defense Brigade of the Ukrainian Armed Forces used FPV drones to destroy two Russian tanks hidden in revetments behind the front line.",
+   "timestamp": "2026-08-21T19:36:26+00:00",
+   "has_media": true
+  },
   {
    "id": "f139fb84715e1ae62b5dd6238f721feb",
    "url": "https://t.me/OSINTWarfare/6399",
@@ -90,15 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "Today, F-16AM multirole fighters of the Romanian Air Force were scrambled to intercept an unmanned surface vessel (USV) in the Black Sea.\nThe USV was later washed up against a gas platform operated as part of the European Neptun Deep project.",
    "timestamp": "2026-08-21T00:41:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "141d69ec337345af053b9ce046479a73",
-   "url": "https://t.me/OSINTWarfare/6380",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Castelion has raised $1 billion in funding at a $13 billion valuation to develop and produce the Blackbeard hypersonic strike missile, as well as fund two additional weapons programs.\nThe image shows an updated version of the missile. Earlier prototypes featured a conventional cylindrical body paired with a booster. The new design features a wedge-shaped nose section, while the booster has also been redesigned.",
-   "timestamp": "2026-08-20T19:49:38+00:00",
    "has_media": true
   },
   {
