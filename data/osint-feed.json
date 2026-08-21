@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T20:17:19Z",
+ "generated_utc": "2026-08-21T20:42:32Z",
  "count": 33,
  "items": [
+  {
+   "id": "b43e372dd81ad1b14983362db1a5a6d7",
+   "url": "https://t.me/OSINTWarfare/6403",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "As it does almost every night, the Israeli Air Force (IAF) carried out airstrikes targeting Ali al-Taher Hill near Nabatieh al-Fawqa in southern Lebanon.",
+   "timestamp": "2026-08-21T20:18:37+00:00",
+   "has_media": true
+  },
   {
    "id": "3a5a9df61ab16a89fbe0fe99506a2ca1",
    "url": "https://t.me/OSINTWarfare/6401",
@@ -100,15 +109,6 @@
    "text": "A reconnaissance drone launched from the Russian Soobrazitelny Steregushchy-class corvette, a Project 20380 corvette, monitors the Danish Stormborn unmanned surface vessel (USV) while it tests radar and sonar equipment near Bornholm Island on behalf of defense companies MyDefence and Terma.\nThe Danish USV, in turn, is also monitoring the Russian drone flying around it. The incident occurred on June 25 and provides a rare look at the encounter from both sides.",
    "timestamp": "2026-08-21T01:31:04+00:00",
    "has_media": false
-  },
-  {
-   "id": "d480b2718eb0184cb11384a1b050cc84",
-   "url": "https://t.me/OSINTWarfare/6381",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Today, F-16AM multirole fighters of the Romanian Air Force were scrambled to intercept an unmanned surface vessel (USV) in the Black Sea.\nThe USV was later washed up against a gas platform operated as part of the European Neptun Deep project.",
-   "timestamp": "2026-08-21T00:41:22+00:00",
-   "has_media": true
   },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
