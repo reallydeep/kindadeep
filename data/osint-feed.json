@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T22:41:41Z",
- "count": 33,
+ "generated_utc": "2026-08-21T23:00:42Z",
+ "count": 34,
  "items": [
+  {
+   "id": "5fb31064f2c9844219c4b7438d1b9702",
+   "url": "https://t.me/OSINTWarfare/6407",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The UK Ministry of Defence says development of the future Stratus cruise and anti-ship missile is nearing the demonstration phase, with full-scale testing planned for 2028.\nDevelopment of the missile’s airframe, engine, warhead, and guidance system has reportedly been completed. It is expected to be integrated with Typhoon and Rafale fighters, as well as naval platforms such as Type 26 frigates.\nThe MoD declined to disclose the missile’s range, stating only that it will exceed the Storm Shadow’s 560 km range and the Harpoon’s 220 km range.",
+   "timestamp": "2026-08-21T22:45:14+00:00",
+   "has_media": true
+  },
   {
    "id": "e91fb6fc374c9e6fffd6cd1192985060",
    "url": "https://t.me/OSINTWarfare/6406",
