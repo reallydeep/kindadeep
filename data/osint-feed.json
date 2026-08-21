@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T21:00:43Z",
+ "generated_utc": "2026-08-21T21:33:08Z",
  "count": 33,
  "items": [
+  {
+   "id": "e91fb6fc374c9e6fffd6cd1192985060",
+   "url": "https://t.me/OSINTWarfare/6406",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Ukrainian Ministry of Defense has announced the adoption into service of the Ukrainian-developed Alexa Spatium, a jet-powered unmanned interceptor designed to engage Russian Geran-3/4/5 jet-powered loitering munitions.\nThe interceptor is powered by a compact turbojet engine, measures 1.5 by 1.7 meters, and can reach high speeds and perform sharp maneuvers. It is launched from a lightweight catapult, with the entire system fitting in a pickup truck.\nAlexa Spatium uses television and infrared guidance systems and can operate either using pre-programmed coordinates or under direct operator control. It can also engage reconnaissance drones, helicopters, and, if necessary, ground and surface targets.\nIf the target is not destroyed, the interceptor can return to the launch area for reuse. It can carry high-explosive fragmentation, shaped-charge, or thermobaric warheads. Its combination of high maximum speed and relatively low minimum speed allows it to quickly reach targets while conserving fuel.",
+   "timestamp": "2026-08-21T21:21:53+00:00",
+   "has_media": true
+  },
   {
    "id": "b43e372dd81ad1b14983362db1a5a6d7",
    "url": "https://t.me/OSINTWarfare/6403",
@@ -100,15 +109,6 @@
    "text": "Turkish residents recovered 9M335 rocket motors from Russian Pantsir-S1 air defense missiles along the coasts of Istanbul and Sinop.",
    "timestamp": "2026-08-21T01:49:30+00:00",
    "has_media": true
-  },
-  {
-   "id": "f2f368d65a9cb388781094a69b028687",
-   "url": "https://t.me/OSINTWarfare/6384",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A reconnaissance drone launched from the Russian Soobrazitelny Steregushchy-class corvette, a Project 20380 corvette, monitors the Danish Stormborn unmanned surface vessel (USV) while it tests radar and sonar equipment near Bornholm Island on behalf of defense companies MyDefence and Terma.\nThe Danish USV, in turn, is also monitoring the Russian drone flying around it. The incident occurred on June 25 and provides a rare look at the encounter from both sides.",
-   "timestamp": "2026-08-21T01:31:04+00:00",
-   "has_media": false
   },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
