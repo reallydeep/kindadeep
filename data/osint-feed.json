@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T02:10:04Z",
+ "generated_utc": "2026-08-21T03:13:08Z",
  "count": 37,
  "items": [
+  {
+   "id": "35ec22f70510efe6eb79b4d692b4cf11",
+   "url": "https://t.me/OSINTWarfare/6390",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Archival footage from August 30, 2022, shows a pair of Su-34 fighter-bombers conducting a low-level bombing run against a concentration of Ukrainian military equipment in Kherson Oblast.\nThe trailing Su-34 was hit several times by ground fire. One round pierced the cockpit canopy and passed close to the pilot’s head, while others damaged the left engine, forcing it to shut down. Despite the damage, the aircraft managed to return to base on a single engine. The footage captures the moment it was hit.\nThis is an example of how the Russian Aerospace Forces (VKS) conducted combat sorties over Ukraine in 2022, often at extremely low altitudes, before guided aerial bombs became widely available. The lack of such weapons forced aircraft and their crews to operate within range of not only short- and medium-range air defense systems, but also MANPADS and small-arms fire.\nThroughout 2022, this outdated method of employing combat aircraft contributed to the loss and capture of numerous Russian pilots.",
+   "timestamp": "2026-08-21T02:11:01+00:00",
+   "has_media": true
+  },
   {
    "id": "e349635ec1cb42f9af77ffff2b771e30",
    "url": "https://t.me/OSINTWarfare/6386",
@@ -127,15 +136,6 @@
    "text": "The 42nd Mechanized Brigade of the Ukrainian Armed Forces detected and destroyed two Russian UAZ vehicles transporting ammunition for Grad multiple rocket launchers.",
    "timestamp": "2026-08-19T17:00:08+00:00",
    "has_media": false
-  },
-  {
-   "id": "74de812d9ff53bd58c76dac5a635320e",
-   "url": "https://t.me/OSINTWarfare/6370",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Dimensions of the FP-7 and FP-9 ballistic missiles compared with a person standing at full height.\nThe FP-9 is indeed a massive missile.",
-   "timestamp": "2026-08-19T16:31:35+00:00",
-   "has_media": true
   },
   {
    "id": "94cde0b82a30542603de2188b3ce14ac",
