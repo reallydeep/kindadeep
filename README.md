@@ -256,7 +256,7 @@ A browser-native port of [`mohd-faizy/War-Probability-OSINT`](https://github.com
 
 ### 🪟 Modals & Interactive Overlays
 - Experience modal — Bergen Logistics / Cloud X Systems + SML Group career timeline
-- Education modal — Rutgers University B.A. IT & Informatics, GPA 3.70
+- Education modal — Rutgers University B.A. IT & Informatics, GPA 3.50
 - Skills Reef — interactive tag cloud across 14 categories
 - Project cards — BOL Verification System, ClipBot Telegram automation
 - Photo lightbox — full-screen polaroid viewer with ESC / keyboard support
