@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-21T00:33:13Z",
+ "generated_utc": "2026-08-21T02:10:04Z",
  "count": 37,
  "items": [
+  {
+   "id": "e349635ec1cb42f9af77ffff2b771e30",
+   "url": "https://t.me/OSINTWarfare/6386",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Turkish residents recovered 9M335 rocket motors from Russian Pantsir-S1 air defense missiles along the coasts of Istanbul and Sinop.",
+   "timestamp": "2026-08-21T01:49:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f2f368d65a9cb388781094a69b028687",
+   "url": "https://t.me/OSINTWarfare/6384",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A reconnaissance drone launched from the Russian Soobrazitelny Steregushchy-class corvette, a Project 20380 corvette, monitors the Danish Stormborn unmanned surface vessel (USV) while it tests radar and sonar equipment near Bornholm Island on behalf of defense companies MyDefence and Terma.\nThe Danish USV, in turn, is also monitoring the Russian drone flying around it. The incident occurred on June 25 and provides a rare look at the encounter from both sides.",
+   "timestamp": "2026-08-21T01:31:04+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d480b2718eb0184cb11384a1b050cc84",
+   "url": "https://t.me/OSINTWarfare/6381",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Today, F-16AM multirole fighters of the Romanian Air Force were scrambled to intercept an unmanned surface vessel (USV) in the Black Sea.\nThe USV was later washed up against a gas platform operated as part of the European Neptun Deep project.",
+   "timestamp": "2026-08-21T00:41:22+00:00",
+   "has_media": true
+  },
   {
    "id": "141d69ec337345af053b9ce046479a73",
    "url": "https://t.me/OSINTWarfare/6380",
@@ -111,15 +138,6 @@
    "has_media": true
   },
   {
-   "id": "6a40ac7a246d508627233a0f00268cce",
-   "url": "https://t.me/OSINTWarfare/6368",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A document obtained from the Islamic Republic of Iran Army Air Defense Force confirms the transfer of a Kavosh radar complex from Isfahan to southern Iran in late July.\nThnx to\n@GEOIMINT\nfor the document.",
-   "timestamp": "2026-08-19T13:48:14+00:00",
-   "has_media": true
-  },
-  {
    "id": "94cde0b82a30542603de2188b3ce14ac",
    "url": "https://t.me/warmonitors/45324",
    "source": "telegram",
@@ -127,24 +145,6 @@
    "text": "⚡️\n#BREAKING\nA Ukrainian man was arrested over undersea explosions that damaged Nord Stream gas pipelines, German officials say\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-19T10:09:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "6f49069ad391cd6cfa64a1582c1d0545",
-   "url": "https://t.me/OSINTWarfare/6362",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In a rare occurrence, a Russian Su-35S multirole fighter crossed into Ukrainian airspace, flew over the town of Uhroidy in Sumy Oblast, and launched a Kh-59/69 cruise missile at Sumy City before safely returning to Kursk Oblast.\nNormally, Su-35S, Su-30SM/SM2, and Su-34 aircraft launch glide bombs and other guided munitions from roughly 50 km behind the frontline to minimize the risk of interception by Ukrainian air defenses.\nIt may have been an attempt to test Ukraine’s air defense response, but apparently no interception followed. Russia may be increasingly confident that Ukraine currently lacks sufficient PAC-2/3 interceptor missiles to pose a significant threat to its aircraft.",
-   "timestamp": "2026-08-19T02:41:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "415264315cad78755dbeac07933d23d1",
-   "url": "https://t.me/OSINTWarfare/6361",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Private Chinese space company LandSpace’s Zhuque-3 Y2 reusable launch vehicle successfully achieved orbital insertion and first-stage recovery.\nThis marks the second successful Chinese rocket recovery in just one month, following the recovery of the Long March 10A.",
-   "timestamp": "2026-08-19T01:01:57+00:00",
-   "has_media": true
   },
   {
    "id": "ba27724610bcb57ebf39e75841df1969",
