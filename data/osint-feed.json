@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T19:40:22Z",
- "count": 32,
+ "generated_utc": "2026-08-21T19:57:15Z",
+ "count": 33,
  "items": [
+  {
+   "id": "3a5a9df61ab16a89fbe0fe99506a2ca1",
+   "url": "https://t.me/OSINTWarfare/6401",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An ammunition depot inside the headquarters of the pro-Government of National Unity (GNU) al-I'sar Battalion (“Cyclone Battalion”) in the Al-Ghiran area, south of Misrata, detonated, causing shells and rockets to scatter in all directions.",
+   "timestamp": "2026-08-21T19:51:48+00:00",
+   "has_media": true
+  },
   {
    "id": "09849c74a0a81b141c4119073f3515b1",
    "url": "https://t.me/OSINTWarfare/6400",
