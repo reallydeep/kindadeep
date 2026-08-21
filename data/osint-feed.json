@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T11:07:22Z",
+ "generated_utc": "2026-08-21T11:35:45Z",
  "count": 35,
  "items": [
+  {
+   "id": "eacf86230f0a06e42ae087da8641c520",
+   "url": "https://t.me/OSINTWarfare/6391",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Afghanistan United Front killed a Taliban intelligence officer in Kandahar’s 5th District yesterday. The officer was allegedly involved in the arrest, torture, and killing of former Afghan security personnel in the province.",
+   "timestamp": "2026-08-21T11:18:07+00:00",
+   "has_media": true
+  },
   {
    "id": "35ec22f70510efe6eb79b4d692b4cf11",
    "url": "https://t.me/OSINTWarfare/6390",
@@ -127,15 +136,6 @@
    "text": "Close-up footage showing a Russian double-tap with two Iskander-M/KN-23 tactical ballistic missiles striking the same location in Kyiv.",
    "timestamp": "2026-08-19T21:41:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "d178135b69d2667639d6da646863ec87",
-   "url": "https://t.me/OSINTWarfare/6371",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The 42nd Mechanized Brigade of the Ukrainian Armed Forces detected and destroyed two Russian UAZ vehicles transporting ammunition for Grad multiple rocket launchers.",
-   "timestamp": "2026-08-19T17:00:08+00:00",
-   "has_media": false
   },
   {
    "id": "94cde0b82a30542603de2188b3ce14ac",
