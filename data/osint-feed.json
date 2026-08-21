@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-21T18:55:57Z",
+ "generated_utc": "2026-08-21T19:18:36Z",
  "count": 32,
  "items": [
+  {
+   "id": "f139fb84715e1ae62b5dd6238f721feb",
+   "url": "https://t.me/OSINTWarfare/6399",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. State Department approved a potential $364 million Foreign Military Sale (FMS) to Italy for 5,031 Advanced Precision Kill Weapon System II (APKWS II) guidance kits.",
+   "timestamp": "2026-08-21T19:16:17+00:00",
+   "has_media": true
+  },
   {
    "id": "6a3c9b2fdbc9982098748f940c713ebc",
    "url": "https://t.me/OSINTWarfare/6398",
@@ -90,15 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "Castelion has raised $1 billion in funding at a $13 billion valuation to develop and produce the Blackbeard hypersonic strike missile, as well as fund two additional weapons programs.\nThe image shows an updated version of the missile. Earlier prototypes featured a conventional cylindrical body paired with a booster. The new design features a wedge-shaped nose section, while the booster has also been redesigned.",
    "timestamp": "2026-08-20T19:49:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ef9142c3e9ad8974fc1c3ec1f94cf67e",
-   "url": "https://t.me/OSINTWarfare/6379",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) assesses that, as of July, the Russian military has around 50 Kinzhal aeroballistic missiles and roughly the same number of missiles from the Hwasong-11 family in its inventory.\nAccording to the report, Russia operates the B/A variants of the Hwasong-11 family, known in the West as the KN-23/KN-24, as well as the C variant, referred to in the West as the KN-30. The Hwasong-11C (Hwasong-Da, KN-30) is a larger variant of the Hwasong-11A (KN-23), capable of carrying a 2,500 kg warhead and reaching a range of up to 900 km.",
-   "timestamp": "2026-08-20T18:49:22+00:00",
    "has_media": true
   },
   {
