@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-21T14:03:10Z",
- "count": 33,
+ "generated_utc": "2026-08-21T14:46:21Z",
+ "count": 32,
  "items": [
   {
    "id": "545e97378559f632ad42720621a8b926",
@@ -118,15 +118,6 @@
    "text": "Today, the Russian Armed Forces launched a massive strike using precision-guided weapons launched from ground-, air-, and sea-based platforms, as well as long-range unmanned aerial vehicles (UAVs), targeting military-industrial facilities, a transport and logistics center, and warehouses in Kyiv and Kyiv Oblast.\n📍\nThe following targets were hit in Kyiv:\n•\nFire Point LLC industrial facility\n— producing components for long- and medium-range strike UAVs, as well as assembling and storing boosters used in Flamingo cruise missiles;\n•\nUkrspetsystems commercial and warehouse complex\n— producing components for long- and medium-range strike UAVs, carrying out large-component assembly of fixed-wing UAVs, and storing UAVs;\n•\nAntonov State Enterprise\n— producing the long-range An-196 “Lyutyi” UAV and developing and manufacturing various types of manned aircraft;\n•\nAn ammunition warehouse\n— storing M-900 thermobaric aerial bombs, anti-tank mines, and ammunition for Baba Yaga-type UAVs.\n📍\nThe following targets were hit in Kyiv Oblast:\n•\nMartusivka Transport and Logistics Center (Zamler Group logistics center)\n— storing and distributing dual-use goods, including those used in the production of long- and medium-range UAVs, robotic systems, and electronic warfare equipment;\n•\nBrovary fuel and lubricant warehouse\n— storing up to 8,000 cubic meters of fuel intended for the Ukrainian Armed Forces.\nIn addition, on the evening of August 19, warehouses containing military equipment were hit at the ports of Chornomorsk and Pivdennyi.",
    "timestamp": "2026-08-20T07:49:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "f0e8e2ec421ba0e97f9dd460cd114abf",
-   "url": "https://t.me/OSINTWarfare/6375",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Long-range strikes by the 50th Separate “VARYAG” Brigade using Geran-4 loitering munitions equipped with electro-optical (EO) seekers against Ukrainian targets, including UAV storage facilities, a substation, logistics centers, a temporary deployment point, and a gas distribution station.",
-   "timestamp": "2026-08-20T07:31:01+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
