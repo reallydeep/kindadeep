@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-22T18:11:11Z",
- "count": 31,
+ "generated_utc": "2026-08-22T18:48:56Z",
+ "count": 32,
  "items": [
+  {
+   "id": "76846b09bb2b3214980fc4a0acca9231",
+   "url": "https://t.me/OSINTWarfare/6414",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. State Department approved a $2.3 billion Foreign Military Sale (FMS) to Norway for 21 UH-60M Black Hawk helicopters.\nThe package includes 46 T700-GE-701D engines, 25 AN/AAR-57 Common Missile Warning Systems, 25 Common Infrared Countermeasure systems, 25 AN/APR-39E(V)2 radar warning receivers, 50 EAGLE-M+429 embedded GPS/inertial navigation systems, 100 AN/ARC-231A radios and 18 M240H machine guns.",
+   "timestamp": "2026-08-22T18:27:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4b6a5b6401ec65f01050133d50bee3e8",
+   "url": "https://t.me/warmonitors/45351",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli settlers kidnapped a donkey from a Palestian farmer and dragged it until it died in the South Hebron Hills, occupied West Bank.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-22T18:24:25+00:00",
+   "has_media": true
+  },
   {
    "id": "ba1aa675ce523ff8b9d223d971fcd6f8",
    "url": "https://t.me/OSINTWarfare/6413",
@@ -91,15 +109,6 @@
    "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles in Marib and along Yemen’s western coast, using dropped grenades and mortar rounds from quadcopters and/or hexacopters.",
    "timestamp": "2026-08-21T15:11:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "545e97378559f632ad42720621a8b926",
-   "url": "https://t.me/OSINTWarfare/6394",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles in Marib and along Yemen’s western coast, using dropped grenades and mortar rounds from quadcopters and/or hexacopters.",
-   "timestamp": "2026-08-21T13:33:45+00:00",
-   "has_media": true
   },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
