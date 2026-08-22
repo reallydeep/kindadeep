@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-22T22:08:52Z",
- "count": 33,
+ "generated_utc": "2026-08-22T22:34:28Z",
+ "count": 32,
  "items": [
   {
    "id": "370f10eed55bfbab3d0323fc4e9c3ced",
@@ -109,15 +109,6 @@
    "text": "The U.S. Navy has awarded Zone 5 Technologies, recently acquired by the Kongsberg Group, a $65 million contract to develop and produce a naval variant of the low-cost AGM-188A Rusty Dagger air-launched cruise missile.\nThe new variant is intended to engage both land and surface targets and will reportedly be capable of launch from aircraft, ships, and ground-based platforms.\nThe contract was awarded under the CHAOS (Coalition Heterogeneous Affordable Offensive Strike) program, a coalition initiative focused on rapidly developing and fielding low-cost missiles for engaging land and surface targets in support of the United States and its allies and partners.\nThis is the second U.S. Navy contract awarded under CHAOS for the development of a low-cost naval missile. In July, competing company CoAspire received a $70 million contract to develop a naval variant of its RAACM-ER (Rapidly Adaptable Affordable Cruise Missile–Extended Range).\nFollowing the parallel award to Zone 5 Technologies, claims have emerged that the Rusty Dagger is already “a weapon combat-proven under heavy opposition in Russian airspace,” potentially giving it an advantage over competing designs as more results from its reported combat use emerge, despite the relatively small number of missiles delivered.",
    "timestamp": "2026-08-21T18:31:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "ecaadcb2bee9f4b0d033677959b38661",
-   "url": "https://t.me/OSINTWarfare/6397",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles in Marib and along Yemen’s western coast, using dropped grenades and mortar rounds from quadcopters and/or hexacopters.",
-   "timestamp": "2026-08-21T15:11:25+00:00",
-   "has_media": false
   },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
