@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-22T17:32:57Z",
+ "generated_utc": "2026-08-22T17:51:44Z",
  "count": 31,
  "items": [
+  {
+   "id": "ba1aa675ce523ff8b9d223d971fcd6f8",
+   "url": "https://t.me/OSINTWarfare/6413",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Huge anti-drone structures have been erected over oil storage tanks in Abu Dhabi, the capital of the UAE, following strikes by Iranian Shahed-136 loitering munitions.\nThese structures can help mitigate the damage, but they do not provide 100% protection. On the other hand, missiles will get the job done.",
+   "timestamp": "2026-08-22T17:50:20+00:00",
+   "has_media": true
+  },
   {
    "id": "62211ea5036e91ff9f8e88ba3ab61614",
    "url": "https://t.me/OSINTWarfare/6408",
@@ -91,15 +100,6 @@
    "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles in Marib and along Yemen’s western coast, using dropped grenades and mortar rounds from quadcopters and/or hexacopters.",
    "timestamp": "2026-08-21T13:33:45+00:00",
    "has_media": true
-  },
-  {
-   "id": "0db64509c2df087f0bc4353e81e61fd7",
-   "url": "https://t.me/OSINTWarfare/6393",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles in Marib and along Yemen’s western coast, using dropped grenades and mortar rounds from quadcopters and/or hexacopters.",
-   "timestamp": "2026-08-21T13:24:23+00:00",
-   "has_media": false
   },
   {
    "id": "733ff236bf4f9a21928367c2811d9d02",
