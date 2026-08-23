@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-23T00:32:43Z",
+ "generated_utc": "2026-08-23T02:10:52Z",
  "count": 32,
  "items": [
+  {
+   "id": "b2de09329df8cc358a3928df886dfab1",
+   "url": "https://t.me/OSINTWarfare/6418",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇹🇷\n🇸🇦\n🇵🇰\n⚡️\n— Mehdi Rahimi, head of the Iranian Parliament’s news agency, told Al Mayadeen that Iran has received an invitation to join the Mecca Defense Pact.\n@IntelSlava",
+   "timestamp": "2026-08-23T00:50:18+00:00",
+   "has_media": false
+  },
   {
    "id": "e66f47bc5fdde7ed4a019fe4b03909b8",
    "url": "https://t.me/warmonitors/45352",
@@ -108,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "The U.S. State Department approved a potential $364 million Foreign Military Sale (FMS) to Italy for 5,031 Advanced Precision Kill Weapon System II (APKWS II) guidance kits.",
    "timestamp": "2026-08-21T19:16:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6a3c9b2fdbc9982098748f940c713ebc",
-   "url": "https://t.me/OSINTWarfare/6398",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Navy has awarded Zone 5 Technologies, recently acquired by the Kongsberg Group, a $65 million contract to develop and produce a naval variant of the low-cost AGM-188A Rusty Dagger air-launched cruise missile.\nThe new variant is intended to engage both land and surface targets and will reportedly be capable of launch from aircraft, ships, and ground-based platforms.\nThe contract was awarded under the CHAOS (Coalition Heterogeneous Affordable Offensive Strike) program, a coalition initiative focused on rapidly developing and fielding low-cost missiles for engaging land and surface targets in support of the United States and its allies and partners.\nThis is the second U.S. Navy contract awarded under CHAOS for the development of a low-cost naval missile. In July, competing company CoAspire received a $70 million contract to develop a naval variant of its RAACM-ER (Rapidly Adaptable Affordable Cruise Missile–Extended Range).\nFollowing the parallel award to Zone 5 Technologies, claims have emerged that the Rusty Dagger is already “a weapon combat-proven under heavy opposition in Russian airspace,” potentially giving it an advantage over competing designs as more results from its reported combat use emerge, despite the relatively small number of missiles delivered.",
-   "timestamp": "2026-08-21T18:31:37+00:00",
    "has_media": true
   },
   {
