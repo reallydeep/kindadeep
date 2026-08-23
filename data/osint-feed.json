@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-23T10:00:10Z",
- "count": 32,
+ "generated_utc": "2026-08-23T10:24:13Z",
+ "count": 31,
  "items": [
+  {
+   "id": "b7521bc2ab0890d913130f39430fae41",
+   "url": "https://t.me/OSINTWarfare/6419",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. Navy has unveiled its new AIM-424 Long Range Air-to-Air Missile (LRAAM), also known as Malice. The missile is currently undergoing flight testing and is intended for deployment on the F/A-18E/F Super Hornet, F-35C, and the future F/A-XX fighter.\nImages released by the Navy show the missile mounted on a Super Hornet, as well as carried internally in the F-35C’s weapons bay.\nThe missile is a two-stage design developed by Raytheon. It is said to be more than 4 meters long, weigh approximately 680 kg, and have a stated range of over 460 km.",
+   "timestamp": "2026-08-23T10:05:33+00:00",
+   "has_media": true
+  },
   {
    "id": "b2de09329df8cc358a3928df886dfab1",
    "url": "https://t.me/OSINTWarfare/6418",
@@ -99,24 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "An ammunition depot inside the headquarters of the pro-Government of National Unity (GNU) al-I'sar Battalion (“Cyclone Battalion”) in the Al-Ghiran area, south of Misrata, detonated, causing shells and rockets to scatter in all directions.",
    "timestamp": "2026-08-21T19:51:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "09849c74a0a81b141c4119073f3515b1",
-   "url": "https://t.me/OSINTWarfare/6400",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The 102nd Territorial Defense Brigade of the Ukrainian Armed Forces used FPV drones to destroy two Russian tanks hidden in revetments behind the front line.",
-   "timestamp": "2026-08-21T19:36:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f139fb84715e1ae62b5dd6238f721feb",
-   "url": "https://t.me/OSINTWarfare/6399",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. State Department approved a potential $364 million Foreign Military Sale (FMS) to Italy for 5,031 Advanced Precision Kill Weapon System II (APKWS II) guidance kits.",
-   "timestamp": "2026-08-21T19:16:17+00:00",
    "has_media": true
   },
   {
