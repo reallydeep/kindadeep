@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-23T10:24:13Z",
- "count": 31,
+ "generated_utc": "2026-08-23T10:46:21Z",
+ "count": 32,
  "items": [
+  {
+   "id": "425e7f64f645979aa057a28d6bc2cf3c",
+   "url": "https://t.me/OSINTWarfare/6421",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Chadian government has confirmed that its territory was attacked by Sudan after the Sudanese Air Force bombed a logistics convoy belonging to the UAE-backed Rapid Support Forces (RSF), 100 km inside Chadian territory.\nInterestingly, Chad continues to deny any involvement in the war, despite repeated evidence of logistics convoys crossing from its territory into RSF-controlled areas.",
+   "timestamp": "2026-08-23T10:39:41+00:00",
+   "has_media": false
+  },
   {
    "id": "b7521bc2ab0890d913130f39430fae41",
    "url": "https://t.me/OSINTWarfare/6419",
