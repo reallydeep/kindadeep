@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-23T18:49:03Z",
+ "generated_utc": "2026-08-23T19:08:23Z",
  "count": 34,
  "items": [
+  {
+   "id": "a1660dce4da68ffbf05650e9805af393",
+   "url": "https://t.me/OSINTWarfare/6426",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukraine’s Main Intelligence Directorate (GUR) “Prymary” Special Unit carried out precision strikes on several high-value Russian assets in the Crimean Peninsula, including:\n• Baltiсa-B coastal surveillance radar;\n• Neva-B radar station;\n• Pole-21 electronic warfare system;\n• Strela-10 air defense system;\n• Command post of the 503rd Motor Rifle Regiment;\n• 4 communications antennas;\n• 2 relay stations for Geran/Gerbera UAVs;\n• Cargo truck;\n• Ural truck;\n• Patrol boat;\n• Project 05060 landing assault boat;\n• Mariya vehicle ferry;\n• Kasta-2E2 radar.",
+   "timestamp": "2026-08-23T19:01:26+00:00",
+   "has_media": false
+  },
   {
    "id": "62ba180da0012c980773d21535d91066",
    "url": "https://t.me/OSINTWarfare/6425",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "The UK Ministry of Defence says development of the future Stratus cruise and anti-ship missile is nearing the demonstration phase, with full-scale testing planned for 2028.\nDevelopment of the missile’s airframe, engine, warhead, and guidance system has reportedly been completed. It is expected to be integrated with Typhoon and Rafale fighters, as well as naval platforms such as Type 26 frigates.\nThe MoD declined to disclose the missile’s range, stating only that it will exceed the Storm Shadow’s 560 km range and the Harpoon’s 220 km range.",
    "timestamp": "2026-08-21T22:45:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e91fb6fc374c9e6fffd6cd1192985060",
-   "url": "https://t.me/OSINTWarfare/6406",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Ukrainian Ministry of Defense has announced the adoption into service of the Ukrainian-developed Alexa Spatium, a jet-powered unmanned interceptor designed to engage Russian Geran-3/4/5 jet-powered loitering munitions.\nThe interceptor is powered by a compact turbojet engine, measures 1.5 by 1.7 meters, and can reach high speeds and perform sharp maneuvers. It is launched from a lightweight catapult, with the entire system fitting in a pickup truck.\nAlexa Spatium uses television and infrared guidance systems and can operate either using pre-programmed coordinates or under direct operator control. It can also engage reconnaissance drones, helicopters, and, if necessary, ground and surface targets.\nIf the target is not destroyed, the interceptor can return to the launch area for reuse. It can carry high-explosive fragmentation, shaped-charge, or thermobaric warheads. Its combination of high maximum speed and relatively low minimum speed allows it to quickly reach targets while conserving fuel.",
-   "timestamp": "2026-08-21T21:21:53+00:00",
    "has_media": true
   },
   {
