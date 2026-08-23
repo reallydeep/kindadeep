@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-23T20:44:38Z",
+ "generated_utc": "2026-08-23T20:58:46Z",
  "count": 34,
  "items": [
+  {
+   "id": "f51e42a72d9e7419482e6c8d443b0a2c",
+   "url": "https://t.me/OSINTWarfare/6427",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of anti-ship cruise missile launches from southern Iran toward the Strait of Hormuz.",
+   "timestamp": "2026-08-23T20:49:00+00:00",
+   "has_media": false
+  },
   {
    "id": "a1660dce4da68ffbf05650e9805af393",
    "url": "https://t.me/OSINTWarfare/6426",
@@ -126,15 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "The Israeli Air Force (IAF) has received its second Boeing KC-46A Pegasus aerial refueling aircraft at Nevatim Air Base.\nThe KC-46A tankers will initially be operated by the newly established 46th Squadron. In the future, the squadron is expected to be incorporated into the IAF’s 120th “Desert Giants” Squadron.",
    "timestamp": "2026-08-22T01:34:53+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5fb31064f2c9844219c4b7438d1b9702",
-   "url": "https://t.me/OSINTWarfare/6407",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The UK Ministry of Defence says development of the future Stratus cruise and anti-ship missile is nearing the demonstration phase, with full-scale testing planned for 2028.\nDevelopment of the missile’s airframe, engine, warhead, and guidance system has reportedly been completed. It is expected to be integrated with Typhoon and Rafale fighters, as well as naval platforms such as Type 26 frigates.\nThe MoD declined to disclose the missile’s range, stating only that it will exceed the Storm Shadow’s 560 km range and the Harpoon’s 220 km range.",
-   "timestamp": "2026-08-21T22:45:14+00:00",
    "has_media": true
   },
   {
