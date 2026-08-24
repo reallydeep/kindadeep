@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-24T11:25:12Z",
- "count": 37,
+ "generated_utc": "2026-08-24T11:49:25Z",
+ "count": 36,
  "items": [
   {
    "id": "d67783a73e1596c3a02a570b4e160241",
@@ -153,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Huge anti-drone structures have been erected over oil storage tanks in Abu Dhabi, the capital of the UAE, following strikes by Iranian Shahed-136 loitering munitions.\nThese structures can help mitigate the damage, but they do not provide 100% protection. On the other hand, missiles will get the job done.",
    "timestamp": "2026-08-22T17:50:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "62211ea5036e91ff9f8e88ba3ab61614",
-   "url": "https://t.me/OSINTWarfare/6408",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Israeli Air Force (IAF) has received its second Boeing KC-46A Pegasus aerial refueling aircraft at Nevatim Air Base.\nThe KC-46A tankers will initially be operated by the newly established 46th Squadron. In the future, the squadron is expected to be incorporated into the IAF’s 120th “Desert Giants” Squadron.",
-   "timestamp": "2026-08-22T01:34:53+00:00",
    "has_media": true
   },
   {
