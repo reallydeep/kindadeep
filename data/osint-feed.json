@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-24T08:03:50Z",
- "count": 35,
+ "generated_utc": "2026-08-24T08:58:27Z",
+ "count": 36,
  "items": [
+  {
+   "id": "e43ead2b1c2534a7e5f5b8402bdb5065",
+   "url": "https://t.me/OSINTWarfare/6429",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The UK has cleared defense firm MBDA to release classified information on British components used in the Storm Shadow/SCALP-EG long-range air-launched cruise missile.\nThe decision allows France and Ukraine to move forward with plans to establish local Storm Shadow/SCALP-EG missile assembly lines in Ukraine.",
+   "timestamp": "2026-08-24T08:45:28+00:00",
+   "has_media": true
+  },
   {
    "id": "444fa683a45001c30585f0e53ac29cca",
    "url": "https://t.me/OSINTWarfare/6428",
