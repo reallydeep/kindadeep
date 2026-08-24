@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-24T10:22:02Z",
- "count": 36,
+ "generated_utc": "2026-08-24T10:58:52Z",
+ "count": 37,
  "items": [
+  {
+   "id": "d67783a73e1596c3a02a570b4e160241",
+   "url": "https://t.me/OSINTWarfare/6430",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Following the PZL M28 Skytruck military transport aircraft and the light single-engine Aeroprakt A-32, Ukraine is now adapting Mi-8 helicopters to carry interceptor drones.\nThe drones will be controlled either directly from the helicopter or by ground-based operators, including through relay stations using Starlink.",
+   "timestamp": "2026-08-24T10:36:15+00:00",
+   "has_media": true
+  },
   {
    "id": "e43ead2b1c2534a7e5f5b8402bdb5065",
    "url": "https://t.me/OSINTWarfare/6429",
