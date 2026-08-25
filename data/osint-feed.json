@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-24T23:51:34Z",
- "count": 39,
+ "generated_utc": "2026-08-25T00:31:28Z",
+ "count": 40,
  "items": [
+  {
+   "id": "4519d1a91a3dab05f0bf1145a91e4a19",
+   "url": "https://t.me/OSINTWarfare/6436",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "FPV drone strikes by the 50th Separate Unmanned Systems Brigade “Varyag” targeting gas stations and fuel storage tanks in frontline areas.",
+   "timestamp": "2026-08-25T00:02:57+00:00",
+   "has_media": false
+  },
   {
    "id": "507e99e91a73cfaaabe9ca8fad9f5828",
    "url": "https://t.me/warmonitors/45361",
