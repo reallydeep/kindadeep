@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-26T13:09:51Z",
- "count": 39,
+ "generated_utc": "2026-08-26T14:00:58Z",
+ "count": 38,
  "items": [
   {
    "id": "a8a7dd061824f78f0d450c41decea356",
@@ -153,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "Reports of anti-ship cruise missile launches from southern Iran toward the Strait of Hormuz.",
    "timestamp": "2026-08-23T20:49:00+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a1660dce4da68ffbf05650e9805af393",
-   "url": "https://t.me/OSINTWarfare/6426",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine’s Main Intelligence Directorate (GUR) “Prymary” Special Unit carried out precision strikes on several high-value Russian assets in the Crimean Peninsula, including:\n• Baltiсa-B coastal surveillance radar;\n• Neva-B radar station;\n• Pole-21 electronic warfare system;\n• Strela-10 air defense system;\n• Command post of the 503rd Motor Rifle Regiment;\n• 4 communications antennas;\n• 2 relay stations for Geran/Gerbera UAVs;\n• Cargo truck;\n• Ural truck;\n• Patrol boat;\n• Project 05060 landing assault boat;\n• Mariya vehicle ferry;\n• Kasta-2E2 radar.",
-   "timestamp": "2026-08-23T19:01:26+00:00",
    "has_media": false
   },
   {
