@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-26T18:45:40Z",
- "count": 38,
+ "generated_utc": "2026-08-26T21:14:47Z",
+ "count": 37,
  "items": [
+  {
+   "id": "11e275658ba276fc356cd1897c74fa96",
+   "url": "https://t.me/OSINTWarfare/6452",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthi) air defenses shot down a suspected Saudi UAV over Ibb Governorate in western Yemen.",
+   "timestamp": "2026-08-26T21:06:06+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a20f16d11342950c179728f2859c0fea",
+   "url": "https://t.me/OSINTWarfare/6451",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Ansar Allah (Houthis) launching ballistic missiles from Al-Hawban, in northeastern Taiz.\nFive ballistic missiles reportedly targeted Saudi-backed forces in the city of Mokha and its port.",
+   "timestamp": "2026-08-26T20:24:15+00:00",
+   "has_media": true
+  },
   {
    "id": "65d697d17e05b2ed03dd5176f089d3f2",
    "url": "https://t.me/OSINTWarfare/6448",
@@ -138,39 +156,12 @@
    "has_media": false
   },
   {
-   "id": "d67783a73e1596c3a02a570b4e160241",
-   "url": "https://t.me/OSINTWarfare/6430",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Following the PZL M28 Skytruck military transport aircraft and the light single-engine Aeroprakt A-32, Ukraine is now adapting Mi-8 helicopters to carry interceptor drones.\nThe drones will be controlled either directly from the helicopter or by ground-based operators, including through relay stations using Starlink.",
-   "timestamp": "2026-08-24T10:36:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e43ead2b1c2534a7e5f5b8402bdb5065",
-   "url": "https://t.me/OSINTWarfare/6429",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The UK has cleared defense firm MBDA to release classified information on British components used in the Storm Shadow/SCALP-EG long-range air-launched cruise missile.\nThe decision allows France and Ukraine to move forward with plans to establish local Storm Shadow/SCALP-EG missile assembly lines in Ukraine.",
-   "timestamp": "2026-08-24T08:45:28+00:00",
-   "has_media": true
-  },
-  {
    "id": "7c41e8a9f4617ec0b3009bbe6fdd0e86",
    "url": "https://t.me/warmonitors/45353",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nAl Jazeera medical source: A Palestinian child was killed by Israeli occupation forces in Askar refugee camp, east of Nablus.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-23T11:09:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e66f47bc5fdde7ed4a019fe4b03909b8",
-   "url": "https://t.me/warmonitors/45352",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#SHOCKING\nThe Telegraph: Iran shut down a British power plant for 4 days last month in a first-of-its-kind cyber attack\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-22T22:54:25+00:00",
    "has_media": false
   },
   {
