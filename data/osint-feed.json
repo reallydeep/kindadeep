@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-08-26T00:32:44Z",
- "count": 40,
+ "generated_utc": "2026-08-26T02:10:48Z",
+ "count": 39,
  "items": [
   {
    "id": "42b8e7f7ad37f509a6df384ee064d6aa",
@@ -153,15 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "The final batch of the Philippines’ BrahMos supersonic anti-ship missile system has been spotted somewhere in India.\nThe vehicle shown in the video is a Missile Replenishment Vehicle (MRV) of the BrahMos Missile System mounted on a BEML-Tatra T815 8×8 chassis and painted in the Philippine Marine Corps’ standard digital camouflage.",
    "timestamp": "2026-08-23T18:32:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1801b1c52261efcc3424366b59074b49",
-   "url": "https://t.me/OSINTWarfare/6423",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Russian Aerospace Forces (VKS) carried out strikes using FAB-500 and FAB-1500 bombs fitted with UMPK guidance kits against Ukrainian forces’ temporary deployment sites in Donetsk and Kharkiv Oblasts.",
-   "timestamp": "2026-08-23T15:21:03+00:00",
    "has_media": true
   },
   {
