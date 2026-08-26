@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-26T12:03:35Z",
- "count": 40,
+ "generated_utc": "2026-08-26T13:09:51Z",
+ "count": 39,
  "items": [
+  {
+   "id": "a8a7dd061824f78f0d450c41decea356",
+   "url": "https://t.me/OSINTWarfare/6445",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Another Russian jet-powered Geran-5 loitering munition/cruise missile was spotted over Chernihiv. The strike targeted a warehouse.\nFootage showing the use of the Geran-5 is becoming increasingly common, indicating a growing rate of production and deployment.",
+   "timestamp": "2026-08-26T12:30:09+00:00",
+   "has_media": true
+  },
   {
    "id": "7183ffa197e9997eeeebcb9ba5a68d8d",
    "url": "https://t.me/OSINTWarfare/6444",
@@ -156,15 +165,6 @@
    "has_media": false
   },
   {
-   "id": "62ba180da0012c980773d21535d91066",
-   "url": "https://t.me/OSINTWarfare/6425",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The final batch of the Philippines’ BrahMos supersonic anti-ship missile system has been spotted somewhere in India.\nThe vehicle shown in the video is a Missile Replenishment Vehicle (MRV) of the BrahMos Missile System mounted on a BEML-Tatra T815 8×8 chassis and painted in the Philippine Marine Corps’ standard digital camouflage.",
-   "timestamp": "2026-08-23T18:32:10+00:00",
-   "has_media": true
-  },
-  {
    "id": "7c41e8a9f4617ec0b3009bbe6fdd0e86",
    "url": "https://t.me/warmonitors/45353",
    "source": "telegram",
@@ -181,15 +181,6 @@
    "text": "⚡️\n#SHOCKING\nThe Telegraph: Iran shut down a British power plant for 4 days last month in a first-of-its-kind cyber attack\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-22T22:54:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "4b6a5b6401ec65f01050133d50bee3e8",
-   "url": "https://t.me/warmonitors/45351",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli settlers kidnapped a donkey from a Palestian farmer and dragged it until it died in the South Hebron Hills, occupied West Bank.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-22T18:24:25+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
