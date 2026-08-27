@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-26T21:14:47Z",
- "count": 37,
+ "generated_utc": "2026-08-27T00:47:55Z",
+ "count": 34,
  "items": [
+  {
+   "id": "70b93968be6ed40a63af60143890ea48",
+   "url": "https://t.me/OSINTWarfare/6453",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukraine carried out a large-scale, combined missile strike on Donetsk today, using a mix of FP-5 Flamingo cruise missiles, Storm Shadow/SCALP-EG cruise missiles, and potentially another unidentified munition. Two separate targets were struck.\nSix missiles hit an underground parking facility at an unfinished residential complex, while another seven struck an industrial building. Ukrainian channels claim both locations were being used to store large quantities of military equipment, including missile and rocket launchers, armored vehicles, and personnel.\nSeveral fragments with folded wings, typically associated with glide bombs and jet-powered stand-off munitions, were recovered. Based on the surviving markings, at least some of the munitions used in the strike have been identified as Storm Shadow/SCALP-EG cruise missiles.\nOne fragment bears a manufacturer’s plate marked MBDA FRANCE, along with the manufacturer code F0555. Another fragment contains a toothed mechanism, serial number 10625, and the date 20.08.2024. This is likely part of the mechanism used to deploy or control the missile’s wing.\nAs for the unidentified munition, one possibility is a weapon developed under the U.S. Extended-Range Attack Missile (ERAM) program. However, no confirmed photographs of an intact ERAM missile have emerged so far, making this identification highly speculative.\nAnother possibility is the AGM-158A JASSM air-launched cruise missile.",
+   "timestamp": "2026-08-27T00:23:50+00:00",
+   "has_media": true
+  },
   {
    "id": "11e275658ba276fc356cd1897c74fa96",
    "url": "https://t.me/OSINTWarfare/6452",
@@ -84,24 +93,6 @@
    "has_media": true
   },
   {
-   "id": "6ee793e49b35ef24fe0c1f053a910546",
-   "url": "https://t.me/OSINTWarfare/6437",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of strikes carried out by Russian Geran-4 loitering munitions equipped with electro-optical (EO) seekers, along with objective control footage confirming damage to vessels in Odesa Oblast.\nThe strikes hit:\n• a tanker at the Port of Pivdennyi;\n• a bulk carrier at the Port of Odesa.",
-   "timestamp": "2026-08-25T14:37:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4519d1a91a3dab05f0bf1145a91e4a19",
-   "url": "https://t.me/OSINTWarfare/6436",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "FPV drone strikes by the 50th Separate Unmanned Systems Brigade “Varyag” targeting gas stations and fuel storage tanks in frontline areas.",
-   "timestamp": "2026-08-25T00:02:57+00:00",
-   "has_media": false
-  },
-  {
    "id": "507e99e91a73cfaaabe9ca8fad9f5828",
    "url": "https://t.me/warmonitors/45361",
    "source": "telegram",
@@ -120,30 +111,12 @@
    "has_media": false
   },
   {
-   "id": "2462e954ed90753e69b74b24f659f73a",
-   "url": "https://t.me/OSINTWarfare/6435",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Knyaz Vandal Novgorodsky (KVN) fiber-optic FPV drone operator strikes a Ukrainian AT105 Saxon armored personnel carrier in the vicinity of Ternovate, Zaporizhzhia Oblast.\nDespite Ukraine receiving 75 AT105 Saxons in 2014–2015, the vehicles are rarely seen in active combat zones. This is reportedly the 20th Ukrainian AT105 Saxon lost during the war, with 14 destroyed and six captured by Russian forces.",
-   "timestamp": "2026-08-24T16:27:37+00:00",
-   "has_media": false
-  },
-  {
    "id": "e467a05b6ca1a762e2cad4e3f562dbd4",
    "url": "https://t.me/warmonitors/45358",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nAl-Araby TV correspondent: Two Israeli airstrikes on the town of Mansouri in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-24T15:49:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c0d191b8cc290b270f67db02c30a38af",
-   "url": "https://t.me/OSINTWarfare/6433",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇹🇷\n🇸🇦\n🇵🇰\n⚡️\n— Mehdi Rahimi, head of the Iranian Parliament’s news agency, told Al Mayadeen that Iran has received an invitation to join the Mecca Defense Pact.  @IntelSlava",
-   "timestamp": "2026-08-24T14:26:14+00:00",
    "has_media": false
   },
   {
