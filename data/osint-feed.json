@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-08-28T16:49:28Z",
- "count": 30,
+ "generated_utc": "2026-08-29T00:43:53Z",
+ "count": 32,
  "items": [
+  {
+   "id": "b0daafa9cb1ba5b00353733e3d363b61",
+   "url": "https://t.me/OSINTWarfare/6489",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Three members of Syria’s internal security forces were killed after the National Guard, a Druze paramilitary group, targeted a security checkpoint near Suwayda in southern Syria.",
+   "timestamp": "2026-08-28T22:41:24+00:00",
+   "has_media": false
+  },
+  {
+   "id": "180569439845c24d373dcf3e14b1aaaf",
+   "url": "https://t.me/OSINTWarfare/6488",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Al-Arabiya claims that Iranian-backed factions in Iraq are planning to attack Saudi Arabia in the coming hours in response to Saudi-U.S. airstrikes that targeted Popular Mobilization Forces (PMF) headquarters on July 29.\nAl-Arabiya has a history of inaccurate reporting, so this claim should be treated with caution.",
+   "timestamp": "2026-08-28T22:19:47+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8bba8f7b1f93f5b0d4e203228b5f04f4",
+   "url": "https://t.me/OSINTWarfare/6487",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "If you're interested in the Russian buildup along Ukraine's northern front, you can read my detailed post on X. I’d also really appreciate a like and repost!\nhttps://x.com/OSINTWarfare/status/2093455783690227839",
+   "timestamp": "2026-08-28T21:53:05+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2d0602bf7cd614905f01d423e808b086",
+   "url": "https://t.me/OSINTWarfare/6483",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Today at 20:35, a strike involving Geran-4 jet-powered loitering munitions targeted a warehouse complex in the village of Myla, Bucha District, Kyiv Oblast.\nThe facility was used by the Armed Forces of Ukraine (AFU) as a rocket and artillery weapons depot.\n📍\n50.437697, 30.174527",
+   "timestamp": "2026-08-28T20:15:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a494722b16139f2029ed4016967c840e",
+   "url": "https://t.me/OSINTWarfare/6482",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "AeroVironment has received a $51 million order from the U.S. Army for Switchblade 600 loitering munitions.\nThe order includes additional Switchblade 600 Block 2 systems, as well as Switchblade 600 Block 1 systems being supplied through the Foreign Military Sales (FMS) program to an undisclosed customer.",
+   "timestamp": "2026-08-28T18:35:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "07e70fa87a144eb96a6bee50c39494b0",
+   "url": "https://t.me/OSINTWarfare/6481",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia has successfully launched an RS-24 Yars intercontinental ballistic missile (ICBM) from the Plesetsk Cosmodrome.\nThe Russian Defense Ministry said the launch was conducted to verify the missile system’s tactical, technical, and flight characteristics. Training warheads reached their designated impact area.",
+   "timestamp": "2026-08-28T18:16:22+00:00",
+   "has_media": true
+  },
   {
    "id": "285824c5e9c1d5ed14fd8fb49cda6118",
    "url": "https://t.me/warmonitors/45379",
@@ -45,42 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "High-resolution satellite imagery of the third Type 054B frigate for the People’s Liberation Army Navy (PLAN).\nThe image clearly shows a 48-cell vertical launch system (VLS) for surface-to-air missiles, as well as larger midship anti-ship missile launchers compared to the first two Type 054B frigates, which have 32 VLS cells and smaller midship anti-ship missile launchers.",
    "timestamp": "2026-08-27T15:20:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c103c2282342707a6e92771c138555e3",
-   "url": "https://t.me/OSINTWarfare/6467",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Army has tested the M2A4 Bradley IFV as a carrier for FireAnt unmanned ground vehicles (UGVs) mounted along its sides.\nThe small FireAnt UGV weighs just 27 kg and can carry electronic warfare (EW) and electronic intelligence (ELINT) equipment, or be used as a kamikaze UGV. The long-term goal is for these drones to operate as part of a swarm.\nDuring the Pegasus Charge 3 exercise at Fort Hood, Texas, the FireAnt was demonstrated as a kamikaze UGV, intended to finish off vehicles disabled by small-arms fire. In theory, it could also be used against enemy fortifications or troops sheltering in bunkers while the Bradley provides suppressive fire.\nHowever, this concept raises some concerns in the context of the war in Ukraine. The FireAnts occupy the space normally used for the Bradley's side-mounted reactive armor, reducing the vehicle's protection. They also appear to require manual deployment by the crew or dismounted troops, which could be impractical during an active assault.\nStill, the idea of using existing combat vehicles to quickly deliver UGVs to the front line is interesting. It just needs further development and refinement.",
-   "timestamp": "2026-08-27T14:24:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5665fa6823bf87ccf1788538c2f53dd0",
-   "url": "https://t.me/OSINTWarfare/6465",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Sudanese Armed Forces (SAF) carried out drone strikes on a fuel depot belonging to the Rapid Support Forces (RSF) in the border town of Adikong, West Darfur, near the Chad border.",
-   "timestamp": "2026-08-27T14:09:42+00:00",
-   "has_media": true
-  },
-  {
-   "id": "83136ddd80211b066f45d86057816b89",
-   "url": "https://t.me/OSINTWarfare/6464",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A ballistic missile launched by Ansar Allah (Houthis) struck a position belonging to Saudi-backed forces in Al Khawkhah District, Al-Hudaydah Governorate, western Yemen.",
-   "timestamp": "2026-08-27T13:39:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8c254433260f8b38bea7d0dc0e870a31",
-   "url": "https://t.me/OSINTWarfare/6463",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Italy has approved a military aid package worth around €3 billion for Ukraine. The package includes four SAMP/T NG air-defense systems, Aster 30 interceptor missiles, and seven long-range radars produced by France’s Thales and Italy’s Leonardo, aimed at strengthening Ukraine’s defenses against ballistic missiles.\nSome of the missiles are expected to be delivered by October, with the package funded through the EU’s Ukraine Support Loan program.",
-   "timestamp": "2026-08-27T10:17:12+00:00",
    "has_media": true
   },
   {
