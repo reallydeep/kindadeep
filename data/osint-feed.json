@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-29T17:08:18Z",
- "count": 27,
+ "generated_utc": "2026-08-29T19:41:58Z",
+ "count": 28,
  "items": [
+  {
+   "id": "28cc42d9dac2ef32a4cfa94a57b28862",
+   "url": "https://t.me/OSINTWarfare/6510",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia used the new 9M723-2 ballistic missile, known as the “Iskander-1000,” against Kyiv for the first time during one of the summer missile strikes, according to Ukraine’s Main Directorate of Intelligence (HUR).  Ukraine claims that the missile is part of…",
+   "timestamp": "2026-08-29T17:23:53+00:00",
+   "has_media": true
+  },
   {
    "id": "dac0585365b4ab32eb560bc388b6a782",
    "url": "https://t.me/OSINTWarfare/6504",
