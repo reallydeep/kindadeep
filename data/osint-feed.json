@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-08-29T21:58:09Z",
- "count": 28,
+ "generated_utc": "2026-08-29T23:51:04Z",
+ "count": 30,
  "items": [
+  {
+   "id": "7e1809bf6c6fdf8291362e5ae320f049",
+   "url": "https://t.me/warmonitors/45392",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAxios, citing a source: Ukrainian officials said they have intelligence indicating Putin is planning a major escalation of the war.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-29T23:49:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "04d1a9adb24dd610782dad27818c7476",
+   "url": "https://t.me/OSINTWarfare/6512",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Israeli Air Force (IAF) airstrike targeted Nabatieh al-Fawqa in southern Lebanon.",
+   "timestamp": "2026-08-29T22:56:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d224549af6f1b79ddb043f35a6a87872",
+   "url": "https://t.me/OSINTWarfare/6511",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Ukrainian drone strike hit a target in Russia’s Bryansk Oblast, with the resulting explosion appearing consistent with a munition detonation.\nUkrainian sources claim the target was either an S-400 launcher or an Iskander-M system.",
+   "timestamp": "2026-08-29T22:26:31+00:00",
+   "has_media": true
+  },
   {
    "id": "28cc42d9dac2ef32a4cfa94a57b28862",
    "url": "https://t.me/OSINTWarfare/6510",
@@ -63,15 +90,6 @@
    "channel": "OSINTWarfare",
    "text": "Military reinforcements are heading toward Niger's capital, Niamey.",
    "timestamp": "2026-08-29T02:53:09+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6945029ed762ac607b22726193f2a019",
-   "url": "https://t.me/OSINTWarfare/6491",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russian Geran-2/4 drones struck a truck parking area in Izmail, Odesa Oblast.\nAccording to the Izmail District Administration, one person was killed and several others were injured.",
-   "timestamp": "2026-08-29T01:34:09+00:00",
    "has_media": true
   },
   {
