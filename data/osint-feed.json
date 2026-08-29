@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-29T13:13:55Z",
- "count": 30,
+ "generated_utc": "2026-08-29T17:08:18Z",
+ "count": 27,
  "items": [
+  {
+   "id": "dac0585365b4ab32eb560bc388b6a782",
+   "url": "https://t.me/OSINTWarfare/6504",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Today at 20:35, a strike involving Geran-4 jet-powered loitering munitions targeted a warehouse complex in the village of Myla, Bucha District, Kyiv Oblast.  The facility was used by the Armed Forces of Ukraine (AFU) as a rocket and artillery weapons depot.…",
+   "timestamp": "2026-08-29T13:33:42+00:00",
+   "has_media": true
+  },
   {
    "id": "94c12b818b7c295a6efd4e1b85402b0f",
    "url": "https://t.me/OSINTWarfare/6503",
@@ -54,42 +63,6 @@
    "channel": "OSINTWarfare",
    "text": "Russian Geran-2/4 drones struck a truck parking area in Izmail, Odesa Oblast.\nAccording to the Izmail District Administration, one person was killed and several others were injured.",
    "timestamp": "2026-08-29T01:34:09+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b0daafa9cb1ba5b00353733e3d363b61",
-   "url": "https://t.me/OSINTWarfare/6489",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Three members of Syria’s internal security forces were killed after the National Guard, a Druze paramilitary group, targeted a security checkpoint near Suwayda in southern Syria.",
-   "timestamp": "2026-08-28T22:41:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "180569439845c24d373dcf3e14b1aaaf",
-   "url": "https://t.me/OSINTWarfare/6488",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Al-Arabiya claims that Iranian-backed factions in Iraq are planning to attack Saudi Arabia in the coming hours in response to Saudi-U.S. airstrikes that targeted Popular Mobilization Forces (PMF) headquarters on July 29.\nAl-Arabiya has a history of inaccurate reporting, so this claim should be treated with caution.",
-   "timestamp": "2026-08-28T22:19:47+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8bba8f7b1f93f5b0d4e203228b5f04f4",
-   "url": "https://t.me/OSINTWarfare/6487",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "If you're interested in the Russian buildup along Ukraine's northern front, you can read my detailed post on X. I’d also really appreciate a like and repost!\nhttps://x.com/OSINTWarfare/status/2093455783690227839",
-   "timestamp": "2026-08-28T21:53:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2d0602bf7cd614905f01d423e808b086",
-   "url": "https://t.me/OSINTWarfare/6483",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Today at 20:35, a strike involving Geran-4 jet-powered loitering munitions targeted a warehouse complex in the village of Myla, Bucha District, Kyiv Oblast.\nThe facility was used by the Armed Forces of Ukraine (AFU) as a rocket and artillery weapons depot.\n📍\n50.437697, 30.174527",
-   "timestamp": "2026-08-28T20:15:10+00:00",
    "has_media": true
   },
   {
