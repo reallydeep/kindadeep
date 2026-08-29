@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-08-29T00:43:53Z",
- "count": 32,
+ "generated_utc": "2026-08-29T07:24:21Z",
+ "count": 33,
  "items": [
+  {
+   "id": "195a52edf4c2479e3a6e0f4ee99cbe27",
+   "url": "https://t.me/OSINTWarfare/6495",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Military reinforcements are heading toward Niger's capital, Niamey.",
+   "timestamp": "2026-08-29T02:53:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6945029ed762ac607b22726193f2a019",
+   "url": "https://t.me/OSINTWarfare/6491",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russian Geran-2/4 drones struck a truck parking area in Izmail, Odesa Oblast.\nAccording to the Izmail District Administration, one person was killed and several others were injured.",
+   "timestamp": "2026-08-29T01:34:09+00:00",
+   "has_media": true
+  },
   {
    "id": "b0daafa9cb1ba5b00353733e3d363b61",
    "url": "https://t.me/OSINTWarfare/6489",
@@ -90,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Russia used the new 9M723-2 ballistic missile, known as the “Iskander-1000,” against Kyiv for the first time during one of the summer missile strikes, according to Ukraine’s Main Directorate of Intelligence (HUR).\nUkraine claims that the missile is part of the “Bora-M” system and has a reported range of up to 550 km, although earlier reports claimed a range of up to 1,000 km. The increased range is reportedly achieved through a larger, more energy-dense solid-fuel motor, which also required modifications to the launcher.\nAccording to open-source claims, the missile may have a range of up to 1,000–1,300 km, with the additional propellant increasing the motor’s volume by around 10–15%. To accommodate the increased fuel capacity, the warhead is reportedly reduced to approximately 300–350 kg, compared with the standard 480 kg warhead of the Iskander-M.\nThe missile is capable of carrying high-explosive fragmentation or cluster warheads and may feature enhanced maneuverability during the terminal phase, including evasive maneuvers at loads of approximately 20–30 g. It is also equipped or intended to be equipped with onboard electronic warfare systems and countermeasures such as chaff and thermal flares.\nThe existence of an upgraded Iskander-M missile with a reported range of up to 1,000 km, hence its unofficial designation “Iskander-1000,” was first reported in July 2024. In December 2025, Ukrainian sources unofficially reported that the missile had already been used at a range of up to 800 km.\nIn October 2025, Ukrainian sources published leaked Russian procurement documents indicating the planned production of 18 ballistic missiles under the designation 9M723-2.\nThe missile is fitted with a combined guidance system, using inertial guidance during the initial and mid-course phases and an electro-optical/thermal-imaging seeker during the terminal phase. Its reported accuracy is claimed to be as high as 5 meters CEP.",
    "timestamp": "2026-08-27T16:10:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "df51b7f696d944a58fa9745071b155eb",
-   "url": "https://t.me/OSINTWarfare/6471",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "High-resolution satellite imagery of the third Type 054B frigate for the People’s Liberation Army Navy (PLAN).\nThe image clearly shows a 48-cell vertical launch system (VLS) for surface-to-air missiles, as well as larger midship anti-ship missile launchers compared to the first two Type 054B frigates, which have 32 VLS cells and smaller midship anti-ship missile launchers.",
-   "timestamp": "2026-08-27T15:20:29+00:00",
    "has_media": true
   },
   {
