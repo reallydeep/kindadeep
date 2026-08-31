@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-31T00:48:43Z",
+ "generated_utc": "2026-08-31T06:16:06Z",
  "count": 35,
  "items": [
+  {
+   "id": "4f92fc0117d9437a357102dfd823ceca",
+   "url": "https://t.me/OSINTWarfare/6531",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yesterday, the heavy nuclear-powered battlecruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, entered the final phase of its sea trials.",
+   "timestamp": "2026-08-31T01:35:51+00:00",
+   "has_media": true
+  },
   {
    "id": "afe57ea8819cc7218277388413a76980",
    "url": "https://t.me/OSINTWarfare/6530",
@@ -135,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "An Israeli Air Force (IAF) airstrike targeted Nabatieh al-Fawqa in southern Lebanon.",
    "timestamp": "2026-08-29T22:56:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d224549af6f1b79ddb043f35a6a87872",
-   "url": "https://t.me/OSINTWarfare/6511",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian drone strike hit a target in Russia’s Bryansk Oblast, with the resulting explosion appearing consistent with a munition detonation.\nUkrainian sources claim the target was either an S-400 launcher or an Iskander-M system.",
-   "timestamp": "2026-08-29T22:26:31+00:00",
    "has_media": true
   },
   {
