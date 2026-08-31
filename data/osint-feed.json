@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-08-30T22:40:11Z",
- "count": 34,
+ "generated_utc": "2026-08-31T00:48:43Z",
+ "count": 35,
  "items": [
+  {
+   "id": "afe57ea8819cc7218277388413a76980",
+   "url": "https://t.me/OSINTWarfare/6530",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A U.S. official says there was no significant damage from Iranian attacks on U.S. forces in Jordan, and that all missiles were intercepted.\nNo significant damage, meaning there were impacts, yet all the missiles were intercepted.\nA difficult puzzle to solve.",
+   "timestamp": "2026-08-31T00:46:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b53bccd71dbe28fc7b9dd3031471ad28",
+   "url": "https://t.me/OSINTWarfare/6528",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Aerospace Force has released footage showing the launch of Kheibar Shekan medium-range ballistic missiles and Shahed-136 loitering munitions targeting King Hussein and Muwaffaq Salti air bases in Jordan, in retaliation for the U.S. strike on Iran’s Larak Island.",
+   "timestamp": "2026-08-31T00:13:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "be5c3d560761fbad7fdc9adb62f0c3c4",
+   "url": "https://t.me/OSINTWarfare/6527",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, U.S. forces struck two Iranian launchers on Larak Island that were allegedly preparing to launch missiles carrying naval mines into the Strait of Hormuz.  Iranian sources reported two people killed and two critically injured, with the condition…",
+   "timestamp": "2026-08-31T00:00:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "27cd407411a4a66ce4c752161e1922fa",
+   "url": "https://t.me/OSINTWarfare/6523",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, U.S. forces struck two Iranian launchers on Larak Island that were allegedly preparing to launch missiles carrying naval mines into the Strait of Hormuz.\nIranian sources reported two people killed and two critically injured, with the condition of the wounded deteriorating.\nAround two hours later, the IRGC launched a retaliatory strike using Kheibar Shekan ballistic missiles and Shahed-136 loitering munitions against King Hussein and Muwaffaq Salti air bases in Jordan.\nBetween 12 and 15 ballistic missiles were reportedly launched, with eight intercepted.",
+   "timestamp": "2026-08-30T23:44:28+00:00",
+   "has_media": true
+  },
   {
    "id": "678f266726bcff0140e81de5fb6f608b",
    "url": "https://t.me/warmonitors/45405",
@@ -109,33 +145,6 @@
    "text": "A Ukrainian drone strike hit a target in Russia’s Bryansk Oblast, with the resulting explosion appearing consistent with a munition detonation.\nUkrainian sources claim the target was either an S-400 launcher or an Iskander-M system.",
    "timestamp": "2026-08-29T22:26:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "28cc42d9dac2ef32a4cfa94a57b28862",
-   "url": "https://t.me/OSINTWarfare/6510",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia used the new 9M723-2 ballistic missile, known as the “Iskander-1000,” against Kyiv for the first time during one of the summer missile strikes, according to Ukraine’s Main Directorate of Intelligence (HUR).  Ukraine claims that the missile is part of…",
-   "timestamp": "2026-08-29T17:23:53+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dac0585365b4ab32eb560bc388b6a782",
-   "url": "https://t.me/OSINTWarfare/6504",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Today at 20:35, a strike involving Geran-4 jet-powered loitering munitions targeted a warehouse complex in the village of Myla, Bucha District, Kyiv Oblast.  The facility was used by the Armed Forces of Ukraine (AFU) as a rocket and artillery weapons depot.…",
-   "timestamp": "2026-08-29T13:33:42+00:00",
-   "has_media": true
-  },
-  {
-   "id": "94c12b818b7c295a6efd4e1b85402b0f",
-   "url": "https://t.me/OSINTWarfare/6503",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "If you're interested in the Russian buildup along Ukraine's northern front, you can read my detailed post on X. I’d also really appreciate a like and repost! https://x.com/OSINTWarfare/status/2093455783690227839",
-   "timestamp": "2026-08-29T12:50:05+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
