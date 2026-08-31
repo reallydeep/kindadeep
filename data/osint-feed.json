@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-08-31T19:43:28Z",
- "count": 38,
+ "generated_utc": "2026-08-31T23:24:56Z",
+ "count": 36,
  "items": [
+  {
+   "id": "fd386dcfff2ac33102472f861805d4cf",
+   "url": "https://t.me/OSINTWarfare/6541",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukraine’s Main Directorate of Intelligence (GUR/HUR) has published what it claims are fragments of the Russian 3M22 Zircon hypersonic missile. According to Ukrainian intelligence, the missile is equipped with a 3B222 active radar seeker manufactured by NPP…",
+   "timestamp": "2026-08-31T23:00:12+00:00",
+   "has_media": true
+  },
   {
    "id": "b931f6d5bbfecb08e850884b3de028c8",
    "url": "https://t.me/warmonitors/45410",
@@ -138,24 +147,6 @@
    "has_media": true
   },
   {
-   "id": "3ae99e084880d2659bb4077aa4fba84b",
-   "url": "https://t.me/OSINTWarfare/6521",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a 10-minute compilation showing attacks on Saudi-backed forces and vehicles across several fronts, carried out using Rajum hexacopters dropping grenades and mortar rounds.",
-   "timestamp": "2026-08-30T16:36:23+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3e32cafe0f730f5dd57bac2648d06ba7",
-   "url": "https://t.me/OSINTWarfare/6517",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Four Algerian Air Force (AAF) Su-30MKAs, accompanied by an Il-78 aerial refueling aircraft, arrived at Niamey Airport in Niger today.\nThe deployment comes after a military mutiny at Air Base 101 in Niamey was reportedly thwarted over the weekend. Algeria has since demonstrated strong support for Niger’s authorities, with the Chief of Staff of the Algerian People’s National Army, First Lieutenant General Saïd Chengriha, arriving in the Nigerien capital on Sunday.",
-   "timestamp": "2026-08-30T15:54:32+00:00",
-   "has_media": true
-  },
-  {
    "id": "475c37cd191c2124b0a1b73c25c410e1",
    "url": "https://t.me/warmonitors/45402",
    "source": "telegram",
@@ -163,15 +154,6 @@
    "text": "⚡️\nThe moment a Hezbollah FPV drone targeted a group of Israeli soldiers in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-30T15:44:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "7e1809bf6c6fdf8291362e5ae320f049",
-   "url": "https://t.me/warmonitors/45392",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAxios, citing a source: Ukrainian officials said they have intelligence indicating Putin is planning a major escalation of the war.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-29T23:49:25+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
