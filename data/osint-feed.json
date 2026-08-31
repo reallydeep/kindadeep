@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-08-31T13:54:07Z",
- "count": 36,
+ "generated_utc": "2026-08-31T19:43:28Z",
+ "count": 38,
  "items": [
+  {
+   "id": "b931f6d5bbfecb08e850884b3de028c8",
+   "url": "https://t.me/warmonitors/45410",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nIsraeli strikes on Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-08-31T16:54:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b67e95ced125f80a3aee80134e65117f",
+   "url": "https://t.me/OSINTWarfare/6536",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukraine’s Main Directorate of Intelligence (GUR/HUR) has published what it claims are fragments of the Russian 3M22 Zircon hypersonic missile. According to Ukrainian intelligence, the missile is equipped with a 3B222 active radar seeker manufactured by NPP Radar MMS.\nAccording to the GUR, the Zircon uses a combined guidance system. During most of its flight, it relies on an inertial navigation system, while near the target, its onboard radar activates to refine the target’s position.\nThe photos also show what appears to be a flat antenna array made up of numerous small radiating elements. If the image is indeed of the Zircon’s antenna, its compact design is particularly notable given the missile’s high speed.\nRadar MMS also produces active radar seekers for other Russian weapons. The GUR, for example, links the company to the 9B918 seeker used on the Iskander-M and the U559 seeker used on the Kh-59M2/M2A.\nThe GUR also claims that the 3M22 Zircon is a conventional two-stage ballistic missile rather than a cruise missile. It uses separate solid-fuel boost and sustainer engines, carries a 120 kg warhead, and has a claimed range of up to 1,000 km.",
+   "timestamp": "2026-08-31T15:58:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a5b30de86f7eb6161ee9f42ce5ef0682",
+   "url": "https://t.me/OSINTWarfare/6535",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "IDF carried out a massive demolitions in Houla, south Lebanon.",
+   "timestamp": "2026-08-31T15:13:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cfd2e954d65a69805fc36e9bf429dfc9",
+   "url": "https://t.me/OSINTWarfare/6534",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Exclusive footage published by Russian war correspondent Alexander Rogatkin shows a Russian directed-energy laser weapon system engaging Ukrainian drones under operational conditions.\nAccording to the report, several such laser systems are currently deployed to protect strategic facilities in southwestern Russia and have already destroyed several hundred Ukrainian drones.\nThe footage shows the system engaging and intercepting an FP-1 and an FPV drone.\nThe report also claims that developers are working on a second-generation system designed to engage faster targets, including tactical aircraft and cruise missiles.",
+   "timestamp": "2026-08-31T15:07:44+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dfe92d2569e3e0a3d0657174dc0c63cd",
+   "url": "https://t.me/OSINTWarfare/6533",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Sever-V Brigade’s aerial reconnaissance unit detected a Ukrainian BTR “Bucephalus” and destroyed it using three fiber-optic FPV drones.",
+   "timestamp": "2026-08-31T14:39:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1c6d72988414b69324ef9c122e4f2279",
+   "url": "https://t.me/OSINTWarfare/6532",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia has increased its use of jet-powered drones against Ukraine fivefold compared with June, Ukrainian Air Force spokesperson Yuriy Ihnat said.\nYesterday, Zelenskyy stated that over the past four days alone, the Russian Armed Forces had launched around 800 jet-powered drones.",
+   "timestamp": "2026-08-31T14:15:41+00:00",
+   "has_media": true
+  },
   {
    "id": "a7be1b37618156d5ff8596d338ec0372",
    "url": "https://t.me/warmonitors/45407",
@@ -111,33 +165,6 @@
    "has_media": true
   },
   {
-   "id": "f98091637c134d747b23f1c3cedae2ec",
-   "url": "https://t.me/OSINTWarfare/6516",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚡️\n🇱🇧\n🇱🇧\n🇮🇱\n🇺🇸\n— The Ali al-Taher Ridge in southern Lebanon has become the most significant military flashpoint in the Israel-Hezbollah conflict, with the battle unfolding both on the surface and inside a heavily fortified underground complex, according to a strategic analysis by MaxOsintIntel.\n➡️\nThe ridge is part of a three-kilometer-long, 1.5-kilometer-wide line comprising three interconnected hills — Ali al-Taher, Dabsha, and Tuhra — rising 600 to 700 meters above sea level between Kfar Tebnit and Nabatieh al-Fawqa. Its position provides direct observation of Nabatieh to the west, the Iqlim al-Tuffah and Rihan heights to the north, the Litani River valley to the south, and military axes feeding into the Western Bekaa to the east. It sits approximately five kilometers from Beaufort Castle.\n➡️\nIsraeli intelligence identifies the tunnel network beneath the ridge as the main command center for Hezbollah's Badr Regional Division — responsible for territory from north of the Litani River to Sidon — and a critical command post for the elite Radwan Forces. The 20-year-old subterranean complex contains independent operations rooms, ammunition depots, missile storage, and drone launching bays, with dozens of hidden surface shafts branching toward surrounding towns.\n➡️\nThe Israeli operation is led by the 36th Division, with the Egoz mountain warfare unit and Yahalom combat engineering unit tasked with detecting and clearing tunnel shafts. The IDF has established a tight siege using air strikes, artillery, and phosphorus munitions to isolate the complex. Hezbollah fighters inside are using explosive-laden drones and anti-tank guided missiles against Israeli armor while attempting to smuggle reinforcements and supplies through newly dug shafts and drone drops from the Nabatieh plateau.\n➡️\nWashington has proposed designating Ali al-Taher as a \"pilot zone,\" under which Israel would withdraw and the Lebanese Armed Forces would deploy to the heights. The Lebanese Army has indicated willingness to take over the hill but demands U.S. guarantees that Israeli artillery and air operations will halt before its troops move in. Hezbollah has formally rejected any surrender or handover of the ridge, viewing the loss of the Badr nerve center as catastrophic for its tactical depth. Analysts note that a permanent Israeli presence on the height would amount to de facto long-term occupation of Lebanon's interior highlands.\n⭐️\nFollow\n@MaxOsintIntel",
-   "timestamp": "2026-08-30T13:25:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "89fff58d1dc39b1f6dfacb778bba10d2",
-   "url": "https://t.me/OSINTWarfare/6515",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "France is ready to export its Missile de Croisière Naval (MdCN), or Naval Cruise Missile, to Sweden.\nThe move comes ahead of a new France-Sweden defence partnership and a €4.3 billion deal for four FDI (Frégate de Défense et d'Intervention) frigates for the Swedish Navy.\nThe export would mark the MdCN’s first deployment outside France. Often considered Europe’s equivalent to the Tomahawk, the missile has a reported range of around 1,400 km and has been operated exclusively by the French Navy for nearly a decade.",
-   "timestamp": "2026-08-30T00:29:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "96f288ab4e17a8c739c4a4602ffa8c74",
-   "url": "https://t.me/OSINTWarfare/6514",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Ukrainian drone strike hit a target in Russia’s Bryansk Oblast, with the resulting explosion appearing consistent with a munition detonation.  Ukrainian sources claim the target was either an S-400 launcher or an Iskander-M system.",
-   "timestamp": "2026-08-30T00:02:19+00:00",
-   "has_media": true
-  },
-  {
    "id": "7e1809bf6c6fdf8291362e5ae320f049",
    "url": "https://t.me/warmonitors/45392",
    "source": "telegram",
@@ -145,15 +172,6 @@
    "text": "⚡\nAxios, citing a source: Ukrainian officials said they have intelligence indicating Putin is planning a major escalation of the war.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-29T23:49:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "04d1a9adb24dd610782dad27818c7476",
-   "url": "https://t.me/OSINTWarfare/6512",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Israeli Air Force (IAF) airstrike targeted Nabatieh al-Fawqa in southern Lebanon.",
-   "timestamp": "2026-08-29T22:56:27+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
