@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-01T01:53:13Z",
+ "generated_utc": "2026-09-01T06:53:10Z",
  "count": 32,
  "items": [
+  {
+   "id": "8fdeccfa62f0713db70aecaa1a3a8cd5",
+   "url": "https://t.me/OSINTWarfare/6555",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. State Department has approved a possible $800 million Foreign Military Sale (FMS) to Iraq for Bell 412EPX and Bell 407M helicopters, along with associated equipment and support.\nThe proposed package includes:\n• GAU-19 three-barrel machine guns\n• M260 2.75-inch rocket launchers\n• L3Harris WESCAM MX-15HDI electro-optical/infrared (EO/IR) sensors\n• AN/AAR-60 Block 2 missile warning systems\n• Radios and communications equipment\n• Spare parts and replacement components\n• Training and technical support\n• Logistics and sustainment support\nBell Textron, based in Fort Worth, Texas, will serve as the principal contractor.",
+   "timestamp": "2026-09-01T01:56:24+00:00",
+   "has_media": true
+  },
   {
    "id": "00b4376b9347e3dc36c501e1576b7c7a",
    "url": "https://t.me/OSINTWarfare/6554",
@@ -72,15 +81,6 @@
    "channel": "OSINTWarfare",
    "text": "Ukraine’s Main Directorate of Intelligence (GUR/HUR) has published what it claims are fragments of the Russian 3M22 Zircon hypersonic missile. According to Ukrainian intelligence, the missile is equipped with a 3B222 active radar seeker manufactured by NPP Radar MMS.\nAccording to the GUR, the Zircon uses a combined guidance system. During most of its flight, it relies on an inertial navigation system, while near the target, its onboard radar activates to refine the target’s position.\nThe photos also show what appears to be a flat antenna array made up of numerous small radiating elements. If the image is indeed of the Zircon’s antenna, its compact design is particularly notable given the missile’s high speed.\nRadar MMS also produces active radar seekers for other Russian weapons. The GUR, for example, links the company to the 9B918 seeker used on the Iskander-M and the U559 seeker used on the Kh-59M2/M2A.\nThe GUR also claims that the 3M22 Zircon is a conventional two-stage ballistic missile rather than a cruise missile. It uses separate solid-fuel boost and sustainer engines, carries a 120 kg warhead, and has a claimed range of up to 1,000 km.",
    "timestamp": "2026-08-31T15:58:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a5b30de86f7eb6161ee9f42ce5ef0682",
-   "url": "https://t.me/OSINTWarfare/6535",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "IDF carried out a massive demolitions in Houla, south Lebanon.",
-   "timestamp": "2026-08-31T15:13:14+00:00",
    "has_media": true
   },
   {
