@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-01T16:34:39Z",
- "count": 35,
+ "generated_utc": "2026-09-01T19:31:13Z",
+ "count": 37,
  "items": [
+  {
+   "id": "8d8b58273ccf5e293b2a1148a8d5c278",
+   "url": "https://t.me/OSINTWarfare/6558",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran's IRGC shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over Khomeyn, Markazi Province.",
+   "timestamp": "2026-09-01T19:29:58+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d1848b46f4ba0790c64b929de62bf89b",
+   "url": "https://t.me/warmonitors/45422",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Arabiya sources: The US has assessments that Iran was planning to expand attacks against commercial ships.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-01T19:04:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7163ec4f98be8a91adccdbfcc5a94515",
+   "url": "https://t.me/warmonitors/45421",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nReports in Iran:\nExplosions at the gas plant complex in Aslawiya\nIran has begun the operation in response to the American attacks\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-01T18:39:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8c01a2c1b17d4b52cfd0205a94cdcc84",
+   "url": "https://t.me/warmonitors/45420",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nReport of an explosion in Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-01T16:49:26+00:00",
+   "has_media": false
+  },
   {
    "id": "3ab4a9a12612c59b65e141b26bbbc0ba",
    "url": "https://t.me/OSINTWarfare/6556",
@@ -102,15 +138,6 @@
    "has_media": true
   },
   {
-   "id": "b67e95ced125f80a3aee80134e65117f",
-   "url": "https://t.me/OSINTWarfare/6536",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine’s Main Directorate of Intelligence (GUR/HUR) has published what it claims are fragments of the Russian 3M22 Zircon hypersonic missile. According to Ukrainian intelligence, the missile is equipped with a 3B222 active radar seeker manufactured by NPP Radar MMS.\nAccording to the GUR, the Zircon uses a combined guidance system. During most of its flight, it relies on an inertial navigation system, while near the target, its onboard radar activates to refine the target’s position.\nThe photos also show what appears to be a flat antenna array made up of numerous small radiating elements. If the image is indeed of the Zircon’s antenna, its compact design is particularly notable given the missile’s high speed.\nRadar MMS also produces active radar seekers for other Russian weapons. The GUR, for example, links the company to the 9B918 seeker used on the Iskander-M and the U559 seeker used on the Kh-59M2/M2A.\nThe GUR also claims that the 3M22 Zircon is a conventional two-stage ballistic missile rather than a cruise missile. It uses separate solid-fuel boost and sustainer engines, carries a 120 kg warhead, and has a claimed range of up to 1,000 km.",
-   "timestamp": "2026-08-31T15:58:44+00:00",
-   "has_media": true
-  },
-  {
    "id": "a7be1b37618156d5ff8596d338ec0372",
    "url": "https://t.me/warmonitors/45407",
    "source": "telegram",
@@ -136,15 +163,6 @@
    "text": "⚡\n#BREAKING\nU.S. official: \"Earlier today U.S. forces struck two Iranian launchers on Larak Island. Islamic Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into Strait of Hormuz\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-30T19:39:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "475c37cd191c2124b0a1b73c25c410e1",
-   "url": "https://t.me/warmonitors/45402",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nThe moment a Hezbollah FPV drone targeted a group of Israeli soldiers in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-08-30T15:44:26+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
