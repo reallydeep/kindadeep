@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-08-31T23:24:56Z",
- "count": 36,
+ "generated_utc": "2026-09-01T01:53:13Z",
+ "count": 32,
  "items": [
+  {
+   "id": "00b4376b9347e3dc36c501e1576b7c7a",
+   "url": "https://t.me/OSINTWarfare/6554",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "One person was killed and nine others, including a child, were injured in the attack on Boryspil, Kyiv Oblast, according to the Kyiv Regional State Administration.  A five-story residential building and several vehicles in a parking lot were damaged, while…",
+   "timestamp": "2026-09-01T01:44:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7da676086d38b4fead15d6a8586bb481",
+   "url": "https://t.me/OSINTWarfare/6550",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "One person was killed and nine others, including a child, were injured in the attack on Boryspil, Kyiv Oblast, according to the Kyiv Regional State Administration.\nA five-story residential building and several vehicles in a parking lot were damaged, while 48 residents were evacuated.",
+   "timestamp": "2026-09-01T01:32:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "52437e9c8882fb145f1949e071569cc7",
+   "url": "https://t.me/OSINTWarfare/6548",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The widely promoted Ukrainian Lima electronic warfare (EW) system, which was allegedly capable of disrupting even Kh-47M2 Kinzhal air-launched ballistic missiles, is now under investigation after authorities found that it failed to meet its declared specifications.\nAccording to the investigation, Lima failed to demonstrate the claimed effectiveness against Geran loitering munitions. Between September 2023 and June 2024, LLC Okhrannoe Agentstvo KASKAD sold EW systems to Ukraine’s Ministry of Defense and critical infrastructure facilities for more than UAH 820 million, according to a ruling by the Kyiv Court of Appeal.\nThe cost of installing equipment to protect a single facility ranged from UAH 20 million to UAH 100 million. The systems were guaranteed to provide protection against Geran loitering munitions and Kalibr cruise missiles. It was also claimed that Lima had passed tests conducted by the General Staff of the Armed Forces of Ukraine, demonstrated its effectiveness, and could be integrated with a centralized control point.\nHowever, the investigation found that the reality was very different: Lima had never undergone the claimed tests, had not been used in combat, and the supposed centralized control point did not exist.\nFurther testing confirmed that Lima was incapable of countering the eight-element Controlled Reception Pattern Antenna (CRPA) Kometa used on Geran loitering munitions, let alone the 12- and 16-channel CRPA systems now deployed on Russian drones, guided aerial bombs, cruise missiles, and ballistic missiles.\nThis leaves us with two possible conclusions: either the Kinzhal’s warhead malfunctioned, or the video was AI-generated. After verification, the CCTV footage appears to be authentic, with no signs of AI generation or manipulation, reinforcing the first possibility, that the warhead simply malfunctioned.",
+   "timestamp": "2026-09-01T01:18:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d8e3d3d377d154e1e5d4be2d4f410d00",
+   "url": "https://t.me/OSINTWarfare/6546",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia launched at least 23 ballistic missiles, including Zircons, at Kyiv and the surrounding region within just 20 minutes. Some of the missiles were equipped with cluster warheads.\nThe first video shows the impact of cluster munitions somewhere in Kyiv Oblast.",
+   "timestamp": "2026-09-01T00:05:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "63c986c81032109e041ec85b7567a91b",
+   "url": "https://t.me/OSINTWarfare/6542",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In the United States, Anduril’s Altius-700 loitering munition has undergone testing, with the system launched from a canister carried aboard an H-60 Black Hawk helicopter.\nAccording to the company, the Altius-700 can remain airborne for 4–5 hours after launch, operate autonomously, and transmit targeting information to support strikes. The loitering munition will be equipped with a warhead comparable to that of the AGM-114 Hellfire missile. The reconnaissance variant is also intended to be reusable.\nAnduril is also developing the smaller Altius 600M, a lighter variant that can be launched from a transport-launch canister mounted on a vehicle or directly from the ground by an operator.",
+   "timestamp": "2026-08-31T23:56:49+00:00",
+   "has_media": true
+  },
   {
    "id": "fd386dcfff2ac33102472f861805d4cf",
    "url": "https://t.me/OSINTWarfare/6541",
@@ -39,84 +84,12 @@
    "has_media": true
   },
   {
-   "id": "cfd2e954d65a69805fc36e9bf429dfc9",
-   "url": "https://t.me/OSINTWarfare/6534",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Exclusive footage published by Russian war correspondent Alexander Rogatkin shows a Russian directed-energy laser weapon system engaging Ukrainian drones under operational conditions.\nAccording to the report, several such laser systems are currently deployed to protect strategic facilities in southwestern Russia and have already destroyed several hundred Ukrainian drones.\nThe footage shows the system engaging and intercepting an FP-1 and an FPV drone.\nThe report also claims that developers are working on a second-generation system designed to engage faster targets, including tactical aircraft and cruise missiles.",
-   "timestamp": "2026-08-31T15:07:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "dfe92d2569e3e0a3d0657174dc0c63cd",
-   "url": "https://t.me/OSINTWarfare/6533",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Sever-V Brigade’s aerial reconnaissance unit detected a Ukrainian BTR “Bucephalus” and destroyed it using three fiber-optic FPV drones.",
-   "timestamp": "2026-08-31T14:39:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1c6d72988414b69324ef9c122e4f2279",
-   "url": "https://t.me/OSINTWarfare/6532",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia has increased its use of jet-powered drones against Ukraine fivefold compared with June, Ukrainian Air Force spokesperson Yuriy Ihnat said.\nYesterday, Zelenskyy stated that over the past four days alone, the Russian Armed Forces had launched around 800 jet-powered drones.",
-   "timestamp": "2026-08-31T14:15:41+00:00",
-   "has_media": true
-  },
-  {
    "id": "a7be1b37618156d5ff8596d338ec0372",
    "url": "https://t.me/warmonitors/45407",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "Apparently Indians are taking over Israel…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-31T08:59:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4f92fc0117d9437a357102dfd823ceca",
-   "url": "https://t.me/OSINTWarfare/6531",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yesterday, the heavy nuclear-powered battlecruiser Admiral Nakhimov (080), Project 11442M of the Russian Navy, entered the final phase of its sea trials.",
-   "timestamp": "2026-08-31T01:35:51+00:00",
-   "has_media": true
-  },
-  {
-   "id": "afe57ea8819cc7218277388413a76980",
-   "url": "https://t.me/OSINTWarfare/6530",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A U.S. official says there was no significant damage from Iranian attacks on U.S. forces in Jordan, and that all missiles were intercepted.\nNo significant damage, meaning there were impacts, yet all the missiles were intercepted.\nA difficult puzzle to solve.",
-   "timestamp": "2026-08-31T00:46:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b53bccd71dbe28fc7b9dd3031471ad28",
-   "url": "https://t.me/OSINTWarfare/6528",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Aerospace Force has released footage showing the launch of Kheibar Shekan medium-range ballistic missiles and Shahed-136 loitering munitions targeting King Hussein and Muwaffaq Salti air bases in Jordan, in retaliation for the U.S. strike on Iran’s Larak Island.",
-   "timestamp": "2026-08-31T00:13:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "be5c3d560761fbad7fdc9adb62f0c3c4",
-   "url": "https://t.me/OSINTWarfare/6527",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, U.S. forces struck two Iranian launchers on Larak Island that were allegedly preparing to launch missiles carrying naval mines into the Strait of Hormuz.  Iranian sources reported two people killed and two critically injured, with the condition…",
-   "timestamp": "2026-08-31T00:00:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "27cd407411a4a66ce4c752161e1922fa",
-   "url": "https://t.me/OSINTWarfare/6523",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, U.S. forces struck two Iranian launchers on Larak Island that were allegedly preparing to launch missiles carrying naval mines into the Strait of Hormuz.\nIranian sources reported two people killed and two critically injured, with the condition of the wounded deteriorating.\nAround two hours later, the IRGC launched a retaliatory strike using Kheibar Shekan ballistic missiles and Shahed-136 loitering munitions against King Hussein and Muwaffaq Salti air bases in Jordan.\nBetween 12 and 15 ballistic missiles were reportedly launched, with eight intercepted.",
-   "timestamp": "2026-08-30T23:44:28+00:00",
    "has_media": true
   },
   {
@@ -136,15 +109,6 @@
    "text": "⚡\n#BREAKING\nU.S. official: \"Earlier today U.S. forces struck two Iranian launchers on Larak Island. Islamic Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into Strait of Hormuz\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-08-30T19:39:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "26dce632f3c895024a0515fbe869195d",
-   "url": "https://t.me/OSINTWarfare/6522",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Four Algerian Air Force (AAF) Su-30MKAs, accompanied by an Il-78 aerial refueling aircraft, arrived at Niamey Airport in Niger today.  The deployment comes after a military mutiny at Air Base 101 in Niamey was reportedly thwarted over the weekend. Algeria…",
-   "timestamp": "2026-08-30T17:03:39+00:00",
-   "has_media": true
   },
   {
    "id": "475c37cd191c2124b0a1b73c25c410e1",
