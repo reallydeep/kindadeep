@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-01T21:57:41Z",
- "count": 44,
+ "generated_utc": "2026-09-01T23:43:42Z",
+ "count": 45,
  "items": [
+  {
+   "id": "78e20f9b6973ba8e3df6a461a3fff38d",
+   "url": "https://t.me/OSINTWarfare/6569",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian Shahed-136 loitering munitions are currently flying over Haji Omeran in Iraq’s Erbil Governorate, heading toward their targets.",
+   "timestamp": "2026-09-01T23:43:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "45719d58c9c13df2f22a13a77d544636",
+   "url": "https://t.me/OSINTWarfare/6567",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian Shahed-136 loitering munitions are currently flying over Haji Omeran in Iraq’s Erbil Governorate, heading toward their targets.",
+   "timestamp": "2026-09-01T22:55:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "567bc4541937ca9ae086c26b9580b570",
+   "url": "https://t.me/OSINTWarfare/6566",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a ballistic missile launch from Ilam, Ilam Province, western Iran.",
+   "timestamp": "2026-09-01T22:41:00+00:00",
+   "has_media": true
+  },
+  {
+   "id": "401af4987191a2717d3690b6f6652394",
+   "url": "https://t.me/OSINTWarfare/6565",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A possible U.S. LUCAS one-way attack drone struck a communications tower in the city of Sirik, causing it to collapse.",
+   "timestamp": "2026-09-01T22:40:18+00:00",
+   "has_media": true
+  },
   {
    "id": "dff2f28ef9980186e96c49718d6eaaba",
    "url": "https://t.me/warmonitors/45431",
@@ -198,33 +234,6 @@
    "channel": "OSINTWarfare",
    "text": "One person was killed and nine others, including a child, were injured in the attack on Boryspil, Kyiv Oblast, according to the Kyiv Regional State Administration.\nA five-story residential building and several vehicles in a parking lot were damaged, while 48 residents were evacuated.",
    "timestamp": "2026-09-01T01:32:35+00:00",
-   "has_media": true
-  },
-  {
-   "id": "52437e9c8882fb145f1949e071569cc7",
-   "url": "https://t.me/OSINTWarfare/6548",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The widely promoted Ukrainian Lima electronic warfare (EW) system, which was allegedly capable of disrupting even Kh-47M2 Kinzhal air-launched ballistic missiles, is now under investigation after authorities found that it failed to meet its declared specifications.\nAccording to the investigation, Lima failed to demonstrate the claimed effectiveness against Geran loitering munitions. Between September 2023 and June 2024, LLC Okhrannoe Agentstvo KASKAD sold EW systems to Ukraine’s Ministry of Defense and critical infrastructure facilities for more than UAH 820 million, according to a ruling by the Kyiv Court of Appeal.\nThe cost of installing equipment to protect a single facility ranged from UAH 20 million to UAH 100 million. The systems were guaranteed to provide protection against Geran loitering munitions and Kalibr cruise missiles. It was also claimed that Lima had passed tests conducted by the General Staff of the Armed Forces of Ukraine, demonstrated its effectiveness, and could be integrated with a centralized control point.\nHowever, the investigation found that the reality was very different: Lima had never undergone the claimed tests, had not been used in combat, and the supposed centralized control point did not exist.\nFurther testing confirmed that Lima was incapable of countering the eight-element Controlled Reception Pattern Antenna (CRPA) Kometa used on Geran loitering munitions, let alone the 12- and 16-channel CRPA systems now deployed on Russian drones, guided aerial bombs, cruise missiles, and ballistic missiles.\nThis leaves us with two possible conclusions: either the Kinzhal’s warhead malfunctioned, or the video was AI-generated. After verification, the CCTV footage appears to be authentic, with no signs of AI generation or manipulation, reinforcing the first possibility, that the warhead simply malfunctioned.",
-   "timestamp": "2026-09-01T01:18:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d8e3d3d377d154e1e5d4be2d4f410d00",
-   "url": "https://t.me/OSINTWarfare/6546",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia launched at least 23 ballistic missiles, including Zircons, at Kyiv and the surrounding region within just 20 minutes. Some of the missiles were equipped with cluster warheads.\nThe first video shows the impact of cluster munitions somewhere in Kyiv Oblast.",
-   "timestamp": "2026-09-01T00:05:46+00:00",
-   "has_media": true
-  },
-  {
-   "id": "63c986c81032109e041ec85b7567a91b",
-   "url": "https://t.me/OSINTWarfare/6542",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In the United States, Anduril’s Altius-700 loitering munition has undergone testing, with the system launched from a canister carried aboard an H-60 Black Hawk helicopter.\nAccording to the company, the Altius-700 can remain airborne for 4–5 hours after launch, operate autonomously, and transmit targeting information to support strikes. The loitering munition will be equipped with a warhead comparable to that of the AGM-114 Hellfire missile. The reconnaissance variant is also intended to be reusable.\nAnduril is also developing the smaller Altius 600M, a lighter variant that can be launched from a transport-launch canister mounted on a vehicle or directly from the ground by an operator.",
-   "timestamp": "2026-08-31T23:56:49+00:00",
    "has_media": true
   },
   {
