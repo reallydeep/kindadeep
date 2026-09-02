@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-02T21:13:28Z",
- "count": 41,
+ "generated_utc": "2026-09-02T23:19:21Z",
+ "count": 36,
  "items": [
+  {
+   "id": "b69c9984630e946f536c925d48553279",
+   "url": "https://t.me/OSINTWarfare/6593",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia has begun mass production of the Volna Kupol Garant electronic warfare (EW) system, designed to disrupt Starlink satellite communications.\nRussian enterprises are procuring components to produce several hundred more systems, reportedly 300–400 units. Each system is said to cover an area of 15–25 sq. km.\nRussia is expected to use these systems to protect key facilities in Ukrainian territories under Russian control from Ukrainian UAVs.",
+   "timestamp": "2026-09-02T22:34:48+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f9707700b9bddcfb540ae6e767f98ed2",
+   "url": "https://t.me/OSINTWarfare/6589",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Armed Forces of Burkina Faso have released footage showing artillery units conducting live-fire exercises using an almost entirely Chinese lineup of fire-support and strike systems.\nEquipment seen in the footage:\n• Batteries of 122 mm CS/SH1 self-propelled howitzers on Shaanxi 6×6 chassis, with a firing range of 22–27 km;\n• 120 mm PLL-05 self-propelled mortars mounted on the Type 92 variant of the WZ551 wheeled chassis, with a firing range of up to 13 km and a digital fire-control system;\n• SR-5 (PHL-11) Multiple Rocket Launcher (MRL) on heavy 8×8 chassis, equipped with guided 220 mm rockets with a range of up to 70 km.\nIn the second part of the video, the Tianlong-30 (Sky Dragon 30) surface-to-air missile (SAM) system was publicly shown for the first time. Its delivery to Burkina Faso had not previously been reported.\nThe footage shows a launcher and an IBIS-150 three-coordinate radar, capable of detecting targets at ranges of up to 130 km and tracking up to 144 targets. The primary missile is the SD-30, which uses combined guidance and has a reported engagement range of up to 30 km.",
+   "timestamp": "2026-09-02T21:42:59+00:00",
+   "has_media": true
+  },
   {
    "id": "1ed113814d10c77cb14c59e4dcdce9f9",
    "url": "https://t.me/warmonitors/45446",
@@ -120,33 +138,6 @@
    "has_media": true
   },
   {
-   "id": "1355ee819f868290b92d59124a8a0b2a",
-   "url": "https://t.me/OSINTWarfare/6574",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇮🇷\n⚡️\n— U.S. Central Command (CENTCOM) says its forces have successfully completed a new wave of strikes against Iranian military targets.\nThe strikes targeted IRGC assets, including air defense systems, radar installations, maritime assets and facilities, mine-laying capabilities, and communications sites.\nCENTCOM said the strikes were carried out in response to recent attempted IRGC attacks on commercial shipping in the Strait of Hormuz and against U.S. service members.\n@IntelSlava",
-   "timestamp": "2026-09-02T00:53:33+00:00",
-   "has_media": false
-  },
-  {
-   "id": "30d35c0d9e7d80a35a26313a93c235d1",
-   "url": "https://t.me/OSINTWarfare/6572",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Iranian Shahed-136 loitering munition struck a U.S. military installation at Erbil International Airport in Iraqi Kurdistan.",
-   "timestamp": "2026-09-02T00:26:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "78e20f9b6973ba8e3df6a461a3fff38d",
-   "url": "https://t.me/OSINTWarfare/6569",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian Shahed-136 loitering munitions are currently flying over Haji Omeran in Iraq’s Erbil Governorate, heading toward their targets.",
-   "timestamp": "2026-09-01T23:43:20+00:00",
-   "has_media": true
-  },
-  {
    "id": "dff2f28ef9980186e96c49718d6eaaba",
    "url": "https://t.me/warmonitors/45431",
    "source": "telegram",
@@ -163,42 +154,6 @@
    "text": "⚡️\nIranian missiles impact Jordan, Aqaba\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-01T21:34:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "e2142c01120a8f6e18e58ec44cb30edb",
-   "url": "https://t.me/warmonitors/45430",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nExplosions are seen over the southern Jordanian city of Aqaba as Iran says it is retaliating for US strikes\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-01T21:04:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4b8a70a59c1f7f51013d5b5e5d2abd5a",
-   "url": "https://t.me/warmonitors/45429",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nBarak Ravid: Iran retaliated to the U.S. strikes by launching ballistic missiles towards U.S. bases in Jordan\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-01T20:29:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3d0f2f4562f02d59422f4ff9f6bd7ad0",
-   "url": "https://t.me/warmonitors/45427",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera correspondent: Israeli airstrike on the Ali al-Taher area in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-01T19:59:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6d65b9f8dcca8150fdbc97195e551498",
-   "url": "https://t.me/warmonitors/45428",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nReports of an Iranian attack in Jordan\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-01T19:59:26+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
