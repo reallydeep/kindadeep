@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-03T01:09:53Z",
- "count": 36,
+ "generated_utc": "2026-09-03T05:44:34Z",
+ "count": 35,
  "items": [
+  {
+   "id": "56a5272107a21387792977cd66b0488c",
+   "url": "https://t.me/OSINTWarfare/6597",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran's IRGC shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over Khomeyn, Markazi Province.",
+   "timestamp": "2026-09-03T02:15:43+00:00",
+   "has_media": true
+  },
   {
    "id": "c06380f24619d41ebe6b53a226357286",
    "url": "https://t.me/OSINTWarfare/6596",
@@ -126,24 +135,6 @@
    "channel": "OSINTWarfare",
    "text": "Aftermath of U.S. airstrikes on several residential buildings in Kuhestak, Sirik County, Hormozgan Province.",
    "timestamp": "2026-09-02T11:33:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bd1b1974ec5f2b5d56befcab81d3cfe2",
-   "url": "https://t.me/OSINTWarfare/6578",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Sirens are sounding in Israel’s Galilee Panhandle due to a possible drone incursion.  Israeli fighter jets are reportedly operating over southern Lebanon.",
-   "timestamp": "2026-09-02T01:43:46+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6bcdf33959436ecc693b167df4456f50",
-   "url": "https://t.me/OSINTWarfare/6577",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Sirens are sounding in Israel’s Galilee Panhandle due to a possible drone incursion.\nIsraeli fighter jets are reportedly operating over southern Lebanon.",
-   "timestamp": "2026-09-02T01:34:19+00:00",
    "has_media": true
   },
   {
