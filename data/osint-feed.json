@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-04T21:29:33Z",
+ "generated_utc": "2026-09-04T23:10:04Z",
  "count": 34,
  "items": [
+  {
+   "id": "fbbb76330aad08e8df563e74d36e17ad",
+   "url": "https://t.me/OSINTWarfare/6622",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck a Russian K-300P Bastion-P coastal defense missile system in Crimea.\nThe Bastion-P can launch P-800 Oniks supersonic cruise missiles, which can engage both maritime and land targets, as well as 3M22 Zircon hypersonic missiles.\nThe “Group 13” operators also destroyed two fuel trucks and struck a command-and-staff vehicle belonging to Russian forces on the peninsula.",
+   "timestamp": "2026-09-04T22:27:51+00:00",
+   "has_media": false
+  },
   {
    "id": "fa7c7a79c8ec60c67b26cfb7bb7bb321",
    "url": "https://t.me/OSINTWarfare/6619",
@@ -100,15 +109,6 @@
    "text": "Rostec will present the Russian fifth-generation Su-57E fighter in its export configuration at the El Alamein International Airshow 2026 in Egypt, featuring fundamentally new weapons that have never previously been demonstrated in Russia or abroad.\nRostec is likely referring to the new S-71K “Kovyor” and S-71M “Monokhrom,” small, low-observable, jet-powered cruise missile/UAVs designed to be launched from Russian Su-57 multirole fighters.\nThe El Alamein International Airshow 2026 will take place at El Alamein International Airport, Egypt, from September 8–10.",
    "timestamp": "2026-09-03T13:14:52+00:00",
    "has_media": true
-  },
-  {
-   "id": "70902e55c7a913fdaebcfa13340243e6",
-   "url": "https://t.me/OSINTWarfare/6600",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Combat footage of personnel from the 673rd Separate Anti-Aircraft Missile Division of the 144th Guards Motor Rifle Division engaging and destroying Ukrainian UAVs in the skies over the Krasny Liman direction.",
-   "timestamp": "2026-09-03T12:38:44+00:00",
-   "has_media": false
   },
   {
    "id": "c632fabf5f17b5b1bde2f5fd7063e4e8",
