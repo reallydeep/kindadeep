@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-04T16:53:58Z",
- "count": 35,
+ "generated_utc": "2026-09-04T19:11:32Z",
+ "count": 34,
  "items": [
+  {
+   "id": "04262446c6c37df9367ecebef13fb665",
+   "url": "https://t.me/OSINTWarfare/6618",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The competition between strike systems and air defense/interceptor systems continues to evolve on both sides.  In response to Russia’s growing use of jet-powered Geran-4 loitering munitions and Geran-5/Banderol cruise missiles, Ukraine has begun developing…",
+   "timestamp": "2026-09-04T19:04:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e378ce03920ac0011f15c86d3a3ab31b",
+   "url": "https://t.me/OSINTWarfare/6615",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The competition between strike systems and air defense/interceptor systems continues to evolve on both sides.\nIn response to Russia’s growing use of jet-powered Geran-4 loitering munitions and Geran-5/Banderol cruise missiles, Ukraine has begun developing jet-powered interceptor drones. The aim is to address a class of faster aerial threats that can be difficult for conventional propeller-driven interceptors to engage.\nUkraine has also used Bars jet-powered drones in at least one strike campaign against Moscow. Their numbers are still believed to be limited, with propeller-driven drones making up the majority of Ukraine’s long-range strike fleet.\nThis highlights a broader issue for Russia: the need to develop and deploy compact interceptor drones before faster targets become more widespread. The challenge is not simply intercepting them, but doing so economically. Traditional air-defense systems and MANPADS can engage such targets, but using them against relatively inexpensive strike drones can be difficult to justify economically.\nOne potentially relevant example comes from Iran. Several years ago, Iran developed and deployed the 358 missile, a specialized system intended to engage UAVs. It is a subsonic weapon with a reported speed of around 700 km/h, an infrared seeker, and a turbojet engine, with a claimed engagement range of up to 100 km. Its design reflects a different approach to countering relatively slow aerial targets, without relying on the speed and cost associated with conventional high-performance surface-to-air missiles.\nThe missile has demonstrated its effectiveness, having shot down a number of U.S. and Israeli UAVs.\nThis is not necessarily an argument for simply copying the 358. The more important point is anticipating what types of drones may be heading toward Russian cities in the future and developing an interceptor that is capable of engaging them while remaining cheaper than the strike systems it is designed to counter.",
+   "timestamp": "2026-09-04T17:14:13+00:00",
+   "has_media": true
+  },
   {
    "id": "b9b2088d0c83a7670c3d5647965e0780",
    "url": "https://t.me/OSINTWarfare/6613",
@@ -111,24 +129,6 @@
    "has_media": false
   },
   {
-   "id": "56a5272107a21387792977cd66b0488c",
-   "url": "https://t.me/OSINTWarfare/6597",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran's IRGC shot down a U.S. Air Force (USAF) MQ-9A unmanned combat aerial vehicle (UCAV) over Khomeyn, Markazi Province.",
-   "timestamp": "2026-09-03T02:15:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c06380f24619d41ebe6b53a226357286",
-   "url": "https://t.me/OSINTWarfare/6596",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The German Navy has successfully test-fired Israel Aerospace Industries’ LORA ballistic missile from a German frigate in the North Atlantic, demonstrating a potential ship-launched capability to strike high-value targets hundreds of kilometers inland.",
-   "timestamp": "2026-09-03T01:07:59+00:00",
-   "has_media": true
-  },
-  {
    "id": "76c23fc1b07c42c472bb8beda1a76b14",
    "url": "https://t.me/warmonitors/45451",
    "source": "telegram",
@@ -145,15 +145,6 @@
    "text": "⚡️\nThe UK is likely to be excluded from President Trump’s next round of tariffs amid a “warmer relationship with the administration”\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-02T20:59:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "e821705d4b0344ac4bf8694fb674d305",
-   "url": "https://t.me/warmonitors/45443",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Manar correspondent: Israeli artillery shelling has resumed on Kafrman in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-02T20:54:26+00:00",
-   "has_media": false
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
