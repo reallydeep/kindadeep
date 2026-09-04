@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-04T19:11:32Z",
+ "generated_utc": "2026-09-04T21:29:33Z",
  "count": 34,
  "items": [
+  {
+   "id": "fa7c7a79c8ec60c67b26cfb7bb7bb321",
+   "url": "https://t.me/OSINTWarfare/6619",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UAV operators of Ukraine’s 22nd Mechanized Brigade “Mykolaiv” destroyed a rare 2S43 Malva self-propelled howitzer near the border with Russia’s Belgorod Oblast.",
+   "timestamp": "2026-09-04T20:04:38+00:00",
+   "has_media": true
+  },
   {
    "id": "04262446c6c37df9367ecebef13fb665",
    "url": "https://t.me/OSINTWarfare/6618",
@@ -99,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "Combat footage of personnel from the 673rd Separate Anti-Aircraft Missile Division of the 144th Guards Motor Rifle Division engaging and destroying Ukrainian UAVs in the skies over the Krasny Liman direction.",
    "timestamp": "2026-09-03T12:38:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "672f583e11eef6115a1b4ec7c54702e3",
-   "url": "https://t.me/OSINTWarfare/6599",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During aerial reconnaissance, the 50th Separate Unmanned Systems Brigade “Varyag” detected several Ukrainian UAV control posts, a logistics and materiel depot, and a command-and-observation post in the areas of Kherson, Kamyshany, and Kanevske.\nThe coordinates were then passed to the Russian Aerospace Forces (VKS), which subsequently destroyed the targets with precise FAB strikes using UMPK glide kits.\n• 0:08 – Command-and-observation post\n• 0:21 – UAV control post\n• 0:28 – UAV control post\n• 0:38 – UAV control post\n• 0:47 – UAV depot",
-   "timestamp": "2026-09-03T12:25:00+00:00",
    "has_media": false
   },
   {
