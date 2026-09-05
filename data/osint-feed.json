@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-05T00:54:20Z",
+ "generated_utc": "2026-09-05T05:00:36Z",
  "count": 33,
  "items": [
+  {
+   "id": "f1908b2c2b73de854f2641c0480aab39",
+   "url": "https://t.me/OSINTWarfare/6627",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier today, two explosions occurred at the General Maintenance Center of the RAM-2 “Bolívar” Mechanized Artillery Regiment in Viacha, La Paz Department, Bolivia.\nThe explosions were reported at around 2:30 PM in an area used to store pyrotechnic materials belonging to the Ministry of Defense.\nAt least two people were killed, 59 injured (including 52 civilians and 6 military personnel), and seven others remain missing.",
+   "timestamp": "2026-09-05T02:07:18+00:00",
+   "has_media": true
+  },
   {
    "id": "fbbb76330aad08e8df563e74d36e17ad",
    "url": "https://t.me/OSINTWarfare/6622",
@@ -72,15 +81,6 @@
    "channel": "OSINTWarfare",
    "text": "Footage shows UAV operators from the Alexei Berest Battalion of the First Ukrainian Volunteer Spetsnaz Brigade destroying a Ukrainian T-64 tank, vehicles, and personnel on the Kramatorsk–Druzhkivka axis in Donetsk Oblast.",
    "timestamp": "2026-09-04T01:45:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "742852b5e6a53c76249ce62d54dda18d",
-   "url": "https://t.me/OSINTWarfare/6607",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A HIMARS strike by Ukraine’s 45th Artillery Brigade destroyed a 9A316 launcher-loader vehicle from a Russian Buk-M1/M2 air defense system.",
-   "timestamp": "2026-09-04T00:25:11+00:00",
    "has_media": false
   },
   {
