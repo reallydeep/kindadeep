@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-05T12:18:26Z",
- "count": 33,
+ "generated_utc": "2026-09-05T15:18:12Z",
+ "count": 31,
  "items": [
+  {
+   "id": "5f869f32a16036055b1beb2494928dbc",
+   "url": "https://t.me/OSINTWarfare/6636",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "U.S. Central Command (CENTCOM) forces struck three Iranian crude oil tankers earlier today after the IRGC launched anti-ship ballistic missiles toward two U.S. Navy warships operating in regional waters.\nThe vessels disabled in the strikes were the M/T Downy near Kharg Island and the M/T Stark 1 near Jask. A third tanker, the M/T Kylo, also known as Noxen, was destroyed in the Gulf of Oman after its crew was ordered to abandon ship.",
+   "timestamp": "2026-09-05T14:35:10+00:00",
+   "has_media": true
+  },
   {
    "id": "f1908b2c2b73de854f2641c0480aab39",
    "url": "https://t.me/OSINTWarfare/6627",
@@ -55,33 +64,6 @@
    "text": "Equipment seized by the now-dissolved Syrian Democratic Forces (SDF) from the Assad regime following its fall has been handed over to the Syrian government.\nThe equipment includes Tochka ballistic missile launchers, Shilka anti-aircraft systems, and 2K12 Kub air defense systems.",
    "timestamp": "2026-09-04T04:16:22+00:00",
    "has_media": true
-  },
-  {
-   "id": "3631f5aee9ee2adf6c3168d2d6caa5f4",
-   "url": "https://t.me/OSINTWarfare/6610",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Based on the assessment and direction of Iran’s Aerospace Force Command Headquarters, a number of liquid-fueled ballistic missiles were transferred from the Isfahan missile base to the Kermanshah missile base in recent weeks for use in future operations.\nThis is not a routine redeployment. The move is a part of a deliberate plan, likely driven by operational and tactical considerations.",
-   "timestamp": "2026-09-04T02:38:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "971d40b2a4e09fe3035ae1e82e53d3a6",
-   "url": "https://t.me/OSINTWarfare/6609",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During the night, a Russian Su-35S multirole fighter shot down a Ukrainian UAV with an R-73 air-to-air missile while monitoring the airspace in support of the “Vostok” (East) Group of Forces.",
-   "timestamp": "2026-09-04T02:14:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cb72f2873f8f12e27edf37a8f2d842cb",
-   "url": "https://t.me/OSINTWarfare/6608",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows UAV operators from the Alexei Berest Battalion of the First Ukrainian Volunteer Spetsnaz Brigade destroying a Ukrainian T-64 tank, vehicles, and personnel on the Kramatorsk–Druzhkivka axis in Donetsk Oblast.",
-   "timestamp": "2026-09-04T01:45:11+00:00",
-   "has_media": false
   },
   {
    "id": "4399b851ed8d4d6b91676bebf583405f",
