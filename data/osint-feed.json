@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-09-06T00:19:20Z",
- "count": 30,
+ "generated_utc": "2026-09-06T04:47:40Z",
+ "count": 33,
  "items": [
+  {
+   "id": "2b16a83d1e4116bcc5e58961f23cdde6",
+   "url": "https://t.me/OSINTWarfare/6642",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russian Aerospace Forces (VKS) Mi-28N/NM and Ka-52/M attack helicopters are increasingly being used to intercept FP-1 and MICH-2000 drones, effectively serving as specialized drone hunters in rear areas alongside Tor-M2 and Pantsir-S1M air defense systems.\nThe Mi-28 uses its 30mm Shipunov 2A42 cannon for close-range engagements, supported by the OPS-28M multispectral electro-optical system and N025 mast-mounted radar, which can detect low-RCS targets at ranges of up to 5 km. Its automated fire-control system calculates lead angles to improve hit probability and reduce ammunition expenditure.\nThe Ka-52M has an advantage in poor weather, with its advanced Rezets active electronically scanned array (AESA) radar providing better resolution for detecting small drones against ground clutter than the Mi-28's N025 radar.\nFor longer-range engagements, both platforms can employ 9M342 Igla-S missiles and 9A1472 Vikhr-1 laser-beam-riding missiles, allowing them to engage targets beyond the effective range of the cannon.",
+   "timestamp": "2026-09-06T03:35:58+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4205bb51a46d84def710277661fcbb2a",
+   "url": "https://t.me/OSINTWarfare/6641",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
+   "timestamp": "2026-09-06T01:39:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8b755ca096a96ed15a5ea33539eb044d",
+   "url": "https://t.me/OSINTWarfare/6640",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
+   "timestamp": "2026-09-06T01:22:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d8f82d9d9d0538f33dd83bbf05a4a7f6",
+   "url": "https://t.me/warmonitors/45469",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera correspondent: Powerful explosions rock the city of Taiz in southwestern Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-06T01:04:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4ad6451afaadbc2061f132750c629952",
+   "url": "https://t.me/OSINTWarfare/6639",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away.\nTheir current objective is to seize Jabal Habashi, which would give them fire control over the remaining roads into Taiz.\nIn the direction of Al-Khukhah, fierce fighting is ongoing around the strategic town of Hays, a key road junction.",
+   "timestamp": "2026-09-06T00:49:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d9fae128554741bffd60b798d13319b5",
+   "url": "https://t.me/OSINTWarfare/6638",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy has released footage showing strikes on oil tankers attempting to pass through the Strait of Hormuz outside the agreed-upon route.\nThe attacks were carried out using Raad-3 and/or Rezvan loitering munitions.",
+   "timestamp": "2026-09-06T00:19:34+00:00",
+   "has_media": true
+  },
   {
    "id": "01febf3635a8c9341abf77df437e49bb",
    "url": "https://t.me/warmonitors/45468",
@@ -37,33 +91,6 @@
    "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck a Russian K-300P Bastion-P coastal defense missile system in Crimea.\nThe Bastion-P can launch P-800 Oniks supersonic cruise missiles, which can engage both maritime and land targets, as well as 3M22 Zircon hypersonic missiles.\nThe “Group 13” operators also destroyed two fuel trucks and struck a command-and-staff vehicle belonging to Russian forces on the peninsula.",
    "timestamp": "2026-09-04T22:27:51+00:00",
    "has_media": false
-  },
-  {
-   "id": "fa7c7a79c8ec60c67b26cfb7bb7bb321",
-   "url": "https://t.me/OSINTWarfare/6619",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UAV operators of Ukraine’s 22nd Mechanized Brigade “Mykolaiv” destroyed a rare 2S43 Malva self-propelled howitzer near the border with Russia’s Belgorod Oblast.",
-   "timestamp": "2026-09-04T20:04:38+00:00",
-   "has_media": true
-  },
-  {
-   "id": "04262446c6c37df9367ecebef13fb665",
-   "url": "https://t.me/OSINTWarfare/6618",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The competition between strike systems and air defense/interceptor systems continues to evolve on both sides.  In response to Russia’s growing use of jet-powered Geran-4 loitering munitions and Geran-5/Banderol cruise missiles, Ukraine has begun developing…",
-   "timestamp": "2026-09-04T19:04:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e378ce03920ac0011f15c86d3a3ab31b",
-   "url": "https://t.me/OSINTWarfare/6615",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The competition between strike systems and air defense/interceptor systems continues to evolve on both sides.\nIn response to Russia’s growing use of jet-powered Geran-4 loitering munitions and Geran-5/Banderol cruise missiles, Ukraine has begun developing jet-powered interceptor drones. The aim is to address a class of faster aerial threats that can be difficult for conventional propeller-driven interceptors to engage.\nUkraine has also used Bars jet-powered drones in at least one strike campaign against Moscow. Their numbers are still believed to be limited, with propeller-driven drones making up the majority of Ukraine’s long-range strike fleet.\nThis highlights a broader issue for Russia: the need to develop and deploy compact interceptor drones before faster targets become more widespread. The challenge is not simply intercepting them, but doing so economically. Traditional air-defense systems and MANPADS can engage such targets, but using them against relatively inexpensive strike drones can be difficult to justify economically.\nOne potentially relevant example comes from Iran. Several years ago, Iran developed and deployed the 358 missile, a specialized system intended to engage UAVs. It is a subsonic weapon with a reported speed of around 700 km/h, an infrared seeker, and a turbojet engine, with a claimed engagement range of up to 100 km. Its design reflects a different approach to countering relatively slow aerial targets, without relying on the speed and cost associated with conventional high-performance surface-to-air missiles.\nThe missile has demonstrated its effectiveness, having shot down a number of U.S. and Israeli UAVs.\nThis is not necessarily an argument for simply copying the 358. The more important point is anticipating what types of drones may be heading toward Russian cities in the future and developing an interceptor that is capable of engaging them while remaining cheaper than the strike systems it is designed to counter.",
-   "timestamp": "2026-09-04T17:14:13+00:00",
-   "has_media": true
   },
   {
    "id": "4399b851ed8d4d6b91676bebf583405f",
