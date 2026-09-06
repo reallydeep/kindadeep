@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-06T15:42:35Z",
- "count": 32,
+ "generated_utc": "2026-09-06T17:42:47Z",
+ "count": 33,
  "items": [
+  {
+   "id": "337bc360806498f1cf847dc6cf20f022",
+   "url": "https://t.me/OSINTWarfare/6645",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Precision-guided air-launched munitions for the Su-57E, displayed by Rosoboronexport at the El Alamein International Airshow 2026 in Egypt:\n• S-71M “Monokhrom” stealth cruise missile\n• S-71K “Kovyor” stealth cruise missile\n• S8000 “Banderol” small cruise missile\n• An unidentified small-sized munition",
+   "timestamp": "2026-09-06T16:41:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dd5e593d0e2961b3df43718883dc1e1a",
+   "url": "https://t.me/OSINTWarfare/6644",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇸🇦\n🇾🇪\n❌\n🇾🇪\n❗️\n—\nWATCH\n: Insane footage shows an Iran-backed Houthi ballistic missile striking what the group claims was a gathering of Saudi-backed PLC forces and MRAP armored vehicles in Yemen.",
+   "timestamp": "2026-09-06T15:59:09+00:00",
+   "has_media": false
+  },
   {
    "id": "5e2867428ffbc0cd916be1c4b9857987",
    "url": "https://t.me/warmonitors/45473",
@@ -25,7 +43,7 @@
    "url": "https://t.me/OSINTWarfare/6642",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "Russian Aerospace Forces (VKS) Mi-28N/NM and Ka-52/M attack helicopters are increasingly being used to intercept FP-1 and MICH-2000 drones, effectively serving as specialized drone hunters in rear areas alongside Tor-M2 and Pantsir-S1M air defense systems.\nThe Mi-28 uses its 30mm Shipunov 2A42 cannon for close-range engagements, supported by the OPS-28M multispectral electro-optical system and N025 mast-mounted radar, which can detect low-RCS targets at ranges of up to 5 km. Its automated fire-control system calculates lead angles to improve hit probability and reduce ammunition expenditure.\nThe Ka-52M has an advantage in poor weather, with its advanced Rezets active electronically scanned array (AESA) radar providing better resolution for detecting small drones against ground clutter than the Mi-28's N025 radar.\nFor longer-range engagements, both platforms can employ 9M342 Igla-S missiles and 9A1472 Vikhr-1 laser-beam-riding missiles, allowing them to engage targets beyond the effective range of the cannon.",
+   "text": "Russian Aerospace Forces (VKS) Mi-28N/NM and Ka-52/M attack helicopters are increasingly being used to intercept FP-1 and B-2 drones, effectively serving as specialized drone hunters in rear areas alongside Tor-M2 and Pantsir-S1M air defense systems.\nThe Mi-28 uses its 30mm Shipunov 2A42 cannon for close-range engagements, supported by the OPS-28M multispectral electro-optical system and N025 mast-mounted radar, which can detect low-RCS targets at ranges of up to 5 km. Its automated fire-control system calculates lead angles to improve hit probability and reduce ammunition expenditure.\nThe Ka-52M has an advantage in poor weather, with its advanced Rezets active electronically scanned array (AESA) radar providing better resolution for detecting small drones against ground clutter than the Mi-28's N025 radar.\nFor longer-range engagements, both platforms can employ 9M342 Igla-S missiles and 9A1472 Vikhr-1 laser-beam-riding missiles, allowing them to engage targets beyond the effective range of the cannon.",
    "timestamp": "2026-09-06T03:35:58+00:00",
    "has_media": false
   },
@@ -100,15 +118,6 @@
    "text": "Earlier today, two explosions occurred at the General Maintenance Center of the RAM-2 “Bolívar” Mechanized Artillery Regiment in Viacha, La Paz Department, Bolivia.\nThe explosions were reported at around 2:30 PM in an area used to store pyrotechnic materials belonging to the Ministry of Defense.\nAt least two people were killed, 59 injured (including 52 civilians and 6 military personnel), and seven others remain missing.",
    "timestamp": "2026-09-05T02:07:18+00:00",
    "has_media": true
-  },
-  {
-   "id": "fbbb76330aad08e8df563e74d36e17ad",
-   "url": "https://t.me/OSINTWarfare/6622",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Specialists from the Main Directorate of Intelligence of Ukraine’s Ministry of Defence (GUR/HUR) special unit “Group 13” struck a Russian K-300P Bastion-P coastal defense missile system in Crimea.\nThe Bastion-P can launch P-800 Oniks supersonic cruise missiles, which can engage both maritime and land targets, as well as 3M22 Zircon hypersonic missiles.\nThe “Group 13” operators also destroyed two fuel trucks and struck a command-and-staff vehicle belonging to Russian forces on the peninsula.",
-   "timestamp": "2026-09-04T22:27:51+00:00",
-   "has_media": false
   },
   {
    "id": "4399b851ed8d4d6b91676bebf583405f",
