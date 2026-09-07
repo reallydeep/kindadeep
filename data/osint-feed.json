@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-07T10:31:52Z",
- "count": 31,
+ "generated_utc": "2026-09-07T16:01:08Z",
+ "count": 28,
  "items": [
+  {
+   "id": "68f86d8a0ffa2d0be9a37e4fee9ada34",
+   "url": "https://t.me/OSINTWarfare/6672",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released objective-control footage showing ballistic missile and/or guided rocket strikes on Al-Wadiah military camp, used by forces affiliated with the Saudi-backed Presidential Leadership Council (PLC).\nSeveral trucks were hit, apparently carrying fuel and ammunition. One of the missiles used appears to have been equipped with a cluster warhead.",
+   "timestamp": "2026-09-07T14:11:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d32f0efbb15fa03f6fcdcd840258dadd",
+   "url": "https://t.me/OSINTWarfare/6666",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The 6th Military Region Command (MRC), supported by the Dir' al-Watan 3rd Division, has launched a ground offensive against Ansar Allah forces in Al Jawf, with combat operations ongoing in the region.",
+   "timestamp": "2026-09-07T12:06:04+00:00",
+   "has_media": true
+  },
   {
    "id": "62847b5f79c5ddcbe930d364b49f08a5",
    "url": "https://t.me/warmonitors/45477",
@@ -30,42 +48,6 @@
    "has_media": true
   },
   {
-   "id": "a04e84b8aff55a99a5d77cb66ec6285c",
-   "url": "https://t.me/OSINTWarfare/6650",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several drones launched from Libyan territory, or from a vessel or uncrewed boat that departed from Libya, struck the LADY MARIIA, a Russian-registered cargo vessel, while it was sailing eastward in the Mediterranean Sea.\nIt is worth noting that Ukraine also used Libya as a base to attack the Russian gas carrier Arctic Metagaz off the Libyan coast.",
-   "timestamp": "2026-09-06T18:50:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c3d85d8f8672e14b8db5ae61b006b411",
-   "url": "https://t.me/OSINTWarfare/6649",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An S8000 “Banderol” (“Dan-T”) small cruise missile mounted on a Russian Mi-28NM attack helicopter.",
-   "timestamp": "2026-09-06T18:08:11+00:00",
-   "has_media": true
-  },
-  {
-   "id": "337bc360806498f1cf847dc6cf20f022",
-   "url": "https://t.me/OSINTWarfare/6645",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Precision-guided air-launched munitions for the Su-57E, displayed by Rosoboronexport at the El Alamein International Airshow 2026 in Egypt:\n• S-71M “Monokhrom” stealth cruise missile\n• S-71K “Kovyor” stealth cruise missile\n• S8000 “Banderol” small cruise missile\n• An unidentified small-sized munition",
-   "timestamp": "2026-09-06T16:41:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dd5e593d0e2961b3df43718883dc1e1a",
-   "url": "https://t.me/OSINTWarfare/6644",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇸🇦\n🇾🇪\n❌\n🇾🇪\n❗️\n—\nWATCH\n: Insane footage shows an Iran-backed Houthi ballistic missile striking what the group claims was a gathering of Saudi-backed PLC forces and MRAP armored vehicles in Yemen.",
-   "timestamp": "2026-09-06T15:59:09+00:00",
-   "has_media": false
-  },
-  {
    "id": "5e2867428ffbc0cd916be1c4b9857987",
    "url": "https://t.me/warmonitors/45473",
    "source": "telegram",
@@ -82,15 +64,6 @@
    "text": "⚡️\nOdds on a U.S x Iran diplomatic meeting before the end of this month is down to a whopping 7% chance.\nPeople have definitely given up on this ending anytime soon, what do you think?\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-06T14:49:25+00:00",
    "has_media": true
-  },
-  {
-   "id": "2b16a83d1e4116bcc5e58961f23cdde6",
-   "url": "https://t.me/OSINTWarfare/6642",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russian Aerospace Forces (VKS) Mi-28N/NM and Ka-52/M attack helicopters are increasingly being used to intercept FP-1 and B-2 drones, effectively serving as specialized drone hunters in rear areas alongside Tor-M2 and Pantsir-S1M air defense systems.\nThe Mi-28 uses its 30mm Shipunov 2A42 cannon for close-range engagements, supported by the OPS-28M multispectral electro-optical system and N025 mast-mounted radar, which can detect low-RCS targets at ranges of up to 5 km. Its automated fire-control system calculates lead angles to improve hit probability and reduce ammunition expenditure.\nThe Ka-52M has an advantage in poor weather, with its advanced Rezets active electronically scanned array (AESA) radar providing better resolution for detecting small drones against ground clutter than the Mi-28's N025 radar.\nFor longer-range engagements, both platforms can employ 9M342 Igla-S missiles and 9A1472 Vikhr-1 laser-beam-riding missiles, allowing them to engage targets beyond the effective range of the cannon.",
-   "timestamp": "2026-09-06T03:35:58+00:00",
-   "has_media": false
   },
   {
    "id": "d8f82d9d9d0538f33dd83bbf05a4a7f6",
