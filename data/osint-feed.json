@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-06T23:06:37Z",
- "count": 33,
+ "generated_utc": "2026-09-07T00:54:54Z",
+ "count": 29,
  "items": [
+  {
+   "id": "a1062fae9867794df2028557a8e928d8",
+   "url": "https://t.me/OSINTWarfare/6652",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Uncle Kim oversaw the successful test launch of strategic cruise missiles from the Korean People's Navy's (KPN) new guided-missile frigate, Kang Kon (52).  The trials also included tests of the ship's primary weapons systems, including its main gun, electronic…",
+   "timestamp": "2026-09-06T23:23:07+00:00",
+   "has_media": true
+  },
   {
    "id": "a04e84b8aff55a99a5d77cb66ec6285c",
    "url": "https://t.me/OSINTWarfare/6650",
@@ -66,24 +75,6 @@
    "has_media": false
   },
   {
-   "id": "4205bb51a46d84def710277661fcbb2a",
-   "url": "https://t.me/OSINTWarfare/6641",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
-   "timestamp": "2026-09-06T01:39:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8b755ca096a96ed15a5ea33539eb044d",
-   "url": "https://t.me/OSINTWarfare/6640",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
-   "timestamp": "2026-09-06T01:22:02+00:00",
-   "has_media": true
-  },
-  {
    "id": "d8f82d9d9d0538f33dd83bbf05a4a7f6",
    "url": "https://t.me/warmonitors/45469",
    "source": "telegram",
@@ -93,24 +84,6 @@
    "has_media": false
   },
   {
-   "id": "4ad6451afaadbc2061f132750c629952",
-   "url": "https://t.me/OSINTWarfare/6639",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away.\nTheir current objective is to seize Jabal Habashi, which would give them fire control over the remaining roads into Taiz.\nIn the direction of Al-Khukhah, fierce fighting is ongoing around the strategic town of Hays, a key road junction.",
-   "timestamp": "2026-09-06T00:49:52+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d9fae128554741bffd60b798d13319b5",
-   "url": "https://t.me/OSINTWarfare/6638",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing strikes on oil tankers attempting to pass through the Strait of Hormuz outside the agreed-upon route.\nThe attacks were carried out using Raad-3 and/or Rezvan loitering munitions.",
-   "timestamp": "2026-09-06T00:19:34+00:00",
-   "has_media": true
-  },
-  {
    "id": "01febf3635a8c9341abf77df437e49bb",
    "url": "https://t.me/warmonitors/45468",
    "source": "telegram",
@@ -118,15 +91,6 @@
    "text": "⚡\nIran's military command: Attacks against US military vessels in the region will increase if Washington continues the naval blockade\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-05T18:04:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "5f869f32a16036055b1beb2494928dbc",
-   "url": "https://t.me/OSINTWarfare/6636",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "U.S. Central Command (CENTCOM) forces struck three Iranian crude oil tankers earlier today after the IRGC launched anti-ship ballistic missiles toward two U.S. Navy warships operating in regional waters.\nThe vessels disabled in the strikes were the M/T Downy near Kharg Island and the M/T Stark 1 near Jask. A third tanker, the M/T Kylo, also known as Noxen, was destroyed in the Gulf of Oman after its crew was ordered to abandon ship.",
-   "timestamp": "2026-09-05T14:35:10+00:00",
-   "has_media": true
   },
   {
    "id": "5d775f2aed00914fe6d83396bcb3cf90",
