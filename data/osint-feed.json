@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-07T22:20:24Z",
- "count": 29,
+ "generated_utc": "2026-09-08T00:32:16Z",
+ "count": 32,
  "items": [
+  {
+   "id": "cb428f739ff851429b6955dbfe1d84f0",
+   "url": "https://t.me/OSINTWarfare/6680",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi air defenses intercepted an Ansar Allah-launched drone over southern Saudi Arabia after it was launched from Yemen.",
+   "timestamp": "2026-09-07T23:42:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9f75f9b8eee98316ed73fa68a992713d",
+   "url": "https://t.me/OSINTWarfare/6679",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports indicate that columns of smoke are rising from the Jizan oil refinery in Saudi Arabia following an apparent drone and/or missile strike by Ansar Allah.",
+   "timestamp": "2026-09-07T23:25:23+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f5d10527d1c245dbb436166e060b39f6",
+   "url": "https://t.me/OSINTWarfare/6678",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows an Ansar Allah-launched loitering munition exploding in Khamis Mushait, southwestern Saudi Arabia.\nThe Royal Saudi Air Force (RSAF) King Khalid Air Base was targeted in a combined ballistic missile and drone attack.",
+   "timestamp": "2026-09-07T22:41:13+00:00",
+   "has_media": true
+  },
   {
    "id": "11029fb8932bb36f2b40ccce96f2bb5c",
    "url": "https://t.me/OSINTWarfare/6677",
