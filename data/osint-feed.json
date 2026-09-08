@@ -1,7 +1,70 @@
 {
- "generated_utc": "2026-09-08T17:33:30Z",
- "count": 40,
+ "generated_utc": "2026-09-08T20:11:09Z",
+ "count": 45,
  "items": [
+  {
+   "id": "ac11817bce5b8a45c033a3c610293f77",
+   "url": "https://t.me/OSINTWarfare/6698",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Two Iranian tankers have been struck off Kharg Island, while a third was hit near Jask.  An Iranian retaliatory response is expected within the next few hours.",
+   "timestamp": "2026-09-08T20:00:24+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3ed6b0a780ee39972235b2c1241b3ccc",
+   "url": "https://t.me/OSINTWarfare/6697",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran has released the first footage showing the captured U.S. Navy Dive-LD autonomous underwater vehicle (AUV).",
+   "timestamp": "2026-09-08T19:56:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "825652aa476839f6eea5b35409c5b9a0",
+   "url": "https://t.me/OSINTWarfare/6696",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The CIA’s headquarters in Riyadh was effectively destroyed, while several U.S. military bases in the region sustained extensive damage.\nThe U.S. Navy’s top admiral also said personnel will not be returning to Bahrain “anytime soon.” - CNN",
+   "timestamp": "2026-09-08T19:47:47+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3ef4d81fac5379006449b2bc4b42e68b",
+   "url": "https://t.me/OSINTWarfare/6695",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Two Iranian tankers have been struck off Kharg Island, while a third was hit near Jask.\nAn Iranian retaliatory response is expected within the next few hours.",
+   "timestamp": "2026-09-08T19:19:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1943748ace7fb1f2e1ebdac83f3df960",
+   "url": "https://t.me/warmonitors/45498",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nReport of explosions on the Iranian island of Kharj\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T19:04:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "533b9e88904415451ca261504c6e7294",
+   "url": "https://t.me/OSINTWarfare/6694",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy claims it monitored, ambushed, and captured a highly advanced U.S. unmanned underwater vehicle (UUV) in the Strait of Hormuz.  The UUV has been identified as the Dive-LD, an autonomous underwater vehicle (AUV) developed by Anduril. The Dive-LD…",
+   "timestamp": "2026-09-08T18:10:13+00:00",
+   "has_media": true
+  },
+  {
+   "id": "810b0e517f352e5a09f0254799c080ba",
+   "url": "https://t.me/OSINTWarfare/6693",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy claims it monitored, ambushed, and captured a highly advanced U.S. unmanned underwater vehicle (UUV) in the Strait of Hormuz.  The UUV has been identified as the Dive-LD, an autonomous underwater vehicle (AUV) developed by Anduril. The Dive-LD…",
+   "timestamp": "2026-09-08T18:01:26+00:00",
+   "has_media": false
+  },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
    "url": "https://t.me/MenchOsint/536",
@@ -181,24 +244,6 @@
    "text": "According to reports from Ukrainian monitoring channels, the Russian Armed Forces are preparing for a large-scale combined strike against targets across Ukraine.\nThe strike could involve up to 60 air-launched Kh-101 cruise missiles, around 30 Iskander-M and KN-23 ballistic missiles, as well as 3M22 Zircon hypersonic missiles, not including ballistic missiles based on the modified RM-48U.\nJet-powered loitering munitions are also expected to be used in the strikes.\nAs for the timing, the strike is highly likely to be carried out in the coming days. It is also possible that it could take place tonight, following a brief ban on strikes against targets in Kyiv.",
    "timestamp": "2026-09-07T22:02:37+00:00",
    "has_media": true
-  },
-  {
-   "id": "308fd0a9579d1c00882c2989b7d2c7d2",
-   "url": "https://t.me/warmonitors/45478",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nAndy Burnham will officially announce a trade ban on Israeli settlements in the West Bank tomorrow\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-07T20:09:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "68f86d8a0ffa2d0be9a37e4fee9ada34",
-   "url": "https://t.me/OSINTWarfare/6672",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released objective-control footage showing ballistic missile and/or guided rocket strikes on Al-Wadiah military camp, used by forces affiliated with the Saudi-backed Presidential Leadership Council (PLC).\nSeveral trucks were hit, apparently carrying fuel and ammunition. One of the missiles used appears to have been equipped with a cluster warhead.",
-   "timestamp": "2026-09-07T14:11:55+00:00",
-   "has_media": false
   },
   {
    "id": "5d775f2aed00914fe6d83396bcb3cf90",
