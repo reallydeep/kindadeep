@@ -1,7 +1,88 @@
 {
- "generated_utc": "2026-09-08T13:48:34Z",
- "count": 35,
+ "generated_utc": "2026-09-08T17:33:30Z",
+ "count": 40,
  "items": [
+  {
+   "id": "7b334653b61307c834b09f5daa716ec9",
+   "url": "https://t.me/MenchOsint/536",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "MenchOsint\nJust tweeted\n**********************************************\nMoment the U.S. MQ-1 was intercepted over the Strait of Hormuz earlier today.\nhttps://t.co/hpwoKMYYMY\nhttps://t.co/npNbEPWO1v",
+   "timestamp": "2026-09-08T17:25:19+00:00",
+   "has_media": false
+  },
+  {
+   "id": "850ca9cd6ed5d9a555365f9c3cc2e6f4",
+   "url": "https://t.me/OSINTWarfare/6692",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) are expanding their operations along the Al-Kadha front in western Taiz.  Ansar Allah fighters have advanced into the Al-Hanaya area, Al-Ghayla village, and the Al-Kadaha junction as part of a new offensive toward Al-Wazi'iyah District…",
+   "timestamp": "2026-09-08T17:07:10+00:00",
+   "has_media": false
+  },
+  {
+   "id": "617b5886ad7a01eede600c062254ca3a",
+   "url": "https://t.me/warmonitors/45496",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n🇬🇧\n🇮🇱\nThe list of British MPs that Israel has just banned from visiting the country\n1. Jeremy Corbyn\n2. Zarah Sultana\n3. Naz Shah\n4. Diane Abbott\n5. Hannah Spencer\n6. Carla Denyer\n7. Sian Berry\n8. Ellie Chowns\n9. John McDonnell\n10. Richard Burgon\n11. Adrian Ramsay\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T15:34:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8d69604ae3115a0b5bf17898c25f77e2",
+   "url": "https://t.me/warmonitors/45495",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\n🇬🇧\n🇮🇱\nIsrael will close the British consulate in Jerusalem in response to UK sanctions on settlements, foreign minister says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T15:34:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "21d17acb7227683d41b377f1a5d789a5",
+   "url": "https://t.me/OSINTWarfare/6690",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy claims it monitored, ambushed, and captured a highly advanced U.S. unmanned underwater vehicle (UUV) in the Strait of Hormuz.\nThe UUV has been identified as the Dive-LD, an autonomous underwater vehicle (AUV) developed by Anduril. The Dive-LD has a maximum endurance of up to 10 days and is rated to operate at depths of up to 6,000 meters.\nIts modular design allows it to carry different sensors and payloads for missions including intelligence, surveillance and reconnaissance (ISR), mine warfare, seafloor mapping, seabed operations, and precision payload placement. It has more than 1 m³ of payload capacity and can be launched from a pier or various vessels.",
+   "timestamp": "2026-09-08T15:05:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0617eecfe2f7a1aac1dca8651b99b2d3",
+   "url": "https://t.me/warmonitors/45492",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIranian TV claims drone was shot down over Bandar Abbas\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T13:59:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c3112df382aa9c9a07a05630f3781493",
+   "url": "https://t.me/warmonitors/45493",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n🇷🇺\n🇺🇦\nMore Insane footage of the moment of a Russian Kn-23 ballistic missile strike on Kyiv last night.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T13:59:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "10dea98aaa365815c1db6f0fe1c60010",
+   "url": "https://t.me/warmonitors/45491",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nEyewitnesses in Kyiv film the moment two ballistic missiles hitting the same location.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-08T13:54:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c487315f87ece624d4a97e69ecc5f631",
+   "url": "https://t.me/OSINTWarfare/6689",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
+   "timestamp": "2026-09-08T13:48:53+00:00",
+   "has_media": false
+  },
   {
    "id": "3e711fd7541bcf50583e20c25f51be15",
    "url": "https://t.me/warmonitors/45489",
@@ -118,42 +199,6 @@
    "text": "Ansar Allah (Houthis) has released objective-control footage showing ballistic missile and/or guided rocket strikes on Al-Wadiah military camp, used by forces affiliated with the Saudi-backed Presidential Leadership Council (PLC).\nSeveral trucks were hit, apparently carrying fuel and ammunition. One of the missiles used appears to have been equipped with a cluster warhead.",
    "timestamp": "2026-09-07T14:11:55+00:00",
    "has_media": false
-  },
-  {
-   "id": "62847b5f79c5ddcbe930d364b49f08a5",
-   "url": "https://t.me/warmonitors/45477",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nBoard of Peace Gaza rep Nikolay Mladenov: situation in Gaza and the West Bank makes the two-state solution “impossible”.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-07T09:59:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7e9a79612ec35b17bcf5168667e23600",
-   "url": "https://t.me/warmonitors/45476",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera: Source at Nasser Hospital: One martyr in an Israeli airstrike targeting a motorcycle in Khan Younis, southern Gaza Strip\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-07T09:54:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5e2867428ffbc0cd916be1c4b9857987",
-   "url": "https://t.me/warmonitors/45473",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera correspondent: Israeli drone strike on Nabatieh city in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-06T15:09:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b409ba68ecd5958108fc5552d09d41d7",
-   "url": "https://t.me/warmonitors/45471",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nOdds on a U.S x Iran diplomatic meeting before the end of this month is down to a whopping 7% chance.\nPeople have definitely given up on this ending anytime soon, what do you think?\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-06T14:49:25+00:00",
-   "has_media": true
   },
   {
    "id": "5d775f2aed00914fe6d83396bcb3cf90",
