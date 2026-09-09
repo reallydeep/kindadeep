@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-09T00:39:02Z",
+ "generated_utc": "2026-09-09T05:11:28Z",
  "count": 50,
  "items": [
+  {
+   "id": "52eb2337ffc985a1d85587511a2a6c7f",
+   "url": "https://t.me/OSINTWarfare/6717",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Following Monday’s failed offensive, the Southern Giants Brigades have sent new reinforcements to the border of Al-Azahir District, apparently preparing for another advance against Ansar Allah (Houthis) in the coming hours.",
+   "timestamp": "2026-09-09T01:05:28+00:00",
+   "has_media": false
+  },
   {
    "id": "d854a453a6592e76a82fc993d91c31cb",
    "url": "https://t.me/OSINTWarfare/6716",
@@ -216,15 +225,6 @@
    "channel": "OSINTWarfare",
    "text": "Two Iranian tankers have been struck off Kharg Island, while a third was hit near Jask.  An Iranian retaliatory response is expected within the next few hours.",
    "timestamp": "2026-09-08T20:00:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3ed6b0a780ee39972235b2c1241b3ccc",
-   "url": "https://t.me/OSINTWarfare/6697",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran has released the first footage showing the captured U.S. Navy Dive-LD autonomous underwater vehicle (AUV).",
-   "timestamp": "2026-09-08T19:56:46+00:00",
    "has_media": false
   },
   {
