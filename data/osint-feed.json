@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-09T09:46:45Z",
- "count": 49,
+ "generated_utc": "2026-09-09T13:56:45Z",
+ "count": 43,
  "items": [
+  {
+   "id": "1f7284b7fea5d9fd3d71f3288f3f5e6f",
+   "url": "https://t.me/OSINTWarfare/6723",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Clashes erupted in the Yemeni city of Dhale between forces affiliated with the Saudi-backed Presidential Leadership Council (PLC) and forces affiliated with the dissolved UAE-backed Southern Transitional Council (STC), including the Security Belt Forces and Storm Brigades, following a visit by PLC Defense Minister Taher al-Aqili.\nSTC-affiliated forces blocked all roads into and out of the city, trapping and besieging al-Aqili and his forces inside the al-Aboud Military Camp.",
+   "timestamp": "2026-09-09T13:00:07+00:00",
+   "has_media": true
+  },
+  {
+   "id": "77083d3e393aa64f2e27f6c2310694f2",
+   "url": "https://t.me/warmonitors/45516",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsraeli attack on Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-09T12:04:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1c180058ea680219623b43d419455765",
+   "url": "https://t.me/OSINTWarfare/6719",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The 6th Military Region Command (MRC) of the Saudi-backed Yemeni Armed Forces has entered the Al-Labanat Military Camp in the Al-Hazm direction, Al-Jawf Governorate, northern Yemen.\nFootage shows Yemeni forces navigating the defensive berms and trench system surrounding the camp.",
+   "timestamp": "2026-09-09T11:08:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "709db5d1d21e5223f451ab61f8ab250b",
+   "url": "https://t.me/OSINTWarfare/6718",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Geran-2/4 loitering munition operated by the 50th Separate Unmanned Systems Brigade “Varyag” destroyed a Ukrainian Air Force MiG-29MU1/MU2 multirole fighter at an airfield near Vasylkiv, Kyiv Oblast.\nOn September 9, the brigade received information that a Ukrainian fighter was preparing to land near Vasylkiv. During reconnaissance, a thermal signature with a distinctive heat trail was detected at the airfield, prompting a strike.\nFootage from the subsequent assessment shows the destruction of the Ukrainian MiG-29.",
+   "timestamp": "2026-09-09T10:50:24+00:00",
+   "has_media": false
+  },
   {
    "id": "142a84094664d99f84d6128334e7df2b",
    "url": "https://t.me/warmonitors/45512",
@@ -174,69 +210,6 @@
    "has_media": true
   },
   {
-   "id": "76f73ba7f8fddee664e2a275bc90b4fa",
-   "url": "https://t.me/OSINTWarfare/6705",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ballistic missile impacts were reported at Muwaffaq Salti Air Base in Jordan. Ballistic missiles equipped with cluster warheads were used.",
-   "timestamp": "2026-09-08T21:41:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1f658bfa6179a82cb1d831029794b15c",
-   "url": "https://t.me/OSINTWarfare/6704",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ballistic missile impacts were reported at Muwaffaq Salti Air Base in Jordan. Ballistic missiles equipped with cluster warheads were used.",
-   "timestamp": "2026-09-08T21:33:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a3b99887a92cf561a5038296c281a5b4",
-   "url": "https://t.me/OSINTWarfare/6702",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iran launched ballistic missiles from the areas of Isfahan, Khomeyn, and Yazd toward an unknown destination.",
-   "timestamp": "2026-09-08T21:27:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "58c54ac3db8462d15688b44277a5ab24",
-   "url": "https://t.me/OSINTWarfare/6701",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Southern Giants Brigades has released footage showing the destruction of a pickup truck belonging to Ansar Allah (Houthis) fighters using an improvised explosive device (IED), killing everyone on board, on the Al-Bayda front.",
-   "timestamp": "2026-09-08T21:20:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5bee123e6d49377d23c75a4b791b8c02",
-   "url": "https://t.me/OSINTWarfare/6700",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two hours ago, over a 90-minute period, Ansar Allah (Houthis) launched more than 22 drones toward southern Saudi Arabia.",
-   "timestamp": "2026-09-08T21:12:00+00:00",
-   "has_media": false
-  },
-  {
-   "id": "531254e4f69fd5195f30dde50c7f80fc",
-   "url": "https://t.me/OSINTWarfare/6699",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two Iranian tankers have been struck off Kharg Island, while a third was hit near Jask.  An Iranian retaliatory response is expected within the next few hours.",
-   "timestamp": "2026-09-08T20:44:14+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ac11817bce5b8a45c033a3c610293f77",
-   "url": "https://t.me/OSINTWarfare/6698",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Two Iranian tankers have been struck off Kharg Island, while a third was hit near Jask.  An Iranian retaliatory response is expected within the next few hours.",
-   "timestamp": "2026-09-08T20:00:24+00:00",
-   "has_media": false
-  },
-  {
    "id": "1943748ace7fb1f2e1ebdac83f3df960",
    "url": "https://t.me/warmonitors/45498",
    "source": "telegram",
@@ -253,33 +226,6 @@
    "text": "MenchOsint\nJust tweeted\n**********************************************\nMoment the U.S. MQ-1 was intercepted over the Strait of Hormuz earlier today.\nhttps://t.co/hpwoKMYYMY\nhttps://t.co/npNbEPWO1v",
    "timestamp": "2026-09-08T17:25:19+00:00",
    "has_media": false
-  },
-  {
-   "id": "617b5886ad7a01eede600c062254ca3a",
-   "url": "https://t.me/warmonitors/45496",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n🇬🇧\n🇮🇱\nThe list of British MPs that Israel has just banned from visiting the country\n1. Jeremy Corbyn\n2. Zarah Sultana\n3. Naz Shah\n4. Diane Abbott\n5. Hannah Spencer\n6. Carla Denyer\n7. Sian Berry\n8. Ellie Chowns\n9. John McDonnell\n10. Richard Burgon\n11. Adrian Ramsay\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-08T15:34:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8d69604ae3115a0b5bf17898c25f77e2",
-   "url": "https://t.me/warmonitors/45495",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\n🇬🇧\n🇮🇱\nIsrael will close the British consulate in Jerusalem in response to UK sanctions on settlements, foreign minister says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-08T15:34:25+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c3112df382aa9c9a07a05630f3781493",
-   "url": "https://t.me/warmonitors/45493",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n🇷🇺\n🇺🇦\nMore Insane footage of the moment of a Russian Kn-23 ballistic missile strike on Kyiv last night.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-08T13:59:26+00:00",
-   "has_media": true
   },
   {
    "id": "5d775f2aed00914fe6d83396bcb3cf90",
