@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-10T09:03:09Z",
- "count": 36,
+ "generated_utc": "2026-09-10T13:30:35Z",
+ "count": 31,
  "items": [
+  {
+   "id": "013c0c007eed3fc299bda5021cb55c82",
+   "url": "https://t.me/OSINTWarfare/6758",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "After taking the city of Al-Mukha (Mokha), Ansar Allah is expected to continue its advance toward the small coastal town of Dhubab. I don’t think the opposing forces will put up much resistance there.",
+   "timestamp": "2026-09-10T12:09:44+00:00",
+   "has_media": false
+  },
   {
    "id": "8c377cde5e4947efa65d2af1919f909a",
    "url": "https://t.me/OSINTWarfare/6756",
@@ -66,42 +75,6 @@
    "has_media": false
   },
   {
-   "id": "3720099d9fc4bbc89b90a8a5a598c110",
-   "url": "https://t.me/OSINTWarfare/6741",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Southern Giants Brigades and National Resistance Forces (NRF) burned their equipment on Jabal al-Nar in the Al-Mukha (Mocha) direction ahead of their withdrawal from the area following clashes with Ansar Allah forces.\nThe Royal Saudi Air Force (RSAF) also carried out airstrikes against Ansar Allah positions on the outskirts of Jabal al-Nar.\nThe area is now confirmed to be under Ansar Allah control, with their forces advancing toward Al-Mukha (Mocha).",
-   "timestamp": "2026-09-09T23:33:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1a1170ff718d51141f31342bcb7d2c9a",
-   "url": "https://t.me/OSINTWarfare/6739",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) targeted King Fahd Air Base in Taif, southern Saudi Arabia, with several ballistic missiles.",
-   "timestamp": "2026-09-09T22:09:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b8e9a1e7462763319fd39375fef98329",
-   "url": "https://t.me/OSINTWarfare/6738",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Mahdi al-Mashat, head of the Houthi-led Supreme Political Council, has issued a presidential amnesty for all “deceived” armed fighters loyal to Saudi Arabia on the western coast fronts who lay down their weapons.",
-   "timestamp": "2026-09-09T21:52:53+00:00",
-   "has_media": false
-  },
-  {
-   "id": "941259db3545e02019241a11aa85efd6",
-   "url": "https://t.me/OSINTWarfare/6736",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen's Ansar Allah (Houthis) have severed the Taiz–Al-Mukha link after capturing Al-Kadha in southeastern Yemen. Ansar Allah forces are advancing toward Al-Barih and attempting to encircle Taiz City while pushing west toward Al-Mukha, around 37 km away. …",
-   "timestamp": "2026-09-09T21:25:31+00:00",
-   "has_media": true
-  },
-  {
    "id": "bc177a548f0d05675295b5d42dac585d",
    "url": "https://t.me/warmonitors/45526",
    "source": "telegram",
@@ -136,24 +109,6 @@
    "text": "⚡️\n#BREAKING\nIsraeli attack on Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-09T12:04:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "142a84094664d99f84d6128334e7df2b",
-   "url": "https://t.me/warmonitors/45512",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Following remarks by the Israeli government regarding the sovereignty of the Falkland Islands, the conservative party took it upon themselves to have a nice convo with Gideon Sa’ ar.\nTraitorous cuckery at its finest. Good thing Badenoch will never be PM, shocking.\nx.com/gidonsaar/stat…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-09T09:14:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "02ef2c49edd7b4f127b66b788f6cfc61",
-   "url": "https://t.me/warmonitors/45509",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nJordanian Army: We were subjected to a missile attack originating from Iranian territory\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-08T23:39:25+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
