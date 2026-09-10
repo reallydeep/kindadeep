@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-10T17:08:05Z",
- "count": 32,
+ "generated_utc": "2026-09-10T19:36:16Z",
+ "count": 33,
  "items": [
+  {
+   "id": "e7823f908c6eb5b2bfe52873b19bc266",
+   "url": "https://t.me/OSINTWarfare/6772",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "King Khalid Air Base near Khamis Mushait is under ballistic missile attack by Ansar Allah forces.",
+   "timestamp": "2026-09-10T19:18:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b88205073079f2b261f8c0e12f028c6d",
+   "url": "https://t.me/OSINTWarfare/6771",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of Royal Saudi Air Force (RSAF) airstrikes on the Ansar Allah-controlled coastal city of Mokha (Mocha).",
+   "timestamp": "2026-09-10T19:10:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6f5020e03b6e6a4925cb7c816c54cfc7",
+   "url": "https://t.me/OSINTWarfare/6770",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF carried out large-scale demolitions of a Hezbollah underground complex at the Ali al-Taher Ridge, with massive explosions heard across southern Lebanon.",
+   "timestamp": "2026-09-10T18:29:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "40e7ecf58d23211cd10f8444de28b62f",
+   "url": "https://t.me/OSINTWarfare/6768",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IDF carried out large-scale demolitions of a Hezbollah underground complex at the Ali al-Taher Ridge, with massive explosions heard across southern Lebanon.",
+   "timestamp": "2026-09-10T18:23:55+00:00",
+   "has_media": true
+  },
   {
    "id": "ae234f5dec57f6d4ac25257761b218c8",
    "url": "https://t.me/OSINTWarfare/6766",
@@ -63,33 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "During last night’s Iranian strikes on Muwaffaq Salti Air Base in Jordan, an A-10 “Warthog” was damaged, with one wing missing. Approximately eight F-15s were also damaged but have since returned to service.",
    "timestamp": "2026-09-10T02:10:38+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d0dab020a0e02759639595e977be1236",
-   "url": "https://t.me/OSINTWarfare/6752",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage recorded 3–4 hours ago shows a ballistic missile launched by Ansar Allah impacting King Khalid Air Base, east of Khamis Mushait in southwestern Saudi Arabia.",
-   "timestamp": "2026-09-10T01:57:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "081c7c34bcd32cf169afc08419a5b9b2",
-   "url": "https://t.me/OSINTWarfare/6749",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Sirens are sounding in Khamis Mushait and Abha, Saudi Arabia, following an Ansar Allah ballistic missile attack.",
-   "timestamp": "2026-09-10T01:05:40+00:00",
-   "has_media": false
-  },
-  {
-   "id": "37bbaed4accf6b9fd0ba3758488f903f",
-   "url": "https://t.me/OSINTWarfare/6748",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Sirens are sounding in Khamis Mushait and Abha, Saudi Arabia, following an Ansar Allah ballistic missile attack.",
-   "timestamp": "2026-09-10T00:55:05+00:00",
    "has_media": false
   },
   {
