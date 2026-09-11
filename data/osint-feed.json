@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-10T23:25:55Z",
- "count": 33,
+ "generated_utc": "2026-09-11T01:14:26Z",
+ "count": 31,
  "items": [
+  {
+   "id": "6f3d4d008bbb3fe70a4d940e69af0343",
+   "url": "https://t.me/OSINTWarfare/6775",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Earlier tonight, Russian strikes hit another major Ukrainian ammunition depot, triggering a large fire and multiple secondary explosions in the settlement of Hostomel, Kyiv Oblast.\n@IntelSlava",
+   "timestamp": "2026-09-11T01:00:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "14007897e025d76ef62b028246f60a71",
+   "url": "https://t.me/OSINTWarfare/6773",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "During Ansar Allah’s offensive on Yemen’s west coast, Tariq Saleh’s National Resistance Forces withdrew without evacuating wounded personnel from Hays, Al-Khukhah, and Mokha, leaving them behind.\nEven the forces stationed on the Hanish Islands and Zuqar Island were not provided with evacuation boats, leaving two battalions to be captured by Ansar Allah forces.",
+   "timestamp": "2026-09-10T23:43:32+00:00",
+   "has_media": false
+  },
   {
    "id": "e7823f908c6eb5b2bfe52873b19bc266",
    "url": "https://t.me/OSINTWarfare/6772",
@@ -63,42 +81,6 @@
    "channel": "OSINTWarfare",
    "text": "After taking the city of Al-Mukha (Mokha), Ansar Allah is expected to continue its advance toward the small coastal town of Dhubab. I don’t think the opposing forces will put up much resistance there.",
    "timestamp": "2026-09-10T12:09:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8c377cde5e4947efa65d2af1919f909a",
-   "url": "https://t.me/OSINTWarfare/6756",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "After taking the city of Al-Mukha (Mokha), Ansar Allah is expected to continue its advance toward the small coastal town of Dhubab. I don’t think the opposing forces will put up much resistance there.",
-   "timestamp": "2026-09-10T03:21:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "266d388fc144f023c8a5d301625b6849",
-   "url": "https://t.me/OSINTWarfare/6755",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During last night’s Iranian strikes on Muwaffaq Salti Air Base in Jordan, an A-10 “Warthog” was damaged, with one wing missing. Approximately eight F-15s were also damaged but have since returned to service.",
-   "timestamp": "2026-09-10T03:11:28+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1bcab439e5a7f132dc7886c1fc2c5bc6",
-   "url": "https://t.me/OSINTWarfare/6754",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi airstrikes targeted the Ansar Allah-controlled city of Al-Hudaydah (Hodeidah) in western Yemen.",
-   "timestamp": "2026-09-10T02:51:19+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8b51af51455be07e3f9783074f124565",
-   "url": "https://t.me/OSINTWarfare/6753",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During last night’s Iranian strikes on Muwaffaq Salti Air Base in Jordan, an A-10 “Warthog” was damaged, with one wing missing. Approximately eight F-15s were also damaged but have since returned to service.",
-   "timestamp": "2026-09-10T02:10:38+00:00",
    "has_media": false
   },
   {
