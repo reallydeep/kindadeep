@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-09-11T06:00:53Z",
- "count": 31,
+ "generated_utc": "2026-09-11T11:08:53Z",
+ "count": 35,
  "items": [
+  {
+   "id": "cc811df94f9592180a3950304224fe3f",
+   "url": "https://t.me/warmonitors/45539",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIranian-backed Houthi broadcaster says Saudi airstrikes have hit rebel-held Mokha airport in Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-11T09:24:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "604e8fd922edf6ad067cd8af653ed305",
+   "url": "https://t.me/warmonitors/45540",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsraeli airstrikes on southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-11T09:24:26+00:00",
+   "has_media": true
+  },
+  {
+   "id": "aafced8a391573d81b1c5d80a16be722",
+   "url": "https://t.me/OSINTWarfare/6779",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Crown Prince Mohammed bin Salman (MBS) called U.S. President Donald Trump twice on Thursday, urging him to strike the Houthis. Trump refused.\nCENTCOM commander Admiral Brad Cooper flew to Riyadh on Thursday for emergency coordination.",
+   "timestamp": "2026-09-11T08:05:52+00:00",
+   "has_media": true
+  },
+  {
+   "id": "86df19be688eb5518045fa8d25d829cb",
+   "url": "https://t.me/OSINTWarfare/6778",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Anti-junta People’s Defence Force (PDF) rebels have struck a Myanmar Air Force Yak-130 jet with an FPV drone at Tada-U Air Base in Mandalay.",
+   "timestamp": "2026-09-11T07:39:29+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f3d236943e76aebf3d4f740964b80ab4",
+   "url": "https://t.me/OSINTWarfare/6777",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "According to pro-Presidential Leadership Council (PLC) sources, around 2,000 soldiers were captured by Ansar Allah forces on the Hanish Islands and Zuqar Island.\nThe soldiers were reportedly abandoned and, after becoming exhausted from the fighting, were informed via communications that Mahdi al-Mashat, head of the Houthi-led Supreme Political Council, had issued a presidential amnesty for those who laid down their weapons.\nThey surrendered shortly afterward.",
+   "timestamp": "2026-09-11T07:15:27+00:00",
+   "has_media": true
+  },
   {
    "id": "6f3d4d008bbb3fe70a4d940e69af0343",
    "url": "https://t.me/OSINTWarfare/6775",
@@ -72,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "🇾🇪\n📢\nThe Houthis appear to be conversating about Socatra Island and how it would expand their military reach with Al-Shabaab + strategic value of holding the island.",
    "timestamp": "2026-09-10T14:32:06+00:00",
-   "has_media": false
-  },
-  {
-   "id": "013c0c007eed3fc299bda5021cb55c82",
-   "url": "https://t.me/OSINTWarfare/6758",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "After taking the city of Al-Mukha (Mokha), Ansar Allah is expected to continue its advance toward the small coastal town of Dhubab. I don’t think the opposing forces will put up much resistance there.",
-   "timestamp": "2026-09-10T12:09:44+00:00",
    "has_media": false
   },
   {
