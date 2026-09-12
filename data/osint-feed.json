@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-12T00:45:17Z",
- "count": 40,
+ "generated_utc": "2026-09-12T05:06:43Z",
+ "count": 41,
  "items": [
+  {
+   "id": "856fd4d4248906d67746282829977fa5",
+   "url": "https://t.me/OSINTWarfare/6795",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Update on the Marib front:\nAnsar Allah forces are continuing their assault toward Marib from the southwest, attempting to advance toward Manin Al-Ashraf while pushing north along the Marib–Ataq Highway.\nWest of Marib, Ansar Allah forces are pushing eastward toward the city from the Sirwah Road and the Sanaa–Marib Highway. Clashes are already taking place on the outskirts of Marib.\nIn the northwest, elements of the Yemeni Army's 3rd and 7th Military Regions remain present and in control of the village of Asdas. There are no reports of clashes there so far.\nBased on what we have seen on other fronts, many of which are collapsing rapidly, Asdas may not hold for long if Ansar Allah continues advancing. The situation around Marib is also becoming increasingly serious, with reports that military convoys have begun preparing for an evacuation should attempts to push Ansar Allah back fail.",
+   "timestamp": "2026-09-12T02:45:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1eebc62274fc73f32dbaa65004604d1e",
+   "url": "https://t.me/OSINTWarfare/6794",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in Sharurah, Najran Province, southern Saudi Arabia.",
+   "timestamp": "2026-09-12T01:15:25+00:00",
+   "has_media": false
+  },
   {
    "id": "2891151e6268579a6bbf6c8e07925c55",
    "url": "https://t.me/OSINTWarfare/6792",
@@ -181,15 +199,6 @@
    "text": "🇷🇺\n🇺🇦\n⚡️\n— Earlier tonight, Russian strikes hit another major Ukrainian ammunition depot, triggering a large fire and multiple secondary explosions in the settlement of Hostomel, Kyiv Oblast.\n@IntelSlava",
    "timestamp": "2026-09-11T01:00:08+00:00",
    "has_media": true
-  },
-  {
-   "id": "14007897e025d76ef62b028246f60a71",
-   "url": "https://t.me/OSINTWarfare/6773",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During Ansar Allah’s offensive on Yemen’s west coast, Tariq Saleh’s National Resistance Forces withdrew without evacuating wounded personnel from Hays, Al-Khukhah, and Mokha, leaving them behind.\nEven the forces stationed on the Hanish Islands and Zuqar Island were not provided with evacuation boats, leaving two battalions to be captured by Ansar Allah forces.",
-   "timestamp": "2026-09-10T23:43:32+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
