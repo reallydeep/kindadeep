@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-12T12:51:46Z",
- "count": 41,
+ "generated_utc": "2026-09-12T15:54:36Z",
+ "count": 40,
  "items": [
+  {
+   "id": "894c73690ff65e8badd312c0fac663b6",
+   "url": "https://t.me/OSINTWarfare/6802",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen Civil War — Situation on the Aden Front:\nOver the past few hours, Ansar Allah forces have intensified their attacks toward Aden in southwestern Yemen, following their capture of Bab al-Mandab on September 10.\nAnsar Allah forces have captured and established full control over the Ras Al-Arah area and the mountains overlooking it, west of Aden.",
+   "timestamp": "2026-09-12T15:19:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0664936cca22b9a84770093935e5643d",
+   "url": "https://t.me/OSINTWarfare/6799",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Early this morning, clashes erupted between Iranian security forces and the People's Fighters Front, formerly known as Jaysh al-Adl, following a raid by Iranian forces on one of the group's safe houses in Saravan, Sistan and Baluchestan Province, southeastern Iran.\nThe clashes have been ongoing for approximately 11 hours. Pro-IRGC sources claim that weapons and fighters entered the area from outside the region.",
+   "timestamp": "2026-09-12T14:23:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0c8fc4765848fe236272fe11d2a403d5",
+   "url": "https://t.me/OSINTWarfare/6798",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A massive convoy of Yemeni prisoners of war made its way from Mocha to Sanaa, greeted by crowds in cities and towns along the route.",
+   "timestamp": "2026-09-12T14:09:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "87e237f65692d27f5591654c26638620",
+   "url": "https://t.me/OSINTWarfare/6797",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A local in Jordan recently found the infrared seeker of an MIM-401 (Talon) interceptor, used by the U.S. THAAD anti-ballistic missile (ABM) system.",
+   "timestamp": "2026-09-12T13:51:01+00:00",
+   "has_media": true
+  },
   {
    "id": "856fd4d4248906d67746282829977fa5",
    "url": "https://t.me/OSINTWarfare/6795",
@@ -138,15 +174,6 @@
    "has_media": true
   },
   {
-   "id": "726e0f01184c635fbff1c17ea00ecbfa",
-   "url": "https://t.me/OSINTWarfare/6780",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery released by CNN shows extensive damage to two pumping stations, Al-Dhekra and Al-Mesba'ah, along Saudi Arabia’s East-West Oil Pipeline. Al-Mesba'ah appears to have been completely destroyed.\nA U.S. official said the attack involved drones launched from Iraq.",
-   "timestamp": "2026-09-11T17:07:38+00:00",
-   "has_media": true
-  },
-  {
    "id": "cc811df94f9592180a3950304224fe3f",
    "url": "https://t.me/warmonitors/45539",
    "source": "telegram",
@@ -162,42 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\n#BREAKING\nIsraeli airstrikes on southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-11T09:24:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "aafced8a391573d81b1c5d80a16be722",
-   "url": "https://t.me/OSINTWarfare/6779",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Saudi Crown Prince Mohammed bin Salman (MBS) called U.S. President Donald Trump twice on Thursday, urging him to strike the Houthis. Trump refused.\nCENTCOM commander Admiral Brad Cooper flew to Riyadh on Thursday for emergency coordination.",
-   "timestamp": "2026-09-11T08:05:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "86df19be688eb5518045fa8d25d829cb",
-   "url": "https://t.me/OSINTWarfare/6778",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Anti-junta People’s Defence Force (PDF) rebels have struck a Myanmar Air Force Yak-130 jet with an FPV drone at Tada-U Air Base in Mandalay.",
-   "timestamp": "2026-09-11T07:39:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f3d236943e76aebf3d4f740964b80ab4",
-   "url": "https://t.me/OSINTWarfare/6777",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "According to pro-Presidential Leadership Council (PLC) sources, around 2,000 soldiers were captured by Ansar Allah forces on the Hanish Islands and Zuqar Island.\nThe soldiers were reportedly abandoned and, after becoming exhausted from the fighting, were informed via communications that Mahdi al-Mashat, head of the Houthi-led Supreme Political Council, had issued a presidential amnesty for those who laid down their weapons.\nThey surrendered shortly afterward.",
-   "timestamp": "2026-09-11T07:15:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6f3d4d008bbb3fe70a4d940e69af0343",
-   "url": "https://t.me/OSINTWarfare/6775",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Earlier tonight, Russian strikes hit another major Ukrainian ammunition depot, triggering a large fire and multiple secondary explosions in the settlement of Hostomel, Kyiv Oblast.\n@IntelSlava",
-   "timestamp": "2026-09-11T01:00:08+00:00",
    "has_media": true
   },
   {
