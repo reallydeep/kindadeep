@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-11T22:50:40Z",
+ "generated_utc": "2026-09-12T00:45:17Z",
  "count": 40,
  "items": [
+  {
+   "id": "2891151e6268579a6bbf6c8e07925c55",
+   "url": "https://t.me/OSINTWarfare/6792",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Royal Saudi Air Force (RSAF) bases King Fahd Air Base and King Khalid Air Base came under an Ansar Allah ballistic missile attack.",
+   "timestamp": "2026-09-11T23:12:40+00:00",
+   "has_media": false
+  },
   {
    "id": "87ac69d59e1b103d8f5050ab9fd60270",
    "url": "https://t.me/OSINTWarfare/6791",
@@ -180,15 +189,6 @@
    "channel": "OSINTWarfare",
    "text": "During Ansar Allah’s offensive on Yemen’s west coast, Tariq Saleh’s National Resistance Forces withdrew without evacuating wounded personnel from Hays, Al-Khukhah, and Mokha, leaving them behind.\nEven the forces stationed on the Hanish Islands and Zuqar Island were not provided with evacuation boats, leaving two battalions to be captured by Ansar Allah forces.",
    "timestamp": "2026-09-10T23:43:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e7823f908c6eb5b2bfe52873b19bc266",
-   "url": "https://t.me/OSINTWarfare/6772",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "King Khalid Air Base near Khamis Mushait is under ballistic missile attack by Ansar Allah forces.",
-   "timestamp": "2026-09-10T19:18:27+00:00",
    "has_media": false
   },
   {
