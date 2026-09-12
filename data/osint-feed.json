@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-12T21:41:47Z",
+ "generated_utc": "2026-09-12T23:24:46Z",
  "count": 41,
  "items": [
+  {
+   "id": "978ab4c1ee0b270b7d3f89c588184fd3",
+   "url": "https://t.me/OSINTWarfare/6803",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah fighters and military vehicles in the coastal city of Mokha, southwestern Yemen.",
+   "timestamp": "2026-09-12T23:12:38+00:00",
+   "has_media": true
+  },
   {
    "id": "237d006011652dc6305fd3b3527421b8",
    "url": "https://t.me/warmonitors/45556",
@@ -172,15 +181,6 @@
    "text": "⚡️\nIn Iran, reports are emerging of several explosions heard in the Strait of Hormuz.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-11T18:19:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "47e31beebac1a22451caf9952f49be12",
-   "url": "https://t.me/OSINTWarfare/6783",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Royal Saudi Air Force (RSAF) carried out 10 airstrikes targeting equipment and weapons storage facilities abandoned by Saudi-backed forces in Dhubab to prevent them from falling into Ansar Allah's hands.",
-   "timestamp": "2026-09-11T17:50:53+00:00",
-   "has_media": true
   },
   {
    "id": "cc811df94f9592180a3950304224fe3f",
