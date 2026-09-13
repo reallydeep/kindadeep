@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-13T01:12:34Z",
- "count": 41,
+ "generated_utc": "2026-09-13T06:10:38Z",
+ "count": 42,
  "items": [
+  {
+   "id": "0835969eefd3449afe0e63a5ca6739f4",
+   "url": "https://t.me/OSINTWarfare/6807",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Update on the Marib front:  Ansar Allah forces are continuing their assault toward Marib from the southwest, attempting to advance toward Manin Al-Ashraf while pushing north along the Marib–Ataq Highway.  West of Marib, Ansar Allah forces are pushing eastward…",
+   "timestamp": "2026-09-13T01:20:59+00:00",
+   "has_media": false
+  },
   {
    "id": "275fc8c0185b891b6741868ebc058b60",
    "url": "https://t.me/OSINTWarfare/6805",
