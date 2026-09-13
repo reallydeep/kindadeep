@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-12T23:24:46Z",
+ "generated_utc": "2026-09-13T01:12:34Z",
  "count": 41,
  "items": [
+  {
+   "id": "275fc8c0185b891b6741868ebc058b60",
+   "url": "https://t.me/OSINTWarfare/6805",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi-backed Presidential Leadership Council (PLC) forces in Yemen have released footage showing the wreckage of a UCAV, falsely claiming that it belonged to Ansar Allah.\nThe wreckage shown in the footage is from a Chinese-made CH-4B Rainbow unmanned combat aerial vehicle (UCAV), along with AR-1 air-to-ground anti-tank missiles, which are operated by the Royal Saudi Air Force (RSAF).",
+   "timestamp": "2026-09-13T00:28:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "82dfed62ad15f47c5e7af85b892ac194",
+   "url": "https://t.me/OSINTWarfare/6804",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy struck the Riyan Star dry bulk carrier with an anti-ship cruise missile in the Strait of Hormuz.",
+   "timestamp": "2026-09-12T23:44:39+00:00",
+   "has_media": false
+  },
   {
    "id": "978ab4c1ee0b270b7d3f89c588184fd3",
    "url": "https://t.me/OSINTWarfare/6803",
@@ -126,24 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "Clashes are currently ongoing between Ansar Allah forces and the First Division of the Emergency Forces on the northern outskirts of Marib.\nThe Emergency Forces have emptied the Central Bank as part of preparations to evacuate the city and withdraw toward Wadi Hadramawt.",
    "timestamp": "2026-09-11T20:16:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d8f5a4dd0774311803b1466bbd5a9505",
-   "url": "https://t.me/OSINTWarfare/6785",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemeni Air Force (YAF) carried out airstrikes targeting Ansar Allah positions and military equipment in Dhubab, on Yemen’s western coast.",
-   "timestamp": "2026-09-11T19:34:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7049e289ea9c566b753a3d712ab5f6f5",
-   "url": "https://t.me/OSINTWarfare/6784",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery released by CNN shows extensive damage to two pumping stations, Al-Dhekra and Al-Mesba'ah, along Saudi Arabia’s East-West Oil Pipeline. Al-Mesba'ah appears to have been completely destroyed.  A U.S. official said the attack involved drones…",
-   "timestamp": "2026-09-11T19:19:16+00:00",
    "has_media": false
   },
   {
