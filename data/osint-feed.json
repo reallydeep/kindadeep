@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-13T11:53:14Z",
- "count": 41,
+ "generated_utc": "2026-09-13T15:10:21Z",
+ "count": 40,
  "items": [
+  {
+   "id": "256045521c40567fdef90c8bece65816",
+   "url": "https://t.me/OSINTWarfare/6809",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Boris Johnson, German Chancellor Merz’s top security adviser, and security advisers from the UK, France and Italy were all aboard a chartered night train departing Kyiv when a Russian drone struck the locomotive of a passenger train near the Yahodyn–Dorohusk border crossing, just 2 km from the Polish border.",
+   "timestamp": "2026-09-13T14:09:54+00:00",
+   "has_media": true
+  },
   {
    "id": "d04f144683f421eab0ee2ed745a3b52c",
    "url": "https://t.me/warmonitors/45559",
@@ -144,24 +153,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nSaudi Foreign Ministry blames oil pipeline attack on drones that came from Iraq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-11T20:59:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "626c4981fa08b7497d18faaa2e2df3dc",
-   "url": "https://t.me/OSINTWarfare/6789",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Clashes are currently ongoing between Ansar Allah forces and the First Division of the Emergency Forces on the northern outskirts of Marib.  The Emergency Forces have emptied the Central Bank as part of preparations to evacuate the city and withdraw toward…",
-   "timestamp": "2026-09-11T20:58:57+00:00",
-   "has_media": false
-  },
-  {
-   "id": "37fb8373ab5ac01d79d0eaea797025f8",
-   "url": "https://t.me/OSINTWarfare/6788",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Clashes are currently ongoing between Ansar Allah forces and the First Division of the Emergency Forces on the northern outskirts of Marib.\nThe Emergency Forces have emptied the Central Bank as part of preparations to evacuate the city and withdraw toward Wadi Hadramawt.",
-   "timestamp": "2026-09-11T20:16:41+00:00",
    "has_media": false
   },
   {
