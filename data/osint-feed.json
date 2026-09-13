@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-13T20:50:29Z",
- "count": 38,
+ "generated_utc": "2026-09-13T22:41:54Z",
+ "count": 37,
  "items": [
+  {
+   "id": "0aa049f8cdf00ff12bf50d192cef5c2d",
+   "url": "https://t.me/OSINTWarfare/6818",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A small update on the situation on the Taiz front:  Ansar Allah are pushing toward Najd al-Nashamah, south of Taiz City. It remains unclear whether they have captured the area, but clashes are ongoing with the Homeland Shield Forces (National Shield Forces).…",
+   "timestamp": "2026-09-13T22:38:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "960e74c7aaf1ed23ba32c5cb0724ce1e",
+   "url": "https://t.me/OSINTWarfare/6817",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the launch of a ballistic missile from Iran toward the Strait of Hormuz. The missile appears to be an anti-ship ballistic missile (ASBM).",
+   "timestamp": "2026-09-13T22:32:55+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2c3812cd1a52b857664145d9dc8b2d46",
+   "url": "https://t.me/warmonitors/45567",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSky News Arabia: Iranian media: Several explosions heard in the Sirik region of Iran; source unknown.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-13T22:09:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ebcaeecd92f09078c3d8520c117991ca",
+   "url": "https://t.me/OSINTWarfare/6816",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Three explosions were heard in the vicinity of Al-Suwayda, north of Marib city, reportedly caused by Ansar Allah missile strikes.",
+   "timestamp": "2026-09-13T21:29:05+00:00",
+   "has_media": false
+  },
   {
    "id": "b2d959e610485db6ac18ed84989a9397",
    "url": "https://t.me/OSINTWarfare/6812",
@@ -120,57 +156,12 @@
    "has_media": true
   },
   {
-   "id": "0c8fc4765848fe236272fe11d2a403d5",
-   "url": "https://t.me/OSINTWarfare/6798",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A massive convoy of Yemeni prisoners of war made its way from Mocha to Sanaa, greeted by crowds in cities and towns along the route.",
-   "timestamp": "2026-09-12T14:09:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "87e237f65692d27f5591654c26638620",
-   "url": "https://t.me/OSINTWarfare/6797",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A local in Jordan recently found the infrared seeker of an MIM-401 (Talon) interceptor, used by the U.S. THAAD anti-ballistic missile (ABM) system.",
-   "timestamp": "2026-09-12T13:51:01+00:00",
-   "has_media": true
-  },
-  {
-   "id": "856fd4d4248906d67746282829977fa5",
-   "url": "https://t.me/OSINTWarfare/6795",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Update on the Marib front:\nAnsar Allah forces are continuing their assault toward Marib from the southwest, attempting to advance toward Manin Al-Ashraf while pushing north along the Marib–Ataq Highway.\nWest of Marib, Ansar Allah forces are pushing eastward toward the city from the Sirwah Road and the Sanaa–Marib Highway. Clashes are already taking place on the outskirts of Marib.\nIn the northwest, elements of the Yemeni Army's 3rd and 7th Military Regions remain present and in control of the village of Asdas. There are no reports of clashes there so far.\nBased on what we have seen on other fronts, many of which are collapsing rapidly, Asdas may not hold for long if Ansar Allah continues advancing. The situation around Marib is also becoming increasingly serious, with reports that military convoys have begun preparing for an evacuation should attempts to push Ansar Allah back fail.",
-   "timestamp": "2026-09-12T02:45:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1eebc62274fc73f32dbaa65004604d1e",
-   "url": "https://t.me/OSINTWarfare/6794",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Sharurah, Najran Province, southern Saudi Arabia.",
-   "timestamp": "2026-09-12T01:15:25+00:00",
-   "has_media": false
-  },
-  {
    "id": "fcdadb7ea42b33535b18a88141417bf4",
    "url": "https://t.me/warmonitors/45549",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nSaudi Foreign Ministry blames oil pipeline attack on drones that came from Iraq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-11T20:59:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5acdff262cdb718c1d71a2c9aef248a4",
-   "url": "https://t.me/warmonitors/45547",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Get me away from Al Qaeda Kirk bro\n😭\nx.com/wohnwarston/st…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-11T19:14:26+00:00",
    "has_media": false
   },
   {
