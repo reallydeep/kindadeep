@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-13T15:10:21Z",
- "count": 40,
+ "generated_utc": "2026-09-13T18:12:29Z",
+ "count": 39,
  "items": [
+  {
+   "id": "7003f91ade18740684adf2cf46922c65",
+   "url": "https://t.me/OSINTWarfare/6811",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Yemeni Air Force or Royal Saudi Air Force airstrikes targeting Ansar Allah vehicles and positions in Al-Mukha (Mokha) and Dhubab, western Yemen.",
+   "timestamp": "2026-09-13T17:10:22+00:00",
+   "has_media": true
+  },
+  {
+   "id": "08ff7c5cb4c862c25d149a71e93b246f",
+   "url": "https://t.me/warmonitors/45564",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Manar correspondent: Israeli  artillery attacked the town of Beit Yahoun in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-13T16:24:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "33342ecf60bb4bf8da2c4a6d33f87971",
+   "url": "https://t.me/OSINTWarfare/6810",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen Civil War — Situation on the Taiz Front:  Over the past few hours, Ansar Allah forces have taken control of the villages of Al-Dhariba, Akmat Al-Qasas, Wadi Shibaq, Al-Burjah, Jundayn, Shat Al-Raqaa, Al-Mazandah, Al-Khadra, and Al-Jinan in Jabal Habashi…",
+   "timestamp": "2026-09-13T15:45:39+00:00",
+   "has_media": true
+  },
   {
    "id": "256045521c40567fdef90c8bece65816",
    "url": "https://t.me/OSINTWarfare/6809",
@@ -129,24 +156,6 @@
    "has_media": false
   },
   {
-   "id": "87ac69d59e1b103d8f5050ab9fd60270",
-   "url": "https://t.me/OSINTWarfare/6791",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A massive explosion rocked the outskirts of Al-Dumayr, in the Damascus countryside. The cause of the explosion remains unknown.",
-   "timestamp": "2026-09-11T22:04:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8b69c7116381b0de316f70a2b12d5691",
-   "url": "https://t.me/OSINTWarfare/6790",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of explosions in Khamis Mushait, southern Saudi Arabia. King Khalid Air Base is likely the target, as in previous attacks.",
-   "timestamp": "2026-09-11T21:23:07+00:00",
-   "has_media": false
-  },
-  {
    "id": "fcdadb7ea42b33535b18a88141417bf4",
    "url": "https://t.me/warmonitors/45549",
    "source": "telegram",
@@ -172,24 +181,6 @@
    "text": "⚡️\nLast night Lebanon felt a 4.1 magnitude earthquake after Israel detonated about 1,100 tons of explosives to “destroy a tunnel network” on the Ali Taher Ridge.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-11T18:59:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "18bb0dbdf3388ff4d732594ed52d3e01",
-   "url": "https://t.me/warmonitors/45545",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Why are they all Kirk?\nx.com/wohnwarston/st…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-11T18:24:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c9076e9e0fe7c4ed0d5bbdd2a979e48e",
-   "url": "https://t.me/warmonitors/45544",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIn Iran, reports are emerging of several explosions heard in the Strait of Hormuz.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-11T18:19:26+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
