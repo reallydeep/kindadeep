@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-14T20:28:09Z",
- "count": 40,
+ "generated_utc": "2026-09-14T23:16:33Z",
+ "count": 37,
  "items": [
+  {
+   "id": "23ab6c7ba8f49ed624e5c26ba82f0a96",
+   "url": "https://t.me/OSINTWarfare/6840",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Yemeni Air Force or Royal Saudi Air Force airstrikes targeting Ansar Allah equipment and positions in Dhubab and Al-Khukhah, western Yemen.\nThe strikes may be targeting former positions and equipment abandoned by PLC-aligned forces to prevent them from falling into Ansar Allah’s hands.",
+   "timestamp": "2026-09-14T22:57:19+00:00",
+   "has_media": true
+  },
   {
    "id": "e00ab5fd905efcbbf22c1df0e7e08991",
    "url": "https://t.me/OSINTWarfare/6838",
@@ -154,42 +163,6 @@
    "text": "The 6th Military Region Command (MRC) of the Saudi-backed Yemeni Armed Forces has entered the Al-Labanat Military Camp in the Al-Hazm direction, Al-Jawf Governorate, northern Yemen.  Footage shows Yemeni forces navigating the defensive berms and trench system…",
    "timestamp": "2026-09-13T23:53:06+00:00",
    "has_media": true
-  },
-  {
-   "id": "f186b9e66908a8b634ecbc73899266fd",
-   "url": "https://t.me/OSINTWarfare/6820",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of Ansar Allah ballistic missile launches toward Saudi Arabia as air raid sirens sound in Khamis Mushait, home to the Royal Saudi Air Force (RSAF) King Khalid Air Base.",
-   "timestamp": "2026-09-13T23:31:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3587911154c83fae97e4a8684e8629a4",
-   "url": "https://t.me/OSINTWarfare/6819",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the launch of a ballistic missile from Iran toward the Strait of Hormuz. The missile appears to be an anti-ship ballistic missile (ASBM).",
-   "timestamp": "2026-09-13T23:12:46+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2c3812cd1a52b857664145d9dc8b2d46",
-   "url": "https://t.me/warmonitors/45567",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSky News Arabia: Iranian media: Several explosions heard in the Sirik region of Iran; source unknown.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-13T22:09:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "08ff7c5cb4c862c25d149a71e93b246f",
-   "url": "https://t.me/warmonitors/45564",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Manar correspondent: Israeli  artillery attacked the town of Beit Yahoun in southern Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-13T16:24:26+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
