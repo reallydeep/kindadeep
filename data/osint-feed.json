@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-15T16:08:40Z",
- "count": 35,
+ "generated_utc": "2026-09-15T19:40:06Z",
+ "count": 34,
  "items": [
+  {
+   "id": "6dcabb497bd7b75578ab2c491af24167",
+   "url": "https://t.me/OSINTWarfare/6851",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air raid sirens are sounding in Jazan, Abha and Khamis Mushait in southern Saudi Arabia following Ansar Allah ballistic missile launches.",
+   "timestamp": "2026-09-15T19:16:22+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c9ebed60908783721ca284bd97943ed1",
+   "url": "https://t.me/warmonitors/45599",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nDevastating video showing Israel deliberately targeting palestinian children in Gaza and murdering them\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-15T18:34:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8cbae490d82b691fc5711d113870f829",
+   "url": "https://t.me/OSINTWarfare/6850",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of explosions in the Strait of Hormuz following the launch of anti-ship cruise missiles by the IRGC Navy.",
+   "timestamp": "2026-09-15T18:07:37+00:00",
+   "has_media": false
+  },
   {
    "id": "c34fcd7636dcac40fa041d9d24cbd4e6",
    "url": "https://t.me/OSINTWarfare/6848",
@@ -102,15 +129,6 @@
    "has_media": true
   },
   {
-   "id": "0bdeca4ee425ddb7440a1c8be5fa65ef",
-   "url": "https://t.me/warmonitors/45577",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nMedical sources to Al-Araby TV: A martyr in an Israeli occupation raid that targeted an apartment in Gaza City\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-14T14:09:26+00:00",
-   "has_media": false
-  },
-  {
    "id": "bc4bb4ad1b9203b69c9e0cd85e53e347",
    "url": "https://t.me/OSINTWarfare/6832",
    "source": "telegram",
@@ -118,33 +136,6 @@
    "text": "🇵🇱\n🇺🇦\nPolish General Ireneusz Nowak reported that the Polish military almost shot down a Ukrainian MiG-29.\nOn July 30, during a Russian attack on western Ukraine, Polish systems detected a Kh-101 missile, and F-16s were scrambled to intercept it.\nAt the same time, a Ukrainian MiG-29 was operating near the Polish border, which created a risk of \"friendly fire\".\nAfter the incident, Poland asked Ukraine to provide better information about the movements of its aircraft, and the data exchange system between the two sides was improved.",
    "timestamp": "2026-09-14T12:51:17+00:00",
    "has_media": false
-  },
-  {
-   "id": "175dff2b7d4ecbe3dacdaf4ec61c6b0f",
-   "url": "https://t.me/warmonitors/45576",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nA crucial Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repairs, officials say\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-14T12:44:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4c25e4d5624119a8f0973f6320be039f",
-   "url": "https://t.me/OSINTWarfare/6831",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The booster stage of a Chinese-made DF-15A (Dong Feng-15A) ballistic missile operated by Saudi Arabia fell in Raghwan District, Marib Governorate, northern Yemen.",
-   "timestamp": "2026-09-14T11:26:48+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b1e3a63783b70092e3ee85fcef7feb1b",
-   "url": "https://t.me/OSINTWarfare/6827",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The booster stage of a Chinese-made DF-15A (Dong Feng-15A) ballistic missile operated by Saudi Arabia fell in Raghwan District, Marib Governorate, northern Yemen.",
-   "timestamp": "2026-09-14T10:46:05+00:00",
-   "has_media": true
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
