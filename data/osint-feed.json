@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-14T23:16:33Z",
+ "generated_utc": "2026-09-15T01:30:02Z",
  "count": 37,
  "items": [
+  {
+   "id": "efe9000553a63ee5f7c49f6884b838f2",
+   "url": "https://t.me/OSINTWarfare/6841",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian attack drones struck the Syzran Oil Refinery in Russia’s Samara Region tonight.\nSo, no energy ceasefire?",
+   "timestamp": "2026-09-14T23:53:40+00:00",
+   "has_media": true
+  },
   {
    "id": "23ab6c7ba8f49ed624e5c26ba82f0a96",
    "url": "https://t.me/OSINTWarfare/6840",
@@ -154,15 +163,6 @@
    "text": "Newly declassified footage shows the rescue of two U.S. Air Force officers after their F-15E multirole fighter was shot down over Iran in April.\nThe two pilots ejected and landed roughly five miles apart in mountainous terrain south of Isfahan as Iranian forces searched for them.\nAlpha was recovered eight hours after ejecting in a risky daytime recovery mission involving 21 U.S. aircraft.\nBravo remained behind Iranian lines for roughly two days. He suffered a broken back and other injuries after his damaged parachute caused a hard landing, but still managed to climb a 7,000-foot mountain ridge before two Air Force pararescuemen reached him and brought him to a U.S. Air Force HH-60W Jolly Green II helicopter.",
    "timestamp": "2026-09-14T00:26:27+00:00",
    "has_media": false
-  },
-  {
-   "id": "cc635b1389c9db460dac77bad0b8ac77",
-   "url": "https://t.me/OSINTWarfare/6821",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The 6th Military Region Command (MRC) of the Saudi-backed Yemeni Armed Forces has entered the Al-Labanat Military Camp in the Al-Hazm direction, Al-Jawf Governorate, northern Yemen.  Footage shows Yemeni forces navigating the defensive berms and trench system…",
-   "timestamp": "2026-09-13T23:53:06+00:00",
-   "has_media": true
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
