@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-15T01:30:02Z",
- "count": 37,
+ "generated_utc": "2026-09-15T06:29:02Z",
+ "count": 35,
  "items": [
+  {
+   "id": "a949c6d107f243fa62c41518856a9220",
+   "url": "https://t.me/OSINTWarfare/6843",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇮🇶\n🌞\n— Iran launched drone strikes targeting Kurdish separatist group positions in Erbil, Iraqi Kurdistan.  @IntelSlava",
+   "timestamp": "2026-09-15T01:47:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a8c37f6eb12d54f4d57ae90d27c5f644",
+   "url": "https://t.me/OSINTWarfare/6842",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇮🇶\n🌞\n— Iran launched drone strikes targeting Kurdish separatist group positions in Erbil, Iraqi Kurdistan.\n@IntelSlava",
+   "timestamp": "2026-09-15T01:37:15+00:00",
+   "has_media": false
+  },
   {
    "id": "efe9000553a63ee5f7c49f6884b838f2",
    "url": "https://t.me/OSINTWarfare/6841",
@@ -111,15 +129,6 @@
    "has_media": true
   },
   {
-   "id": "40ea92d04d4e24e31e75505ce281ae22",
-   "url": "https://t.me/warmonitors/45571",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "🇮🇷\n🇷🇺\nIRAN ASKS RUSSIA FOR ITS ADVANCED GERAN DRONES, TECHNOLOGY TRANSFER COMES FULL CIRCLE\nIran has asked Moscow to supply its newest Russian-developed Geran attack drones for use against Israel and the United States, according to the Financial Times, citing Western security officials and a person close to the Kremlin. It remains unclear whether Russia has agreed to the latest request.\nIran originally supplied Russia with the Shahed technology. Russia then spent four years combat-testing, modifying and mass-producing the platform in Ukraine and Tehran now reportedly wants Russia’s evolved versions back.\nThe latest jet-powered Geran variants are faster, carry larger warheads and incorporate improved targeting, communications and resistance to electronic warfare. Russia’s adaptation of the Iranian design has become so extensive that CSIS recently concluded that Russia has effectively mastered the platform through continuous battlefield-driven development",
-   "timestamp": "2026-09-14T05:56:05+00:00",
-   "has_media": true
-  },
-  {
    "id": "161b8f99b80c390bf6ca6c5a92c2508d",
    "url": "https://t.me/OSINTWarfare/6826",
    "source": "telegram",
@@ -129,39 +138,12 @@
    "has_media": true
   },
   {
-   "id": "0a036d2cc60a2ca2d0dfe53b60096eb9",
-   "url": "https://t.me/OSINTWarfare/6825",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen Civil War — Situation on the Aden Front:  Over the past few hours, Ansar Allah forces have intensified their attacks toward Aden in southwestern Yemen, following their capture of Bab al-Mandab on September 10.  Ansar Allah forces have captured and established…",
-   "timestamp": "2026-09-14T02:13:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5d09c05144e9cbc966bafa1f6cce0405",
-   "url": "https://t.me/OSINTWarfare/6823",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Satellite imagery released by CNN shows extensive damage to two pumping stations, Al-Dhekra and Al-Mesba'ah, along Saudi Arabia’s East-West Oil Pipeline. Al-Mesba'ah appears to have been completely destroyed.  A U.S. official said the attack involved drones…",
-   "timestamp": "2026-09-14T02:06:20+00:00",
-   "has_media": true
-  },
-  {
    "id": "2c8d9023d6a9d6c0719cbffa2b8452b2",
    "url": "https://t.me/warmonitors/45569",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nIraq: Al-Mayadeen correspondent: Explosions heard in Halabja, Shahrazur, and Zarghweza in Iraqi Kurdistan\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-14T01:19:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cf096d2883584112925a8780f0338255",
-   "url": "https://t.me/OSINTWarfare/6822",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Newly declassified footage shows the rescue of two U.S. Air Force officers after their F-15E multirole fighter was shot down over Iran in April.\nThe two pilots ejected and landed roughly five miles apart in mountainous terrain south of Isfahan as Iranian forces searched for them.\nAlpha was recovered eight hours after ejecting in a risky daytime recovery mission involving 21 U.S. aircraft.\nBravo remained behind Iranian lines for roughly two days. He suffered a broken back and other injuries after his damaged parachute caused a hard landing, but still managed to climb a 7,000-foot mountain ridge before two Air Force pararescuemen reached him and brought him to a U.S. Air Force HH-60W Jolly Green II helicopter.",
-   "timestamp": "2026-09-14T00:26:27+00:00",
    "has_media": false
   },
   {
