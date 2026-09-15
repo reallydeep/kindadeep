@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-15T11:58:18Z",
+ "generated_utc": "2026-09-15T16:08:40Z",
  "count": 35,
  "items": [
+  {
+   "id": "c34fcd7636dcac40fa041d9d24cbd4e6",
+   "url": "https://t.me/OSINTWarfare/6848",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Yemeni Air Force or Royal Saudi Air Force airstrikes targeting Ansar Allah equipment and positions in Dhubab and Mokha (Al-Mukha), western Yemen.",
+   "timestamp": "2026-09-15T14:27:42+00:00",
+   "has_media": true
+  },
   {
    "id": "7cfbc792fbdfb61a9aab28d16cce3855",
    "url": "https://t.me/warmonitors/45591",
@@ -135,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "The booster stage of a Chinese-made DF-15A (Dong Feng-15A) ballistic missile operated by Saudi Arabia fell in Raghwan District, Marib Governorate, northern Yemen.",
    "timestamp": "2026-09-14T10:46:05+00:00",
-   "has_media": true
-  },
-  {
-   "id": "161b8f99b80c390bf6ca6c5a92c2508d",
-   "url": "https://t.me/OSINTWarfare/6826",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier tonight, the IRGC carried out a missile strike on the headquarters of a Kurdish separatist group in Sulaymaniyah, Iraqi Kurdistan.",
-   "timestamp": "2026-09-14T02:26:05+00:00",
    "has_media": true
   },
   {
