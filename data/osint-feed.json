@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-16T00:34:04Z",
- "count": 34,
+ "generated_utc": "2026-09-16T05:09:19Z",
+ "count": 33,
  "items": [
+  {
+   "id": "78e5bd3e727e644b6d089bdc1bf186de",
+   "url": "https://t.me/OSINTWarfare/6862",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "https://x.com/OSINTWarfare/status/2100048729747124405",
+   "timestamp": "2026-09-16T02:27:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "be89e084b9a78c713a72fd7c5bdec412",
+   "url": "https://t.me/OSINTWarfare/6859",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah launched surface-to-air missiles (SAMs) at Royal Saudi Air Force (RSAF) aircraft after they entered Marib Governorate, forcing the aircraft to retreat.",
+   "timestamp": "2026-09-16T01:11:23+00:00",
+   "has_media": true
+  },
   {
    "id": "24588e28d50508ef87fe4214500c0bea",
    "url": "https://t.me/OSINTWarfare/6858",
@@ -108,33 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "🇮🇷\n❌\n🇮🇶\n🌞\n— Iran launched drone strikes targeting Kurdish separatist group positions in Erbil, Iraqi Kurdistan.  @IntelSlava",
    "timestamp": "2026-09-15T01:47:46+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a8c37f6eb12d54f4d57ae90d27c5f644",
-   "url": "https://t.me/OSINTWarfare/6842",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇮🇶\n🌞\n— Iran launched drone strikes targeting Kurdish separatist group positions in Erbil, Iraqi Kurdistan.\n@IntelSlava",
-   "timestamp": "2026-09-15T01:37:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "efe9000553a63ee5f7c49f6884b838f2",
-   "url": "https://t.me/OSINTWarfare/6841",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian attack drones struck the Syzran Oil Refinery in Russia’s Samara Region tonight.\nSo, no energy ceasefire?",
-   "timestamp": "2026-09-14T23:53:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "23ab6c7ba8f49ed624e5c26ba82f0a96",
-   "url": "https://t.me/OSINTWarfare/6840",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Yemeni Air Force or Royal Saudi Air Force airstrikes targeting Ansar Allah equipment and positions in Dhubab and Al-Khukhah, western Yemen.\nThe strikes may be targeting former positions and equipment abandoned by PLC-aligned forces to prevent them from falling into Ansar Allah’s hands.",
-   "timestamp": "2026-09-14T22:57:19+00:00",
    "has_media": true
   },
   {
