@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-15T22:25:33Z",
+ "generated_utc": "2026-09-16T00:34:04Z",
  "count": 34,
  "items": [
+  {
+   "id": "24588e28d50508ef87fe4214500c0bea",
+   "url": "https://t.me/OSINTWarfare/6858",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah launched surface-to-air missiles (SAMs) at Royal Saudi Air Force (RSAF) aircraft after they entered Marib Governorate, forcing the aircraft to retreat.",
+   "timestamp": "2026-09-16T00:25:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7fe773f3ec5be5104a6a5967accae307",
+   "url": "https://t.me/OSINTWarfare/6857",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Another update on the situation on the Taiz front:  Ansar Allah forces are attempting to advance from Al-Jinan toward Al-Ashruh and from Al-Mazandeh toward Al-Aril Hill in Bani Bakari.",
+   "timestamp": "2026-09-15T23:11:07+00:00",
+   "has_media": false
+  },
   {
    "id": "12dde646f349e2b0f76f585fbc0b7d36",
    "url": "https://t.me/OSINTWarfare/6855",
@@ -118,24 +136,6 @@
    "text": "Footage shows Yemeni Air Force or Royal Saudi Air Force airstrikes targeting Ansar Allah equipment and positions in Dhubab and Al-Khukhah, western Yemen.\nThe strikes may be targeting former positions and equipment abandoned by PLC-aligned forces to prevent them from falling into Ansar Allah’s hands.",
    "timestamp": "2026-09-14T22:57:19+00:00",
    "has_media": true
-  },
-  {
-   "id": "e00ab5fd905efcbbf22c1df0e7e08991",
-   "url": "https://t.me/OSINTWarfare/6838",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Tasnim News Agency says U.S. projectiles struck two Iranian fishing boats in the waters off Bandar Kargan in the Persian Gulf, with possible casualties reported.",
-   "timestamp": "2026-09-14T20:23:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a255d996d10c89f20f4a0758c8afa9ee",
-   "url": "https://t.me/OSINTWarfare/6836",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine’s 40th Separate Artillery Brigade destroyed a rare North Korean 107mm Type 75 multiple rocket launcher (MRL) using fiber-optic FPV drones.",
-   "timestamp": "2026-09-14T15:23:16+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
