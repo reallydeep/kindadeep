@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-16T18:15:30Z",
- "count": 35,
+ "generated_utc": "2026-09-16T21:19:23Z",
+ "count": 36,
  "items": [
+  {
+   "id": "35687f4047e1ef8dfbcc7f256c82dbfe",
+   "url": "https://t.me/OSINTWarfare/6878",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "In the last few days, since the war in Yemen resumed, I’ve discovered that Saudis are way worse than Indians.",
+   "timestamp": "2026-09-16T20:11:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ebe82098b147b2509200cdde1211cf9c",
+   "url": "https://t.me/OSINTWarfare/6877",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "To clear up the huge misunderstanding surrounding the circulating images of the Saudi F-15SA and the controversy over the date: Google Translate does not handle the Persian (Solar Hijri) calendar correctly when converting dates to the Gregorian calendar.\nIn this specific Iranian website, the date shown is ۲۵ شهریور ۱۴۰۵, which corresponds to September 16, 2026 in the Gregorian calendar. However, using Google Translate's built-in translation button incorrectly converts it to September 25, 2020.\nYou can rely on AI for these kinds of things, but maybe don't ask it to analyze an image for you xD",
+   "timestamp": "2026-09-16T18:37:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "49a150509e39da87b10ebaa58502fec5",
+   "url": "https://t.me/OSINTWarfare/6876",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah targeted the operations center of the 11th Giants Brigade of the Southern Giants Brigades in Sha'ab Harrah al-Hazah, Ain District, Shabwah Governorate, with a ballistic missile.\nThe strike resulted in deaths and injuries among officers and personnel of the",
+   "timestamp": "2026-09-16T18:22:02+00:00",
+   "has_media": false
+  },
   {
    "id": "88b869c40784f4fe6fec2666dca4502a",
    "url": "https://t.me/OSINTWarfare/6875",
@@ -91,24 +118,6 @@
    "text": "Ansar Allah launched surface-to-air missiles (SAMs) at Royal Saudi Air Force (RSAF) aircraft after they entered Marib Governorate, forcing the aircraft to retreat.",
    "timestamp": "2026-09-16T01:11:23+00:00",
    "has_media": true
-  },
-  {
-   "id": "24588e28d50508ef87fe4214500c0bea",
-   "url": "https://t.me/OSINTWarfare/6858",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah launched surface-to-air missiles (SAMs) at Royal Saudi Air Force (RSAF) aircraft after they entered Marib Governorate, forcing the aircraft to retreat.",
-   "timestamp": "2026-09-16T00:25:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7fe773f3ec5be5104a6a5967accae307",
-   "url": "https://t.me/OSINTWarfare/6857",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Another update on the situation on the Taiz front:  Ansar Allah forces are attempting to advance from Al-Jinan toward Al-Ashruh and from Al-Mazandeh toward Al-Aril Hill in Bani Bakari.",
-   "timestamp": "2026-09-15T23:11:07+00:00",
-   "has_media": false
   },
   {
    "id": "0da60c9d7c786b1c26cb654fc487c07a",
