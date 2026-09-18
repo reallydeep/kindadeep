@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-18T19:37:19Z",
- "count": 39,
+ "generated_utc": "2026-09-18T21:49:11Z",
+ "count": 41,
  "items": [
+  {
+   "id": "3a3629afcc5b078936e59b5036d75708",
+   "url": "https://t.me/OSINTWarfare/6912",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air raid sirens are sounding in Khamis Mushait, Yanbu, Abha, and several other areas across Saudi Arabia following an Ansar Allah ballistic missile and drone attack.",
+   "timestamp": "2026-09-18T20:22:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f56c58f2ca08af7712140b9981587336",
+   "url": "https://t.me/OSINTWarfare/6911",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows hexacopters operated by the Southern Giants Brigades conducting precision strikes, dropping mortar rounds on Ansar Allah gatherings and vehicles on the Kahbub–Bab al-Mandab front in Lahij Governorate, western Yemen.",
+   "timestamp": "2026-09-18T20:11:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9f6f326663e66ac28d1e04c41cfdbcf4",
+   "url": "https://t.me/OSINTWarfare/6910",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. has warned allies that deliveries of some critical weapons could face delays of up to five years.\nGermany, Japan and especially Ukraine are among those affected, as the Pentagon prioritizes rebuilding U.S. munitions stocks depleted during the Iran war.",
+   "timestamp": "2026-09-18T20:06:06+00:00",
+   "has_media": false
+  },
   {
    "id": "9be14e496f2b07bde9fc325469a1cb91",
    "url": "https://t.me/OSINTWarfare/6909",
@@ -91,15 +118,6 @@
    "text": "Yemen Civil War — Situation on the Bab al-Mandab and Al-Madaribah Fronts:\nHeavy clashes are currently taking place between the Southern Giants Brigades and Ansar Allah forces west of the Kahbub mountains near Bab al-Mandab, as well as around Al-Mansoura in Al-Mudaribah District.\nBlack areas on the map show Ansar Allah advances over the past few hours.",
    "timestamp": "2026-09-18T02:55:32+00:00",
    "has_media": true
-  },
-  {
-   "id": "d1ccf74f028df183b8cc6d8d6f4d9675",
-   "url": "https://t.me/OSINTWarfare/6890",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows hexacopters operated by the Southern Giants Brigades conducting precision strikes, dropping mortar rounds on Ansar Allah gatherings and vehicles on the Al-Wazi'iyah–Al-Mudaribah front in western Lahij Governorate.",
-   "timestamp": "2026-09-18T00:04:08+00:00",
-   "has_media": false
   },
   {
    "id": "42d119b910a760aacf1dbd936f247156",
