@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-18T00:38:08Z",
+ "generated_utc": "2026-09-18T05:08:01Z",
  "count": 40,
  "items": [
+  {
+   "id": "0d8e2c8c76c8d7adecfeac6a427c7cab",
+   "url": "https://t.me/OSINTWarfare/6894",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen Civil War — Situation on the Bab al-Mandab and Al-Madaribah Fronts:\nHeavy clashes are currently taking place between the Southern Giants Brigades and Ansar Allah forces west of the Kahbub mountains near Bab al-Mandab, as well as around Al-Mansoura in Al-Mudaribah District.\nBlack areas on the map show Ansar Allah advances over the past few hours.",
+   "timestamp": "2026-09-18T02:55:32+00:00",
+   "has_media": true
+  },
   {
    "id": "d1ccf74f028df183b8cc6d8d6f4d9675",
    "url": "https://t.me/OSINTWarfare/6890",
@@ -154,15 +163,6 @@
    "text": "In the last few days, since the war in Yemen resumed, I’ve discovered that Saudis are way worse than Indians.",
    "timestamp": "2026-09-16T18:00:20+00:00",
    "has_media": false
-  },
-  {
-   "id": "a074f07918044baf6120ec9f807b926a",
-   "url": "https://t.me/OSINTWarfare/6874",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Germany plans to spend around €3.4 billion on U.S.-made Typhon Strategic Mid-Range Fires (SMRF) systems and Tomahawk cruise missiles.\nBerlin wants to own and operate these systems independently.\nThis follows earlier plans to deploy U.S.-controlled Tomahawk missiles in Germany, which Donald Trump had opposed. Germany is also seeking joint production and greater involvement of European industry in the supply chain. However, no agreement has been finalized yet.\nIn July 2024, the United States and Germany agreed that, starting in 2026, the U.S. Army would “episodically” deploy long-range systems to Germany, with the prospect of a more permanent presence. The package included Typhon systems armed with SM-6 and Tomahawk missiles, as well as an advanced hypersonic system.\nThe situation changed in spring 2026. Amid a review of the U.S. military presence in Europe, the U.S. administration abandoned the planned deployment of a U.S. long-range missile battalion to Germany. While Berlin initially stressed that there had been no formal cancellation, NATO command later referred to the cancellation of the planned U.S. Tomahawk deployment.\nGermany then pursued a different approach: acquiring the systems for its own use. On July 9–10, 2026, Berlin announced that the United States had agreed to allow Germany to purchase Tomahawk missiles and Typhon ground-based launchers for deployment in Germany. The number of systems and missiles, deployment locations, and delivery timelines have not been publicly disclosed.",
-   "timestamp": "2026-09-16T16:36:45+00:00",
-   "has_media": true
   },
   {
    "id": "bd756a04401617bf6fb600c238a467c0",
