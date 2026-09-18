@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-18T13:47:30Z",
- "count": 38,
+ "generated_utc": "2026-09-18T17:15:35Z",
+ "count": 40,
  "items": [
+  {
+   "id": "a7973120b2e272b38be565af271775a1",
+   "url": "https://t.me/OSINTWarfare/6902",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Deep Strike Penetration by a Dildrone.",
+   "timestamp": "2026-09-18T15:04:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a536bbf82e2b18b463bca5087c7c6c15",
+   "url": "https://t.me/OSINTWarfare/6901",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Photo shows a destroyed S-400 SAM system launcher in the Bryansk region, approximately 90 km from the border with Ukraine.\nThe launcher is claimed to have been used to fire RM-48U ballistic missiles, which have been regularly used by the Russian Armed Forces to strike Kyiv in recent months.\nAccording to Ukraine’s Main Intelligence Directorate (HUR), up to 17 S-400 SAM launchers have been modified for use against ground targets.\nCoordinates:\n53.134224, 33.944510",
+   "timestamp": "2026-09-18T14:57:54+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2587d8f44a66c86f33a333fb013149db",
+   "url": "https://t.me/OSINTWarfare/6900",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Italian Air Force F-2000A (Eurofighter Typhoon) was damaged during an overnight Ansar Allah drone and/or missile attack on King Fahd Air Base in Taif, Saudi Arabia.\nThe F-2000A is part of Italy’s Task Force Air Arabia detachment, which deployed four F-2000A Eurofighters, one E-550A airborne early warning and control (AEW&C) aircraft, and four C-130J/KC-130J aircraft to assist Saudi Arabia with air defense duties.",
+   "timestamp": "2026-09-18T13:53:08+00:00",
+   "has_media": true
+  },
   {
    "id": "f2b1bed40fa9263c2bc0cfac6f29b0b6",
    "url": "https://t.me/OSINTWarfare/6896",
@@ -136,15 +163,6 @@
    "text": "AP reports that Saudi Arabia is running low on missile interceptors amid its ongoing conflict with Yemen's Ansar Allah (Houthis).\nSaudi Arabia has also asked France, Britain, Pakistan, and Egypt to deploy air defense assets to help protect the country’s airspace.",
    "timestamp": "2026-09-17T01:42:13+00:00",
    "has_media": false
-  },
-  {
-   "id": "4f775936a6d786f556a909c9f4271fec",
-   "url": "https://t.me/OSINTWarfare/6881",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "In Taiz Governorate, Royal Saudi Air Force (RSAF) airstrikes targeted the Al-Barh Bridge in Maqbanah District on September 15 and 16, aiming to cut supply routes. The strikes killed two civilians and injured a third.",
-   "timestamp": "2026-09-16T23:50:35+00:00",
-   "has_media": true
   },
   {
    "id": "359fbdd5e54975c479869bde09c6474b",
