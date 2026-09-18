@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-18T17:15:35Z",
- "count": 40,
+ "generated_utc": "2026-09-18T19:37:19Z",
+ "count": 39,
  "items": [
+  {
+   "id": "9be14e496f2b07bde9fc325469a1cb91",
+   "url": "https://t.me/OSINTWarfare/6909",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Yemen’s National Army artillery units destroying 8 Ansar Allah military vehicles with anti-tank guided missiles (ATGMs) on the western Marib front.",
+   "timestamp": "2026-09-18T19:24:33+00:00",
+   "has_media": false
+  },
+  {
+   "id": "87d1b529c9dc3bfcd5f08da662e000ba",
+   "url": "https://t.me/OSINTWarfare/6907",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Several Saudi-made SKYWASP one-way attack UAVs (OWA-UAVs) launched by the Yemeni National Army were spotted over Ansar Allah-controlled Sanaa earlier today.\nAt least two of the drones have been shot down.",
+   "timestamp": "2026-09-18T18:10:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e8a90e33936de5daaec316acb224c263",
+   "url": "https://t.me/OSINTWarfare/6903",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On September 18, Taiwanese President Lai Ching-te personally observed a large-scale joint precision-munitions live-fire exercise at the Jiupeng military range.\nThe Republic of China Navy (ROCN), also known as the Taiwanese Navy, launched a ground-based Hsiung Feng III (HF-3) supersonic anti-ship missile, which struck the decommissioned Lan Yang (FFG-935), used as a target ship to simulate a People’s Liberation Army Navy (PLAN) combat vessel.\nThe exercise also involved rocket launches from M142 HIMARS and surface-to-air missile launches from Tien Kung III (TK-3), also known as Sky Bow, an anti-ballistic missile (ABM) system.\nThe drills were intended to practice the joint use of precision weapons against simulated targets representing a PLA amphibious force during a potential operation against Taiwan.",
+   "timestamp": "2026-09-18T17:53:43+00:00",
+   "has_media": true
+  },
   {
    "id": "a7973120b2e272b38be565af271775a1",
    "url": "https://t.me/OSINTWarfare/6902",
@@ -102,24 +129,6 @@
    "has_media": false
   },
   {
-   "id": "8398db7b14c89065562af7efc7f9b530",
-   "url": "https://t.me/OSINTWarfare/6887",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. State Department has approved a potential $24.3 billion Foreign Military Sale (FMS) to Saudi Arabia for 48 F-35A Lightning II multirole fighters.\nThe package includes 48 F-35As, 49 Pratt & Whitney engines, communications equipment, spare parts, and additional support.",
-   "timestamp": "2026-09-17T18:03:33+00:00",
-   "has_media": false
-  },
-  {
-   "id": "076b7274285d147e89f2c0f217cb583f",
-   "url": "https://t.me/OSINTWarfare/6885",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several Ansar Allah drones, including an FPV drone and a Rajum hexacopter, were shot down today by Presidential Leadership Council (PLC) forces in Al-Jawf Governorate, eastern Yemen.",
-   "timestamp": "2026-09-17T15:39:33+00:00",
-   "has_media": true
-  },
-  {
    "id": "56f119422c99600d201d1f0f5f8ab18a",
    "url": "https://t.me/warmonitors/45613",
    "source": "telegram",
@@ -145,24 +154,6 @@
    "text": "⚡️\nIron dome interceptor fired in northern Israel\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-17T11:49:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "da2d7fb8a4dfacf20318aee42c0f5d8a",
-   "url": "https://t.me/OSINTWarfare/6884",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A short analysis of why I think a radar-guided missile was used to shoot down the Royal Saudi Air Force (RSAF) F-15SA in Yemen, based on the thermal-camera footage released by Ansar Allah.\nThe pilot initially performs a sharp evasive maneuver, suggesting the crew detected or received warning of an incoming threat. The F-15SA is equipped with the AN/AAR-57 Common Missile Warning System (CMWS), a passive electro-optical missile-warning system designed to detect the signatures of incoming missiles and provide an alert to the crew. The aircraft also carries the AN/ALQ-239 Digital Electronic Warfare System (DEWS), which provides radar-warning, threat identification and emitter geolocation.\nImmediately after the maneuver, the pilot releases chaff five times in succession. Chaff consists of very fine radar-reflective fibers, typically glass fibers coated with aluminum, which rapidly disperse into a cloud designed to create false radar returns and seduce radar-guided missiles away from the aircraft. The F-15SA's countermeasure system can automatically or manually dispense chaff and flares depending on the threat.\nThis is the most significant clue in the footage. Chaff is primarily intended to counter radar-based threats, whereas flares are used against infrared-guided missiles. The repeated chaff deployment therefore suggests that the crew was responding to a radar-related threat.",
-   "timestamp": "2026-09-17T02:25:42+00:00",
-   "has_media": true
-  },
-  {
-   "id": "eee0fe9860e64c46fbc25be77d8f3530",
-   "url": "https://t.me/OSINTWarfare/6883",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "AP reports that Saudi Arabia is running low on missile interceptors amid its ongoing conflict with Yemen's Ansar Allah (Houthis).\nSaudi Arabia has also asked France, Britain, Pakistan, and Egypt to deploy air defense assets to help protect the country’s airspace.",
-   "timestamp": "2026-09-17T01:42:13+00:00",
-   "has_media": false
   },
   {
    "id": "359fbdd5e54975c479869bde09c6474b",
