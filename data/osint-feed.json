@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-19T21:31:40Z",
+ "generated_utc": "2026-09-19T23:28:11Z",
  "count": 45,
  "items": [
+  {
+   "id": "4fedcf9e2af54b02873e24070754441c",
+   "url": "https://t.me/OSINTWarfare/6933",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Eyes on Yemen and Iran. The Iranian military has been placed on its highest state of alert.  Scatter orders have also been issued.",
+   "timestamp": "2026-09-19T23:20:57+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9ce12245c18d1f8519d0997db7027f26",
+   "url": "https://t.me/OSINTWarfare/6932",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Eyes on Yemen and Iran. The Iranian military has been placed on its highest state of alert.\nScatter orders have also been issued.",
+   "timestamp": "2026-09-19T23:06:19+00:00",
+   "has_media": false
+  },
   {
    "id": "894c718e8a8063589bf2dbe9a30f31c2",
    "url": "https://t.me/warmonitors/45635",
@@ -171,24 +189,6 @@
    "channel": "OSINTWarfare",
    "text": "https://x.com/OSINTWarfare/status/2101066133810147726",
    "timestamp": "2026-09-18T21:49:49+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3a3629afcc5b078936e59b5036d75708",
-   "url": "https://t.me/OSINTWarfare/6912",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Air raid sirens are sounding in Khamis Mushait, Yanbu, Abha, and several other areas across Saudi Arabia following an Ansar Allah ballistic missile and drone attack.",
-   "timestamp": "2026-09-18T20:22:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f56c58f2ca08af7712140b9981587336",
-   "url": "https://t.me/OSINTWarfare/6911",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows hexacopters operated by the Southern Giants Brigades conducting precision strikes, dropping mortar rounds on Ansar Allah gatherings and vehicles on the Kahbub–Bab al-Mandab front in Lahij Governorate, western Yemen.",
-   "timestamp": "2026-09-18T20:11:46+00:00",
    "has_media": false
   },
   {
