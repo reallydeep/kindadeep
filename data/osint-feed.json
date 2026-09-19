@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-19T14:33:53Z",
- "count": 45,
+ "generated_utc": "2026-09-19T17:24:15Z",
+ "count": 44,
  "items": [
+  {
+   "id": "401ca65c6a11e45446d161cb0cde08a3",
+   "url": "https://t.me/OSINTWarfare/6929",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The crew of the 1020th Anti-Aircraft Missile Regiment intercepted a Russian Geran-5 jet-powered loitering munition using a “STING S” interceptor drone.",
+   "timestamp": "2026-09-19T17:10:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2196f3cc2b5a00a854d18ca5248e03ca",
+   "url": "https://t.me/OSINTWarfare/6928",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The crew of the 1020th Anti-Aircraft Missile Regiment intercepted a Russian Geran-5 jet-powered loitering munition using a “STING S” interceptor drone.",
+   "timestamp": "2026-09-19T16:55:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2d1c1f948ff62960037d39df07a64686",
+   "url": "https://t.me/OSINTWarfare/6927",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A drone unit from Ukraine’s Main Directorate of Intelligence (GUR/HUR) located a Russian fuel and ammunition depot in Zaporizhzhia Oblast and destroyed it during a follow-up strike using RAM-2X loitering munitions.",
+   "timestamp": "2026-09-19T16:35:14+00:00",
+   "has_media": false
+  },
   {
    "id": "796a09b5b85842239c072aa0600a7cd4",
    "url": "https://t.me/OSINTWarfare/6925",
@@ -156,33 +183,6 @@
    "has_media": false
   },
   {
-   "id": "9be14e496f2b07bde9fc325469a1cb91",
-   "url": "https://t.me/OSINTWarfare/6909",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Yemen’s National Army artillery units destroying 8 Ansar Allah military vehicles with anti-tank guided missiles (ATGMs) on the western Marib front.",
-   "timestamp": "2026-09-18T19:24:33+00:00",
-   "has_media": false
-  },
-  {
-   "id": "87d1b529c9dc3bfcd5f08da662e000ba",
-   "url": "https://t.me/OSINTWarfare/6907",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several Saudi-made SKYWASP one-way attack UAVs (OWA-UAVs) launched by the Yemeni National Army were spotted over Ansar Allah-controlled Sanaa earlier today.\nAt least two of the drones have been shot down.",
-   "timestamp": "2026-09-18T18:10:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e8a90e33936de5daaec316acb224c263",
-   "url": "https://t.me/OSINTWarfare/6903",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On September 18, Taiwanese President Lai Ching-te personally observed a large-scale joint precision-munitions live-fire exercise at the Jiupeng military range.\nThe Republic of China Navy (ROCN), also known as the Taiwanese Navy, launched a ground-based Hsiung Feng III (HF-3) supersonic anti-ship missile, which struck the decommissioned Lan Yang (FFG-935), used as a target ship to simulate a People’s Liberation Army Navy (PLAN) combat vessel.\nThe exercise also involved rocket launches from M142 HIMARS and surface-to-air missile launches from Tien Kung III (TK-3), also known as Sky Bow, an anti-ballistic missile (ABM) system.\nThe drills were intended to practice the joint use of precision weapons against simulated targets representing a PLA amphibious force during a potential operation against Taiwan.",
-   "timestamp": "2026-09-18T17:53:43+00:00",
-   "has_media": true
-  },
-  {
    "id": "b495039866d49db716f9fc64ecbf49ac",
    "url": "https://t.me/warmonitors/45622",
    "source": "telegram",
@@ -225,15 +225,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nAl-Mayadeen correspondent: Israeli artillery is continuously shelling the town of Nabatieh al-Fawqa in southern Lebanon.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-17T20:44:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "56f119422c99600d201d1f0f5f8ab18a",
-   "url": "https://t.me/warmonitors/45613",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl-Mayadeen correspondent: Israeli warplanes launched an airstrike on the town of Mansouri in the south of the country.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-17T14:04:26+00:00",
    "has_media": false
   },
   {
