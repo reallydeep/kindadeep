@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-19T01:32:18Z",
- "count": 45,
+ "generated_utc": "2026-09-19T06:31:37Z",
+ "count": 44,
  "items": [
+  {
+   "id": "4d1c43ed4aa30697fd058b0878a621e9",
+   "url": "https://t.me/OSINTWarfare/6922",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air raid sirens were activated in Riyadh and Al-Kharj Governorates, Saudi Arabia, due to an Ansar Allah ballistic missile attack.",
+   "timestamp": "2026-09-19T02:24:45+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d40e24071994898a2c64127f2a9ab625",
+   "url": "https://t.me/OSINTWarfare/6921",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Retired U.S. Army Colonel Robert E. Hamilton stated that the United States and Ukraine are currently cooperating to modernize older S-300 surface-to-air missiles or develop newer variants of the S-300 air defense system, with the aim of improving their capabilities.…",
+   "timestamp": "2026-09-19T01:47:04+00:00",
+   "has_media": false
+  },
   {
    "id": "12dc87c6fc13cb54306886e93b5b0e5b",
    "url": "https://t.me/warmonitors/45628",
@@ -138,24 +156,6 @@
    "has_media": true
   },
   {
-   "id": "a536bbf82e2b18b463bca5087c7c6c15",
-   "url": "https://t.me/OSINTWarfare/6901",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Photo shows a destroyed S-400 SAM system launcher in the Bryansk region, approximately 90 km from the border with Ukraine.\nThe launcher is claimed to have been used to fire RM-48U ballistic missiles, which have been regularly used by the Russian Armed Forces to strike Kyiv in recent months.\nAccording to Ukraine’s Main Intelligence Directorate (HUR), up to 17 S-400 SAM launchers have been modified for use against ground targets.\nCoordinates:\n53.134224, 33.944510",
-   "timestamp": "2026-09-18T14:57:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2587d8f44a66c86f33a333fb013149db",
-   "url": "https://t.me/OSINTWarfare/6900",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Italian Air Force F-2000A (Eurofighter Typhoon) was damaged during an overnight Ansar Allah drone and/or missile attack on King Fahd Air Base in Taif, Saudi Arabia.\nThe F-2000A is part of Italy’s Task Force Air Arabia detachment, which deployed four F-2000A Eurofighters, one E-550A airborne early warning and control (AEW&C) aircraft, and four C-130J/KC-130J aircraft to assist Saudi Arabia with air defense duties.",
-   "timestamp": "2026-09-18T13:53:08+00:00",
-   "has_media": true
-  },
-  {
    "id": "b495039866d49db716f9fc64ecbf49ac",
    "url": "https://t.me/warmonitors/45622",
    "source": "telegram",
@@ -226,15 +226,6 @@
    "text": "⚡️\nIron dome interceptor fired in northern Israel\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-17T11:49:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "359fbdd5e54975c479869bde09c6474b",
-   "url": "https://t.me/warmonitors/45610",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Arabiya Field sources: Yemeni armed forces launch airstrikes targeting Houthi reinforcements on the Al-Barh-Al-Mukha road.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-16T22:19:26+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
