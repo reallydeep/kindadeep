@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-19T06:31:37Z",
- "count": 44,
+ "generated_utc": "2026-09-19T11:26:12Z",
+ "count": 43,
  "items": [
+  {
+   "id": "5797d1d0b856500b3d8abbf8f1ce7503",
+   "url": "https://t.me/warmonitors/45632",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Mayadeen correspondent in the south: Israeli aircraft target the town of Nabatieh al-Fawqa with four airstrikes\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-19T09:19:28+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3bb4bf41272a5d393cad15d4187369d6",
+   "url": "https://t.me/warmonitors/45631",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl-Manar correspondent in Gaza: A martyr as a result of an airstrike that targeted a citizen in Mushtaha Street in the Shuja'iyya neighborhood, east of Gaza.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-19T09:19:26+00:00",
+   "has_media": false
+  },
   {
    "id": "4d1c43ed4aa30697fd058b0878a621e9",
    "url": "https://t.me/OSINTWarfare/6922",
@@ -147,15 +165,6 @@
    "has_media": true
   },
   {
-   "id": "a7973120b2e272b38be565af271775a1",
-   "url": "https://t.me/OSINTWarfare/6902",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Deep Strike Penetration by a Dildrone.",
-   "timestamp": "2026-09-18T15:04:19+00:00",
-   "has_media": true
-  },
-  {
    "id": "b495039866d49db716f9fc64ecbf49ac",
    "url": "https://t.me/warmonitors/45622",
    "source": "telegram",
@@ -208,24 +217,6 @@
    "text": "⚡\nAl-Mayadeen correspondent: Israeli warplanes launched an airstrike on the town of Mansouri in the south of the country.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-17T14:04:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "4b37314fb95ea297d57e079870a988c0",
-   "url": "https://t.me/warmonitors/45612",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIDF claims interceptor launch in the north was due to a false alarm\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-17T12:04:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b5f4b8312ebabd5ca2e9203085367cd5",
-   "url": "https://t.me/warmonitors/45611",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIron dome interceptor fired in northern Israel\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-17T11:49:26+00:00",
-   "has_media": true
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
