@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-19T11:26:12Z",
- "count": 43,
+ "generated_utc": "2026-09-19T14:33:53Z",
+ "count": 45,
  "items": [
+  {
+   "id": "796a09b5b85842239c072aa0600a7cd4",
+   "url": "https://t.me/OSINTWarfare/6925",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows hexacopters operated by the Southern Giants Brigades conducting precision strikes, dropping mortar rounds on Ansar Allah vehicles, barracks, and trenches on the Al-Bayda front.",
+   "timestamp": "2026-09-19T12:35:07+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2cc9ec4efbae2af8e51632c7c3a60d3e",
+   "url": "https://t.me/OSINTWarfare/6924",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage confirms that one of the fuel tanks at King Khalid International Airport in Riyadh was hit in an Ansar Allah strike.",
+   "timestamp": "2026-09-19T12:13:55+00:00",
+   "has_media": true
+  },
   {
    "id": "5797d1d0b856500b3d8abbf8f1ce7503",
    "url": "https://t.me/warmonitors/45632",
