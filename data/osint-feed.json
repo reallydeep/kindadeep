@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-20T17:45:41Z",
+ "generated_utc": "2026-09-20T19:45:34Z",
  "count": 39,
  "items": [
+  {
+   "id": "1b242c1a372a29828a78530cde068fbf",
+   "url": "https://t.me/OSINTWarfare/6954",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Something might happen in Iran tonight. Emphasis on might.",
+   "timestamp": "2026-09-20T18:35:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8d5b8af1ecf298284ba4285a7a21cf6a",
+   "url": "https://t.me/OSINTWarfare/6953",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "📂\n—\nWAR ROOM\nis a curated network of independent news channels, conflict observers, military analysts, and open-source researchers covering conflicts and geopolitical developments around the world.\nOur network brings together channels with different geographical focuses, perspectives, and areas of expertise. While our perspectives and areas of focus may differ, we share one goal: to provide fast, accurate, and reliable coverage of the events shaping our world.\nWe believe information should be questioned, sources should be examined, and facts should speak for themselves.\nOur network is built around independent reporting, open-source intelligence, battlefield developments, geopolitical analysis, and breaking events — bringing together multiple perspectives to give you a clearer picture of what is happening beyond the headlines.\nWe don't follow narratives. We follow the facts.\nIf you want to stay informed and understand conflicts as they unfold, WAR ROOM is for you.\nJoin WAR ROOM\nhttps://t.me/addlist/HRGYwoUq46k5NTY0",
+   "timestamp": "2026-09-20T17:47:00+00:00",
+   "has_media": true
+  },
   {
    "id": "01bfc62b7d670ed740eabf9f14a2dd1d",
    "url": "https://t.me/OSINTWarfare/6952",
@@ -109,24 +127,6 @@
    "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah vehicles on the Marib front.",
    "timestamp": "2026-09-20T00:17:39+00:00",
    "has_media": true
-  },
-  {
-   "id": "0a4d7fa40b685fded0aa69a89bcc6eb9",
-   "url": "https://t.me/OSINTWarfare/6934",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Kharab al-Jir Base in Al-Hasakah Governorate, northeastern Syria, is currently under drone attack.",
-   "timestamp": "2026-09-19T23:47:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4fedcf9e2af54b02873e24070754441c",
-   "url": "https://t.me/OSINTWarfare/6933",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Eyes on Yemen and Iran. The Iranian military has been placed on its highest state of alert.  Scatter orders have also been issued.",
-   "timestamp": "2026-09-19T23:20:57+00:00",
-   "has_media": false
   },
   {
    "id": "894c718e8a8063589bf2dbe9a30f31c2",
