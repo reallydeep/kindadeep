@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-09-20T21:51:41Z",
- "count": 38,
+ "generated_utc": "2026-09-20T23:38:41Z",
+ "count": 39,
  "items": [
+  {
+   "id": "74f05140ebe90ab2a8d87aaf2fe40fc6",
+   "url": "https://t.me/warmonitors/45646",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSky News Arabia correspondent reports: The explosions occurred in an arms depot belonging to the Syrian Ministry of Defense.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-20T23:19:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ced6bd9bf08012953b66a26aa26835f8",
+   "url": "https://t.me/OSINTWarfare/6967",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On September 19, Jama’at Nusrat al-Islam wal-Muslimin (JNIM), an Al-Qaeda affiliate in the Sahel, reportedly shot down a Russian Africa Corps Molniya-2 drone near Dioura, in Mali’s Mopti Region.\nThis is the first reported use of this type of UAV in the Mali conflict.",
+   "timestamp": "2026-09-20T23:15:42+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6d0fa8377228af567a43dda6bb315a2b",
+   "url": "https://t.me/OSINTWarfare/6965",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇸🇾\n⚡️\n— An ammunition depot exploded in Aleppo, northwestern Syria. Multiple secondary explosions can be seen and heard in the vicinity.  @IntelSlava",
+   "timestamp": "2026-09-20T22:35:01+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e50123f4ada46e00c9dadd587e7e5909",
+   "url": "https://t.me/OSINTWarfare/6960",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇸🇾\n⚡️\n— An ammunition depot exploded in Aleppo, northwestern Syria. Multiple secondary explosions can be seen and heard in the vicinity.\n@IntelSlava",
+   "timestamp": "2026-09-20T22:32:47+00:00",
+   "has_media": true
+  },
   {
    "id": "c501e86be13e248668b78cb7b613c986",
    "url": "https://t.me/OSINTWarfare/6959",
@@ -57,39 +93,12 @@
    "has_media": true
   },
   {
-   "id": "7c6e0afbbc38899732314e94618dc715",
-   "url": "https://t.me/OSINTWarfare/6949",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah equipment in Al Bayda Governorate, Yemen.",
-   "timestamp": "2026-09-20T14:16:54+00:00",
-   "has_media": true
-  },
-  {
    "id": "7539e4e949efd1a87236ccf744ba9010",
    "url": "https://t.me/warmonitors/45642",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nUkraine launched one of its largest drone waves toward Moscow overnight. Russia reported more than 1,600 drones downed, including 450 directed at the capital. The strikes affected the Kapotnya oil refinery—Moscow’s largest—and residential buildings, resulting in two deaths in the Moscow region and prompting 400 evacuations. Flight restrictions were applied at Moscow airports..\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-20T08:59:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ed5af7954b3713dea940ee956a8e1313",
-   "url": "https://t.me/OSINTWarfare/6944",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n❌\n🇷🇺\n— Ukrainian drones targeted Russia's Kapotnya Oil Refinery in Moscow, with the complex now on fire.  @IntelSlava",
-   "timestamp": "2026-09-20T04:42:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "251b987b76986dbeb6e1ea41cf453391",
-   "url": "https://t.me/OSINTWarfare/6940",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n❌\n🇷🇺\n— Ukrainian drones targeted Russia's Kapotnya Oil Refinery in Moscow, with the complex now on fire.\n@IntelSlava",
-   "timestamp": "2026-09-20T04:42:38+00:00",
    "has_media": true
   },
   {
