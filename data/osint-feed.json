@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-20T11:41:59Z",
- "count": 42,
+ "generated_utc": "2026-09-20T14:52:15Z",
+ "count": 41,
  "items": [
+  {
+   "id": "7c6e0afbbc38899732314e94618dc715",
+   "url": "https://t.me/OSINTWarfare/6949",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah equipment in Al Bayda Governorate, Yemen.",
+   "timestamp": "2026-09-20T14:16:54+00:00",
+   "has_media": true
+  },
   {
    "id": "7539e4e949efd1a87236ccf744ba9010",
    "url": "https://t.me/warmonitors/45642",
@@ -136,24 +145,6 @@
    "text": "The crew of the 1020th Anti-Aircraft Missile Regiment intercepted a Russian Geran-5 jet-powered loitering munition using a “STING S” interceptor drone.",
    "timestamp": "2026-09-19T17:10:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "2196f3cc2b5a00a854d18ca5248e03ca",
-   "url": "https://t.me/OSINTWarfare/6928",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The crew of the 1020th Anti-Aircraft Missile Regiment intercepted a Russian Geran-5 jet-powered loitering munition using a “STING S” interceptor drone.",
-   "timestamp": "2026-09-19T16:55:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2d1c1f948ff62960037d39df07a64686",
-   "url": "https://t.me/OSINTWarfare/6927",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A drone unit from Ukraine’s Main Directorate of Intelligence (GUR/HUR) located a Russian fuel and ammunition depot in Zaporizhzhia Oblast and destroyed it during a follow-up strike using RAM-2X loitering munitions.",
-   "timestamp": "2026-09-19T16:35:14+00:00",
-   "has_media": false
   },
   {
    "id": "5797d1d0b856500b3d8abbf8f1ce7503",
