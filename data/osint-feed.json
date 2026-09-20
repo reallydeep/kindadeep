@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-20T14:52:15Z",
- "count": 41,
+ "generated_utc": "2026-09-20T17:45:41Z",
+ "count": 39,
  "items": [
+  {
+   "id": "01bfc62b7d670ed740eabf9f14a2dd1d",
+   "url": "https://t.me/OSINTWarfare/6952",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Missile debris was found in Moscow's Kapotnya District. There is a high probability that the debris is from a Ukrainian FP-5 Flamingo cruise missile.",
+   "timestamp": "2026-09-20T16:10:20+00:00",
+   "has_media": true
+  },
+  {
+   "id": "30ddd48e4c52f2e95434cdd574eec081",
+   "url": "https://t.me/OSINTWarfare/6951",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen's National Army UAV units struck an Ansar Allah vehicle with an FPV drone on the southern Marib front.",
+   "timestamp": "2026-09-20T15:32:40+00:00",
+   "has_media": true
+  },
   {
    "id": "7c6e0afbbc38899732314e94618dc715",
    "url": "https://t.me/OSINTWarfare/6949",
@@ -111,15 +129,6 @@
    "has_media": false
   },
   {
-   "id": "9ce12245c18d1f8519d0997db7027f26",
-   "url": "https://t.me/OSINTWarfare/6932",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Eyes on Yemen and Iran. The Iranian military has been placed on its highest state of alert.\nScatter orders have also been issued.",
-   "timestamp": "2026-09-19T23:06:19+00:00",
-   "has_media": false
-  },
-  {
    "id": "894c718e8a8063589bf2dbe9a30f31c2",
    "url": "https://t.me/warmonitors/45635",
    "source": "telegram",
@@ -127,24 +136,6 @@
    "text": "⚡️\n#SHOCKING\nPentagon blames flawed intel and AI for strike that killed at least 123 Iranian children.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-19T18:24:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "9072273b32c35e44444a31910c53dee1",
-   "url": "https://t.me/OSINTWarfare/6931",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Security Service of Ukraine (SBU) has released footage showing a Russian Geran-5 loitering munition being intercepted by a new jet-powered interceptor drone developed by Stellar Jet.",
-   "timestamp": "2026-09-19T17:40:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "401ca65c6a11e45446d161cb0cde08a3",
-   "url": "https://t.me/OSINTWarfare/6929",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The crew of the 1020th Anti-Aircraft Missile Regiment intercepted a Russian Geran-5 jet-powered loitering munition using a “STING S” interceptor drone.",
-   "timestamp": "2026-09-19T17:10:31+00:00",
-   "has_media": true
   },
   {
    "id": "5797d1d0b856500b3d8abbf8f1ce7503",
@@ -181,15 +172,6 @@
    "text": "⚡️\n#BREAKING\nExplosions heard in the Saudi capital of Riyadh during the Ansarallah ballistic missile attack.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-19T00:29:26+00:00",
    "has_media": true
-  },
-  {
-   "id": "7f758bf9dcfab5dac361f09044668789",
-   "url": "https://t.me/warmonitors/45624",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nTrump says he has a deal with Denmark to bolster US military presence in Greenland after long threatening to take island\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-18T22:29:27+00:00",
-   "has_media": false
   },
   {
    "id": "f573d50e0e80fe3b35d7ae94df8e89e6",
