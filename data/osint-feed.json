@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-20T23:38:41Z",
- "count": 39,
+ "generated_utc": "2026-09-21T01:36:51Z",
+ "count": 40,
  "items": [
+  {
+   "id": "b3ffbbad85dbd7d0abae1b0d12afba86",
+   "url": "https://t.me/OSINTWarfare/6971",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Southern Giants Brigades has released footage showing the destruction of five Ansar Allah vehicles, including a vehicle carrying a ZU-23-2 anti-aircraft autocannon, on the Kahbub–Bab al-Mandab front.\nThe strikes were most likely carried out by the Royal Saudi Air Force (RSAF).",
+   "timestamp": "2026-09-20T23:59:28+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3b90d6e4a5930cc1a94467a2123c769d",
+   "url": "https://t.me/OSINTWarfare/6970",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army UAV units from Military Region Five conduct precision strikes, dropping grenades on Ansar Allah vehicles, barracks, and trenches across several combat fronts.",
+   "timestamp": "2026-09-20T23:44:59+00:00",
+   "has_media": false
+  },
   {
    "id": "74f05140ebe90ab2a8d87aaf2fe40fc6",
    "url": "https://t.me/warmonitors/45646",
@@ -81,15 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "Missile debris was found in Moscow's Kapotnya District. There is a high probability that the debris is from a Ukrainian FP-5 Flamingo cruise missile.",
    "timestamp": "2026-09-20T16:10:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "30ddd48e4c52f2e95434cdd574eec081",
-   "url": "https://t.me/OSINTWarfare/6951",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen's National Army UAV units struck an Ansar Allah vehicle with an FPV drone on the southern Marib front.",
-   "timestamp": "2026-09-20T15:32:40+00:00",
    "has_media": true
   },
   {
