@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-22T21:33:10Z",
- "count": 41,
+ "generated_utc": "2026-09-22T23:46:21Z",
+ "count": 40,
  "items": [
+  {
+   "id": "06d42fdfeb41d93e4ac38ec01037265c",
+   "url": "https://t.me/OSINTWarfare/7009",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Yemen's National Army 6th and 7th Military Region Commands conducting strikes against Ansar Allah positions in Marib and Al-Jawf Governorates using FPV drones and dropped mortar rounds.",
+   "timestamp": "2026-09-22T22:14:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "21c16b020d6aac907f8df75ca41c8dbb",
+   "url": "https://t.me/OSINTWarfare/7008",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Islamic Republic of Iran Air Force (IRIAF) fighter jets are currently active over Tehran.",
+   "timestamp": "2026-09-22T21:34:11+00:00",
+   "has_media": false
+  },
   {
    "id": "c44f0f841191acd48b53f26134b45689",
    "url": "https://t.me/OSINTWarfare/7007",
@@ -145,33 +163,6 @@
    "text": "⚡️\n#BREAKING\nBritain agrees to provide limited military support to Saudi Arabia to counter attacks from Iran-backed Houthis\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-21T23:24:28+00:00",
    "has_media": true
-  },
-  {
-   "id": "315a1ed982c9bef60a8b88625129709f",
-   "url": "https://t.me/OSINTWarfare/6992",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows hexacopters operated by the Southern Giants Brigades conducting precision strikes, dropping mortar rounds on Ansar Allah personnel, vehicles, and trenches on the Al-Wazi’iyah and Kahbub–Bab al-Mandab fronts.",
-   "timestamp": "2026-09-21T22:32:10+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4115ad3f01658c77d1fc7a480c6f9faa",
-   "url": "https://t.me/OSINTWarfare/6991",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Royal Saudi Air Force (RSAF) carried out three airstrikes on the Ansar Allah-controlled Mokha (Mocha) District.",
-   "timestamp": "2026-09-21T22:16:46+00:00",
-   "has_media": false
-  },
-  {
-   "id": "02a18bb06f9c2292a35fa8cb25aded0c",
-   "url": "https://t.me/OSINTWarfare/6990",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iraqi Oil Minister Bassim Mohammed Khudair said that most tankers departing the Strait of Hormuz are carrying Iraqi oil and that revenues have been generated over the past two months.\nIraq has been granted permission by Iran to sell its oil, allowing its tankers to leave the Strait of Hormuz.",
-   "timestamp": "2026-09-21T22:05:47+00:00",
-   "has_media": false
   },
   {
    "id": "e0523ee8f870ae0aa13b9e01e0194d67",
