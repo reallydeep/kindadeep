@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-23T16:59:47Z",
- "count": 36,
+ "generated_utc": "2026-09-23T19:58:24Z",
+ "count": 37,
  "items": [
+  {
+   "id": "4ea5693822abf13374e843280102c258",
+   "url": "https://t.me/OSINTWarfare/7030",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lockheed Martin has released new footage from a flight test of the Precision Strike Missile (PrSM) Increment 2 anti-ship ballistic missile (ASBM) against a moving maritime target.",
+   "timestamp": "2026-09-23T17:04:23+00:00",
+   "has_media": true
+  },
   {
    "id": "c3b4211162eabe8f106f7faa636372de",
    "url": "https://t.me/OSINTWarfare/7029",
