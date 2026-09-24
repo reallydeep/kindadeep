@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-09-24T10:27:45Z",
- "count": 36,
+ "generated_utc": "2026-09-24T15:20:49Z",
+ "count": 34,
  "items": [
+  {
+   "id": "f67639aa01206fd86c385597b4d5254b",
+   "url": "https://t.me/OSINTWarfare/7064",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Israeli Air Force (IAF) UH-60 Black Hawk helicopter landed at Barzilai Medical Center in Ashkelon, carrying casualties from the Gaza Strip.",
+   "timestamp": "2026-09-24T14:28:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d04598519290dc3ed5babe3255f0314e",
+   "url": "https://t.me/OSINTWarfare/7056",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Aftermath of a nighttime missile strike on a production facility and logistics warehouse belonging to TK-Domashniy Tekstyl in Kyiv’s Dniprovskyi District.\n📍\n50.443746, 30.651791",
+   "timestamp": "2026-09-24T13:08:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "993d601fccbde671d8007dee2487128c",
+   "url": "https://t.me/OSINTWarfare/7055",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "⚡\n🇵🇱\nIn Poland, a 31-year-old Ukrainian attacked priests on monastery grounds. One priest was killed, and the others are injured, one of them critically.\nHis motives have not been established to date.",
+   "timestamp": "2026-09-24T12:56:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "fe17b08baebac64f4b13e74ead275785",
+   "url": "https://t.me/OSINTWarfare/7052",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The tail section of a 9M723 ballistic missile from the Iskander-M system that fell in Kyiv after being intercepted.",
+   "timestamp": "2026-09-24T11:06:59+00:00",
+   "has_media": true
+  },
+  {
+   "id": "abd85b0a5b4042817e480dccde607f3c",
+   "url": "https://t.me/OSINTWarfare/7050",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Pakistan Air Force (PAF) airstrikes targeting alleged storage sites and support infrastructure in Paktika and Kandahar Provinces, Afghanistan.\nLoitering munitions were also used in the strikes.",
+   "timestamp": "2026-09-24T10:57:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "aa0f8aa62ecd626fb021475d2db67d56",
+   "url": "https://t.me/OSINTWarfare/7049",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Air raid sirens sounded in Yanbu, Jeddah, Tabuk, Mecca City, and Taif, Saudi Arabia, following ballistic missile launches by Ansar Allah from Yemen.\nThere are no military sites in Mecca City; activating the sirens there is likely meant to appeal to Muslims.",
+   "timestamp": "2026-09-24T10:48:29+00:00",
+   "has_media": false
+  },
   {
    "id": "ceb991263619811f76eb7db350c4bd28",
    "url": "https://t.me/warmonitors/45694",
@@ -10,24 +64,6 @@
    "text": "⚡️\nPakistan strikes targets in Afghanistan after accusing Kabul of shelling border posts\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-24T02:04:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "007985458524308dc399f7e9f880eb61",
-   "url": "https://t.me/OSINTWarfare/7037",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian 3M22 Zircon hypersonic missile struck energy infrastructure in Kyiv.",
-   "timestamp": "2026-09-23T23:00:26+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0f8f09e95982001b1cb8a6764a997f14",
-   "url": "https://t.me/OSINTWarfare/7036",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian 3M22 Zircon hypersonic missile struck energy infrastructure in Kyiv.",
-   "timestamp": "2026-09-23T22:54:44+00:00",
-   "has_media": true
   },
   {
    "id": "fc649fd5aedfe6baf408402a3f5013f8",
@@ -39,24 +75,6 @@
    "has_media": false
   },
   {
-   "id": "28223285b986aa94ded5b27971970650",
-   "url": "https://t.me/OSINTWarfare/7035",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Yemen’s National Army UAV operator from the 3rd Brigade, 7th Emergency Division, conducted precision strikes, dropping mortar rounds on Ansar Allah fortifications on the fronts east of Al-Hazm city in Al Jawf Governorate.",
-   "timestamp": "2026-09-23T21:25:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "dff4c8ce91a7f743c51b447578838fc9",
-   "url": "https://t.me/OSINTWarfare/7033",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Pakistan conducted a missile test from Balochistan Province tonight.",
-   "timestamp": "2026-09-23T21:10:43+00:00",
-   "has_media": true
-  },
-  {
    "id": "3d413bfaed902f94152e200709cb7f8a",
    "url": "https://t.me/warmonitors/45686",
    "source": "telegram",
@@ -64,42 +82,6 @@
    "text": "⚡\nPolish Foreign Minister to Al Jazeera: The way to end the war is by convincing Putin that he is unable to achieve his goals from it.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-23T20:39:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "186751b01fcc471199218f6356102956",
-   "url": "https://t.me/OSINTWarfare/7032",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC announced that three individuals were killed in Saravan, Sistan and Baluchestan Province, after planning a terrorist operation in the city.  The 110th Salman Farsi Special Operations Brigade of the IRGC Ground Forces is clashing with the remaining…",
-   "timestamp": "2026-09-23T20:33:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "042354acc6da11ab83cd3a0c17370566",
-   "url": "https://t.me/OSINTWarfare/7031",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Ethiopian National Defence Force (ENDF) appears to have received Chinese-made FK-2000 short-range air defense (SHORAD) systems.\nFiring units have been spotted moving from West Shewa Zone in Oromia toward the Amhara Region.",
-   "timestamp": "2026-09-23T20:20:17+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4ea5693822abf13374e843280102c258",
-   "url": "https://t.me/OSINTWarfare/7030",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lockheed Martin has released new footage from a flight test of the Precision Strike Missile (PrSM) Increment 2 anti-ship ballistic missile (ASBM) against a moving maritime target.",
-   "timestamp": "2026-09-23T17:04:23+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c3b4211162eabe8f106f7faa636372de",
-   "url": "https://t.me/OSINTWarfare/7029",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UKMTO reports that a cargo vessel was struck by a projectile in the Strait of Hormuz. All crew members were evacuated, with two casualties reported.",
-   "timestamp": "2026-09-23T16:16:06+00:00",
-   "has_media": true
   },
   {
    "id": "d4049fc9cef1ae2926aed10af23ac372",
