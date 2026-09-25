@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-24T22:29:13Z",
- "count": 35,
+ "generated_utc": "2026-09-25T00:40:06Z",
+ "count": 34,
  "items": [
+  {
+   "id": "504dc33a91e10d4f3d60101dece00b2f",
+   "url": "https://t.me/OSINTWarfare/7069",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A UAV operator from Yemen’s National Army, 8th Brigade of the 7th Emergency Division, conducted precision strikes by dropping mortar rounds on Ansar Allah vehicles in northern Al-Jawf Governorate.",
+   "timestamp": "2026-09-25T00:05:12+00:00",
+   "has_media": true
+  },
   {
    "id": "091fc9fae355ecfe931f6f0bf055e404",
    "url": "https://t.me/warmonitors/45706",
@@ -102,30 +111,12 @@
    "has_media": true
   },
   {
-   "id": "aa0f8aa62ecd626fb021475d2db67d56",
-   "url": "https://t.me/OSINTWarfare/7049",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Air raid sirens sounded in Yanbu, Jeddah, Tabuk, Mecca City, and Taif, Saudi Arabia, following ballistic missile launches by Ansar Allah from Yemen.\nThere are no military sites in Mecca City; activating the sirens there is likely meant to appeal to Muslims.",
-   "timestamp": "2026-09-24T10:48:29+00:00",
-   "has_media": false
-  },
-  {
    "id": "ceb991263619811f76eb7db350c4bd28",
    "url": "https://t.me/warmonitors/45694",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\nPakistan strikes targets in Afghanistan after accusing Kabul of shelling border posts\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-24T02:04:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fc649fd5aedfe6baf408402a3f5013f8",
-   "url": "https://t.me/warmonitors/45688",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSky News Arabia correspondent reports: Massive explosions rock the Ukrainian capital, Kyiv.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-23T22:54:27+00:00",
    "has_media": false
   },
   {
