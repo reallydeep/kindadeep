@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-25T15:19:26Z",
- "count": 35,
+ "generated_utc": "2026-09-25T19:18:08Z",
+ "count": 34,
  "items": [
   {
    "id": "9d9d464b8863f7b9756174360cfc85a9",
@@ -117,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "An Israeli Air Force (IAF) UH-60 Black Hawk helicopter landed at Barzilai Medical Center in Ashkelon, carrying casualties from the Gaza Strip.",
    "timestamp": "2026-09-24T14:28:50+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d04598519290dc3ed5babe3255f0314e",
-   "url": "https://t.me/OSINTWarfare/7056",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Aftermath of a nighttime missile strike on a production facility and logistics warehouse belonging to TK-Domashniy Tekstyl in Kyiv’s Dniprovskyi District.\n📍\n50.443746, 30.651791",
-   "timestamp": "2026-09-24T13:08:25+00:00",
    "has_media": true
   },
   {
