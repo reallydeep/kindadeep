@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-25T00:40:06Z",
- "count": 34,
+ "generated_utc": "2026-09-25T05:22:10Z",
+ "count": 33,
  "items": [
+  {
+   "id": "5663c9b0fad97429a85c5a315b9c1e5b",
+   "url": "https://t.me/OSINTWarfare/7075",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UAV operators from the National Resistance Forces (NRF) conducted precision strikes, dropping mortar rounds on Ansar Allah personnel in Al-Wazi'iyah District, Taiz Governorate.",
+   "timestamp": "2026-09-25T02:43:26+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8b7ed2e18774bf659c8ac7baf5d0090f",
+   "url": "https://t.me/OSINTWarfare/7074",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah vehicles in Al-Mokha (Mocha), Taiz Governorate.",
+   "timestamp": "2026-09-25T02:33:34+00:00",
+   "has_media": true
+  },
   {
    "id": "504dc33a91e10d4f3d60101dece00b2f",
    "url": "https://t.me/OSINTWarfare/7069",
@@ -81,33 +99,6 @@
    "channel": "OSINTWarfare",
    "text": "Aftermath of a nighttime missile strike on a production facility and logistics warehouse belonging to TK-Domashniy Tekstyl in Kyiv’s Dniprovskyi District.\n📍\n50.443746, 30.651791",
    "timestamp": "2026-09-24T13:08:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "993d601fccbde671d8007dee2487128c",
-   "url": "https://t.me/OSINTWarfare/7055",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚡\n🇵🇱\nIn Poland, a 31-year-old Ukrainian attacked priests on monastery grounds. One priest was killed, and the others are injured, one of them critically.\nHis motives have not been established to date.",
-   "timestamp": "2026-09-24T12:56:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fe17b08baebac64f4b13e74ead275785",
-   "url": "https://t.me/OSINTWarfare/7052",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The tail section of a 9M723 ballistic missile from the Iskander-M system that fell in Kyiv after being intercepted.",
-   "timestamp": "2026-09-24T11:06:59+00:00",
-   "has_media": true
-  },
-  {
-   "id": "abd85b0a5b4042817e480dccde607f3c",
-   "url": "https://t.me/OSINTWarfare/7050",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Pakistan Air Force (PAF) airstrikes targeting alleged storage sites and support infrastructure in Paktika and Kandahar Provinces, Afghanistan.\nLoitering munitions were also used in the strikes.",
-   "timestamp": "2026-09-24T10:57:36+00:00",
    "has_media": true
   },
   {
