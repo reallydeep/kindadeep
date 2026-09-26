@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-09-25T22:25:15Z",
- "count": 34,
+ "generated_utc": "2026-09-26T00:42:35Z",
+ "count": 31,
  "items": [
   {
    "id": "38b451b80ab36ac0219c2a0038a2740a",
@@ -66,15 +66,6 @@
    "has_media": true
   },
   {
-   "id": "504dc33a91e10d4f3d60101dece00b2f",
-   "url": "https://t.me/OSINTWarfare/7069",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A UAV operator from Yemen’s National Army, 8th Brigade of the 7th Emergency Division, conducted precision strikes by dropping mortar rounds on Ansar Allah vehicles in northern Al-Jawf Governorate.",
-   "timestamp": "2026-09-25T00:05:12+00:00",
-   "has_media": true
-  },
-  {
    "id": "091fc9fae355ecfe931f6f0bf055e404",
    "url": "https://t.me/warmonitors/45706",
    "source": "telegram",
@@ -99,24 +90,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli PM Netanyahu thanks Trump, vows that 'we will continue to win because we have no other choice'\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-24T18:39:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "430a8be037e5b9a6e531d1e795f91240",
-   "url": "https://t.me/OSINTWarfare/7068",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On September 23, 2026, the Afghanistan Freedom Front carried out an attack on a Taliban military patrol vehicle on the main Kabul–Bagram road in Deh Sabz District, Kabul Province.\nThe attack killed one Taliban fighter and wounded two others.",
-   "timestamp": "2026-09-24T18:03:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9c68eb18e4a203c22ec219d32d22eca8",
-   "url": "https://t.me/OSINTWarfare/7066",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed reports of two ballistic missile launches from Urmia, western Iran.",
-   "timestamp": "2026-09-24T17:02:42+00:00",
    "has_media": false
   },
   {
