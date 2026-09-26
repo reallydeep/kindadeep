@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-26T00:42:35Z",
- "count": 31,
+ "generated_utc": "2026-09-26T05:31:16Z",
+ "count": 33,
  "items": [
+  {
+   "id": "ff138d7c82717fec5565a4cf231a0523",
+   "url": "https://t.me/OSINTWarfare/7093",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows ATGM operators from Yemen’s National Army 4th Military Region targeting an Ansar Allah pickup truck and personnel on the Kahbub front in Lahij Governorate.",
+   "timestamp": "2026-09-26T01:38:25+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ee867233fc723f7075a733f6d0ba73f3",
+   "url": "https://t.me/OSINTWarfare/7092",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Abha and Khamis Mushait are currently under ballistic missile attack by Ansar Allah. Air raid sirens are sounding in both cities.",
+   "timestamp": "2026-09-26T01:27:23+00:00",
+   "has_media": false
+  },
+  {
+   "id": "557b3ca1b78c7e094ae3ab2577ea4009",
+   "url": "https://t.me/OSINTWarfare/7091",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Abha and Khamis Mushait are currently under ballistic missile attack by Ansar Allah. Air raid sirens are sounding in both cities.",
+   "timestamp": "2026-09-26T00:59:23+00:00",
+   "has_media": false
+  },
   {
    "id": "38b451b80ab36ac0219c2a0038a2740a",
    "url": "https://t.me/OSINTWarfare/7086",
@@ -55,15 +82,6 @@
    "text": "UAV operators from the National Resistance Forces (NRF) conducted precision strikes, dropping mortar rounds on Ansar Allah personnel in Al-Wazi'iyah District, Taiz Governorate.",
    "timestamp": "2026-09-25T02:43:26+00:00",
    "has_media": false
-  },
-  {
-   "id": "8b7ed2e18774bf659c8ac7baf5d0090f",
-   "url": "https://t.me/OSINTWarfare/7074",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah vehicles in Al-Mokha (Mocha), Taiz Governorate.",
-   "timestamp": "2026-09-25T02:33:34+00:00",
-   "has_media": true
   },
   {
    "id": "091fc9fae355ecfe931f6f0bf055e404",
