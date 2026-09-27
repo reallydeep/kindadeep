@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-09-27T20:05:07Z",
- "count": 38,
+ "generated_utc": "2026-09-27T22:57:23Z",
+ "count": 41,
  "items": [
+  {
+   "id": "769d93bb1a42030dd1d4fa661687b5d9",
+   "url": "https://t.me/OSINTWarfare/7128",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Positions belonging to Kurdish separatist groups in Iraqi Kurdistan are under attack by Iranian drones.\nLocals also reported heavy coalition aviation activity over Erbil and Sulaymaniyah.",
+   "timestamp": "2026-09-27T22:36:24+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7026e1e475c2b3f340be4556c9b267b4",
+   "url": "https://t.me/OSINTWarfare/7127",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Ethiopian Peoples’ Forces Alliance for Survival targeted Debre Zeit Air Force Base in Bishoftu with a one-way attack drone while Ethiopian Prime Minister Abiy Ahmed Ali was at the compound for a holiday celebration.\nThree casualties have reportedly been recorded.",
+   "timestamp": "2026-09-27T22:14:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "df22fbb5ad5c4cbf90c97a888df773d7",
+   "url": "https://t.me/warmonitors/45747",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nOil prices rebound more than 1% after Trump rejects Iran peace deal to reopen Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-27T22:11:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7f87c4ce4ba5a466ab337878c930006a",
+   "url": "https://t.me/OSINTWarfare/7126",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah has released footage showing the wreckage of a Royal Saudi Air Force (RSAF) Karayel-SU Tactical Unmanned Aerial Vehicle (TUAV) shot down by air defenses over Hajjah Governorate on September 27, 2026.",
+   "timestamp": "2026-09-27T22:02:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8c8ead1746305e880155e187ac487dfc",
+   "url": "https://t.me/warmonitors/45746",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nTrump: The key is that Iran will not have a nuclear weapon.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-27T22:01:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "54acf9cc184331edaa948d687342efe2",
+   "url": "https://t.me/OSINTWarfare/7125",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) anti-aircraft activity earlier against Saudi drones over Amran Governorate, northern Yemen.",
+   "timestamp": "2026-09-27T20:37:03+00:00",
+   "has_media": true
+  },
   {
    "id": "517ddd61a35c9f0e10aa0446aa589c09",
    "url": "https://t.me/warmonitors/45744",
@@ -57,15 +111,6 @@
    "has_media": false
   },
   {
-   "id": "e268718dcb6946c50ba17c34a9e8bd37",
-   "url": "https://t.me/warmonitors/45728",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUkrainian media: Another explosion heard in Kyiv\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-26T23:16:08+00:00",
-   "has_media": false
-  },
-  {
    "id": "85d8faf73016ef4b2d2f3d86263b220e",
    "url": "https://t.me/OSINTWarfare/7115",
    "source": "telegram",
@@ -102,15 +147,6 @@
    "has_media": false
   },
   {
-   "id": "256bdbc9588f78833b7a1f0fd1d7c71f",
-   "url": "https://t.me/warmonitors/45725",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s Araqchi says their conditions are clear and any move toward reopening the Strait of Hormuz is contingent on these conditions being met\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-26T21:26:09+00:00",
-   "has_media": false
-  },
-  {
    "id": "c3a2cd68465f847892070b6ed1c96266",
    "url": "https://t.me/OSINTWarfare/7110",
    "source": "telegram",
@@ -144,15 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "Ansar Allah (Houthis) has released a six-minute compilation showing attacks on Yemeni National Army (YNA) units, allied forces, and vehicles across several fronts, carried out using Rajum hexacopters dropping grenades and mortar rounds.",
    "timestamp": "2026-09-26T18:08:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "85a541bffb84493f86cb976a700797f1",
-   "url": "https://t.me/OSINTWarfare/7102",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. Navy’s Naval Air Systems Command (NAVAIR) has released video of an F/A-18F test flight carrying two Castelion Blackbeard hypersonic missiles.\nThe Pentagon plans to procure a total of 12,000 Blackbeard missiles over five years, with an initial contract already signed for the production of 444 units.",
-   "timestamp": "2026-09-26T15:52:36+00:00",
    "has_media": true
   },
   {
