@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-09-28T01:20:18Z",
- "count": 41,
+ "generated_utc": "2026-09-28T07:06:09Z",
+ "count": 38,
  "items": [
+  {
+   "id": "c2d276f07007ec80bf19632f6af79a44",
+   "url": "https://t.me/warmonitors/45752",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nUK defence minister Streeting says they are vigilant regarding arrests at Fairford military base because state-backed actors would do the UK harm\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-28T06:31:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4b38cb95e81f4c19ea772f84e617991f",
+   "url": "https://t.me/OSINTWarfare/7131",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Eight U.S. Marines were wounded two weeks ago when an Iranian missile struck the vessel they were aboard in the Strait of Hormuz, U.S. officials told NBC News.",
+   "timestamp": "2026-09-28T01:44:55+00:00",
+   "has_media": false
+  },
   {
    "id": "c721f394e0c4cbfd056cd9b447d49623",
    "url": "https://t.me/OSINTWarfare/7130",
@@ -135,51 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "In a propaganda post, Yemeni Armed Forces spokesperson Colonel Majed Al-Nazili said Ansar Allah (Houthis) are using Iranian-made air-defense weapons modified into loitering missiles, warning they could pose a serious threat to civilian aircraft over the southern Red Sea. He claimed the weapons were converted with assistance from IRGC experts operating in Yemen and are launched from Ansar Allah-held Hodeidah toward international flight routes.\nAccording to Al-Nazili, the missiles can remain airborne for up to 25 minutes and use heat-seeking technology to home in on heat sources without distinguishing between military and civilian aircraft.",
    "timestamp": "2026-09-26T23:12:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cf2a8848ad4f46c4ddc636647e92eb29",
-   "url": "https://t.me/OSINTWarfare/7112",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Renewed explosions have been heard in the Strait of Hormuz.",
-   "timestamp": "2026-09-26T22:29:49+00:00",
-   "has_media": false
-  },
-  {
-   "id": "aaf3848671cb7e185051f95c630f159d",
-   "url": "https://t.me/OSINTWarfare/7111",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several explosions were heard near Qeshm Island in the Strait of Hormuz. Iranian sources say the IRGC Navy launched multiple anti-ship cruise missiles.",
-   "timestamp": "2026-09-26T22:11:28+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c3a2cd68465f847892070b6ed1c96266",
-   "url": "https://t.me/OSINTWarfare/7110",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Several explosions were heard near Qeshm Island in the Strait of Hormuz. Iranian sources say the IRGC Navy launched multiple anti-ship cruise missiles.",
-   "timestamp": "2026-09-26T21:19:26+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5118158745d4482f9f2466223e2230e4",
-   "url": "https://t.me/OSINTWarfare/7109",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Sudanese Armed Forces (SAF) shot down another FH-95 (CH-95) unmanned combat aerial vehicle (UCAV) operated by the UAE-backed Rapid Support Forces (RSF) in the Kelemando area of North Darfur State.\nSince Thursday, 24 September, the SAF has shot down three FH-95 UCAVs using EREN loitering air-to-air missiles launched from Turkish-made Bayraktar Akıncı UCAVs.\nThe UAE is bleeding FH-95s.",
-   "timestamp": "2026-09-26T19:42:52+00:00",
-   "has_media": true
-  },
-  {
-   "id": "87f19bc56ce8687a71bdb91f55324c31",
-   "url": "https://t.me/OSINTWarfare/7108",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy struck a vessel in the Strait of Hormuz with an anti-ship cruise missile.",
-   "timestamp": "2026-09-26T19:27:18+00:00",
    "has_media": false
   },
   {
