@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-27T22:57:23Z",
+ "generated_utc": "2026-09-28T01:20:18Z",
  "count": 41,
  "items": [
+  {
+   "id": "c721f394e0c4cbfd056cd9b447d49623",
+   "url": "https://t.me/OSINTWarfare/7130",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Positions belonging to Kurdish separatist groups in Iraqi Kurdistan are under attack by Iranian drones.  Locals also reported heavy coalition aviation activity over Erbil and Sulaymaniyah.",
+   "timestamp": "2026-09-27T23:18:46+00:00",
+   "has_media": true
+  },
   {
    "id": "769d93bb1a42030dd1d4fa661687b5d9",
    "url": "https://t.me/OSINTWarfare/7128",
@@ -172,15 +181,6 @@
    "text": "The IRGC Navy struck a vessel in the Strait of Hormuz with an anti-ship cruise missile.",
    "timestamp": "2026-09-26T19:27:18+00:00",
    "has_media": false
-  },
-  {
-   "id": "4efde4c95909e395735ef948f1452a84",
-   "url": "https://t.me/OSINTWarfare/7106",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a six-minute compilation showing attacks on Yemeni National Army (YNA) units, allied forces, and vehicles across several fronts, carried out using Rajum hexacopters dropping grenades and mortar rounds.",
-   "timestamp": "2026-09-26T18:08:37+00:00",
-   "has_media": true
   },
   {
    "id": "cacf51255da8602a256d93c754b9225f",
