@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-09-29T13:16:51Z",
- "count": 42,
+ "generated_utc": "2026-09-29T18:39:12Z",
+ "count": 38,
  "items": [
+  {
+   "id": "3e8a80e3f2cb537a97c1fed952ad60b3",
+   "url": "https://t.me/OSINTWarfare/7169",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Yemeni Armed Forces has released footage showing airstrikes targeting Ansar Allah personnel and vehicles across several fronts.",
+   "timestamp": "2026-09-29T13:48:43+00:00",
+   "has_media": true
+  },
   {
    "id": "e90cd7d106e01da01fdd4ace4d927e85",
    "url": "https://t.me/OSINTWarfare/7166",
@@ -145,51 +154,6 @@
    "text": "⚡\n🇷🇺\nRussia is closing the airspace over the Kapustin Yar test range from September 28 to October 3, a NOTAM notice has been issued.\nThis may be related to military exercises or launches of combat ballistic missiles.\nThe restrictions will be in effect daily from 09:00 to 19:00 Moscow time.",
    "timestamp": "2026-09-28T19:45:19+00:00",
    "has_media": false
-  },
-  {
-   "id": "0fe24c0a1c6de11ec419f1668a061628",
-   "url": "https://t.me/OSINTWarfare/7154",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine’s Main Intelligence Directorate (GUR) “Prymary” Special Unit carried out precision strikes on several high-value Russian assets, including:  • A railway bridge over the North Crimean Canal; • 9 communications, electronic warfare (EW), electronic intelligence…",
-   "timestamp": "2026-09-28T19:27:55+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ad3f2de86fbca661aee04c7f22e6270e",
-   "url": "https://t.me/warmonitors/45776",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump says he will win the Iran war very soon and gas prices will come tumbling\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-28T19:16:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "52f0a0898fe6e1c782753005035c0b67",
-   "url": "https://t.me/OSINTWarfare/7153",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukraine’s Main Intelligence Directorate (GUR) “Prymary” Special Unit carried out precision strikes on several high-value Russian assets, including:\n• A railway bridge over the North Crimean Canal;\n• 9 communications, electronic warfare (EW), electronic intelligence (ELINT), radar, and MESH relay towers;\nA Su-30SM multirole fighter (failed);\n• A 55Zh6U Nebo-U radar;\n• A command post of a P-18 Terek radar;\n• Two Kasta-2E radars;\n• An L-39 Albatros jet trainer/light attack aircraft;\n• A BK-10 high-speed assault boat;\n• A BK-16 high-speed transport and landing boat;\n• A Mangust high-speed patrol boat.",
-   "timestamp": "2026-09-28T17:31:42+00:00",
-   "has_media": false
-  },
-  {
-   "id": "312ab3e2a4fb98db9f635bd579df5a06",
-   "url": "https://t.me/OSINTWarfare/7150",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of today’s strike by a jet-powered Geran-5 loitering munition/cruise missile on a truck parking area near the Yahodyn road border crossing in Ukraine’s Volyn Oblast.   51.190560, 23.817676",
-   "timestamp": "2026-09-28T17:30:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "81dbe14177ff1c44dc0aa472c805344d",
-   "url": "https://t.me/OSINTWarfare/7149",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage of today’s strike by a jet-powered Geran-5 loitering munition/cruise missile on a truck parking area near the Yahodyn road border crossing in Ukraine’s Volyn Oblast.\n51.190560, 23.817676",
-   "timestamp": "2026-09-28T17:14:44+00:00",
-   "has_media": true
   },
   {
    "id": "cacf51255da8602a256d93c754b9225f",
