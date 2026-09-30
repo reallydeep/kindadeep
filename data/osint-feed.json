@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-09-30T13:35:14Z",
- "count": 32,
+ "generated_utc": "2026-09-30T18:32:13Z",
+ "count": 33,
  "items": [
+  {
+   "id": "e7abb3c8811d5e0102daf97c1d466406",
+   "url": "https://t.me/OSINTWarfare/7191",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Smoke rising from Saudi Aramco’s North Ghawar Oil Producing Complex, west of Abqaiq, Eastern Saudi Arabia.",
+   "timestamp": "2026-09-30T17:54:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "58e3b22618e42a14f96878f9b17607d0",
+   "url": "https://t.me/warmonitors/45846",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIsraeli Media: At this stage, the assessment is that the Flydubai pilot was a “lone wolf” who acted alone.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-30T16:21:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "97043d33091002b06165b332c6754d17",
+   "url": "https://t.me/warmonitors/45845",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nUK leader Burnham says there are strong indications Iran played a part in a security incident outside a US-run air base.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-30T16:06:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4afa6a0fb1379437b51d6599252a0de0",
+   "url": "https://t.me/warmonitors/45844",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nSaudi Arabia turned down an Israeli request to allow its planes to pick up Israeli passengers from a Flydubai flight that made an emergency landing in the kingdom, security sources said\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-30T14:51:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "58698b54e19791b8132074129eaa423d",
+   "url": "https://t.me/warmonitors/45843",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nJERUSALEM (AP) — Netanyahu says Saudi Arabia arrested a pilot who apparently tried to bring down a FlyDubai flight full of Israelis.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-30T13:46:11+00:00",
+   "has_media": false
+  },
   {
    "id": "77f009ce2a0700733e46fd5f8d9d35d0",
    "url": "https://t.me/warmonitors/45840",
@@ -27,33 +72,6 @@
    "channel": "WarMonitors",
    "text": "⚡️\nIsraeli media: Mossad is investigating the plane hijacking. Shin Bet is assisting.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-30T10:01:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b08568157d7e34231d694865364e2514",
-   "url": "https://t.me/warmonitors/45826",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli Media: \"The terrorist has been neutralized, there is a seriously injured pilot.\" - A passenger reports on what is happening on the plane moments after the hijacking, as the pilot tried to crash the aircraft.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-30T09:56:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2c35e52312bd362fc0ac98c78ea81091",
-   "url": "https://t.me/warmonitors/45824",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA loud explosion was heard in central Kyiv, a Reuters witness says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-30T09:36:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "850672d5ca2c7c3f744fa81dd8050c56",
-   "url": "https://t.me/warmonitors/45822",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s foreign minister Araqchi informed the Iranian cabinet that a U.S. proposal was received, a government spokesperson said in an X post\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-30T08:31:09+00:00",
    "has_media": false
   },
   {
@@ -90,15 +108,6 @@
    "channel": "OSINTWarfare",
    "text": "The wreckage of an intercepted 9M723-2F3 modernized ballistic missile from the 9K720 Iskander-M system was found in Kyiv following last night’s attack.\nWestern monitoring resources and Ukrainian sources indicate that three missiles launched from Kursk Oblast were involved in the attack. However, the reports differ on the types of missiles used, identifying them variously as P-800 Oniks, 9M723 (9M723-2F3), and RM-48U. The reports agree that all three missiles were intercepted.\nThe missile may have been intercepted by either a PAC-3 MSE interceptor from the MIM-104 Patriot system or an ASTER 30 B1 NT interceptor from the Franco-Italian SAMP/T NG air defense system.",
    "timestamp": "2026-09-29T20:40:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3e8a80e3f2cb537a97c1fed952ad60b3",
-   "url": "https://t.me/OSINTWarfare/7169",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Yemeni Armed Forces has released footage showing airstrikes targeting Ansar Allah personnel and vehicles across several fronts.",
-   "timestamp": "2026-09-29T13:48:43+00:00",
    "has_media": true
   },
   {
