@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-09-29T22:35:03Z",
- "count": 33,
+ "generated_utc": "2026-09-30T01:29:01Z",
+ "count": 31,
  "items": [
+  {
+   "id": "b68de4965dd04852e156c6550ab768d1",
+   "url": "https://t.me/OSINTWarfare/7188",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Lockheed Martin has awarded L3Harris a seven-year, undefinitized contract worth more than $6 billion to quadruple propulsion production for the Terminal High Altitude Area Defense (THAAD) system.",
+   "timestamp": "2026-09-29T23:50:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1f3d3ab84a313be0f01a8dd32048411e",
+   "url": "https://t.me/OSINTWarfare/7184",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Newly delivered Russian Mi-28NE attack helicopters have been spotted flying over Tehran for the first time under the command of the Iranian Air Force.",
+   "timestamp": "2026-09-29T23:26:29+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5c483856f80572f3b5071082f22d8c9f",
+   "url": "https://t.me/warmonitors/45802",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nA senior Saudi official denied that any Saudi official has met with Israeli officials\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-09-29T23:11:09+00:00",
+   "has_media": false
+  },
   {
    "id": "0981771c48c0736aa312925af407c7b1",
    "url": "https://t.me/OSINTWarfare/7182",
@@ -39,24 +66,6 @@
    "has_media": true
   },
   {
-   "id": "e90cd7d106e01da01fdd4ace4d927e85",
-   "url": "https://t.me/OSINTWarfare/7166",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Russian Aerospace Forces (VKS) Tu-95MS strategic heavy bomber crashed in Russia’s Amur Oblast.\nSix of the seven people on board were killed. A fuel explosion aboard the aircraft is cited as the preliminary cause of the crash.",
-   "timestamp": "2026-09-29T13:13:58+00:00",
-   "has_media": true
-  },
-  {
-   "id": "0bfcfb53f8fd8498508ae7a505ca43af",
-   "url": "https://t.me/OSINTWarfare/7164",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ladies & gentlemen, Barak Ravid xD\nhttps://x.com/OSINTWarfare/status/2104914888128639073",
-   "timestamp": "2026-09-29T12:44:14+00:00",
-   "has_media": false
-  },
-  {
    "id": "f72745c8ce7736b897fd4981944bcd84",
    "url": "https://t.me/warmonitors/45791",
    "source": "telegram",
@@ -81,33 +90,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nAn IRGC spokesperson says the US has no other choice but to declare failure and leave the region — Reuters\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-09-29T08:16:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "11248d23954672b1143d6cec20a66896",
-   "url": "https://t.me/warmonitors/45785",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nAn IRGC spokesperson says Trump is ‘a big liar’ and that the US people need to be told the truth — Reuters\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-29T08:16:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1cb7020c1178993c626784266178a313",
-   "url": "https://t.me/warmonitors/45786",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s parliament speaker Qalibaf says no one in the region shall sell its oil if Iran cannot sell its oil, and if Iran has no security then no regional infrastructure shall be safe, state media reported\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-29T08:16:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "afa7db6cb5d6d653b5a1aa4b8b7ebc03",
-   "url": "https://t.me/warmonitors/45782",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s foreign minister says Tehran discussed ideas with Qatari mediators to be presented to the US, according to IRNA\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-09-28T22:06:09+00:00",
    "has_media": false
   },
   {
