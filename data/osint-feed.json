@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-01T07:30:19Z",
- "count": 35,
+ "generated_utc": "2026-10-01T14:43:26Z",
+ "count": 36,
  "items": [
+  {
+   "id": "6db5319b5ce3696c2c42da5cb1190145",
+   "url": "https://t.me/OSINTWarfare/7203",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) vehicles and tanks advanced in Bani Bakari, Jabal Habashi District, Taiz Governorate.",
+   "timestamp": "2026-10-01T13:26:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d5b20401a4d0fa548083972917075d63",
+   "url": "https://t.me/OSINTWarfare/7201",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a new jet-powered Geran-4 loitering munition with a “mustache” flying over Kyiv.\nThe exact purpose of this structure remains unclear. It is speculated to be associated with a new shaped-charge cutting warhead designed to target power transmission tower supports.",
+   "timestamp": "2026-10-01T12:50:57+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b9f47c234ddae9da03f478b3fbc020d2",
+   "url": "https://t.me/warmonitors/45855",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIsrael’s envoy to the UAE tells Reuters that the suspect in the Flydubai incident is an Omani national\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-01T11:26:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8a0c91252c26c257d3bacd16c31fbefa",
+   "url": "https://t.me/OSINTWarfare/7199",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier this morning, clashes broke out between Iranian security forces and the People’s Fighters Front (PFF), a Balochi nationalist militant organization, in Zahedan, Sistan and Baluchestan Province, eastern Iran.\nAccording to the IRGC Qods Base Public Relations Department, an individual who intended to carry out an operation in the area was identified and targeted based on public reports and precise intelligence. Several militants were killed.",
+   "timestamp": "2026-10-01T11:02:36+00:00",
+   "has_media": true
+  },
   {
    "id": "3075ac1f1e2b80a995599f4df922a277",
    "url": "https://t.me/warmonitors/45851",
@@ -111,24 +147,6 @@
    "has_media": true
   },
   {
-   "id": "0981771c48c0736aa312925af407c7b1",
-   "url": "https://t.me/OSINTWarfare/7182",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the interception of a Ukrainian FP-5 Flamingo cruise missile during the attack on Moscow on the night of September 19–20, captured through the electro-optical system of a Pantsir-S1M air defense system.",
-   "timestamp": "2026-09-29T21:16:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d021bd56d5d57fce493599fa73c02135",
-   "url": "https://t.me/OSINTWarfare/7177",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The wreckage of an intercepted 9M723-2F3 modernized ballistic missile from the 9K720 Iskander-M system was found in Kyiv following last night’s attack.\nWestern monitoring resources and Ukrainian sources indicate that three missiles launched from Kursk Oblast were involved in the attack. However, the reports differ on the types of missiles used, identifying them variously as P-800 Oniks, 9M723 (9M723-2F3), and RM-48U. The reports agree that all three missiles were intercepted.\nThe missile may have been intercepted by either a PAC-3 MSE interceptor from the MIM-104 Patriot system or an ASTER 30 B1 NT interceptor from the Franco-Italian SAMP/T NG air defense system.",
-   "timestamp": "2026-09-29T20:40:25+00:00",
-   "has_media": true
-  },
-  {
    "id": "cacf51255da8602a256d93c754b9225f",
    "url": "https://t.me/TerrorAlarm/55",
    "source": "telegram",
@@ -216,15 +234,6 @@
    "channel": "terroralarm",
    "text": "🚨\n🇪🇺\nEur\nope on High Alert, Urgent threat from Russia\nTop military officials from Germany and Great Britain urge \"every individual citizen\" in Europe to prepare for a \"possible Russian attack.\"",
    "timestamp": "2026-02-16T12:55:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a3e32b9924c6923edd033bb3878c08f8",
-   "url": "https://t.me/TerrorAlarm/24",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Israeli producer of Apple TV spy thriller ‘Tehran’ found dead in Athens hotel. Iran is the main suspect.",
-   "timestamp": "2026-02-16T12:53:15+00:00",
    "has_media": true
   },
   {
