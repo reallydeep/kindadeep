@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-01T23:27:13Z",
- "count": 39,
+ "generated_utc": "2026-10-02T02:22:59Z",
+ "count": 41,
  "items": [
+  {
+   "id": "8ad062189aad829eedc519bef066358e",
+   "url": "https://t.me/OSINTWarfare/7220",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "UAV operators from the First Division of the Nation’s Shield Forces (NSF) targeted an Ansar Allah pickup truck carrying more than 20 fighters with a mortar round dropped from a quadcopter or hexacopter in Bani Omar, Al-Shamayatayn District, Taiz Governorate.\nAlmost all of the fighters aboard the vehicle were reportedly killed instantly.",
+   "timestamp": "2026-10-02T02:02:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dd157090863c1ab449d42929229d5556",
+   "url": "https://t.me/OSINTWarfare/7219",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Yemeni Armed Forces released footage showing airstrikes targeting Ansar Allah positions in Taiz Governorate.",
+   "timestamp": "2026-10-02T00:31:52+00:00",
+   "has_media": true
+  },
+  {
+   "id": "14d38919a4d4400881d65280f235a6b8",
+   "url": "https://t.me/OSINTWarfare/7217",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier, Royal Saudi Air Force (RSAF) airstrikes targeted Ansar Allah positions in the Yemeni capital, Sanaa.\nOne of the airstrikes is claimed to have targeted a military site in the Al-Sabain District.",
+   "timestamp": "2026-10-02T00:31:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "92a3f256089ce6cef6b9203159d89f9b",
+   "url": "https://t.me/OSINTWarfare/7215",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Ansar Allah combined missile and drone attack targeted a camp belonging to Presidential Leadership Council (PLC) forces and the Star Cement factory in Al-Buraiqah District, Aden Governorate, southern Yemen.\nThe number of casualties and the extent of material damage caused by the strikes remain unclear at this time.",
+   "timestamp": "2026-10-02T00:22:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a1f6659b5b6d33038429c6ce04ffd045",
+   "url": "https://t.me/OSINTWarfare/7212",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukrainian sources published images of a new 32-element anti-jamming CRPA antenna reportedly being used in Russian drones.\nAccording to reports, 20-element CRPA antennas are also being prepared for use, while production of 24-element antennas is planned to begin in 2027.\nCRPA antennas are widely used in Russian precision-guided weapons and UAVs, including Iskander-M ballistic missiles, cruise missiles, Geran/Garpiya-A1 and Gerbera drones, UMPK glide-bomb kits, UMPB-5/UMPB-5R, and others.\nPreviously, 4-, 8-, 12-, and 16-element CRPA antennas had been observed, manufactured in both China and Russia, including the Kometa-M produced by VNIIR-Progress.\nIn late July, images also emerged of a Geran-2 piston-powered drone variant with an enlarged compartment for the CRPA antenna. Ukrainian sources speculated that this could have been preparation for integrating the new 32-element anti-jamming antenna.",
+   "timestamp": "2026-10-01T23:30:13+00:00",
+   "has_media": true
+  },
   {
    "id": "6bccd8732dd748473acaa02949f209d4",
    "url": "https://t.me/warmonitors/45863",
@@ -120,15 +165,6 @@
    "has_media": false
   },
   {
-   "id": "8a0c91252c26c257d3bacd16c31fbefa",
-   "url": "https://t.me/OSINTWarfare/7199",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier this morning, clashes broke out between Iranian security forces and the People’s Fighters Front (PFF), a Balochi nationalist militant organization, in Zahedan, Sistan and Baluchestan Province, eastern Iran.\nAccording to the IRGC Qods Base Public Relations Department, an individual who intended to carry out an operation in the area was identified and targeted based on public reports and precise intelligence. Several militants were killed.",
-   "timestamp": "2026-10-01T11:02:36+00:00",
-   "has_media": true
-  },
-  {
    "id": "3075ac1f1e2b80a995599f4df922a277",
    "url": "https://t.me/warmonitors/45851",
    "source": "telegram",
@@ -136,24 +172,6 @@
    "text": "⚡️\n#BREAKING\nU.S. official: \"Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go\"\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-01T00:21:09+00:00",
    "has_media": false
-  },
-  {
-   "id": "5921335b687368bf5f4b73c00690c875",
-   "url": "https://t.me/OSINTWarfare/7193",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier tonight, the IRGC Aerospace Force launched an anti-ship ballistic missile (ASBM), possibly a Qasem Basir or Kheibar Shekan, from Fars Province toward the Strait of Hormuz or the U.S. Navy fleet in the Arabian Sea.\nThe IRGC continues to test its ASBMs, likely while continuously upgrading their capabilities.",
-   "timestamp": "2026-09-30T23:55:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c28c5f506bafee7bb0bab910a1b9f421",
-   "url": "https://t.me/OSINTWarfare/7192",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, a Royal Saudi Air Force (RSAF) airstrike struck an ammunition depot in Mokha (Mocha), western Yemen, triggering secondary explosions.",
-   "timestamp": "2026-09-30T23:25:24+00:00",
-   "has_media": true
   },
   {
    "id": "58e3b22618e42a14f96878f9b17607d0",
