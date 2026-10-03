@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-03T07:59:58Z",
- "count": 36,
+ "generated_utc": "2026-10-03T13:05:53Z",
+ "count": 35,
  "items": [
+  {
+   "id": "dde8211556b6f4d3f4ccd91d78704f32",
+   "url": "https://t.me/OSINTWarfare/7234",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Royal Saudi Air Force (RSAF) carried out airstrikes targeting Ansar Allah military infrastructure in Yemen’s capital, Sanaa.",
+   "timestamp": "2026-10-03T12:50:37+00:00",
+   "has_media": true
+  },
+  {
+   "id": "aa46ad5d51c00e597c260a860114f6a9",
+   "url": "https://t.me/warmonitors/45882",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAFP: Explosions heard in the Yemeni capital, Sana'a\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-03T10:26:11+00:00",
+   "has_media": false
+  },
   {
    "id": "a72049b274259d1d20d01e07e4bd31db",
    "url": "https://t.me/OSINTWarfare/7233",
@@ -118,33 +136,6 @@
    "text": "An Ansar Allah combined missile and drone attack targeted a camp belonging to Presidential Leadership Council (PLC) forces and the Star Cement factory in Al-Buraiqah District, Aden Governorate, southern Yemen.\nThe number of casualties and the extent of material damage caused by the strikes remain unclear at this time.",
    "timestamp": "2026-10-02T00:22:43+00:00",
    "has_media": true
-  },
-  {
-   "id": "a1f6659b5b6d33038429c6ce04ffd045",
-   "url": "https://t.me/OSINTWarfare/7212",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ukrainian sources published images of a new 32-element anti-jamming CRPA antenna reportedly being used in Russian drones.\nAccording to reports, 20-element CRPA antennas are also being prepared for use, while production of 24-element antennas is planned to begin in 2027.\nCRPA antennas are widely used in Russian precision-guided weapons and UAVs, including Iskander-M ballistic missiles, cruise missiles, Geran/Garpiya-A1 and Gerbera drones, UMPK glide-bomb kits, UMPB-5/UMPB-5R, and others.\nPreviously, 4-, 8-, 12-, and 16-element CRPA antennas had been observed, manufactured in both China and Russia, including the Kometa-M produced by VNIIR-Progress.\nIn late July, images also emerged of a Geran-2 piston-powered drone variant with an enlarged compartment for the CRPA antenna. Ukrainian sources speculated that this could have been preparation for integrating the new 32-element anti-jamming antenna.",
-   "timestamp": "2026-10-01T23:30:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6bccd8732dd748473acaa02949f209d4",
-   "url": "https://t.me/warmonitors/45863",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nPutin: I am grateful for Trump's efforts towards resolving the Ukrainian crisis.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-01T21:56:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "eea29e01f205abbf99476c1514a0206a",
-   "url": "https://t.me/warmonitors/45861",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s foreign ministry has asked Iraq to take steps to lift flight restrictions caused by US sanctions and return flights to normal conditions\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-01T20:01:09+00:00",
-   "has_media": false
   },
   {
    "id": "cacf51255da8602a256d93c754b9225f",
