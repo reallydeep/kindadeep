@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-03T19:50:52Z",
- "count": 37,
+ "generated_utc": "2026-10-03T22:29:25Z",
+ "count": 39,
  "items": [
+  {
+   "id": "47c08f07bbc133340907962ad27b2e14",
+   "url": "https://t.me/OSINTWarfare/7252",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Yemeni Armed Forces released footage showing airstrikes targeting Ansar Allah personnel, vehicles, and positions across several fronts.\nFor context, Yemen does not operate a domestic fleet of high-end UCAVs or modern combat aircraft and relies almost exclusively on Saudi Arabia for air support.",
+   "timestamp": "2026-10-03T22:20:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7b8a60db892b998718851211d36af3c1",
+   "url": "https://t.me/OSINTWarfare/7251",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah targeted Dammam in eastern Saudi Arabia with a ballistic missile.",
+   "timestamp": "2026-10-03T21:46:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1ff74daa509b2d689f407f3bec790ccb",
+   "url": "https://t.me/warmonitors/45887",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nBarak Ravid: Scoop: Two Iranian diplomats \"kicked out\" of U.S. after ignoring order to leave.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-03T20:26:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ed726e2464617d243fa6e1128998c68d",
+   "url": "https://t.me/OSINTWarfare/7250",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Resistance Forces (NRF) released footage showing a 9M133-1 Kornet-E anti-tank guided missile (ATGM) striking an Ansar Allah pickup truck equipped with a 12.7×108 mm DShK heavy machine gun on the Al-Wazi’iyah front.",
+   "timestamp": "2026-10-03T19:55:01+00:00",
+   "has_media": true
+  },
   {
    "id": "f06d90a985f77d0eadc6179211f19e86",
    "url": "https://t.me/OSINTWarfare/7249",
@@ -136,24 +172,6 @@
    "text": "⚡️\nMassive explosion in Mays Al Jabal, South Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-02T14:16:09+00:00",
    "has_media": true
-  },
-  {
-   "id": "7fcabf0f16bc2c3b53a9965e5ec7747b",
-   "url": "https://t.me/OSINTWarfare/7226",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On September 30, 2026, Azerbaijan officially displayed its newly acquired Chinese-made HQ-9BE (FD-2000B) long-range surface-to-air missile (SAM) system at the ADEX 2026 defense exhibition in Baku.\nBaku continues to develop an Integrated Air Defense System (IADS), combining Russian S-300PMU2, Buk-MB/Buk-MB2K, Tor-M2, and S-125TM systems with Israeli Barak and SPYDER air defense systems, the Chinese HQ-9BE, and the domestically developed CWS-30GD Viking air defense system.",
-   "timestamp": "2026-10-02T14:12:05+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e682c83d4ae8179206897d0b8ac5c45f",
-   "url": "https://t.me/warmonitors/45867",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nOne person was killed and two others were injured in a Russian air attack on Kyiv, city authorities said\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-02T09:16:11+00:00",
-   "has_media": false
   },
   {
    "id": "cacf51255da8602a256d93c754b9225f",
