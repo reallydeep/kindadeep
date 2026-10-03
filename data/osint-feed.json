@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-03T17:11:40Z",
- "count": 35,
+ "generated_utc": "2026-10-03T19:50:52Z",
+ "count": 37,
  "items": [
+  {
+   "id": "f06d90a985f77d0eadc6179211f19e86",
+   "url": "https://t.me/OSINTWarfare/7249",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "https://x.com/OSINTWarfare/status/2106446612591493203",
+   "timestamp": "2026-10-03T18:12:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ec29277723c6f5a61994388b652bcbf0",
+   "url": "https://t.me/OSINTWarfare/7246",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the Southern Giants Brigades destroying an Ansar Allah pickup truck on the Kahbub front near Bab al-Mandab.\nThe weapon used is unclear. Some Yemeni sources suggest that the Southern Giants Brigades are using rare Jordanian-made Terminator anti-tank guided missiles (ATGMs) in their attacks.",
+   "timestamp": "2026-10-03T17:18:05+00:00",
+   "has_media": false
+  },
   {
    "id": "f6d40d3a69b3b429e6a0e8d474e79f0f",
    "url": "https://t.me/OSINTWarfare/7245",
