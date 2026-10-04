@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-04T17:42:01Z",
+ "generated_utc": "2026-10-04T20:28:03Z",
  "count": 36,
  "items": [
+  {
+   "id": "00167c07db587453e55f284b58f32c9f",
+   "url": "https://t.me/warmonitors/45891",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe UKMTO reported that a tanker sighted multiple explosions in close proximity to the vessel\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-04T19:01:09+00:00",
+   "has_media": false
+  },
   {
    "id": "b58ce6cfc1c7133471a24f64ac10f5d1",
    "url": "https://t.me/OSINTWarfare/7256",
@@ -117,15 +126,6 @@
    "channel": "OSINTWarfare",
    "text": "Yemen’s Ansar Allah (Houthis) struck the Saudi Aramco refinery in Riyadh, with a thick plume of smoke rising from the facility.",
    "timestamp": "2026-10-03T13:08:00+00:00",
-   "has_media": true
-  },
-  {
-   "id": "16b0bff08c155a7305e48bdc72e481f0",
-   "url": "https://t.me/OSINTWarfare/7235",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen’s Ansar Allah (Houthis) struck the Saudi Aramco refinery in Riyadh, with a thick plume of smoke rising from the facility.",
-   "timestamp": "2026-10-03T13:07:00+00:00",
    "has_media": true
   },
   {
