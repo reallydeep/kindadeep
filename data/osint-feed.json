@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-03T22:29:25Z",
+ "generated_utc": "2026-10-04T01:49:14Z",
  "count": 39,
  "items": [
+  {
+   "id": "04508a49d2802a08732dc4c7b88e4322",
+   "url": "https://t.me/OSINTWarfare/7253",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows a UAV operator from the First Division of the Nation’s Shield Forces (NSF) targeting an Ansar Allah pickup carrying personnel with a mortar round in Bani Omar, on the Taiz front.",
+   "timestamp": "2026-10-04T01:31:46+00:00",
+   "has_media": true
+  },
   {
    "id": "47c08f07bbc133340907962ad27b2e14",
    "url": "https://t.me/OSINTWarfare/7252",
@@ -153,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Earlier today, the IRGC blew up a building used by the People’s Fighters Front (PFF), a Balochi nationalist militant organization operating in Sistan and Baluchestan Province, eastern Iran.\nThe strike comes amid a significant increase in PFF military activity in recent days, with attacks and operations taking place almost daily in Zahedan and Iranshahr.",
    "timestamp": "2026-10-02T18:08:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "808f10ade5a65a637d8e4a6c10763a82",
-   "url": "https://t.me/OSINTWarfare/7227",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia’s Kalashnikov Concern has published the first footage of the KUB-10M loitering munition in combat.\nThe target was claimed to be a Ukrainian Bastion-03 220 mm multiple launch rocket system (MLRS), consisting of a 9K57 Uragan MLRS launcher mounted on a KrAZ-6322 chassis.",
-   "timestamp": "2026-10-02T15:21:34+00:00",
    "has_media": true
   },
   {
