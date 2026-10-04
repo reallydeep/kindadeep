@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-04T20:28:03Z",
+ "generated_utc": "2026-10-04T23:24:53Z",
  "count": 36,
  "items": [
+  {
+   "id": "01b9661cb67a03289a26fc15199073f3",
+   "url": "https://t.me/warmonitors/45893",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nU.S. B-1 bombers evacuated from UK base after attack threats from Iran — Axios\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-04T23:16:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cdf10a074c2f97a79d286e1375b9171e",
+   "url": "https://t.me/OSINTWarfare/7264",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On October 3, North Korea conducted a launch of a medium-range ballistic missile equipped with a Hypersonic Glide Vehicle (HGV) under the personal supervision of Kim Jong Un.\nThe missile was launched from the Wonsan area, flew approximately 1,000 km, and struck a target in the Sea of Japan at 43.607789, 138.013061.\nThe missile reportedly followed a special “wave-like” trajectory, which made tracking its flight more difficult for Japanese and South Korean forces. Seoul initially estimated the missile’s range at 700 km.\nThe missile is possibly derived from the Hwasong-16B (Hwasong-16Na).",
+   "timestamp": "2026-10-04T22:08:07+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c0064c8e1fa7db35f29593ade822e4c1",
+   "url": "https://t.me/OSINTWarfare/7263",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Cockpit footage from a Ukrainian Air Force (UAF) MiG-29 multirole fighter intercepting a Russian jet-powered drone with an R-60M short-range infrared-guided air-to-air missile.",
+   "timestamp": "2026-10-04T21:45:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "210c99cb6667a57dcd0ccee2eef88bcd",
+   "url": "https://t.me/OSINTWarfare/7262",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranian Army spokesman Brigadier General Mohammad Akraminia said that the war led Iran to conclude that it “definitely needs” to increase the range of its missiles, and that it has now moved in that direction.\nHe said Iran has made significant progress in missile speed and precision-strike capabilities, with future generations expected to further improve both.\nAkraminia added that while the missiles used against U.S. bases in the Gulf and U.S. assets at sea were highly effective, Iran has concluded that their speed and range must be further increased, as the U.S. Navy is now positioned farther from Iran’s shores, at distances of up to 1,000 km and beyond.\nWe have also seen the IRGC Aerospace Force conduct several test launches of anti-ship ballistic missiles (ASBMs) in recent weeks, suggesting that Iran is actively working on improving the range and precision of its anti-ship missile capabilities.",
+   "timestamp": "2026-10-04T21:22:43+00:00",
+   "has_media": true
+  },
   {
    "id": "00167c07db587453e55f284b58f32c9f",
    "url": "https://t.me/warmonitors/45891",
@@ -91,42 +127,6 @@
    "text": "https://x.com/OSINTWarfare/status/2106446612591493203",
    "timestamp": "2026-10-03T18:12:55+00:00",
    "has_media": false
-  },
-  {
-   "id": "ec29277723c6f5a61994388b652bcbf0",
-   "url": "https://t.me/OSINTWarfare/7246",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the Southern Giants Brigades destroying an Ansar Allah pickup truck on the Kahbub front near Bab al-Mandab.\nThe weapon used is unclear. Some Yemeni sources suggest that the Southern Giants Brigades are using rare Jordanian-made Terminator anti-tank guided missiles (ATGMs) in their attacks.",
-   "timestamp": "2026-10-03T17:18:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f6d40d3a69b3b429e6a0e8d474e79f0f",
-   "url": "https://t.me/OSINTWarfare/7245",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses launched a surface-to-air missile (SAM) at an aerial vehicle over Qeshm Island in the Strait of Hormuz.",
-   "timestamp": "2026-10-03T17:02:09+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6c6b3f64aad3e6f9e54812a2bd428672",
-   "url": "https://t.me/OSINTWarfare/7242",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Iranian air defenses launched a surface-to-air missile (SAM) at an aerial vehicle over Qeshm Island in the Strait of Hormuz.",
-   "timestamp": "2026-10-03T13:37:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b78e10faf2428f44e0d10d3825886fd9",
-   "url": "https://t.me/OSINTWarfare/7241",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen’s Ansar Allah (Houthis) struck the Saudi Aramco refinery in Riyadh, with a thick plume of smoke rising from the facility.",
-   "timestamp": "2026-10-03T13:08:00+00:00",
-   "has_media": true
   },
   {
    "id": "aa46ad5d51c00e597c260a860114f6a9",
