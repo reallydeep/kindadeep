@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-04T13:20:43Z",
- "count": 40,
+ "generated_utc": "2026-10-04T17:42:01Z",
+ "count": 36,
  "items": [
+  {
+   "id": "b58ce6cfc1c7133471a24f64ac10f5d1",
+   "url": "https://t.me/OSINTWarfare/7256",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) made major advances across the Taiz front today, capturing Al-Safiya Junction and cutting the strategic Taiz–Aden road, nearly encircling government-held Taiz.  Ansar Allah also advanced through Al-Zakirah and Al-Maqarimah toward Al-Turbah…",
+   "timestamp": "2026-10-04T14:25:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "738af9bcc8861e5223bc98a03d6dea9d",
+   "url": "https://t.me/OSINTWarfare/7254",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) made major advances across the Taiz front today, capturing Al-Safiya Junction and cutting the strategic Taiz–Aden road, nearly encircling government-held Taiz.\nAnsar Allah also advanced through Al-Zakirah and Al-Maqarimah toward Al-Turbah, with fighting taking place around Jabal Han and Jabal Habashi.\nThey also seized the Al-Barakani area and the home of Saudi-backed Yemeni House of Representatives Speaker Sultan al-Barakani south of Taiz",
+   "timestamp": "2026-10-04T14:08:08+00:00",
+   "has_media": true
+  },
   {
    "id": "d2a6cb95e215d178b1dd1f5df103840e",
    "url": "https://t.me/warmonitors/45888",
@@ -111,15 +129,6 @@
    "has_media": true
   },
   {
-   "id": "dde8211556b6f4d3f4ccd91d78704f32",
-   "url": "https://t.me/OSINTWarfare/7234",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Royal Saudi Air Force (RSAF) carried out airstrikes targeting Ansar Allah military infrastructure in Yemen’s capital, Sanaa.",
-   "timestamp": "2026-10-03T12:50:37+00:00",
-   "has_media": true
-  },
-  {
    "id": "aa46ad5d51c00e597c260a860114f6a9",
    "url": "https://t.me/warmonitors/45882",
    "source": "telegram",
@@ -127,51 +136,6 @@
    "text": "⚡\nAFP: Explosions heard in the Yemeni capital, Sana'a\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-03T10:26:11+00:00",
    "has_media": false
-  },
-  {
-   "id": "a72049b274259d1d20d01e07e4bd31db",
-   "url": "https://t.me/OSINTWarfare/7233",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Arena-M active protection system (APS) on T-90M tanks engaging FPV drones and fixed-wing-type drones during the Center-2026 military exercise.  It is clearly visible that the APS is still far from being a complete solution against drones. In the case of…",
-   "timestamp": "2026-10-02T22:29:59+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f7c38e37cd4eaf91c2eb47c51ebba298",
-   "url": "https://t.me/OSINTWarfare/7232",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Yemeni Armed Forces released footage showing airstrikes targeting Ansar Allah weapons and supply vehicles en route to Jabal Rasin in the Al-Wazi’iyah District on the Taiz front.",
-   "timestamp": "2026-10-02T21:48:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1c58b5871388fba604654077632bcd23",
-   "url": "https://t.me/OSINTWarfare/7231",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During the main phase of the Tsentr-2026 (Center-2026) military exercise, the latest Izdeliye 347 ground-launched missile system, equipped with a modified Kh-39 Light Multipurpose Guided Missile (LMUR), was used at the Chebarkulsky training ground to strike…",
-   "timestamp": "2026-10-02T21:14:17+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c3d2de2d636e8282cac2b9f7fe978a78",
-   "url": "https://t.me/OSINTWarfare/7230",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "During the main phase of the Tsentr-2026 (Center-2026) military exercise, the latest Izdeliye 347 ground-launched missile system, equipped with a modified Kh-39 Light Multipurpose Guided Missile (LMUR), was used at the Chebarkulsky training ground to strike artillery positions identified through aerial reconnaissance.\nIzdeliye 347 is a Russian ground-launched, multipurpose precision-guided missile system derived from the LMUR (Izdeliye 305), which was originally developed for airborne deployment from combat helicopters such as the Mi-28NM and Ka-52M.",
-   "timestamp": "2026-10-02T19:12:52+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fbaaa96f0fde3f28cd5fd024d9c79ea8",
-   "url": "https://t.me/OSINTWarfare/7229",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier today, the IRGC blew up a building used by the People’s Fighters Front (PFF), a Balochi nationalist militant organization operating in Sistan and Baluchestan Province, eastern Iran.\nThe strike comes amid a significant increase in PFF military activity in recent days, with attacks and operations taking place almost daily in Zahedan and Iranshahr.",
-   "timestamp": "2026-10-02T18:08:45+00:00",
-   "has_media": true
   },
   {
    "id": "5f9288f86d3801fce747e8f8de940559",
