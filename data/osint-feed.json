@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-06T16:42:04Z",
- "count": 40,
+ "generated_utc": "2026-10-06T21:14:45Z",
+ "count": 42,
  "items": [
+  {
+   "id": "3f76251f589b4202b0a1ec0e0cab31b1",
+   "url": "https://t.me/OSINTWarfare/7298",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "On October 1, the Aviation Department of the Armenian Armed Forces conducted training flights observed by First Deputy Minister of Defense and Chief of the General Staff, Lieutenant General Edvard Asryan.\nThe exercises assessed the personnel’s level of readiness and the accuracy with which assigned tasks were carried out.\nThe Iranian Majid (AD-08) short-range air defense system was also deployed during the exercise.",
+   "timestamp": "2026-10-06T20:25:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "191414511cac33664cf7e05d7e9f2393",
+   "url": "https://t.me/OSINTWarfare/7297",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Yemeni Armed Forces released footage showing airstrikes targeting Ansar Allah vehicles and positions, likely in Taiz Governorate.",
+   "timestamp": "2026-10-06T20:08:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c2fa911f3fe273c39b2fc3bb5de08b72",
+   "url": "https://t.me/OSINTWarfare/7296",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah has released footage showing Shuwaz FPV drones conducting strikes against vehicles, troops, and surveillance equipment belonging to forces aligned with the Presidential Leadership Council (PLC) on several fronts.",
+   "timestamp": "2026-10-06T19:51:01+00:00",
+   "has_media": false
+  },
+  {
+   "id": "bc5381f0f706f9645fd8245837c3fa3d",
+   "url": "https://t.me/OSINTWarfare/7295",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Pakistan Army’s Rocket Forces Command has successfully conducted the second test of the Fatah-4 (Fattah-IV) Extended Range (ER) land-attack cruise missile (LACM).\nThe missile is believed to have a range exceeding 1,000 km.",
+   "timestamp": "2026-10-06T19:06:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1a39ad9e0a2081a94eb97d9b57ac4750",
+   "url": "https://t.me/OSINTWarfare/7294",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A UAV unit of the First Division of the Nation’s Shield Forces (NSF) carried out a precision strike targeting a gathering of Ansar Allah troops on the Al-Waziʽiyah front.",
+   "timestamp": "2026-10-06T17:30:54+00:00",
+   "has_media": false
+  },
   {
    "id": "c7c2e5983037d8367b04840d89763bf9",
    "url": "https://t.me/OSINTWarfare/7291",
@@ -138,15 +183,6 @@
    "has_media": false
   },
   {
-   "id": "484de6680e424acd84eb0a21c36b8b4a",
-   "url": "https://t.me/OSINTWarfare/7284",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "After capturing Al-Turbah, Ansar Allah forces are advancing toward Sharjab, with PLC forces withdrawing from the area.  Ansar Allah has also reached the village of Al-Aʽlum after taking control of the Taiz–Al-Turbah road and is now pushing to seize the Road…",
-   "timestamp": "2026-10-05T18:18:27+00:00",
-   "has_media": false
-  },
-  {
    "id": "aaf784e57be111bf90af07479138def5",
    "url": "https://t.me/warmonitors/45905",
    "source": "telegram",
@@ -162,24 +198,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nPakistan, Saudi Arabia and Turkey have agreed to provide military forces and capabilities, according to the Pakistani Foreign Ministry\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-05T18:16:09+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8e395c255193d8ed9a3649c2aeac52b0",
-   "url": "https://t.me/OSINTWarfare/7280",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah has released footage showing Shuwaz FPV drone strikes targeting vehicles and troops belonging to pro-Presidential Leadership Council (PLC) forces on several fronts.",
-   "timestamp": "2026-10-05T15:38:17+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0a9d8cc50a0df19e09bae982c76c788e",
-   "url": "https://t.me/OSINTWarfare/7276",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah has released footage showing ballistic missile strikes targeting pro-Presidential Leadership Council (PLC) troop concentrations in Ras al-Arah, southwestern Yemen.",
-   "timestamp": "2026-10-05T13:26:45+00:00",
    "has_media": false
   },
   {
