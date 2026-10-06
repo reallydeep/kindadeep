@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-05T23:19:52Z",
- "count": 35,
+ "generated_utc": "2026-10-06T03:05:54Z",
+ "count": 36,
  "items": [
+  {
+   "id": "063994432152145888c83c8361e1dab4",
+   "url": "https://t.me/OSINTWarfare/7288",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has just targeted a gathering of troops and vehicles in Ras al-Arah, southwestern Yemen, with several ballistic missiles.",
+   "timestamp": "2026-10-06T00:30:00+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dbee3ce259ec9e6b5c68ea929a1d132a",
+   "url": "https://t.me/warmonitors/45917",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nTrump: We were able to eliminate Iran's military capabilities and secure the Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-05T23:59:37+00:00",
+   "has_media": false
+  },
   {
    "id": "30cb09e18a18514b7869e79e5c164cf2",
    "url": "https://t.me/OSINTWarfare/7287",
@@ -127,15 +145,6 @@
    "text": "Ansar Allah has released footage showing ballistic missile strikes targeting pro-Presidential Leadership Council (PLC) troop concentrations in Ras al-Arah, southwestern Yemen.",
    "timestamp": "2026-10-05T13:26:45+00:00",
    "has_media": false
-  },
-  {
-   "id": "cdf10a074c2f97a79d286e1375b9171e",
-   "url": "https://t.me/OSINTWarfare/7264",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On October 3, North Korea conducted a launch of a medium-range ballistic missile equipped with a Hypersonic Glide Vehicle (HGV) under the personal supervision of Kim Jong Un.\nThe missile was launched from the Wonsan area, flew approximately 1,000 km, and struck a target in the Sea of Japan at 43.607789, 138.013061.\nThe missile reportedly followed a special “wave-like” trajectory, which made tracking its flight more difficult for Japanese and South Korean forces. Seoul initially estimated the missile’s range at 700 km.\nThe missile is possibly derived from the Hwasong-16B (Hwasong-16Na).",
-   "timestamp": "2026-10-04T22:08:07+00:00",
-   "has_media": true
   },
   {
    "id": "cacf51255da8602a256d93c754b9225f",
