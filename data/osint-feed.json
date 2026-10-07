@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-07T19:33:45Z",
- "count": 40,
+ "generated_utc": "2026-10-07T23:45:06Z",
+ "count": 41,
  "items": [
+  {
+   "id": "16a780c5f65ee3f5ac35b7dc7e871791",
+   "url": "https://t.me/OSINTWarfare/7343",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "New footage obtained by CBS News shows Iranian drone strikes on Camp Buehring in Kuwait, along with the aftermath, including damaged equipment and buildings, during the opening days of the Iran war.\nThree witnesses also reported seeing F-5F Tiger II fighters, or their Iranian equivalents, the Kowsar or Saeqeh, during the attacks. One witness said the fighters flew so close that he could see the pilots’ helmets.",
+   "timestamp": "2026-10-07T22:20:48+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b3bc1f65e1c3814642f5605f809dac70",
+   "url": "https://t.me/OSINTWarfare/7342",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the Royal Saudi Air Force (RSAF) destroying an Ansar Allah (Houthis) ballistic missile launcher in Sanaa, Yemen’s capital.",
+   "timestamp": "2026-10-07T21:29:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f2bb63ee307c9a11430daf52f4e1085b",
+   "url": "https://t.me/OSINTWarfare/7341",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows local tribal fighters clashing with Ansar Allah (Houthis) forces on the Jabal Habashi front in Taiz Governorate.\nThe footage also shows their position coming under fire from Ansar Allah forces.",
+   "timestamp": "2026-10-07T20:10:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "28a356ac2ebad33d6e79be8b99acbb1a",
+   "url": "https://t.me/warmonitors/45940",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSyria is considering sending troops to Yemen to fight the Houthis, according to Axios\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-07T19:49:37+00:00",
+   "has_media": false
+  },
   {
    "id": "d1764b8dfb89a7077b5623e0ea18d469",
    "url": "https://t.me/OSINTWarfare/7340",
@@ -84,15 +120,6 @@
    "has_media": false
   },
   {
-   "id": "5567ae3891a7f8b9c8e298ac246d5ca2",
-   "url": "https://t.me/OSINTWarfare/7321",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n❌\n🇺🇦\n— Fiotage shows a North Korean Hwasong-11A (KN-23) ballistic missile impact in Dnipro, Dnipropetrovsk Oblast.  @IntelSlava",
-   "timestamp": "2026-10-07T12:24:46+00:00",
-   "has_media": true
-  },
-  {
    "id": "4fe5f769279c7e6759067ec9a293a361",
    "url": "https://t.me/warmonitors/45930",
    "source": "telegram",
@@ -162,24 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nThe Kremlin says Russia will be forced to act to protect its security if Lithuania hosts nuclear weapons or a base\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-06T09:59:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cbd800d195fa37b34586b77692160350",
-   "url": "https://t.me/warmonitors/45921",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA warehouse in Russia’s Moscow region has caught fire following a drone attack, according to TASS\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-06T09:54:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "099dad420b87b867c452f5ced635ec45",
-   "url": "https://t.me/warmonitors/45920",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nDrones have struck two ships in Bulgaria’s Black Sea economic zone, the president says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-06T09:54:37+00:00",
    "has_media": false
   },
   {
