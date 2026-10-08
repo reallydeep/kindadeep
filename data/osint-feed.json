@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-08T02:57:45Z",
- "count": 43,
+ "generated_utc": "2026-10-08T09:50:00Z",
+ "count": 44,
  "items": [
+  {
+   "id": "9e6111e4455fea921f89bc1ee376c8f4",
+   "url": "https://t.me/OSINTWarfare/7347",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that they had targeted gatherings and troop concentrations, possibly belonging to the Southern Giants Brigades, at Qa'wah Camp in the Ras al-Arah District of southwestern Yemen using several ballistic missiles.\nAt the same time, they targeted troop gatherings south of Bab al-Mandab and in the Al-Suqayyan area with additional ballistic missiles.",
+   "timestamp": "2026-10-08T03:10:32+00:00",
+   "has_media": false
+  },
   {
    "id": "bddead71a052c0b79cd4f50fd1f3df21",
    "url": "https://t.me/OSINTWarfare/7345",
