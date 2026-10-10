@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-10T19:06:11Z",
+ "generated_utc": "2026-10-10T22:25:56Z",
  "count": 38,
  "items": [
+  {
+   "id": "6e369c3bfd8cb26ce012d5234a3233f9",
+   "url": "https://t.me/OSINTWarfare/7399",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Something unusual is going on; Iranian and Iraqi airspace is almost completely empty.",
+   "timestamp": "2026-10-10T22:10:54+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8795905b5ec70039c518607c35c4b747",
+   "url": "https://t.me/OSINTWarfare/7397",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from Terminal 3 at King Khalid International Airport in Riyadh following an Ansar Allah missile strike.  It remains unclear whether the missile was ballistic or cruise, with conflicting reports on the type of weapon used.",
+   "timestamp": "2026-10-10T21:03:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cabb9582c0239599e3d887e6c7898faf",
+   "url": "https://t.me/TerrorAlarm/59",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "There is absolutely zero chance\n🇮🇷\nIran wins a war against a nuclear power\n🇺🇸\n. Even if their army was fully intact and their navy wasn't at the bottom of the sea, the outcome is predetermined. The reason is simple: The nuclear deterrent makes conventional victory impossible.",
+   "timestamp": "2026-10-10T20:23:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "466f6986c1f0af5f5737cb30c0bb1e6e",
+   "url": "https://t.me/OSINTWarfare/7396",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A lucky Ukrainian soldier narrowly escaped death when an intercepted Russian Molniya-2 drone crashed literally a meter away from him.",
+   "timestamp": "2026-10-10T19:16:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1d02b57461a7d8a1a467ac8a05490b98",
+   "url": "https://t.me/OSINTWarfare/7395",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) has released footage showing Royal Saudi Air Force (RSAF) airstrikes against Ansar Allah (Houthis) positions.\nOf course, as usual, some will claim these are strikes carried out by the Yemeni Air Force. To my knowledge, it does not operate any unmanned combat aerial vehicles (UCAVs), while its old fleet of MiG-29s and F-5Es is no longer operational.\nEven if those airframes were active, the targeting pod graphical user interface (GUI) seen in the footage does not match legacy platforms.",
+   "timestamp": "2026-10-10T19:08:55+00:00",
+   "has_media": true
+  },
   {
    "id": "2cbd19a9fee448652d504bbddc5d03b1",
    "url": "https://t.me/OSINTWarfare/7393",
@@ -109,51 +154,6 @@
    "text": "⚡\nReuters, citing sources: A loud explosion was heard at an airport in the Saudi capital, Riyadh.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-10T13:36:34+00:00",
    "has_media": false
-  },
-  {
-   "id": "7c9b9e780c3ba409b9d5293fa64b9590",
-   "url": "https://t.me/OSINTWarfare/7379",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A massive plume of smoke rises from Saudi Arabia’s Ghawar Field, the world’s largest oil field, following an Ansar Allah (Houthi) ballistic missile strike.",
-   "timestamp": "2026-10-10T13:32:31+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5f6ac11fed31cc084b8b6e419992ee62",
-   "url": "https://t.me/OSINTWarfare/7378",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Morocco and Israel are in advanced discussions over a potential Moroccan acquisition of the David’s Sling air defense system, which is designed to intercept tactical ballistic missiles (TBMs), drones, medium- to long-range rockets, and cruise missiles.",
-   "timestamp": "2026-10-10T00:13:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "278501b77d61e2ff1fab492cdb79b0ef",
-   "url": "https://t.me/OSINTWarfare/7377",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) launched a surface-to-air missile (SAM) toward a possible Saudi aircraft over the Yemeni capital, Sanaa.",
-   "timestamp": "2026-10-09T23:05:47+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ae2ec8934566027cd8902329206e8781",
-   "url": "https://t.me/OSINTWarfare/7376",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Royal Saudi Air Force (RSAF) carried out airstrikes targeting Ansar Allah (Houthis) positions in Yemen’s capital, Sanaa.",
-   "timestamp": "2026-10-09T21:48:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "472139be4b987ec9cb589d3c12ef2443",
-   "url": "https://t.me/OSINTWarfare/7375",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Additional close-up footage shows fire at the Aramco storage depot in Jeddah, Saudi Arabia, following an Ansar Allah (Houthis) drone strike on October 5.",
-   "timestamp": "2026-10-09T20:09:00+00:00",
-   "has_media": true
   },
   {
    "id": "392dfda1f8b60163ba137ecf41909dd5",
