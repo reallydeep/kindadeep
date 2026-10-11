@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-11T18:31:00Z",
- "count": 39,
+ "generated_utc": "2026-10-11T22:23:42Z",
+ "count": 38,
  "items": [
+  {
+   "id": "e4df12b691b310f4a7ec3286adfe5237",
+   "url": "https://t.me/warmonitors/46018",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nVideo footage of the Houthi attack on King Khalid International Airport in Riyadh\nThe attack left at least 12 dead, and 309 injured\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-11T22:11:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d1920aab02ee97d96580ed0c336c886d",
+   "url": "https://t.me/OSINTWarfare/7424",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "⚡️\n🇮🇷\n🇾🇪\n🇸🇦\nIran's Ministry of Foreign Affairs:\nIran is ready to offer any assistance that could help initiate dialogue between Saudi Arabia and Yemen.\n@Alsaa_plus_EN",
+   "timestamp": "2026-10-11T21:30:17+00:00",
+   "has_media": false
+  },
+  {
+   "id": "73238a371b60e39972ea797a670e13fb",
+   "url": "https://t.me/OSINTWarfare/7422",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from Terminal 3 at King Khalid International Airport in Riyadh following an Ansar Allah missile strike.  It remains unclear whether the missile was ballistic or cruise, with conflicting reports on the type of weapon used.",
+   "timestamp": "2026-10-11T20:22:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ca41dddc4e45ec032f98063b28a4e30c",
+   "url": "https://t.me/OSINTWarfare/7420",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian drone struck the oil tanker Petro Dolphin near the Omani port of Sohar today, setting the vessel on fire.\nThe tanker had 12 crew members on board, one Bangladeshi and 11 Indian nationals. Two crew members are reported missing.",
+   "timestamp": "2026-10-11T20:13:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "134f461860aca9aabc395deacb3f794a",
+   "url": "https://t.me/OSINTWarfare/7418",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Iranian Armed Forces and the Islamic Revolutionary Guard Corps (IRGC) are conducting comprehensive military exercises involving ballistic missiles, loitering munitions, and air defense systems.  Islamic Republic of Iran Air Force (IRIAF) units are participating…",
+   "timestamp": "2026-10-11T19:04:58+00:00",
+   "has_media": true
+  },
   {
    "id": "60e65cff4daae1c8e01c4798b54bba3d",
    "url": "https://t.me/warmonitors/46016",
@@ -108,60 +153,6 @@
    "channel": "OSINTWarfare",
    "text": "King Abdulaziz International Airport in Jeddah, western Saudi Arabia, is experiencing disruptions, apparently due to an Ansar Allah (Houthi) missile/drone attack.",
    "timestamp": "2026-10-11T04:38:18+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4b091c0438972df1a6714a324ea2e5a6",
-   "url": "https://t.me/OSINTWarfare/7403",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Zolfaghar ballistic missile and its anti-ship variant, the Zolfaghar Basir, were displayed during a nighttime public gathering in Andisheh, Tehran Province.",
-   "timestamp": "2026-10-11T01:21:16+00:00",
-   "has_media": true
-  },
-  {
-   "id": "c48b0fac4b4e964336e6b118e4ed7fb1",
-   "url": "https://t.me/warmonitors/45998",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nU.S. military: We intercepted a commercial ship in the Gulf of Oman, flying the Panamanian flag, after its crew ignored repeated warnings and attempted to break the maritime blockade of Iran. The operation was carried out without harming the crew.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-11T01:01:34+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1ed43899c87ebdcd5b58b56ee9d1d2d4",
-   "url": "https://t.me/warmonitors/45997",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA US CENTCOM military fighter jet struck the stern of the Panama-flagged M/V Ocean Molica with a precision munition, fully disabling the ship’s propulsion\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-11T00:11:38+00:00",
-   "has_media": false
-  },
-  {
-   "id": "68c551a1900e9d1abb459a38202cfba9",
-   "url": "https://t.me/OSINTWarfare/7401",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Russian city of Sochi, in Krasnodar Krai, is under attack by Ukrainian UAVs, with S-300/S-400 air defense system activated.",
-   "timestamp": "2026-10-10T23:13:05+00:00",
-   "has_media": true
-  },
-  {
-   "id": "3d15245d30c68e83a4127be19ba347a7",
-   "url": "https://t.me/OSINTWarfare/7400",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Something unusual is going on; Iranian and Iraqi airspace is almost completely empty.",
-   "timestamp": "2026-10-10T23:04:58+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6e369c3bfd8cb26ce012d5234a3233f9",
-   "url": "https://t.me/OSINTWarfare/7399",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Something unusual is going on; Iranian and Iraqi airspace is almost completely empty.",
-   "timestamp": "2026-10-10T22:10:54+00:00",
    "has_media": false
   },
   {
