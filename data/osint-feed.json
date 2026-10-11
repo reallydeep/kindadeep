@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-11T01:05:11Z",
+ "generated_utc": "2026-10-11T07:03:02Z",
  "count": 41,
  "items": [
+  {
+   "id": "0ee4ff1a07b490c0a55976e74d652a88",
+   "url": "https://t.me/OSINTWarfare/7407",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia's T-14 Armata main battle tank (MBT) is being further developed based on the experience gained during the war in Ukraine, according to Uralvagonzavod CEO Alexander Potapov.\nThe tank is undergoing phased operational trials with the Russian Armed Forces.",
+   "timestamp": "2026-10-11T04:48:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ea98cc9c685de408c420e09665067f90",
+   "url": "https://t.me/OSINTWarfare/7406",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from yesterday shows a Russian 3M22 Zircon hypersonic missile spiraling toward the ground before crashing in Kyiv’s Obolon district. Ukrainian sources claim it was shot down by a Patriot air defense system.",
+   "timestamp": "2026-10-11T04:43:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b00e3b533e15b0e232c0a31bbe2fed7d",
+   "url": "https://t.me/OSINTWarfare/7405",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "King Abdulaziz International Airport in Jeddah, western Saudi Arabia, is experiencing disruptions, apparently due to an Ansar Allah (Houthi) missile/drone attack.",
+   "timestamp": "2026-10-11T04:38:18+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4b091c0438972df1a6714a324ea2e5a6",
+   "url": "https://t.me/OSINTWarfare/7403",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Zolfaghar ballistic missile and its anti-ship variant, the Zolfaghar Basir, were displayed during a nighttime public gathering in Andisheh, Tehran Province.",
+   "timestamp": "2026-10-11T01:21:16+00:00",
+   "has_media": true
+  },
   {
    "id": "c48b0fac4b4e964336e6b118e4ed7fb1",
    "url": "https://t.me/warmonitors/45998",
@@ -135,42 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#BREAKING\nEyewitnesses at Riyadh airport report seeing many people wounded following a blast earlier today\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-10T15:46:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "075f7f4a71cf3b3f2bc8cb01d68efeac",
-   "url": "https://t.me/OSINTWarfare/7386",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from Terminal 3 at King Khalid International Airport in Riyadh following an Ansar Allah missile strike.\nIt remains unclear whether the missile was ballistic or cruise, with conflicting reports on the type of weapon used.",
-   "timestamp": "2026-10-10T15:15:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a34c453afc2b9ec28d9891ad3d943fec",
-   "url": "https://t.me/OSINTWarfare/7385",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Lockheed Martin unveiled the PAC-3 Edge on October 9, a new Patriot interceptor variant designed to counter advanced missile threats, including hypersonic missiles.\nThe interceptor features a new seeker, an upgraded flight control system, and a Northrop Grumman-developed multi-pulse rocket motor. These upgrades are intended to extend its engagement range and enable interceptions at higher altitudes.\nDeveloped under the U.S. Army’s Future Interceptor program, the PAC-3 Edge builds on combat-proven technologies from the PAC-3 MSE interceptor while incorporating new solutions to improve interception effectiveness.\nAccording to Lockheed Martin, the PAC-3 Edge’s production cost is expected to remain roughly in line with that of the PAC-3 MSE. The company also aims to increase annual production capacity across the PAC-3 interceptor family to approximately 2,000 missiles.\nTesting is scheduled to begin in 2027, with the PAC-3 Edge expected to be ready for deployment by 2031.\nThe development comes as the U.S. Army seeks to expand its interceptor missile stockpiles and strengthen its defenses against increasingly advanced missile threats.",
-   "timestamp": "2026-10-10T14:58:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b9e88eaa25369399e081e5d0428b834d",
-   "url": "https://t.me/OSINTWarfare/7384",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "⚡️\n🇱🇧\n— MaxOsint Intel is opening a new support campaign for families in Baalbek, southern Lebanon, and Beirut as winter begins.\nMany of the families we previously helped during the conflict are now entering the cold months with limited blankets, mattresses, and little to no heating.\nThis campaign will focus on practical winter needs:\nHeavy blankets and mattresses\nWarm clothing\nBasic heating support where possible\nWe will continue to document every distribution with proof, just as we have done before.\nIf you are able to help, your support can make a real difference for families facing the winter.\nContact:\n@max0sint",
-   "timestamp": "2026-10-10T14:55:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "cc313a140502a2323e872db7742d29f8",
-   "url": "https://t.me/OSINTWarfare/7383",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah has released footage showing Shuwaz FPV drone strikes against vehicles, troops, and equipment belonging to the Southern Giants Brigades and Nation’s Shield Forces in Al-Wazi’iyah District and around the Kahbub Mountains.\nUnlike previous footage showing skilled FPV drone strikes, the operators in these videos appear less experienced and still need more practice.",
-   "timestamp": "2026-10-10T14:49:26+00:00",
    "has_media": false
   },
   {
