@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-11T22:23:42Z",
- "count": 38,
+ "generated_utc": "2026-10-12T01:26:13Z",
+ "count": 37,
  "items": [
+  {
+   "id": "09458b94c3e948267cb03d088e2f0055",
+   "url": "https://t.me/OSINTWarfare/7426",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) forces have captured Al-Misrakh District, the last major populated area in the direction of Taiz.",
+   "timestamp": "2026-10-11T23:16:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d8862a8a8e4ecd6eab05a00fe2bbd74b",
+   "url": "https://t.me/OSINTWarfare/7425",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing its forces repelling an attempted advance by the Southern Giants Brigades and Nation’s Shield Forces from Lahij Governorate toward the highlands of Al-Wazi’iyah District in Taiz Governorate.\nThe footage also shows Ansar Allah forces clearing Wadi Sharirah and the surrounding mountains toward Al-Shamayatayn District.",
+   "timestamp": "2026-10-11T22:47:04+00:00",
+   "has_media": false
+  },
   {
    "id": "e4df12b691b310f4a7ec3286adfe5237",
    "url": "https://t.me/warmonitors/46018",
@@ -126,33 +144,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nYemen’s Houthis have renewed their warning to airlines, workers and travellers not to use airports in Saudi Arabia\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-11T09:26:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0ee4ff1a07b490c0a55976e74d652a88",
-   "url": "https://t.me/OSINTWarfare/7407",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia's T-14 Armata main battle tank (MBT) is being further developed based on the experience gained during the war in Ukraine, according to Uralvagonzavod CEO Alexander Potapov.\nThe tank is undergoing phased operational trials with the Russian Armed Forces.",
-   "timestamp": "2026-10-11T04:48:44+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ea98cc9c685de408c420e09665067f90",
-   "url": "https://t.me/OSINTWarfare/7406",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from yesterday shows a Russian 3M22 Zircon hypersonic missile spiraling toward the ground before crashing in Kyiv’s Obolon district. Ukrainian sources claim it was shot down by a Patriot air defense system.",
-   "timestamp": "2026-10-11T04:43:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b00e3b533e15b0e232c0a31bbe2fed7d",
-   "url": "https://t.me/OSINTWarfare/7405",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "King Abdulaziz International Airport in Jeddah, western Saudi Arabia, is experiencing disruptions, apparently due to an Ansar Allah (Houthi) missile/drone attack.",
-   "timestamp": "2026-10-11T04:38:18+00:00",
    "has_media": false
   },
   {
