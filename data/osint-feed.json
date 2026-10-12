@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-12T07:35:06Z",
- "count": 37,
+ "generated_utc": "2026-10-12T16:57:05Z",
+ "count": 41,
  "items": [
+  {
+   "id": "499f0310398894498b134f399f0d6d76",
+   "url": "https://t.me/OSINTWarfare/7438",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Medevac helicopters were spotted evacuating casualties after unexploded ordnance detonated during a field trip by a group of students and teachers to the Ramim Ridge near the Lebanon border.\nAccording to preliminary reports, 12 people were injured. One is in critical condition, three are seriously injured, and one sustained moderate injuries.\nThe remaining casualties suffered minor injuries.",
+   "timestamp": "2026-10-12T12:29:28+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f6fdc9c97f071371b2116e4cfe3efd77",
+   "url": "https://t.me/OSINTWarfare/7435",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Anduril has unveiled Steelfin, a new surface-to-air interceptor developed as part of a U.S. Army program to field a low-cost interceptor. According to company executives, Steelfin is expected to cost approximately one-third as much as a Patriot PAC-3 MSE missile.\nThe missile can be equipped with different rocket motors and seeker heads, allowing it to be tailored to various aerial threats and upgraded more easily.\nSteelfin is compatible with multiple launch systems:\n• M903A2 launcher of the Patriot air defense system;\n• Mk 41 Vertical Launch System (VLS);\n• Typhon Mid-Range Capability (MRC) missile system;\n• Containerized launchers.\nIt can also be integrated with various command-and-control systems, including:\n• Integrated Battle Command System (IBCS);\n• Aegis Combat System;\n• Other air and missile defense architectures.\nAnduril plans to begin full-rate production of Steelfin in late 2028 or early 2029.\nThe U.S. military is seeking to reduce the cost of countering mass aerial threats. With the proliferation of inexpensive UAVs and cruise missiles, relying on costly PAC-3 MSE interceptors can quickly become economically unsustainable. Steelfin is intended to offer a more affordable interception option while remaining compatible with existing air defense infrastructure.",
+   "timestamp": "2026-10-12T10:16:46+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4e9bce9658ea73c68ea690ebe6dafae3",
+   "url": "https://t.me/OSINTWarfare/7433",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Iranian Shahed-136 loitering munition struck a camp belonging to the Kurdistan Democratic Party (KDP) in Koya, Erbil Governorate, Iraqi Kurdistan.",
+   "timestamp": "2026-10-12T10:10:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "690a33304e7c3e041f52fbb374a75611",
+   "url": "https://t.me/OSINTWarfare/7432",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Pakistan Army Aviation MFI-17 Mushshak training aircraft crashed near Nawakilli in Balochistan Province due to a technical malfunction.\nBoth pilots on board, Major Husnain Shehzad Humayun, an instructor pilot, and Captain Abdul Samad, a student pilot, were killed in the crash.",
+   "timestamp": "2026-10-12T09:59:53+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b1d0682fb2ee1ef9f69d71aad3eaea2d",
+   "url": "https://t.me/OSINTWarfare/7431",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ukraine’s Defence Intelligence (HUR) reports that Russia is developing a new variant of the Kh-47M2 Kinzhal aeroballistic missile equipped with a high-explosive fragmentation warhead.",
+   "timestamp": "2026-10-12T08:17:24+00:00",
+   "has_media": true
+  },
   {
    "id": "09458b94c3e948267cb03d088e2f0055",
    "url": "https://t.me/OSINTWarfare/7426",
@@ -109,15 +154,6 @@
    "text": "⚡\n#BREAKING\nThe US has accepted some of Iran’s conditions while others remain unclear, says the secretary of Iran’s Supreme National Security Council\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-11T15:56:34+00:00",
    "has_media": false
-  },
-  {
-   "id": "051c3586668d20711e7451984b2f104c",
-   "url": "https://t.me/OSINTWarfare/7414",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Iranian Armed Forces and the Islamic Revolutionary Guard Corps (IRGC) are conducting comprehensive military exercises involving ballistic missiles, loitering munitions, and air defense systems.\nIslamic Republic of Iran Air Force (IRIAF) units are participating in the drills, with various combat aircraft spotted in the skies, including the F-4 Phantom, F-14 Tomcat, MiG-29, and F-5.",
-   "timestamp": "2026-10-11T15:20:50+00:00",
-   "has_media": true
   },
   {
    "id": "b5748bcf999fc2561d153608949fc2e3",
