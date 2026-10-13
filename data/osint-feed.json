@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-13T03:40:29Z",
- "count": 44,
+ "generated_utc": "2026-10-13T11:08:14Z",
+ "count": 45,
  "items": [
+  {
+   "id": "4f18f400a3a0a980b0246374064b1afc",
+   "url": "https://t.me/OSINTWarfare/7456",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Early this morning, Ansar Allah (Houthis) announced that it had shot down a Royal Saudi Air Force (RSAF) Wing Loong II unmanned combat aerial vehicle (UCAV) over Saada Governorate.",
+   "timestamp": "2026-10-13T08:01:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "aa766a932e4c0fdebe39dd0029411f54",
+   "url": "https://t.me/OSINTWarfare/7455",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage from earlier shows Saudi PAC-3 interceptors being launched to engage incoming Ansar Allah (Houthi) ballistic missiles over Riyadh.  If it weren't for the Bangladeshis, we wouldn't have any footage of this xD",
+   "timestamp": "2026-10-13T07:24:28+00:00",
+   "has_media": true
+  },
   {
    "id": "9b28d0e1bb91b733dba172a8ca6a17f2",
    "url": "https://t.me/OSINTWarfare/7454",
@@ -144,15 +162,6 @@
    "channel": "OSINTWarfare",
    "text": "Anduril has unveiled Steelfin, a new surface-to-air interceptor developed as part of a U.S. Army program to field a low-cost interceptor. According to company executives, Steelfin is expected to cost approximately one-third as much as a Patriot PAC-3 MSE missile.\nThe missile can be equipped with different rocket motors and seeker heads, allowing it to be tailored to various aerial threats and upgraded more easily.\nSteelfin is compatible with multiple launch systems:\n• M903A2 launcher of the Patriot air defense system;\n• Mk 41 Vertical Launch System (VLS);\n• Typhon Mid-Range Capability (MRC) missile system;\n• Containerized launchers.\nIt can also be integrated with various command-and-control systems, including:\n• Integrated Battle Command System (IBCS);\n• Aegis Combat System;\n• Other air and missile defense architectures.\nAnduril plans to begin full-rate production of Steelfin in late 2028 or early 2029.\nThe U.S. military is seeking to reduce the cost of countering mass aerial threats. With the proliferation of inexpensive UAVs and cruise missiles, relying on costly PAC-3 MSE interceptors can quickly become economically unsustainable. Steelfin is intended to offer a more affordable interception option while remaining compatible with existing air defense infrastructure.",
    "timestamp": "2026-10-12T10:16:46+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4e9bce9658ea73c68ea690ebe6dafae3",
-   "url": "https://t.me/OSINTWarfare/7433",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Iranian Shahed-136 loitering munition struck a camp belonging to the Kurdistan Democratic Party (KDP) in Koya, Erbil Governorate, Iraqi Kurdistan.",
-   "timestamp": "2026-10-12T10:10:31+00:00",
    "has_media": true
   },
   {
