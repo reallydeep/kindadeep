@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-13T18:11:21Z",
- "count": 46,
+ "generated_utc": "2026-10-13T22:45:26Z",
+ "count": 47,
  "items": [
+  {
+   "id": "60eca95816ee6eb67243489a45916516",
+   "url": "https://t.me/OSINTWarfare/7469",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed footage shows smoke rising from an Aramco facility in Jubail, Eastern Province, Saudi Arabia, following an Ansar Allah (Houthi) missile strike.",
+   "timestamp": "2026-10-13T22:36:13+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ea1a77e7db39517b4bdf5c45ae9c8e90",
+   "url": "https://t.me/OSINTWarfare/7468",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led coalition reports intercepting a cruise missile launched by Ansar Allah (Houthis) over Al-Kharj, just south of Riyadh.",
+   "timestamp": "2026-10-13T22:15:43+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d9ec98ce64ed15953ac9822e0df0e750",
+   "url": "https://t.me/OSINTWarfare/7467",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led coalition says three cruise missiles and two drones were intercepted over Riyadh.",
+   "timestamp": "2026-10-13T21:50:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9d317ee01dd34ce8f420fc2da6fe1202",
+   "url": "https://t.me/OSINTWarfare/7466",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led coalition says three cruise missiles and two drones were intercepted over Riyadh.",
+   "timestamp": "2026-10-13T20:08:11+00:00",
+   "has_media": false
+  },
+  {
+   "id": "4e1b622a63e8bef07d9accdf0ca9e5bf",
+   "url": "https://t.me/warmonitors/46036",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera: Saudi Coalition spokesperson: Parts of the intercepted missile fell in a residential area in Dhahran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-13T19:36:35+00:00",
+   "has_media": false
+  },
   {
    "id": "a985d33bc178e8b7a17249b2ef53c1dc",
    "url": "https://t.me/warmonitors/46035",
@@ -183,33 +228,6 @@
    "has_media": false
   },
   {
-   "id": "7f8f34a8d89ef3087d0b12fa442e1aff",
-   "url": "https://t.me/OSINTWarfare/7448",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, Ansar Allah (Houthis) targeted King Khalid International Airport in Riyadh with a ballistic missile, which impacted within the airport perimeter.",
-   "timestamp": "2026-10-13T00:43:23+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6e3725f3d20c773c15f647e169c4e915",
-   "url": "https://t.me/OSINTWarfare/7446",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from earlier shows Saudi PAC-3 interceptors being launched to engage incoming Ansar Allah (Houthi) ballistic missiles over Riyadh.  If it weren't for the Bangladeshis, we wouldn't have any footage of this xD",
-   "timestamp": "2026-10-12T21:06:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ede9b8175815011bc0b720f73cb50e7c",
-   "url": "https://t.me/OSINTWarfare/7444",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage from earlier shows Saudi PAC-3 interceptors being launched to engage incoming Ansar Allah (Houthi) ballistic missiles over Riyadh.\nIf it weren't for the Bangladeshis, we wouldn't have any footage of this xD",
-   "timestamp": "2026-10-12T20:54:03+00:00",
-   "has_media": true
-  },
-  {
    "id": "c2b1ad1a9af0a3813c8e19eb523b873e",
    "url": "https://t.me/warmonitors/46021",
    "source": "telegram",
@@ -226,15 +244,6 @@
    "text": "⚡️\nVideo footage of the Houthi attack on King Khalid International Airport in Riyadh\nThe attack left at least 12 dead, and 309 injured\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-11T22:11:34+00:00",
    "has_media": true
-  },
-  {
-   "id": "60e65cff4daae1c8e01c4798b54bba3d",
-   "url": "https://t.me/warmonitors/46016",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA Russian strike near a grocery store in Kharkiv, Ukraine’s second-largest city, has killed three people and injured nine, officials say\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-11T18:06:36+00:00",
-   "has_media": false
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
