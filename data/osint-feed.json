@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-10-14T20:20:07Z",
- "count": 39,
+ "generated_utc": "2026-10-14T23:17:23Z",
+ "count": 40,
  "items": [
+  {
+   "id": "ef858460bbbb4a2dbbc1e03e282b293d",
+   "url": "https://t.me/OSINTWarfare/7495",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy clashes are underway between Ansar Allah (Houthis) forces and local tribal fighters backed by the Nation’s Shield Forces (NSF) west of Taiz.\nThe deadline for forces loyal to the Presidential Leadership Council (PLC) to withdraw from Taiz without a fight has expired.",
+   "timestamp": "2026-10-14T22:57:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a256635fd8e23ffc5b1a8bcfab4a0e58",
+   "url": "https://t.me/OSINTWarfare/7494",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that it had targeted a Royal Saudi Air Force (RSAF) Typhoon multirole fighter over Saada Governorate with a surface-to-air missile, scoring a direct hit.  The aircraft apparently did not crash, but Ansar Allah said it was at…",
+   "timestamp": "2026-10-14T22:36:40+00:00",
+   "has_media": true
+  },
+  {
+   "id": "17484d46935880015d8e51ea4bf3d0a9",
+   "url": "https://t.me/OSINTWarfare/7493",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Shin ✓  @hey_itsmyturn  Evac orders were issued for a number of bases Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1  ترجمه خودکار فارسی  دستور تخلیه چند پایگاه صادر شد ایران  [انتشار…",
+   "timestamp": "2026-10-14T22:16:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e239cbbb48e2fde2c2a6a5f67d30736c",
+   "url": "https://t.me/OSINTWarfare/7492",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Shin ✓\n@hey_itsmyturn\nEvac orders were issued for a number of bases\nIran\n[Delayed Post via FromIran · 120-second delay]\nhttps://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1\nترجمه خودکار فارسی\nدستور تخلیه چند پایگاه صادر شد\nایران\n[انتشار با تأخیر از طریق FromIran · ۱۲۰ ثانیه تأخیر]\nhttps://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1\n𝕏\n·\n@shin_persian",
+   "timestamp": "2026-10-14T22:16:36+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d6c909ed38e6c3cb55215024954f692f",
+   "url": "https://t.me/OSINTWarfare/7491",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that it had targeted a Royal Saudi Air Force (RSAF) Typhoon multirole fighter over Saada Governorate with a surface-to-air missile, scoring a direct hit.\nThe aircraft apparently did not crash, but Ansar Allah said it was at risk of doing so.",
+   "timestamp": "2026-10-14T21:21:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "602dc7519ef750dc6ce9a8a305c3f652",
+   "url": "https://t.me/OSINTWarfare/7490",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Senior Iranian officials have told regional diplomats that they are “100% certain” the United States will launch an attack, while diplomats describe an atmosphere of imminent war in Tehran, according to i24NEWS.\nIf Iran is attacked before the U.S. midterm elections, it is more likely to be a unilateral Israeli strike backed by the United States.",
+   "timestamp": "2026-10-14T20:56:07+00:00",
+   "has_media": false
+  },
   {
    "id": "7a42a490c6b45570d5abd4c3d6627ee5",
    "url": "https://t.me/OSINTWarfare/7489",
@@ -111,24 +165,6 @@
    "has_media": true
   },
   {
-   "id": "79bed87bb3d030f4baad41d763be786e",
-   "url": "https://t.me/OSINTWarfare/7473",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Prybultsi (“Aliens”) air defense and anti-drone unit of Ukraine’s 115th Mechanized Brigade targets a Russian Aerospace Forces Mi-28N helicopter with an FPV drone as it launches a Kh-39 Light Multipurpose Guided Missile (LMUR).\nThe original video also included footage of a Mi-8 helicopter crash, but it is unrelated to this incident.",
-   "timestamp": "2026-10-14T07:48:04+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c9a720f60d2957d54f8efa582a9d0bc2",
-   "url": "https://t.me/OSINTWarfare/7470",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "China has developed a new-generation lightweight, highly mobile multiple-launch rocket system (MLRS) based on an upgraded MV3 wheeled chassis.\nThe system is equipped with a 20-round modular launcher capable of firing various types of 122 mm rockets, both guided and unguided, with a maximum range of 40 km.",
-   "timestamp": "2026-10-14T00:15:54+00:00",
-   "has_media": true
-  },
-  {
    "id": "92f71c8a929835eedb03157bf3c87be0",
    "url": "https://t.me/warmonitors/46038",
    "source": "telegram",
@@ -144,33 +180,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a missile in Al-Kharj\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-13T22:51:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "60eca95816ee6eb67243489a45916516",
-   "url": "https://t.me/OSINTWarfare/7469",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed footage shows smoke rising from an Aramco facility in Jubail, Eastern Province, Saudi Arabia, following an Ansar Allah (Houthi) missile strike.",
-   "timestamp": "2026-10-13T22:36:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4e1b622a63e8bef07d9accdf0ca9e5bf",
-   "url": "https://t.me/warmonitors/46036",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAl Jazeera: Saudi Coalition spokesperson: Parts of the intercepted missile fell in a residential area in Dhahran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T19:36:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a985d33bc178e8b7a17249b2ef53c1dc",
-   "url": "https://t.me/warmonitors/46035",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nSaudi Civil Defense warns of potential danger in the Eastern Province\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T17:56:35+00:00",
    "has_media": false
   },
   {
