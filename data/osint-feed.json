@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-10-14T11:59:56Z",
- "count": 45,
+ "generated_utc": "2026-10-14T16:40:22Z",
+ "count": 40,
  "items": [
+  {
+   "id": "7bc429b07586865f32618c26f4c93a06",
+   "url": "https://t.me/OSINTWarfare/7487",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israel’s Defense Ministry has signed an agreement with the United States for Boeing to supply the Israeli Air Force with 12 AH-64E Apache attack helicopters, with deliveries scheduled to begin in the early 2030s.",
+   "timestamp": "2026-10-14T16:13:24+00:00",
+   "has_media": true
+  },
+  {
+   "id": "34477268ccc54f84e7e7c436d07d1f2c",
+   "url": "https://t.me/OSINTWarfare/7484",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) has released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah (Houthi) vehicles and positions.",
+   "timestamp": "2026-10-14T14:55:23+00:00",
+   "has_media": true
+  },
+  {
+   "id": "bf61c6e8f4f7befd739e0a76e126ef14",
+   "url": "https://t.me/warmonitors/46053",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nIsrael bombs Khan Yunis, Gaza\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-14T14:51:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "891bd5e267a6d897724733df2d8e6234",
+   "url": "https://t.me/OSINTWarfare/7482",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing the repulsion of an assault by the Southern Giants Brigades and Nation’s Shield Forces at Dhubab Airport, including the destruction and capture of several vehicles and the capture of multiple personnel.",
+   "timestamp": "2026-10-14T14:28:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6c10cb6b71de3e3a65dabb51705253f8",
+   "url": "https://t.me/OSINTWarfare/7481",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Launch canisters for David’s Sling’s Stunner interceptor missiles were spotted being transported in northern Israel.",
+   "timestamp": "2026-10-14T13:30:17+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ad014d0532216a7b220bc9895b808d41",
+   "url": "https://t.me/warmonitors/46049",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nOne person was injured in Riyadh by falling debris from an intercepted Houthi ballistic missile, according to the state news agency\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-14T13:01:34+00:00",
+   "has_media": false
+  },
   {
    "id": "ff2f0a35d0df8133e31b913d2d6ee61d",
    "url": "https://t.me/warmonitors/46043",
@@ -102,15 +156,6 @@
    "has_media": true
   },
   {
-   "id": "9d317ee01dd34ce8f420fc2da6fe1202",
-   "url": "https://t.me/OSINTWarfare/7466",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led coalition says three cruise missiles and two drones were intercepted over Riyadh.",
-   "timestamp": "2026-10-13T20:08:11+00:00",
-   "has_media": false
-  },
-  {
    "id": "4e1b622a63e8bef07d9accdf0ca9e5bf",
    "url": "https://t.me/warmonitors/46036",
    "source": "telegram",
@@ -129,102 +174,12 @@
    "has_media": false
   },
   {
-   "id": "6d2fc0dbbeef2dadc152842e74349736",
-   "url": "https://t.me/OSINTWarfare/7465",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Yemen’s National Army (YNA) has released new footage showing attacks on Ansar Allah (Houthi) personnel and vehicles on the Marib front using air-dropped grenades and mortar rounds.",
-   "timestamp": "2026-10-13T16:20:20+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bdb1b587891ce5b6bdf4e073ae5ad250",
-   "url": "https://t.me/OSINTWarfare/7464",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An oil tanker that attempted to cross the Strait of Hormuz with its transponders off was struck by a cruise launched by the IRGC Navy.",
-   "timestamp": "2026-10-13T15:56:31+00:00",
-   "has_media": true
-  },
-  {
    "id": "a2ec87ee018a63a5503e05551ecbcc17",
    "url": "https://t.me/warmonitors/46034",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nThe Houthis announce 3 targets in Riyadh that they plan to hit\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-13T14:31:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fadb7dfa3d6af7699352583b92b820f3",
-   "url": "https://t.me/warmonitors/46032",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nYemeni sources: Airstrikes on Sana'a\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T14:11:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6a7bfecf403d1f59b658ad3bf3d433a4",
-   "url": "https://t.me/OSINTWarfare/7462",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) is urging civilians to immediately evacuate and stay away from the following sites, which it says will be targeted if Saudi Arabia strikes the Yemen Petroleum Company’s Al-Sabaha Central Station in Sanaa:\n• Aramco headquarters in Dammam.\n• King Khalid International Airport in Riyadh.\n• Aramco refinery in Riyadh.",
-   "timestamp": "2026-10-13T13:18:55+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5f3dac955a460c416833b28146264825",
-   "url": "https://t.me/OSINTWarfare/7461",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released a seven-minute compilation showing attacks on Yemen's National Army (YNA) units and allied forces, including personnel, positions and vehicles, across several fronts using Rajum hexacopters to drop grenades and mortar rounds.",
-   "timestamp": "2026-10-13T13:12:49+00:00",
-   "has_media": false
-  },
-  {
-   "id": "487d37c668412b8b4050b3c62c8aa169",
-   "url": "https://t.me/OSINTWarfare/7460",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led coalition is expected to issue an evacuation warning to civilians at a site in Sanaa ahead of a planned precision operation.",
-   "timestamp": "2026-10-13T12:26:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e365ddbcbbce571bfd13e272193f3ef7",
-   "url": "https://t.me/warmonitors/46031",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA Saudi-led coalition spokesperson says a warning will be issued shortly for civilians to evacuate a site in Yemen’s Sanaa ahead of a special operation\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T12:11:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a82564161f45b655e699f6444839e6e5",
-   "url": "https://t.me/warmonitors/46030",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nMI5 chief says Iran is seeking to target military sites in the UK and elsewhere\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T12:11:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a3eb027e6cbc147628f4ee63befe40b9",
-   "url": "https://t.me/warmonitors/46029",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition says it destroyed three drones north of the Saudi capital, Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T11:51:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f11887f8583c5f779be8ca17c466ccf8",
-   "url": "https://t.me/warmonitors/46027",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTrump: The war with Iran will end soon and gasoline prices will drop then\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T01:51:35+00:00",
    "has_media": false
   },
   {
