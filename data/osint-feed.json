@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-14T16:40:22Z",
- "count": 40,
+ "generated_utc": "2026-10-14T20:20:07Z",
+ "count": 39,
  "items": [
+  {
+   "id": "7a42a490c6b45570d5abd4c3d6627ee5",
+   "url": "https://t.me/OSINTWarfare/7489",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Reports of anti-ship cruise missiles launched by the IRGC Navy from Sirik toward the Strait of Hormuz.",
+   "timestamp": "2026-10-14T18:46:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c3a352b1ac6869c9b5ab7f3546b87505",
+   "url": "https://t.me/OSINTWarfare/7488",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage, likely filmed yesterday, shows what appears to be a MIM-401 (Talon) interceptor launch from a Saudi THAAD anti-ballistic missile (ABM) system near King Khalid International Airport in Riyadh, Saudi Arabia.  The THAAD battery appears to be deployed…",
+   "timestamp": "2026-10-14T18:30:53+00:00",
+   "has_media": true
+  },
   {
    "id": "7bc429b07586865f32618c26f4c93a06",
    "url": "https://t.me/OSINTWarfare/7487",
@@ -138,24 +156,6 @@
    "has_media": true
   },
   {
-   "id": "ea1a77e7db39517b4bdf5c45ae9c8e90",
-   "url": "https://t.me/OSINTWarfare/7468",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led coalition reports intercepting a cruise missile launched by Ansar Allah (Houthis) over Al-Kharj, just south of Riyadh.",
-   "timestamp": "2026-10-13T22:15:43+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d9ec98ce64ed15953ac9822e0df0e750",
-   "url": "https://t.me/OSINTWarfare/7467",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led coalition says three cruise missiles and two drones were intercepted over Riyadh.",
-   "timestamp": "2026-10-13T21:50:31+00:00",
-   "has_media": true
-  },
-  {
    "id": "4e1b622a63e8bef07d9accdf0ca9e5bf",
    "url": "https://t.me/warmonitors/46036",
    "source": "telegram",
@@ -171,15 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#BREAKING\nSaudi Civil Defense warns of potential danger in the Eastern Province\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-13T17:56:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a2ec87ee018a63a5503e05551ecbcc17",
-   "url": "https://t.me/warmonitors/46034",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Houthis announce 3 targets in Riyadh that they plan to hit\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T14:31:34+00:00",
    "has_media": false
   },
   {
