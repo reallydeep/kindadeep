@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-14T23:17:23Z",
- "count": 40,
+ "generated_utc": "2026-10-15T01:30:48Z",
+ "count": 39,
  "items": [
+  {
+   "id": "f1e1d302a0c695159b5b0849e348cd6e",
+   "url": "https://t.me/OSINTWarfare/7496",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Heavy clashes are underway between Ansar Allah (Houthis) forces and local tribal fighters backed by the Nation’s Shield Forces (NSF) west of Taiz.  The deadline for forces loyal to the Presidential Leadership Council (PLC) to withdraw from Taiz without a fight…",
+   "timestamp": "2026-10-15T00:41:21+00:00",
+   "has_media": false
+  },
   {
    "id": "ef858460bbbb4a2dbbc1e03e282b293d",
    "url": "https://t.me/OSINTWarfare/7495",
@@ -163,24 +172,6 @@
    "text": "Images show a container ship that sank in the Strait of Hormuz after being targeted by the IRGC Navy.",
    "timestamp": "2026-10-14T09:30:56+00:00",
    "has_media": true
-  },
-  {
-   "id": "92f71c8a929835eedb03157bf3c87be0",
-   "url": "https://t.me/warmonitors/46038",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nFour people were injured in Riyadh after debris from two intercepted missiles fell, Saudi Civil Defense says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T22:51:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "717f7ae8fff5108148a5d74b62fc341d",
-   "url": "https://t.me/warmonitors/46039",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a missile in Al-Kharj\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-13T22:51:34+00:00",
-   "has_media": false
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
