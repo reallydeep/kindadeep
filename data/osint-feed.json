@@ -1,14 +1,68 @@
 {
- "generated_utc": "2026-10-15T15:44:40Z",
- "count": 47,
+ "generated_utc": "2026-10-15T19:23:36Z",
+ "count": 46,
  "items": [
   {
-   "id": "dfbf17d80f5c115e31f4b520afb599a9",
-   "url": "https://t.me/OSINTWarfare/7510",
+   "id": "1a4027b0cdce815b74bf2bde211b35b7",
+   "url": "https://t.me/OSINTWarfare/7515",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A U.S. Navy EA-18G Growler electronic warfare aircraft makes a hard landing on the flight deck of the aircraft carrier USS Theodore Roosevelt in challenging weather conditions in the South China Sea.",
+   "timestamp": "2026-10-15T17:49:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "706997f05c103510dfacb7b060b34ed9",
+   "url": "https://t.me/OSINTWarfare/7514",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) has released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah (Houthi) vehicles and positions.",
+   "timestamp": "2026-10-15T17:09:53+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8e2c59876f8c6519740b7cad7b5cca18",
+   "url": "https://t.me/warmonitors/46084",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a Houthi-launched drone heading toward Saudi Arabia’s southern region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-15T16:56:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "786d5c287e1501d62c8f29b636ad87ac",
+   "url": "https://t.me/OSINTWarfare/7513",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A photo has been released showing the Typhon Mid-Range Capability (MRC) missile system launching a Tomahawk cruise missile during live-fire exercises at a training range in California on September 28.",
+   "timestamp": "2026-10-15T16:40:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1a7520f48ca2ea357dccdb820229296d",
+   "url": "https://t.me/warmonitors/46083",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nRussian President Vladimir Putin says recent Ukrainian strikes on Russian refineries have not caused significant damage, according to Interfax\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-15T16:11:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2e43a1f64aedb30d48a6a315ad35e0c6",
+   "url": "https://t.me/warmonitors/46082",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nThe U.S. may have intentionally withheld early warnings this week of Russian strikes on Ukraine, multiple sources familiar with the matter told CBS News.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-15T15:56:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2fdabe87a533a10e2307149f1ba88304",
+   "url": "https://t.me/OSINTWarfare/7511",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "Footage shows an oil tanker ablaze in the Gulf of Oman after being targeted by the IRGC Navy.\nThe vessel was identified by IRGC surveillance forces while transiting the southern corridor with its Automatic Identification System (AIS) transponder switched off.",
-   "timestamp": "2026-10-15T15:39:16+00:00",
+   "timestamp": "2026-10-15T15:50:15+00:00",
    "has_media": true
   },
   {
@@ -129,39 +183,12 @@
    "has_media": true
   },
   {
-   "id": "5e34e515c7c72306786e60b5970c897a",
-   "url": "https://t.me/warmonitors/46065",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSky News Arabia: Our correspondent reports hearing an explosion near the Syrian capital, Damascus.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-15T12:16:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "cc80fde81e7ebc9d52b3e99ce410c618",
    "url": "https://t.me/OSINTWarfare/7502",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "More ballistic missile launches by the IRGC Aerospace Force today.",
    "timestamp": "2026-10-15T12:04:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "728fdbe672a126ae9440e9baa5270d16",
-   "url": "https://t.me/warmonitors/46064",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSirens sound in the Ukrainian capital, Kyiv, to warn of a drone attack.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-15T11:16:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0997e8f2b7f5d4d21093e1866652ef92",
-   "url": "https://t.me/warmonitors/46061",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "“We want Germany to finally stop trying to save the whole world. <…> €125 billion for Ukraine — money that was taken away from our own country and that went directly or indirectly to this war. This is a huge scandal, a completely insane logic! Our money is for our country!”\nA historic day in Saxony‑Anhalt: today, for the first time, a meeting of the Landtag is being held here, dedicated to the joint peace initiative of the Alternative and the Sarah Wagenknecht Union. The parties advocate diplomacy and negotiations, as well as financial injections into Kiev and anti-Russian sanctions.\nUlrich Sigmund, candidate for Prime Minister of the Saxony‑Anhalt:  from Alternative for Germany, is at the microphone.\n\"There is not a single day to lose on the path to peace.\"\n#Germany\n#AfD\n#Russia\n🇪🇺\nKeep up with the latest\nStar Union News\n🖥",
-   "timestamp": "2026-10-15T09:40:09+00:00",
    "has_media": true
   },
   {
@@ -207,42 +234,6 @@
    "channel": "OSINTWarfare",
    "text": "Shin ✓  @hey_itsmyturn  Evac orders were issued for a number of bases Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1  ترجمه خودکار فارسی  دستور تخلیه چند پایگاه صادر شد ایران  [انتشار…",
    "timestamp": "2026-10-14T22:16:41+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e239cbbb48e2fde2c2a6a5f67d30736c",
-   "url": "https://t.me/OSINTWarfare/7492",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Shin ✓\n@hey_itsmyturn\nEvac orders were issued for a number of bases\nIran\n[Delayed Post via FromIran · 120-second delay]\nhttps://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1\nترجمه خودکار فارسی\nدستور تخلیه چند پایگاه صادر شد\nایران\n[انتشار با تأخیر از طریق FromIran · ۱۲۰ ثانیه تأخیر]\nhttps://fromiran.sh1n.org/incidents/MiXgzVhKFRP3UJVxI9KL_9BI?xv=1\n𝕏\n·\n@shin_persian",
-   "timestamp": "2026-10-14T22:16:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d6c909ed38e6c3cb55215024954f692f",
-   "url": "https://t.me/OSINTWarfare/7491",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) announced that it had targeted a Royal Saudi Air Force (RSAF) Typhoon multirole fighter over Saada Governorate with a surface-to-air missile, scoring a direct hit.\nThe aircraft apparently did not crash, but Ansar Allah said it was at risk of doing so.",
-   "timestamp": "2026-10-14T21:21:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "602dc7519ef750dc6ce9a8a305c3f652",
-   "url": "https://t.me/OSINTWarfare/7490",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Senior Iranian officials have told regional diplomats that they are “100% certain” the United States will launch an attack, while diplomats describe an atmosphere of imminent war in Tehran, according to i24NEWS.\nIf Iran is attacked before the U.S. midterm elections, it is more likely to be a unilateral Israeli strike backed by the United States.",
-   "timestamp": "2026-10-14T20:56:07+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7a42a490c6b45570d5abd4c3d6627ee5",
-   "url": "https://t.me/OSINTWarfare/7489",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Reports of anti-ship cruise missiles launched by the IRGC Navy from Sirik toward the Strait of Hormuz.",
-   "timestamp": "2026-10-14T18:46:13+00:00",
    "has_media": false
   },
   {
