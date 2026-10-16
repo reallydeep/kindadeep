@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-16T00:40:30Z",
+ "generated_utc": "2026-10-16T05:03:33Z",
  "count": 45,
  "items": [
+  {
+   "id": "31f1b6a9d3d3a865704cb32242107f51",
+   "url": "https://t.me/OSINTWarfare/7523",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) has released footage showing precision strikes against Ansar Allah (Houthis) fighters on the Taiz front using artillery and air-dropped munitions delivered by drones.",
+   "timestamp": "2026-10-16T03:37:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0113a9dc72307107e6bc3dbd83a6731e",
+   "url": "https://t.me/OSINTWarfare/7522",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) has released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting Ansar Allah (Houthi) vehicles and positions.",
+   "timestamp": "2026-10-16T03:25:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "430396504fef5c61e5c67c2d2dff5bdd",
+   "url": "https://t.me/OSINTWarfare/7521",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) announced that it had shot down a Royal Saudi Air Force (RSAF) Wing Loong II unmanned combat aerial vehicle (UCAV) while conducting “hostile operations” over Marib Governorate.",
+   "timestamp": "2026-10-16T03:01:34+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7d7b5055dc7d70402d86859506d7b0b3",
+   "url": "https://t.me/warmonitors/46096",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nChinese Foreign Minister tells Israeli President that promoting regional peace and reconciliation is the cornerstone of China’s Middle East policy\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-16T00:51:35+00:00",
+   "has_media": false
+  },
   {
    "id": "89345b3333babc8c90992143ffac1df1",
    "url": "https://t.me/warmonitors/46094",
@@ -147,24 +183,6 @@
    "has_media": true
   },
   {
-   "id": "25b68b7cd27e0b43c1219dc8a9aec399",
-   "url": "https://t.me/warmonitors/46079",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nVideo\nx.com/warmonltor/sta…\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-15T15:31:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "61bf3a7c478345da5445fdc25242074a",
-   "url": "https://t.me/warmonitors/46077",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nThe UK is sending more long-range Storm Shadow missiles to Ukraine, according to Bloomberg\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-15T15:31:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "66ab00b320376d737acd2a7a983df782",
    "url": "https://t.me/OSINTWarfare/7509",
    "source": "telegram",
@@ -207,24 +225,6 @@
    "channel": "OSINTWarfare",
    "text": "The Ukrainian Navy struck Russia's Borisoglebsk Air Base in Voronezh Oblast with a Neptune cruise missile, targeting six Russian Aerospace Forces (VKS) Su-34M fighter-bombers.\nApparently, aircraft No. 1 and No. 6 were damaged and relocated, while aircraft No. 2, 3, 4 and 5 were completely destroyed.\nSatellite imagery source:\nLink",
    "timestamp": "2026-10-15T12:45:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cc80fde81e7ebc9d52b3e99ce410c618",
-   "url": "https://t.me/OSINTWarfare/7502",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "More ballistic missile launches by the IRGC Aerospace Force today.",
-   "timestamp": "2026-10-15T12:04:29+00:00",
-   "has_media": true
-  },
-  {
-   "id": "acec29d36909393682d832d56755d8d9",
-   "url": "https://t.me/OSINTWarfare/7497",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "On October 14, 2026, North Korea conducted test launches of two types of submarine-launched strategic cruise missiles into the Sea of Japan from the Hero Kim Kun Ok, a Sinpo-C-class submarine in active service with the Korean People's Navy (KPN).",
-   "timestamp": "2026-10-15T02:24:04+00:00",
    "has_media": true
   },
   {
