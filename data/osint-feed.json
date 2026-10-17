@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-17T20:53:46Z",
+ "generated_utc": "2026-10-17T22:44:00Z",
  "count": 39,
  "items": [
+  {
+   "id": "24f5883d941a99b7a55be2661b2d90db",
+   "url": "https://t.me/OSINTWarfare/7555",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing the Royal Saudi Air Force (RSAF) intercepting Ansar Allah (Houthis) cruise missiles and a loitering munition, as well as destroying a missile launcher.",
+   "timestamp": "2026-10-17T21:59:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "58d40149d995d57696a03f99669835ff",
+   "url": "https://t.me/OSINTWarfare/7554",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing the Royal Saudi Air Force (RSAF) intercepting Ansar Allah (Houthis) cruise missiles and a loitering munition, as well as destroying a missile launcher.",
+   "timestamp": "2026-10-17T21:03:16+00:00",
+   "has_media": false
+  },
   {
    "id": "6e3e624ab58efdcce1582955508fba8e",
    "url": "https://t.me/OSINTWarfare/7553",
@@ -154,24 +172,6 @@
    "text": "https://x.com/OSINTWarfare/status/2111199065887191097",
    "timestamp": "2026-10-16T20:57:27+00:00",
    "has_media": false
-  },
-  {
-   "id": "daebc85aeecd21da014f734fd33eefb4",
-   "url": "https://t.me/OSINTWarfare/7535",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "https://x.com/OSINTWarfare/status/2111199065887191097",
-   "timestamp": "2026-10-16T20:56:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "688aa498632e7fd5f9ac7f735fb19ec9",
-   "url": "https://t.me/OSINTWarfare/7534",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the impact of an Ansar Allah (Houthi) ballistic missile near Aden International Airport.\nThe missiles were launched from the districts of Damt and Al-Husha in Yemen’s Al-Dhale Governorate.",
-   "timestamp": "2026-10-16T20:17:54+00:00",
-   "has_media": true
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
