@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-18T18:51:20Z",
+ "generated_utc": "2026-10-18T21:07:39Z",
  "count": 42,
  "items": [
+  {
+   "id": "3946b91cf052bd4d2e974bc064ef6ab1",
+   "url": "https://t.me/OSINTWarfare/7572",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iran’s new Defense Minister, Mehrdad Akhlaqi Ketabchi:\nIran’s heavy fighter will take off next year. The aircraft is entirely made in Iran.\nHe says the aircraft will begin taxi tests this year, with its first flight scheduled for next year. The project’s identity remains unknown.\nHopefully, this isn’t another round of the same bullshit we saw with the Qaher-313.",
+   "timestamp": "2026-10-18T19:40:58+00:00",
+   "has_media": true
+  },
   {
    "id": "ef1bef59eb5d6c22a4d337450935bffa",
    "url": "https://t.me/OSINTWarfare/7570",
@@ -190,15 +199,6 @@
    "text": "Footage shows Royal Saudi Air Force (RSAF) airstrikes targeting advancing Ansar Allah (Houthis) forces in the Old Airport area of western Taiz.\nIt's over for Taiz. Its complete capture is just days away.",
    "timestamp": "2026-10-17T20:38:42+00:00",
    "has_media": true
-  },
-  {
-   "id": "cbcc62b052d3903aedfc7e45aa745a96",
-   "url": "https://t.me/OSINTWarfare/7552",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, Iranian Shahed-136 loitering munitions targeted the Democratic Party of Iranian Kurdistan (PDKI) headquarters in Erbil Governorate, Iraqi Kurdistan.",
-   "timestamp": "2026-10-17T20:21:12+00:00",
-   "has_media": false
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
