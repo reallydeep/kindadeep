@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-18T13:12:16Z",
- "count": 39,
+ "generated_utc": "2026-10-18T16:32:45Z",
+ "count": 40,
  "items": [
+  {
+   "id": "dd501d0c0f73ea6e192ced83f80e9000",
+   "url": "https://t.me/OSINTWarfare/7568",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Egyptian National Defense Council has approved providing “all necessary support” to Saudi Arabia in its fight against Ansar Allah (Houthis) in Yemen.",
+   "timestamp": "2026-10-18T15:37:50+00:00",
+   "has_media": false
+  },
   {
    "id": "04dd8dd8447e9fcc6ca3864ff7e7c643",
    "url": "https://t.me/TerrorAlarm/61",
