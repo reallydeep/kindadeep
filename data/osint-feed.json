@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-17T22:44:00Z",
- "count": 39,
+ "generated_utc": "2026-10-18T00:22:19Z",
+ "count": 35,
  "items": [
+  {
+   "id": "45e97c884d96b18d770216367ef7d9f4",
+   "url": "https://t.me/warmonitors/46153",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone in the Eastern Province\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-18T00:16:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "327d10fbce372063e6fb8edf7a7d4e4e",
+   "url": "https://t.me/warmonitors/46136",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone in the Riyadh region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-17T22:46:37+00:00",
+   "has_media": false
+  },
   {
    "id": "24f5883d941a99b7a55be2661b2d90db",
    "url": "https://t.me/OSINTWarfare/7555",
@@ -48,24 +66,6 @@
    "has_media": true
   },
   {
-   "id": "e798b0f58bdcfdb9648d65e37f640f80",
-   "url": "https://t.me/warmonitors/46134",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nRomanian F-16 fighter jets shot down two drones over Romanian territorial waters, the Defence Ministry said\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-17T17:51:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a3f53c65088952a9daca3e83df5c4265",
-   "url": "https://t.me/warmonitors/46133",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nThe Saudi-led coalition said it intercepted and destroyed four drones over Riyadh and the country’s eastern and southern regions\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-17T14:31:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "8fc0e2433f9854532a4c9d323ec9fe45",
    "url": "https://t.me/OSINTWarfare/7546",
    "source": "telegram",
@@ -84,15 +84,6 @@
    "has_media": true
   },
   {
-   "id": "f0cd781f31652d38b3289930e4318a60",
-   "url": "https://t.me/warmonitors/46131",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nZelenskiy says Ukraine’s drone interceptors cannot function because Starlink speeds are limited\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-17T11:11:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "7373844fbc85cc565cb95bc1065e63e1",
    "url": "https://t.me/OSINTWarfare/7544",
    "source": "telegram",
@@ -102,39 +93,12 @@
    "has_media": true
   },
   {
-   "id": "d07998b793cc5d4e4b5579467eb534a9",
-   "url": "https://t.me/warmonitors/46127",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nIran’s Revolutionary Guards say a tanker caught fire after hitting a naval mine in the Strait of Hormuz, according to Iranian media\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-17T01:51:34+00:00",
-   "has_media": false
-  },
-  {
    "id": "308a4e9550fd1f7e0d6a06c83e27484d",
    "url": "https://t.me/OSINTWarfare/7543",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "Ansar Allah (Houthis) struck Al-Maashiq Palace in Aden, the residence of the chairman of Yemen’s Presidential Leadership Council (PLC).",
    "timestamp": "2026-10-17T00:46:53+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4270454241c24042dc2666d7e3289a92",
-   "url": "https://t.me/warmonitors/46123",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#UPDATE\nThe Saudi-led coalition says it has destroyed two ballistic missile launchers in Yemen’s Saada province\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-17T00:26:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7f6dba077181483a3405af156ec61b4b",
-   "url": "https://t.me/warmonitors/46115",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nHouthi-affiliated media: Missile attack on the eastern part of Saada city and Sahar district in northern Yemen\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-16T23:01:36+00:00",
    "has_media": false
   },
   {
