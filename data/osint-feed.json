@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-10-18T16:32:45Z",
- "count": 40,
+ "generated_utc": "2026-10-18T18:51:20Z",
+ "count": 42,
  "items": [
+  {
+   "id": "ef1bef59eb5d6c22a4d337450935bffa",
+   "url": "https://t.me/OSINTWarfare/7570",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing a Saudi Arabian National Guard (SANG) AH-6i light attack and reconnaissance helicopter being brought down by a surface-to-air missile (SAM) over Najran.  The Saudi-led Coalition (Joint Forces) spokesperson…",
+   "timestamp": "2026-10-18T18:23:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "eb243ad24c91355116dbc2111fc8c770",
+   "url": "https://t.me/OSINTWarfare/7569",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Yemen’s National Army (YNA) convoy coming from Al-Abr was targeted by four improvised explosive devices (IEDs) as it passed through the Al-Ma’shar area of Arma District, northeast of Shabwah Governorate.\nThe explosions set a military vehicle on fire and caused several casualties.",
+   "timestamp": "2026-10-18T18:19:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "852b56d0d068d0d5caaf61e1767815b1",
+   "url": "https://t.me/warmonitors/46172",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nRussian Foreign Minister Sergey Lavrov will visit Tehran on Monday, according to the Iranian Foreign Ministry spokesperson cited by Iranian media\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-18T16:36:35+00:00",
+   "has_media": false
+  },
   {
    "id": "dd501d0c0f73ea6e192ced83f80e9000",
    "url": "https://t.me/OSINTWarfare/7568",
@@ -172,15 +199,6 @@
    "text": "Earlier, Iranian Shahed-136 loitering munitions targeted the Democratic Party of Iranian Kurdistan (PDKI) headquarters in Erbil Governorate, Iraqi Kurdistan.",
    "timestamp": "2026-10-17T20:21:12+00:00",
    "has_media": false
-  },
-  {
-   "id": "5c90dfe0ac6b87b5536319b3f90dfac4",
-   "url": "https://t.me/OSINTWarfare/7551",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has announced that it shot down a Royal Saudi Land Forces (RSLF) AH-64D/E Apache attack helicopter in Najran, southwestern Saudi Arabia.\nAccording to the statement, the helicopter was conducting operations against Ansar Allah forces along the Saudi-Yemeni border.",
-   "timestamp": "2026-10-17T18:59:21+00:00",
-   "has_media": true
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
