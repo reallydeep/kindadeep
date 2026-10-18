@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-18T00:22:19Z",
- "count": 35,
+ "generated_utc": "2026-10-18T04:48:46Z",
+ "count": 30,
  "items": [
+  {
+   "id": "eb52f272a4acd49aff3d40c5b23b2c47",
+   "url": "https://t.me/OSINTWarfare/7566",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has announced that it shot down a Royal Saudi Land Forces (RSLF) AH-64D/E Apache attack helicopter in Najran, southwestern Saudi Arabia.  According to the statement, the helicopter was conducting operations against Ansar Allah forces…",
+   "timestamp": "2026-10-18T03:22:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "4364c108a97d0577df88d9e3137c5a5f",
+   "url": "https://t.me/OSINTWarfare/7558",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Russia’s St. Petersburg came under the largest drone attack in the city’s history. The attack continued throughout the night.\nTargets included the VKontakte data center, with the social network experiencing disruptions.\nThe nearby 330 kV Vostochnaya substation also appears to have been hit, based on footage, with power outages observed.\nAdditional strikes were reported against an oil loading terminal at the port and a bridge in the city.\nRussian S-300/S-400 and Pantsir air defense systems performed well during the initial stages of the attack, intercepting nearly all incoming UAVs. However, their activity then appeared to drop sharply, leaving mobile fire groups to engage Ukrainian drones largely on their own.",
+   "timestamp": "2026-10-18T02:56:31+00:00",
+   "has_media": true
+  },
   {
    "id": "45e97c884d96b18d770216367ef7d9f4",
    "url": "https://t.me/warmonitors/46153",
@@ -18,6 +36,15 @@
    "channel": "WarMonitors",
    "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone in the Riyadh region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-17T22:46:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "826c071cec576f2722156dc5bac97f79",
+   "url": "https://t.me/warmonitors/46135",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed two ballistic missiles launched by the Houthis toward Khamis Mushait\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-17T22:46:34+00:00",
    "has_media": false
   },
   {
@@ -64,78 +91,6 @@
    "text": "Ansar Allah (Houthis) has announced that it shot down a Royal Saudi Land Forces (RSLF) AH-64D/E Apache attack helicopter in Najran, southwestern Saudi Arabia.\nAccording to the statement, the helicopter was conducting operations against Ansar Allah forces along the Saudi-Yemeni border.",
    "timestamp": "2026-10-17T18:59:21+00:00",
    "has_media": true
-  },
-  {
-   "id": "8fc0e2433f9854532a4c9d323ec9fe45",
-   "url": "https://t.me/OSINTWarfare/7546",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released new footage showing strikes on troop concentrations belonging to Yemen’s National Army (YNA) and allied forces in Al-Yatmah, northern Al-Jawf, as well as the destruction and capture of several military vehicles.",
-   "timestamp": "2026-10-17T13:39:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2873674cb7ce08ff18958b0e9ad30287",
-   "url": "https://t.me/OSINTWarfare/7545",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing a Very Large Crude Carrier (VLCC) on fire after being targeted.  The IRGC claims the vessel struck a sea mine. However, given that they have already lied twice about similar incidents, I suspect the vessel was hit…",
-   "timestamp": "2026-10-17T12:41:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7373844fbc85cc565cb95bc1065e63e1",
-   "url": "https://t.me/OSINTWarfare/7544",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing a Very Large Crude Carrier (VLCC) on fire after being targeted.\nThe IRGC claims the vessel struck a sea mine. However, given that they have already lied twice about similar incidents, I suspect the vessel was hit by a cruise missile instead.",
-   "timestamp": "2026-10-17T01:53:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "308a4e9550fd1f7e0d6a06c83e27484d",
-   "url": "https://t.me/OSINTWarfare/7543",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck Al-Maashiq Palace in Aden, the residence of the chairman of Yemen’s Presidential Leadership Council (PLC).",
-   "timestamp": "2026-10-17T00:46:53+00:00",
-   "has_media": false
-  },
-  {
-   "id": "db92966445ed28468e55be1d94b3fedd",
-   "url": "https://t.me/OSINTWarfare/7541",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting boats and vehicles allegedly involved in smuggling weapons and equipment to Ansar Allah (Houthis).",
-   "timestamp": "2026-10-16T22:10:50+00:00",
-   "has_media": false
-  },
-  {
-   "id": "20cba08ed1536f44dee76fe0faf4fa68",
-   "url": "https://t.me/OSINTWarfare/7538",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Air traffic disruptions over Dammam. Apparently, King Fahd International Airport is under attack by Ansar Allah (Houthis).",
-   "timestamp": "2026-10-16T21:11:14+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ac607a6feaab1208082f3d7f9c2aea56",
-   "url": "https://t.me/OSINTWarfare/7537",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ladies and gentlemen, we have a verdict! As always, DJT was right, while the UKMTO lied. They've become IRGC sympathizers!",
-   "timestamp": "2026-10-16T21:07:42+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0df2d6fba2a6ac6c3e64b925ffb8fc78",
-   "url": "https://t.me/OSINTWarfare/7536",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "https://x.com/OSINTWarfare/status/2111199065887191097",
-   "timestamp": "2026-10-16T20:57:27+00:00",
-   "has_media": false
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
