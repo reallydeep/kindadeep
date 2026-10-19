@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-19T12:55:59Z",
- "count": 37,
+ "generated_utc": "2026-10-19T18:53:36Z",
+ "count": 38,
  "items": [
+  {
+   "id": "4a6de38ea8adb0eacde20d87f94c4c6a",
+   "url": "https://t.me/warmonitors/46189",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\n#BREAKING\nDozens of casualties following an Israeli airstrike on Gaza moments ago\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-19T15:41:35+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dd7adcf0751dee73cba624dbe7dde917",
+   "url": "https://t.me/OSINTWarfare/7601",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Egyptian National Defense Council has approved providing “all necessary support” to Saudi Arabia in its fight against Ansar Allah (Houthis) in Yemen.",
+   "timestamp": "2026-10-19T15:41:19+00:00",
+   "has_media": false
+  },
+  {
+   "id": "db83cbb57789f9bde14886c8ee148951",
+   "url": "https://t.me/OSINTWarfare/7599",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing its fighters engaging Yemen National Army (YNA) units and destroying their vehicles east of Al-Jawf.",
+   "timestamp": "2026-10-19T15:27:38+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9f40ac904e14c60e7015d240f1427d7e",
+   "url": "https://t.me/OSINTWarfare/7597",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (the Houthis) launched a ballistic missile from the Al-Sayyani District toward pro-government forces’ camps in southern Yemen. The launcher was later destroyed in a Saudi airstrike.",
+   "timestamp": "2026-10-19T14:15:41+00:00",
+   "has_media": true
+  },
+  {
+   "id": "cd4630355a9abe2d877446db6d4f581c",
+   "url": "https://t.me/OSINTWarfare/7593",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) struck Al-Alam Camp in Shabwah Governorate, southern Yemen, with multiple ballistic missiles.  The strike killed more than 40 fighters among the Saudi-backed forces.",
+   "timestamp": "2026-10-19T12:59:01+00:00",
+   "has_media": false
+  },
   {
    "id": "1f907b96977c1b50ebbbb0fbfe1ce9e0",
    "url": "https://t.me/OSINTWarfare/7592",
@@ -91,42 +136,6 @@
    "text": "⚡\nBarak Ravid: The Israeli ambassador to the U.S. Yechiel Leiter mentioned two days ago that if President Trump endorses Netanyahu it will be the first time in history that a U.S. President does that\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T01:26:35+00:00",
    "has_media": false
-  },
-  {
-   "id": "9c10503957c01b85d265d58fa1368cda",
-   "url": "https://t.me/OSINTWarfare/7579",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia struck Kiev with eight RM-48U ballistic missiles.  The CHP-4 and CHP-6 thermal power plants were among the targets.  @IntelSlava",
-   "timestamp": "2026-10-18T23:56:33+00:00",
-   "has_media": true
-  },
-  {
-   "id": "eb20442d09ee49a6ee2a33647f10fee7",
-   "url": "https://t.me/OSINTWarfare/7575",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia struck Kiev with eight RM-48U ballistic missiles.\nThe CHP-4 and CHP-6 thermal power plants were among the targets.\n@IntelSlava",
-   "timestamp": "2026-10-18T23:55:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "be47afad03b9750c0b8f2120bfe146c5",
-   "url": "https://t.me/OSINTWarfare/7574",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy has released footage showing a second Very Large Crude Carrier (VLCC) on fire after being targeted.  Using human intelligence (HUMINT) appears to be working well, allowing them to monitor and target vessels without risking any more radars.",
-   "timestamp": "2026-10-18T22:39:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "69370c65f296222b0468fbbc52f124ad",
-   "url": "https://t.me/OSINTWarfare/7573",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "UAE President Mohamed bin Zayed received Saudi Defense Minister Prince Khalid bin Salman earlier today.\nLooks like mighty Saudi Arabia needs some help dealing with the Houthis.",
-   "timestamp": "2026-10-18T21:50:52+00:00",
-   "has_media": true
   },
   {
    "id": "852b56d0d068d0d5caaf61e1767815b1",
