@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-18T23:03:24Z",
- "count": 41,
+ "generated_utc": "2026-10-19T01:05:27Z",
+ "count": 42,
  "items": [
+  {
+   "id": "9c10503957c01b85d265d58fa1368cda",
+   "url": "https://t.me/OSINTWarfare/7579",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia struck Kiev with eight RM-48U ballistic missiles.  The CHP-4 and CHP-6 thermal power plants were among the targets.  @IntelSlava",
+   "timestamp": "2026-10-18T23:56:33+00:00",
+   "has_media": true
+  },
+  {
+   "id": "eb20442d09ee49a6ee2a33647f10fee7",
+   "url": "https://t.me/OSINTWarfare/7575",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia struck Kiev with eight RM-48U ballistic missiles.\nThe CHP-4 and CHP-6 thermal power plants were among the targets.\n@IntelSlava",
+   "timestamp": "2026-10-18T23:55:54+00:00",
+   "has_media": true
+  },
   {
    "id": "be47afad03b9750c0b8f2120bfe146c5",
    "url": "https://t.me/OSINTWarfare/7574",
@@ -181,15 +199,6 @@
    "text": "Russia’s St. Petersburg came under the largest drone attack in the city’s history. The attack continued throughout the night.\nTargets included the VKontakte data center, with the social network experiencing disruptions.\nThe nearby 330 kV Vostochnaya substation also appears to have been hit, based on footage, with power outages observed.\nAdditional strikes were reported against an oil loading terminal at the port and a bridge in the city.\nRussian S-300/S-400 and Pantsir air defense systems performed well during the initial stages of the attack, intercepting nearly all incoming UAVs. However, their activity then appeared to drop sharply, leaving mobile fire groups to engage Ukrainian drones largely on their own.",
    "timestamp": "2026-10-18T02:56:31+00:00",
    "has_media": true
-  },
-  {
-   "id": "24f5883d941a99b7a55be2661b2d90db",
-   "url": "https://t.me/OSINTWarfare/7555",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing the Royal Saudi Air Force (RSAF) intercepting Ansar Allah (Houthis) cruise missiles and a loitering munition, as well as destroying a missile launcher.",
-   "timestamp": "2026-10-17T21:59:09+00:00",
-   "has_media": false
   },
   {
    "id": "cabb9582c0239599e3d887e6c7898faf",
