@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-20T06:04:13Z",
- "count": 40,
+ "generated_utc": "2026-10-20T11:23:49Z",
+ "count": 42,
  "items": [
+  {
+   "id": "92ecb2127af063767780ed398dc46ec6",
+   "url": "https://t.me/OSINTWarfare/7609",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.\nNumber 54?",
+   "timestamp": "2026-10-20T09:21:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b3f3a33a3549140e4a2c5720b3bd4da8",
+   "url": "https://t.me/OSINTWarfare/7608",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Islamic Republic of Iran Air Force (IRIAF) HESA Kowsar fighter is seen conducting a patrol over Dezful, western Iran, this morning.\nAround six Kowsar fighters (Iranian-modified F-5s) have been accepted into service despite previously being rejected during quality-control inspections.",
+   "timestamp": "2026-10-20T09:08:37+00:00",
+   "has_media": true
+  },
   {
    "id": "56fa4791a9a12785f35ad3c4ca461d2e",
    "url": "https://t.me/OSINTWarfare/7607",
