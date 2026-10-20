@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-20T19:36:24Z",
+ "generated_utc": "2026-10-20T22:35:42Z",
  "count": 42,
  "items": [
+  {
+   "id": "be72bbf3c63654c90b831447e487f72d",
+   "url": "https://t.me/OSINTWarfare/7624",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing the Royal Saudi Air Force (RSAF) destroying an Ansar Allah (Houthis) ballistic missile launcher.\nAccording to the coalition, the launcher was used to fire a ballistic missile toward Riyadh earlier today.",
+   "timestamp": "2026-10-20T21:00:35+00:00",
+   "has_media": true
+  },
   {
    "id": "13b5bc4b6675abc9ea571f51a2f43f22",
    "url": "https://t.me/TerrorAlarm/65",
@@ -136,15 +145,6 @@
    "text": "The Saudi-led Coalition’s Joint Forces have released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting boats and vehicles allegedly involved in smuggling weapons and equipment to Ansar Allah (Houthis) through organized criminal networks.",
    "timestamp": "2026-10-19T20:33:18+00:00",
    "has_media": false
-  },
-  {
-   "id": "a1c698c6ebddac4bdc2fade8aa69e46e",
-   "url": "https://t.me/OSINTWarfare/7603",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Earlier, clashes broke out between Iranian security forces and Baloch militants from the People's Fighters Front (PFF) in the city of Khash, Sistan and Baluchestan Province, Iran.",
-   "timestamp": "2026-10-19T19:44:25+00:00",
-   "has_media": true
   },
   {
    "id": "13e2f929536e9b89f991152fed1e584a",
