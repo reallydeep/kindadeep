@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-10-20T11:23:49Z",
+ "generated_utc": "2026-10-20T15:41:39Z",
  "count": 42,
  "items": [
+  {
+   "id": "a9761aa3f591f44a16bba891f10976a2",
+   "url": "https://t.me/OSINTWarfare/7619",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Islamic Republic of Iran Air Force (IRIAF) MiG-29 multirole fighter was spotted patrolling western Iran.",
+   "timestamp": "2026-10-20T15:14:57+00:00",
+   "has_media": false
+  },
+  {
+   "id": "49e3c118134494a0ea25d0ef97a4f246",
+   "url": "https://t.me/OSINTWarfare/7618",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "An Islamic Republic of Iran Air Force (IRIAF) MiG-29 multirole fighter was spotted patrolling western Iran.",
+   "timestamp": "2026-10-20T15:11:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6a6fec1315f21c3e6d3f6c4dc6d4dc31",
+   "url": "https://t.me/warmonitors/46196",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone over Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-20T14:26:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "c1a51c495296b0b1b9d2e7c31b96238a",
+   "url": "https://t.me/OSINTWarfare/7616",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A projectile fired by Ansar Allah (Houthis), possibly an artillery shell, rocket, or missile, struck a residential neighborhood in Taiz, killing two people and injuring more than 20 others.\nThe impact also caused damage to several homes.",
+   "timestamp": "2026-10-20T13:36:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "22141684d64f3b087907881d27a9cc1f",
+   "url": "https://t.me/OSINTWarfare/7615",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Jabal Han has not been captured by Ansar Allah (Houthis). The mountain remains contested, with clashes still ongoing.  Anyway, Yemen’s National Army (YNA) has released footage showing a strike targeting a gathering of Ansar Allah fighters on Jabal Han.",
+   "timestamp": "2026-10-20T13:15:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8cef09c8535deb7dddfed8280fe94be1",
+   "url": "https://t.me/OSINTWarfare/7614",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Footage shows the smoke trail of a ballistic missile launched by Ansar Allah (Houthis) from Juban District, northeast of Al-Dhale Governorate.",
+   "timestamp": "2026-10-20T12:58:43+00:00",
+   "has_media": true
+  },
   {
    "id": "92ecb2127af063767780ed398dc46ec6",
    "url": "https://t.me/OSINTWarfare/7609",
@@ -93,42 +147,6 @@
    "has_media": false
   },
   {
-   "id": "db83cbb57789f9bde14886c8ee148951",
-   "url": "https://t.me/OSINTWarfare/7599",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released footage showing its fighters engaging Yemen National Army (YNA) units and destroying their vehicles east of Al-Jawf.",
-   "timestamp": "2026-10-19T15:27:38+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9f40ac904e14c60e7015d240f1427d7e",
-   "url": "https://t.me/OSINTWarfare/7597",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (the Houthis) launched a ballistic missile from the Al-Sayyani District toward pro-government forces’ camps in southern Yemen. The launcher was later destroyed in a Saudi airstrike.",
-   "timestamp": "2026-10-19T14:15:41+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cd4630355a9abe2d877446db6d4f581c",
-   "url": "https://t.me/OSINTWarfare/7593",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck Al-Alam Camp in Shabwah Governorate, southern Yemen, with multiple ballistic missiles.  The strike killed more than 40 fighters among the Saudi-backed forces.",
-   "timestamp": "2026-10-19T12:59:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1f907b96977c1b50ebbbb0fbfe1ce9e0",
-   "url": "https://t.me/OSINTWarfare/7592",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Sudanese Air Force (SAF) has carried out 16 airstrikes so far against the UAE-backed Rapid Support Forces (RSF) stronghold of Nyala, the capital of South Darfur State. One-way attack drones were also used.\nMeanwhile, the RSF launched one-way attack drones targeting the Sudanese capital, Khartoum, this morning.",
-   "timestamp": "2026-10-19T11:59:03+00:00",
-   "has_media": false
-  },
-  {
    "id": "25e3cf132db2b52f02a968328ca4831f",
    "url": "https://t.me/warmonitors/46184",
    "source": "telegram",
@@ -171,24 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nSouth Korea’s Lee says North Korea has nuclear weapons but they are a means of final defense rather than tools for fighting a war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T08:31:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "de9a0657ed882d30a974613928d3d01e",
-   "url": "https://t.me/warmonitors/46176",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nLebanon: Al-Mayadeen correspondent in the south: The Israeli army carried out a bombing in the town of Kfar Tebnit\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T08:31:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0ac1064fd0ac0af070c675fa5648fc9f",
-   "url": "https://t.me/warmonitors/46175",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nBarak Ravid: The Israeli ambassador to the U.S. Yechiel Leiter mentioned two days ago that if President Trump endorses Netanyahu it will be the first time in history that a U.S. President does that\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T01:26:35+00:00",
    "has_media": false
   },
   {
