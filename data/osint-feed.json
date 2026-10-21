@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-21T05:27:45Z",
- "count": 42,
+ "generated_utc": "2026-10-21T10:24:29Z",
+ "count": 40,
  "items": [
+  {
+   "id": "c760667cff044778774af7598e2fa98f",
+   "url": "https://t.me/OSINTWarfare/7629",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A French Air and Space Force Mirage 2000D fighter jet from the 2/3 “Champagne” Fighter Squadron, based at Nancy-Ochey Air Base, crashed near Rogéville in Meurthe-et-Moselle at around 22:40 local time on October 20 while returning from a mission.\nOne pilot was killed, and the search for the second continues.",
+   "timestamp": "2026-10-21T09:35:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "49c6e13e44f69386a136b233d038490d",
+   "url": "https://t.me/OSINTWarfare/7627",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A new Russian drone has been spotted on the front lines. It resembles the Lancet in design but is powered by a gasoline engine.",
+   "timestamp": "2026-10-21T09:06:43+00:00",
+   "has_media": true
+  },
   {
    "id": "07f4a1d72d336101fd7562d0e505843f",
    "url": "https://t.me/OSINTWarfare/7626",
@@ -10,15 +28,6 @@
    "text": "A Royal Saudi Air Force (RSAF) airstrike targeted Najd Al-Nashamah in Taiz Governorate, Yemen.",
    "timestamp": "2026-10-20T23:47:43+00:00",
    "has_media": true
-  },
-  {
-   "id": "7b5934c723201e168ae1570c8033f14d",
-   "url": "https://t.me/OSINTWarfare/7625",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "One of the oil tankers targeted by the IRGC Navy with an anti-ship cruise missile in the Strait of Hormuz.",
-   "timestamp": "2026-10-20T22:38:09+00:00",
-   "has_media": false
   },
   {
    "id": "be72bbf3c63654c90b831447e487f72d",
@@ -129,15 +138,6 @@
    "has_media": true
   },
   {
-   "id": "56fa4791a9a12785f35ad3c4ca461d2e",
-   "url": "https://t.me/OSINTWarfare/7607",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) struck Al-Alam Camp in Shabwah Governorate, southern Yemen, with multiple ballistic missiles.  The strike killed more than 40 fighters among the Saudi-backed forces.",
-   "timestamp": "2026-10-20T00:14:19+00:00",
-   "has_media": false
-  },
-  {
    "id": "e5ef4bb16200ea37860807cb2a3c6767",
    "url": "https://t.me/warmonitors/46193",
    "source": "telegram",
@@ -145,15 +145,6 @@
    "text": "⚡\nThe Trump administration has not approved the transfer of interceptor missiles to Ukraine, according to the Washington Post\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T22:46:34+00:00",
    "has_media": false
-  },
-  {
-   "id": "86d8b756690c97abc82701d4fbc3f2e0",
-   "url": "https://t.me/OSINTWarfare/7605",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Around 10 Israeli Air Force (IAF) fighter jets took off from Nevatim Airbase earlier tonight, flying through Syrian airspace before entering Iraqi airspace, where they conducted simulated attack runs.\nSimilar flights have been taking place for several days, apparently to confuse the Iranians as they remain on high alert amid expectations of a possible Israeli-U.S. attack.",
-   "timestamp": "2026-10-19T21:31:18+00:00",
-   "has_media": true
   },
   {
    "id": "13e2f929536e9b89f991152fed1e584a",
@@ -180,15 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nUkraine’s foreign minister says a summit between Russia, China and the US would only encourage Putin to continue the war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T09:56:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3bc4997a4f5849c4a49ea0c46448acb1",
-   "url": "https://t.me/warmonitors/46183",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSky News Arabia: Yemeni sources told Sky News Arabia that more than 30 people were killed and dozens wounded in the Houthi missile attack on Shabwa.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T09:16:34+00:00",
    "has_media": false
   },
   {
