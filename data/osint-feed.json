@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-20T22:35:42Z",
+ "generated_utc": "2026-10-21T00:50:41Z",
  "count": 42,
  "items": [
+  {
+   "id": "07f4a1d72d336101fd7562d0e505843f",
+   "url": "https://t.me/OSINTWarfare/7626",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "A Royal Saudi Air Force (RSAF) airstrike targeted Najd Al-Nashamah in Taiz Governorate, Yemen.",
+   "timestamp": "2026-10-20T23:47:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7b5934c723201e168ae1570c8033f14d",
+   "url": "https://t.me/OSINTWarfare/7625",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "One of the oil tankers targeted by the IRGC Navy with an anti-ship cruise missile in the Strait of Hormuz.",
+   "timestamp": "2026-10-20T22:38:09+00:00",
+   "has_media": false
+  },
   {
    "id": "be72bbf3c63654c90b831447e487f72d",
    "url": "https://t.me/OSINTWarfare/7624",
@@ -138,15 +156,6 @@
    "has_media": true
   },
   {
-   "id": "b281ce4e8230c7fcbd9f06e364256ac8",
-   "url": "https://t.me/OSINTWarfare/7604",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led Coalition’s Joint Forces have released footage showing Royal Saudi Air Force (RSAF) airstrikes targeting boats and vehicles allegedly involved in smuggling weapons and equipment to Ansar Allah (Houthis) through organized criminal networks.",
-   "timestamp": "2026-10-19T20:33:18+00:00",
-   "has_media": false
-  },
-  {
    "id": "13e2f929536e9b89f991152fed1e584a",
    "url": "https://t.me/warmonitors/46190",
    "source": "telegram",
@@ -180,15 +189,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nSky News Arabia: Yemeni sources told Sky News Arabia that more than 30 people were killed and dozens wounded in the Houthi missile attack on Shabwa.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T09:16:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7e625634aa86ffaec77d8c300f2c2823",
-   "url": "https://t.me/warmonitors/46182",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nGermany’s foreign ministry said it summoned the Iranian ambassador today over an attempted attack on a German Jewish community leader\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T09:06:34+00:00",
    "has_media": false
   },
   {
