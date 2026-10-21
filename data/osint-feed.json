@@ -1,7 +1,88 @@
 {
- "generated_utc": "2026-10-21T19:24:30Z",
- "count": 44,
+ "generated_utc": "2026-10-21T22:31:36Z",
+ "count": 46,
  "items": [
+  {
+   "id": "b90e838a912e608181caa54dd6bd21dc",
+   "url": "https://t.me/OSINTWarfare/7642",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Around 20 minutes ago, a drone strike targeted an IRGC Navy missile launcher in the hills of Sirik.",
+   "timestamp": "2026-10-21T22:22:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "08b2d0f26ea1ab4ee7187188d1d74b6a",
+   "url": "https://t.me/OSINTWarfare/7640",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, Russia struck Ukraine's capital, Kyiv, with four 3M22 Zircon hypersonic missiles and eight modified RM-48U ballistic missiles launched from S-400 systems.",
+   "timestamp": "2026-10-21T22:20:14+00:00",
+   "has_media": true
+  },
+  {
+   "id": "92a25565764109aade4b4b300f934210",
+   "url": "https://t.me/OSINTWarfare/7639",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The U.S. military is beginning to draw down its forces at bases in Qatar, Kuwait, and Jordan in preparation for a potential resumption of hostilities.",
+   "timestamp": "2026-10-21T21:52:16+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3ca56ddc9c8581f71b29d7b64bb67f26",
+   "url": "https://t.me/OSINTWarfare/7638",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Israeli fighter aircraft are currently flying over Erbil, Iraqi Kurdistan, near the Iranian border.",
+   "timestamp": "2026-10-21T21:31:10+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dc78888ca8351fdc2f28aaddca88aab3",
+   "url": "https://t.me/OSINTWarfare/7637",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy launched several anti-ship cruise missiles from Sirik toward the Strait of Hormuz.",
+   "timestamp": "2026-10-21T21:15:40+00:00",
+   "has_media": false
+  },
+  {
+   "id": "514deb6008fc5650a0e59a651f7e5464",
+   "url": "https://t.me/warmonitors/46212",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nReports of explosions at the port of Sirik in Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-21T20:41:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2e785ffba270b0dc4c21755ea50fb3c6",
+   "url": "https://t.me/OSINTWarfare/7636",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.  A total of three to four explosions were heard.",
+   "timestamp": "2026-10-21T20:03:54+00:00",
+   "has_media": false
+  },
+  {
+   "id": "740996f4165e445dd8306f1e056fd83c",
+   "url": "https://t.me/OSINTWarfare/7635",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.\nA total of three to four explosions were heard.",
+   "timestamp": "2026-10-21T19:54:39+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9486156f5ef7061e2dcc2ad141882e33",
+   "url": "https://t.me/warmonitors/46211",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nBallistic missile attack on Kyiv; explosions heard\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-21T19:41:35+00:00",
+   "has_media": false
+  },
   {
    "id": "4967aefac5c5886fde2c9a1538cf66f5",
    "url": "https://t.me/warmonitors/46210",
@@ -138,24 +219,6 @@
    "has_media": false
   },
   {
-   "id": "a9761aa3f591f44a16bba891f10976a2",
-   "url": "https://t.me/OSINTWarfare/7619",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Islamic Republic of Iran Air Force (IRIAF) MiG-29 multirole fighter was spotted patrolling western Iran.",
-   "timestamp": "2026-10-20T15:14:57+00:00",
-   "has_media": false
-  },
-  {
-   "id": "49e3c118134494a0ea25d0ef97a4f246",
-   "url": "https://t.me/OSINTWarfare/7618",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Islamic Republic of Iran Air Force (IRIAF) MiG-29 multirole fighter was spotted patrolling western Iran.",
-   "timestamp": "2026-10-20T15:11:02+00:00",
-   "has_media": true
-  },
-  {
    "id": "6a6fec1315f21c3e6d3f6c4dc6d4dc31",
    "url": "https://t.me/warmonitors/46196",
    "source": "telegram",
@@ -165,33 +228,6 @@
    "has_media": false
   },
   {
-   "id": "c1a51c495296b0b1b9d2e7c31b96238a",
-   "url": "https://t.me/OSINTWarfare/7616",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A projectile fired by Ansar Allah (Houthis), possibly an artillery shell, rocket, or missile, struck a residential neighborhood in Taiz, killing two people and injuring more than 20 others.\nThe impact also caused damage to several homes.",
-   "timestamp": "2026-10-20T13:36:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "22141684d64f3b087907881d27a9cc1f",
-   "url": "https://t.me/OSINTWarfare/7615",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Jabal Han has not been captured by Ansar Allah (Houthis). The mountain remains contested, with clashes still ongoing.  Anyway, Yemen’s National Army (YNA) has released footage showing a strike targeting a gathering of Ansar Allah fighters on Jabal Han.",
-   "timestamp": "2026-10-20T13:15:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8cef09c8535deb7dddfed8280fe94be1",
-   "url": "https://t.me/OSINTWarfare/7614",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Footage shows the smoke trail of a ballistic missile launched by Ansar Allah (Houthis) from Juban District, northeast of Al-Dhale Governorate.",
-   "timestamp": "2026-10-20T12:58:43+00:00",
-   "has_media": true
-  },
-  {
    "id": "e5ef4bb16200ea37860807cb2a3c6767",
    "url": "https://t.me/warmonitors/46193",
    "source": "telegram",
@@ -199,24 +235,6 @@
    "text": "⚡\nThe Trump administration has not approved the transfer of interceptor missiles to Ukraine, according to the Washington Post\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T22:46:34+00:00",
    "has_media": false
-  },
-  {
-   "id": "13e2f929536e9b89f991152fed1e584a",
-   "url": "https://t.me/warmonitors/46190",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nTrump says he would schedule a joint meeting with Xi and Putin based on progress toward denuclearization\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T19:41:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "4a6de38ea8adb0eacde20d87f94c4c6a",
-   "url": "https://t.me/warmonitors/46189",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\n#BREAKING\nDozens of casualties following an Israeli airstrike on Gaza moments ago\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T15:41:35+00:00",
-   "has_media": true
   },
   {
    "id": "04dd8dd8447e9fcc6ca3864ff7e7c643",
