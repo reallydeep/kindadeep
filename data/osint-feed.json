@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-10-21T10:24:29Z",
+ "generated_utc": "2026-10-21T15:25:15Z",
  "count": 40,
  "items": [
+  {
+   "id": "f4744d6b7823c13a12ed48847aa85da8",
+   "url": "https://t.me/TerrorAlarm/67",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "A Jean-Luc Mélenchon presidency would pose a far greater risk to French foreign policy than the current administration by fundamentally fracturing European Union unity, undermining traditional Western security structures, and endangering vulnerable diaspora communities.\nMost critically, his shift toward an uncritical diplomatic rapprochement with Tehran and his secret ties with elements of the IRGC directly compromised France's historic role as a sanctuary, severely threatening the safety and asylum protections of Iranian dissidents and political refugees.",
+   "timestamp": "2026-10-21T14:01:22+00:00",
+   "has_media": true
+  },
+  {
+   "id": "38d166d629236b2f62d14ac754611d58",
+   "url": "https://t.me/OSINTWarfare/7633",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing its fighters destroying vehicles belonging to the Yemen National Army (YNA) and possibly the Nation’s Shield Forces (NSF) and Southern Giants Brigades east of Raghwan District, Marib Governorate.",
+   "timestamp": "2026-10-21T13:47:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a4dbefee2f1c06f72f348ae53d15bb13",
+   "url": "https://t.me/OSINTWarfare/7632",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Qeta-e-Sabz (“Green Unit”) has released footage showing its forces targeting a Taliban 219th Corps military pickup truck on the Keshem–Faizabad Highway in Badakhshan on October 21.\nThe attack missed the target, and the footage cuts off shortly afterward.\nQeta-e-Sabz is the armed wing of Rawand-e Sabz-e Afghanistan (Afghanistan Green Trend), an anti-Taliban political movement.",
+   "timestamp": "2026-10-21T13:31:43+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d6a46fa388dcb515780040601428eac4",
+   "url": "https://t.me/OSINTWarfare/7631",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇱\n🇵🇱\nThe brother of Israeli Prime Minister Benjamin Netanyahu, Iddo Netanyahu, said in an interview with Polish television that as a child he spat on Arabs for fun.",
+   "timestamp": "2026-10-21T13:15:52+00:00",
+   "has_media": false
+  },
   {
    "id": "c760667cff044778774af7598e2fa98f",
    "url": "https://t.me/OSINTWarfare/7629",
@@ -120,24 +156,6 @@
    "has_media": true
   },
   {
-   "id": "92ecb2127af063767780ed398dc46ec6",
-   "url": "https://t.me/OSINTWarfare/7609",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC says it shot down a U.S. MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.\nNumber 54?",
-   "timestamp": "2026-10-20T09:21:15+00:00",
-   "has_media": true
-  },
-  {
-   "id": "b3f3a33a3549140e4a2c5720b3bd4da8",
-   "url": "https://t.me/OSINTWarfare/7608",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "An Islamic Republic of Iran Air Force (IRIAF) HESA Kowsar fighter is seen conducting a patrol over Dezful, western Iran, this morning.\nAround six Kowsar fighters (Iranian-modified F-5s) have been accepted into service despite previously being rejected during quality-control inspections.",
-   "timestamp": "2026-10-20T09:08:37+00:00",
-   "has_media": true
-  },
-  {
    "id": "e5ef4bb16200ea37860807cb2a3c6767",
    "url": "https://t.me/warmonitors/46193",
    "source": "telegram",
@@ -163,15 +181,6 @@
    "text": "⚡️\n#BREAKING\nDozens of casualties following an Israeli airstrike on Gaza moments ago\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-19T15:41:35+00:00",
    "has_media": true
-  },
-  {
-   "id": "25e3cf132db2b52f02a968328ca4831f",
-   "url": "https://t.me/warmonitors/46184",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUkraine’s foreign minister says a summit between Russia, China and the US would only encourage Putin to continue the war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T09:56:35+00:00",
-   "has_media": false
   },
   {
    "id": "04dd8dd8447e9fcc6ca3864ff7e7c643",
@@ -261,15 +270,6 @@
    "channel": "MenchOsint",
    "text": "🧵\n🛰\nDetailled map of some US Bases hit by Iran:\nCamp Buehring\nAli Al Salem\nCamp Arifjan\nNSA Bahrain\nISA Air Base\nAl Dhafra Air Base\nLong Range AD/Radar sites at different locations.\n*i used images from Planet, Sentinel-2 & Iran's images.\nFeel free to use/share\n🫡\n@MenchOsint",
    "timestamp": "2026-06-16T14:19:04+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bb24fd57b2eb634ff892b0222b0b3ac1",
-   "url": "https://t.me/TerrorAlarm/37",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Italy PM Meloni says Italy is “not complicit” in the U.S.-Israel military intervention in Iran.",
-   "timestamp": "2026-04-09T19:46:25+00:00",
    "has_media": true
   },
   {
