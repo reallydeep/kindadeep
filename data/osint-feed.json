@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-22T00:51:01Z",
+ "generated_utc": "2026-10-22T05:32:32Z",
  "count": 46,
  "items": [
+  {
+   "id": "08e957507ce625321c77c52972e190ee",
+   "url": "https://t.me/OSINTWarfare/7644",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Earlier tonight, Russia struck Ukraine's capital, Kyiv, with four 3M22 Zircon hypersonic missiles and eight modified RM-48U ballistic missiles launched from S-400 systems.",
+   "timestamp": "2026-10-22T02:32:36+00:00",
+   "has_media": true
+  },
   {
    "id": "5a38961fcef973747ee29f9c2bc1b86c",
    "url": "https://t.me/OSINTWarfare/7643",
@@ -189,15 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "A Royal Saudi Air Force (RSAF) airstrike targeted Najd Al-Nashamah in Taiz Governorate, Yemen.",
    "timestamp": "2026-10-20T23:47:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "be72bbf3c63654c90b831447e487f72d",
-   "url": "https://t.me/OSINTWarfare/7624",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Saudi-led Coalition (Joint Forces) has released footage showing the Royal Saudi Air Force (RSAF) destroying an Ansar Allah (Houthis) ballistic missile launcher.\nAccording to the coalition, the launcher was used to fire a ballistic missile toward Riyadh earlier today.",
-   "timestamp": "2026-10-20T21:00:35+00:00",
    "has_media": true
   },
   {
