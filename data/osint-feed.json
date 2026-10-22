@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-21T22:31:36Z",
+ "generated_utc": "2026-10-22T00:51:01Z",
  "count": 46,
  "items": [
+  {
+   "id": "5a38961fcef973747ee29f9c2bc1b86c",
+   "url": "https://t.me/OSINTWarfare/7643",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Saudi Arabia’s General Authority of Civil Aviation (GACA) announced that King Fahd International Airport in Dammam was targeted in an attack by Ansar Allah (Houthis) on Wednesday evening, killing one resident and injuring eight others.\nThe injured, whose conditions range from minor to critical, were transported to hospitals for treatment. The attack also caused property damage.",
+   "timestamp": "2026-10-21T23:46:36+00:00",
+   "has_media": true
+  },
   {
    "id": "b90e838a912e608181caa54dd6bd21dc",
    "url": "https://t.me/OSINTWarfare/7642",
@@ -199,15 +208,6 @@
    "text": "Tehran's calculation that it can simply buy time until the U.S. midterm elections is a dangerous misreading of Washington's dynamics. The IRGC is ignoring a critical counter-risk: if President Trump emerges from the midterms unconstrained by electoral math, the political incentive for caution vanishes. A second-term administration with nothing left to lose will not settle for a 'bad deal.' Tehran's strategy to prolong the conflict is likely to achieve the exact opposite of its intent, accelerating a crippling, unrestrained U.S. response rather than securing leverage.",
    "timestamp": "2026-10-20T18:13:23+00:00",
    "has_media": true
-  },
-  {
-   "id": "2d02e2b886194f57d26e0ba0e5497157",
-   "url": "https://t.me/OSINTWarfare/7622",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released footage showing Rajum hexacopters carrying out precision strikes against Royal Saudi Land Forces (RSLF) personnel, pickup trucks, and tanks along the Jizan and Asir border fronts using air-dropped grenades and mortar rounds.",
-   "timestamp": "2026-10-20T17:44:52+00:00",
-   "has_media": false
   },
   {
    "id": "a1f5b2654a7e01b7e4eb93a82962dcf8",
