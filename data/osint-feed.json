@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-10-22T10:33:38Z",
- "count": 47,
+ "generated_utc": "2026-10-22T15:33:51Z",
+ "count": 40,
  "items": [
+  {
+   "id": "5b5a7de80f681384f0a6192cdfac42ba",
+   "url": "https://t.me/OSINTWarfare/7659",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Major General Amir Hatami, Commander-in-Chief of the Iranian Army, has visited an underground facility producing Arash one-way attack (OWA) drones.  He stated that the armed forces are continuing to expand their underground manufacturing facilities to produce…",
+   "timestamp": "2026-10-22T13:38:23+00:00",
+   "has_media": true
+  },
+  {
+   "id": "51dd8bce9a6b4583a7663433afc543b3",
+   "url": "https://t.me/OSINTWarfare/7652",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇾🇪\n❌\n🇸🇦\n— Columns of smoke rise over the Saudi capital, Riyadh, following a ballistic missile and drone attack by Ansar Allah.\n🔴\n@Alsaa_plus_EN",
+   "timestamp": "2026-10-22T12:48:42+00:00",
+   "has_media": true
+  },
+  {
+   "id": "26f2ad58336a73f7cfad586e4390107f",
+   "url": "https://t.me/warmonitors/46215",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nZelensky: Russia bombed Kyiv with 3 ballistic missiles equipped with cluster munitions\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-22T12:36:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b29a65e1355b94b847578fe569b18e74",
+   "url": "https://t.me/OSINTWarfare/7651",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Sudanese Armed Forces (SAF) announced that their air defenses shot down a “hostile” strategic drone originating from Ethiopia near the Bakori area of Blue Nile State this morning.",
+   "timestamp": "2026-10-22T12:12:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "02eb7c58b8c30bd76cc1f22c2ba4d45f",
+   "url": "https://t.me/OSINTWarfare/7650",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Major General Amir Hatami, Commander-in-Chief of the Iranian Army, has visited an underground facility producing Arash one-way attack (OWA) drones.\nHe stated that the armed forces are continuing to expand their underground manufacturing facilities to produce the equipment they need.",
+   "timestamp": "2026-10-22T11:45:09+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6c1769da855e1b5464c88a86c053f4d8",
+   "url": "https://t.me/OSINTWarfare/7646",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Libyan National Army (LNA), led by Marshal Khalifa Haftar, has paraded Belarusian Mirotvorets (“Mir”) one-way attack (OWA) loitering munitions, developed from the Berkut-BM target drone.\nThe jet-powered drone has a range of up to 180 km, a maximum speed of 450 km/h, and a 10 kg warhead.\nThe Mirotvorets has also been exported to the Republic of the Congo, India, Sudan, and Algeria.",
+   "timestamp": "2026-10-22T11:14:11+00:00",
+   "has_media": true
+  },
   {
    "id": "6a2afc35be4b561ad83e509d49d9bf0d",
    "url": "https://t.me/TerrorAlarm/68",
@@ -48,33 +102,6 @@
    "has_media": true
   },
   {
-   "id": "92a25565764109aade4b4b300f934210",
-   "url": "https://t.me/OSINTWarfare/7639",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. military is beginning to draw down its forces at bases in Qatar, Kuwait, and Jordan in preparation for a potential resumption of hostilities.",
-   "timestamp": "2026-10-21T21:52:16+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3ca56ddc9c8581f71b29d7b64bb67f26",
-   "url": "https://t.me/OSINTWarfare/7638",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Israeli fighter aircraft are currently flying over Erbil, Iraqi Kurdistan, near the Iranian border.",
-   "timestamp": "2026-10-21T21:31:10+00:00",
-   "has_media": false
-  },
-  {
-   "id": "dc78888ca8351fdc2f28aaddca88aab3",
-   "url": "https://t.me/OSINTWarfare/7637",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The IRGC Navy launched several anti-ship cruise missiles from Sirik toward the Strait of Hormuz.",
-   "timestamp": "2026-10-21T21:15:40+00:00",
-   "has_media": false
-  },
-  {
    "id": "514deb6008fc5650a0e59a651f7e5464",
    "url": "https://t.me/warmonitors/46212",
    "source": "telegram",
@@ -82,24 +109,6 @@
    "text": "⚡\nReports of explosions at the port of Sirik in Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-21T20:41:35+00:00",
    "has_media": false
-  },
-  {
-   "id": "2e785ffba270b0dc4c21755ea50fb3c6",
-   "url": "https://t.me/OSINTWarfare/7636",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.  A total of three to four explosions were heard.",
-   "timestamp": "2026-10-21T20:03:54+00:00",
-   "has_media": false
-  },
-  {
-   "id": "740996f4165e445dd8306f1e056fd83c",
-   "url": "https://t.me/OSINTWarfare/7635",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Smoke rises over the coastal city of Sirik, Hormozgan Province, Iran, following a reported U.S. airstrike targeting a cruise missile launcher.\nA total of three to four explosions were heard.",
-   "timestamp": "2026-10-21T19:54:39+00:00",
-   "has_media": true
   },
   {
    "id": "9486156f5ef7061e2dcc2ad141882e33",
@@ -129,15 +138,6 @@
    "has_media": false
   },
   {
-   "id": "a4832d6bc1baa6afa82100377b0c29da",
-   "url": "https://t.me/OSINTWarfare/7634",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Russia has lost a second Su-30SM multirole fighter today.\nThis time, both crew members were killed.",
-   "timestamp": "2026-10-21T17:04:48+00:00",
-   "has_media": true
-  },
-  {
    "id": "6d10769e2389588d848bb90ace05ed8c",
    "url": "https://t.me/warmonitors/46207",
    "source": "telegram",
@@ -153,60 +153,6 @@
    "channel": "terroralarm",
    "text": "A Jean-Luc Mélenchon presidency would pose a far greater risk to French foreign policy than the current administration by fundamentally fracturing European Union unity, undermining traditional Western security structures, and endangering vulnerable diaspora communities.\nMost critically, his shift toward an uncritical diplomatic rapprochement with Tehran and his secret ties with elements of the IRGC directly compromised France's historic role as a sanctuary, severely threatening the safety and asylum protections of Iranian dissidents and political refugees.",
    "timestamp": "2026-10-21T14:01:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "38d166d629236b2f62d14ac754611d58",
-   "url": "https://t.me/OSINTWarfare/7633",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Ansar Allah (Houthis) has released footage showing its fighters destroying vehicles belonging to the Yemen National Army (YNA) and possibly the Nation’s Shield Forces (NSF) and Southern Giants Brigades east of Raghwan District, Marib Governorate.",
-   "timestamp": "2026-10-21T13:47:39+00:00",
-   "has_media": false
-  },
-  {
-   "id": "a4dbefee2f1c06f72f348ae53d15bb13",
-   "url": "https://t.me/OSINTWarfare/7632",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Qeta-e-Sabz (“Green Unit”) has released footage showing its forces targeting a Taliban 219th Corps military pickup truck on the Keshem–Faizabad Highway in Badakhshan on October 21.\nThe attack missed the target, and the footage cuts off shortly afterward.\nQeta-e-Sabz is the armed wing of Rawand-e Sabz-e Afghanistan (Afghanistan Green Trend), an anti-Taliban political movement.",
-   "timestamp": "2026-10-21T13:31:43+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d6a46fa388dcb515780040601428eac4",
-   "url": "https://t.me/OSINTWarfare/7631",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇱\n🇵🇱\nThe brother of Israeli Prime Minister Benjamin Netanyahu, Iddo Netanyahu, said in an interview with Polish television that as a child he spat on Arabs for fun.",
-   "timestamp": "2026-10-21T13:15:52+00:00",
-   "has_media": false
-  },
-  {
-   "id": "c760667cff044778774af7598e2fa98f",
-   "url": "https://t.me/OSINTWarfare/7629",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A French Air and Space Force Mirage 2000D fighter jet from the 2/3 “Champagne” Fighter Squadron, based at Nancy-Ochey Air Base, crashed near Rogéville in Meurthe-et-Moselle at around 22:40 local time on October 20 while returning from a mission.\nOne pilot was killed, and the search for the second continues.",
-   "timestamp": "2026-10-21T09:35:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "49c6e13e44f69386a136b233d038490d",
-   "url": "https://t.me/OSINTWarfare/7627",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A new Russian drone has been spotted on the front lines. It resembles the Lancet in design but is powered by a gasoline engine.",
-   "timestamp": "2026-10-21T09:06:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "07f4a1d72d336101fd7562d0e505843f",
-   "url": "https://t.me/OSINTWarfare/7626",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A Royal Saudi Air Force (RSAF) airstrike targeted Najd Al-Nashamah in Taiz Governorate, Yemen.",
-   "timestamp": "2026-10-20T23:47:43+00:00",
    "has_media": true
   },
   {
@@ -234,15 +180,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone over Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-10-20T14:26:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e5ef4bb16200ea37860807cb2a3c6767",
-   "url": "https://t.me/warmonitors/46193",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Trump administration has not approved the transfer of interceptor missiles to Ukraine, according to the Washington Post\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-19T22:46:34+00:00",
    "has_media": false
   },
   {
