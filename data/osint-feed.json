@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-22T22:31:02Z",
- "count": 40,
+ "generated_utc": "2026-10-23T00:52:54Z",
+ "count": 42,
  "items": [
+  {
+   "id": "d17e729b881e902a6386fb2802ef7a00",
+   "url": "https://t.me/warmonitors/46221",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nSaudi Arabia has issued an early warning alert in Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-23T00:36:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f7c8e56d3509f0c7e74183f95e30f643",
+   "url": "https://t.me/OSINTWarfare/7660",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Never-before-seen footage shows an Iranian ballistic missile evading air defenses and striking close to American personnel at a U.S. military installation in the UAE.",
+   "timestamp": "2026-10-22T23:09:24+00:00",
+   "has_media": true
+  },
   {
    "id": "8dd29df63d0c36fabdc3aac5b3d6834f",
    "url": "https://t.me/warmonitors/46219",
