@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-10-24T16:44:32Z",
- "count": 42,
+ "generated_utc": "2026-10-24T19:01:55Z",
+ "count": 43,
  "items": [
+  {
+   "id": "d62aa6b1234a635d505c3010c1e4ce5a",
+   "url": "https://t.me/warmonitors/46257",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nYemen’s Houthis deny attacking Mecca and Medina after Saudi Arabia said it intercepted Houthi missiles there\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-24T18:21:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5ae990be747ee898a3309896bb5ed1c4",
+   "url": "https://t.me/OSINTWarfare/7682",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Ansar Allah (Houthis) has released footage showing its fighters sniping Sudanese mercenaries along the Saudi-Yemeni border.",
+   "timestamp": "2026-10-24T17:51:21+00:00",
+   "has_media": false
+  },
+  {
+   "id": "5a1a0316365f7c635032d92ba23f82c5",
+   "url": "https://t.me/OSINTWarfare/7681",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The Israeli Navy conducted a joint exercise with the Hellenic Navy in the Sea of Crete, in the eastern Mediterranean between Greece and Turkey.\nThe footage shows a SPIKE ER2 electro-optical (EO) precision-guided missile launched from a Typhoon MLS-ER remote weapon system, as well as a loitering munition, possibly a Heron 30, targeting the decommissioned Greek frigate HS Bouboulina (F-463), which served as the target vessel during the live-fire phase.\nThe exercise also involved activities not shown in the footage, including a Greek Type 209 diesel-electric submarine launching a single SUT 264 heavyweight torpedo that sank HS Bouboulina, and the firing of SPIKE NLOS missiles from a Typhoon MLS-NLOS naval weapon system.",
+   "timestamp": "2026-10-24T17:18:03+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e7f8c2dbeb3aa3387e39ed16c4bfc945",
+   "url": "https://t.me/warmonitors/46256",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSaudi Civil Defence says shrapnel from an intercepted missile fell in the Jeddah, Taif and Rabigh areas\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-24T17:11:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "66e4ea5ba4738181063880bac60df3ec",
+   "url": "https://t.me/warmonitors/46255",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nYemen’s Houthis say they attacked Saudi Arabia’s East-West pipeline and crude oil pumping stations\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-10-24T16:56:34+00:00",
+   "has_media": false
+  },
   {
    "id": "0a030a99571a450ca3b828d5eab4731d",
    "url": "https://t.me/OSINTWarfare/7677",
@@ -147,33 +192,6 @@
    "has_media": true
   },
   {
-   "id": "7c098dc528089e353b8f8b34be5f6cba",
-   "url": "https://t.me/warmonitors/46237",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSix people were killed and 28 injured in an attack at a funeral in Jordan’s Karak Governorate, according to General Security\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-23T13:46:35+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8ea8a40caedacb09325f163375acd278",
-   "url": "https://t.me/warmonitors/46236",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nKevin T. identified as shooter after at least 1 killed and several injured in Trappes and La Verrière, France; suffers ‘psychological disorders’\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-23T13:41:35+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f7c8e56d3509f0c7e74183f95e30f643",
-   "url": "https://t.me/OSINTWarfare/7660",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Never-before-seen footage shows an Iranian ballistic missile evading air defenses and striking close to American personnel at a U.S. military installation in the UAE.",
-   "timestamp": "2026-10-22T23:09:24+00:00",
-   "has_media": true
-  },
-  {
    "id": "6a2afc35be4b561ad83e509d49d9bf0d",
    "url": "https://t.me/TerrorAlarm/68",
    "source": "telegram",
@@ -270,15 +288,6 @@
    "channel": "MenchOsint",
    "text": "🛰\n📍\nDirect hits on Muwaffaq Salti Air Base, Azraq, Jordan, following IRGC attack on July 9th.",
    "timestamp": "2026-07-11T09:12:37+00:00",
-   "has_media": true
-  },
-  {
-   "id": "288be7f23350308d6cd00bfd62581203",
-   "url": "https://t.me/TerrorAlarm/45",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "🇩🇰\n🇮🇹\nDenmark and Italy push forward on migration control.\nThe EU Parliament has voted to back new rules for return hubs outside Europe. This allows faster returns of rejected asylum seekers and irregular migrants to third countries, speeding up deportations and strengthening border management.\nLed by efforts from Denmark’s Mette Frederiksen and Italy’s Giorgia Meloni, Europe is moving toward more pragmatic, effective migration policies.",
-   "timestamp": "2026-06-23T10:50:51+00:00",
    "has_media": true
   },
   {
