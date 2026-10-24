@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-23T22:13:54Z",
- "count": 37,
+ "generated_utc": "2026-10-24T00:43:02Z",
+ "count": 38,
  "items": [
+  {
+   "id": "11e0d9ca0661bdf8cc17453ac27a258a",
+   "url": "https://t.me/OSINTWarfare/7672",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "IRGC-affiliated figures and media are gearing up for a new round of war with the U.S. and Israel. The coming days and weeks will be crucial.",
+   "timestamp": "2026-10-24T00:02:55+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ff8413e3bf65530d46508a804d67708b",
+   "url": "https://t.me/OSINTWarfare/7671",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "The IRGC Navy has released footage showing two Very Large Crude Carriers (VLCCs) targeted by light anti-ship cruise missiles while attempting to cross the Strait of Hormuz via the southern route.\nThe footage shows one tanker with damage to its engine room, which disabled the vessel.",
+   "timestamp": "2026-10-23T23:17:55+00:00",
+   "has_media": true
+  },
   {
    "id": "97acf22d191fcab0a7766289979b72e2",
    "url": "https://t.me/OSINTWarfare/7670",
@@ -118,15 +136,6 @@
    "text": "🇾🇪\n❌\n🇸🇦\n— Columns of smoke rise over the Saudi capital, Riyadh, following a ballistic missile and drone attack by Ansar Allah.\n🔴\n@Alsaa_plus_EN",
    "timestamp": "2026-10-22T12:48:42+00:00",
    "has_media": true
-  },
-  {
-   "id": "b29a65e1355b94b847578fe569b18e74",
-   "url": "https://t.me/OSINTWarfare/7651",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The Sudanese Armed Forces (SAF) announced that their air defenses shot down a “hostile” strategic drone originating from Ethiopia near the Bakori area of Blue Nile State this morning.",
-   "timestamp": "2026-10-22T12:12:35+00:00",
-   "has_media": false
   },
   {
    "id": "6a2afc35be4b561ad83e509d49d9bf0d",
