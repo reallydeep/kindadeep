@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-10-30T00:16:14Z",
+ "generated_utc": "2026-10-30T05:52:08Z",
  "count": 45,
  "items": [
+  {
+   "id": "4139fbfe6a59b07e47a5bf99cfbe0486",
+   "url": "https://t.me/OSINTWarfare/7793",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n⚡️\n— Lockheed Martin has published an image of its PrSM (Precision Strike Missile) Increment 4, a long-range missile under development with a planned range of more than 1,000 km.\nThe missile will be equipped with an L3Harris-developed ramjet engine and a guidance system designed to engage moving ground and maritime targets. It will be launched from M142 HIMARS or M270A2 MLRS launchers.\nOn September 25, 2026, the U.S. Army awarded contracts to five companies — Anduril, Castelion, Lockheed Martin, Mach Industries, and RTX — to develop and test competing PrSM Increment 4 prototypes during fiscal years 2027–2028.\n@OSINTWarfare",
+   "timestamp": "2026-10-30T02:10:42+00:00",
+   "has_media": true
+  },
   {
    "id": "600618e627434a1fb9ef67cdedefc6ba",
    "url": "https://t.me/OSINTWarfare/7791",
@@ -199,15 +208,6 @@
    "text": "🇾🇪\n❌\n🇸🇦\n— Reports of Ansar Allah (Houthis) launching ballistic missiles toward Saudi Arabia’s Eastern Province.\n@OSINTWarfare",
    "timestamp": "2026-10-29T00:27:09+00:00",
    "has_media": false
-  },
-  {
-   "id": "0cd58b7bf0c68b1cd2a3fabc209674de",
-   "url": "https://t.me/OSINTWarfare/7772",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇲🇦\n🇺🇸\n⚡️\n— The Royal Moroccan Armed Forces held a reception ceremony for six U.S.-made AH-64E Apache Guardian attack helicopters, marking the delivery of the third batch to the Royal Moroccan Air Force (RMAF).\nThe ceremony took place on Monday, October 26, at the First Air Base in Salé.\nThe latest delivery brings the total number of Apache helicopters received by Morocco to 19 out of the 24 ordered.\n@OSINTWarfare",
-   "timestamp": "2026-10-28T23:09:56+00:00",
-   "has_media": true
   },
   {
    "id": "6a2afc35be4b561ad83e509d49d9bf0d",
