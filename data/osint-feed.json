@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-10-29T20:37:28Z",
+ "generated_utc": "2026-10-30T00:16:14Z",
  "count": 45,
  "items": [
+  {
+   "id": "600618e627434a1fb9ef67cdedefc6ba",
+   "url": "https://t.me/OSINTWarfare/7791",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Iranian Navy’s Second Naval Base in Jask was struck by four projectiles.\n@OSINTWarfare",
+   "timestamp": "2026-10-29T22:00:31+00:00",
+   "has_media": true
+  },
+  {
+   "id": "69a8f0bf869c30624111c4c4eee2b3c4",
+   "url": "https://t.me/OSINTWarfare/7789",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— Reports of intense air defense activity over Qeshm Island in the Strait of Hormuz.  @OSINTWarfare",
+   "timestamp": "2026-10-29T20:47:57+00:00",
+   "has_media": true
+  },
   {
    "id": "29ffcc4ab31d2207d4d0b080b307ec25",
    "url": "https://t.me/warmonitors/46370",
@@ -174,15 +192,6 @@
    "has_media": true
   },
   {
-   "id": "0e4cdea46818df1b147d5e036e5b9b0b",
-   "url": "https://t.me/warmonitors/46350",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition says it destroyed a ballistic missile fired by Yemen’s Houthis towards the kingdom’s eastern region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-10-29T00:50:56+00:00",
-   "has_media": false
-  },
-  {
    "id": "a881667d1c600c7677f0261cb708cdc7",
    "url": "https://t.me/OSINTWarfare/7773",
    "source": "telegram",
@@ -198,15 +207,6 @@
    "channel": "OSINTWarfare",
    "text": "🇲🇦\n🇺🇸\n⚡️\n— The Royal Moroccan Armed Forces held a reception ceremony for six U.S.-made AH-64E Apache Guardian attack helicopters, marking the delivery of the third batch to the Royal Moroccan Air Force (RMAF).\nThe ceremony took place on Monday, October 26, at the First Air Base in Salé.\nThe latest delivery brings the total number of Apache helicopters received by Morocco to 19 out of the 24 ordered.\n@OSINTWarfare",
    "timestamp": "2026-10-28T23:09:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2ded75584e7dd8d4c835969f700cdb49",
-   "url": "https://t.me/OSINTWarfare/7768",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇯🇵\n⚡️\n— The experimental ship JS Asuka (ASE-6102) of the Japan Maritime Self-Defense Force was seen undergoing the replacement of transport-launch canisters for a new type of anti-ship missile, the naval variant of the 12SSM-ER.  Judging by the images, the…",
-   "timestamp": "2026-10-28T20:06:59+00:00",
    "has_media": true
   },
   {
