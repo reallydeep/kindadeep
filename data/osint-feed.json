@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-02T02:58:44Z",
+ "generated_utc": "2026-11-02T10:30:10Z",
  "count": 43,
  "items": [
+  {
+   "id": "234a7cde9af995197ac56fc2bdec88fd",
+   "url": "https://t.me/TerrorAlarm/73",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "When the assassins of former Iranian PM Shapour Bakhtiar tried to flee to Switzerland with fake passports, Swiss guards caught them and handed them to France.\nInexplicably, French authorities let them go allowing the main 2 hitmen to escape to Iran.\nFrance has questions to answer.",
+   "timestamp": "2026-11-02T09:23:40+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ca20f9ba3640129aa7402c679a3fbd9c",
+   "url": "https://t.me/OSINTWarfare/7818",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇦\n🇷🇺\n⚡️\n— Footage shows a Russian fiber-optic FPV drone being intercepted mid-flight by a net-equipped Ukrainian FPV drone as it approaches a military vehicle.\nI think this is the second video released by the Ukrainian side showing such a rare interception.\n@OSINTWarfare",
+   "timestamp": "2026-11-02T08:21:41+00:00",
+   "has_media": true
+  },
   {
    "id": "2faf26f72f1bc474a1f6c5fb980fcf02",
    "url": "https://t.me/OSINTWarfare/7809",
@@ -174,15 +192,6 @@
    "has_media": true
   },
   {
-   "id": "c075ef783088f825cc07bdcf126b89d1",
-   "url": "https://t.me/OSINTWarfare/7798",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— The IRGC Navy has released footage showing the Panama-flagged crude oil tanker RITI on fire off the coast of Oman after being attacked while transiting an unauthorized route.\nThe Royal Navy of Oman, in coordination with the Maritime Security Centre, evacuated all 25 crew members and provided them with medical assistance.\n@OSINTWarfare",
-   "timestamp": "2026-10-30T21:12:48+00:00",
-   "has_media": false
-  },
-  {
    "id": "55f1db7426e1c70fa539304c2fb2043a",
    "url": "https://t.me/TerrorAlarm/71",
    "source": "telegram",
@@ -271,15 +280,6 @@
    "text": "MenchOsint\nJust tweeted\n**********************************************\nMoment the U.S. MQ-1 was intercepted over the Strait of Hormuz earlier today.\nhttps://t.co/hpwoKMYYMY\nhttps://t.co/npNbEPWO1v",
    "timestamp": "2026-09-08T17:25:19+00:00",
    "has_media": false
-  },
-  {
-   "id": "5d775f2aed00914fe6d83396bcb3cf90",
-   "url": "https://t.me/TerrorAlarm/50",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Terror Alarm has added Iran's ADVT (Association for Defending Victims of Terrorism) to its terrorist organizations list.\nBased in Tehran, the NGO operates under Iran’s Ministry of Intelligence and Security. Its primary mission is spreading IRGC propaganda across English- and Arabic-speaking countries.\n📥\nDownload the full PDF list:\nhttps://terroralarm.org/download/terror-list.pdf",
-   "timestamp": "2026-09-03T18:00:38+00:00",
-   "has_media": true
   },
   {
    "id": "f7ae6ec872cf68fed30cc823aea01aa1",
