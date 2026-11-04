@@ -1,158 +1,122 @@
 {
- "generated_utc": "2026-11-04T02:29:04Z",
- "count": 41,
+ "generated_utc": "2026-11-04T17:28:49Z",
+ "count": 34,
  "items": [
   {
-   "id": "a6a85523fda40cf6dccb0db1fd843a72",
-   "url": "https://t.me/warmonitors/46482",
+   "id": "e178a66fe326173657ba4750f53e0aec",
+   "url": "https://t.me/OSINTWarfare/7853",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇫🇷\n⚡️\n— France’s Directorate General of Armaments (DGA) launched a SyLEx (Système de Lancement d’Expériences) sounding rocket developed by ArianeGroup during the night of November 3–4, 2026, at the Biscarrosse test range. The rocket carried experiments supporting the development of the future M51.4 submarine-launched ballistic missile (SLBM).\nThe launch took place less than a month after an unarmed M51.3 missile was test-fired from the ballistic missile submarine Le Vigilant on October 6, 2026. That test also supported the M51.4 program, with ArianeGroup confirming that the missile carried additional experiments for the next version.\nThe DGA awarded ArianeGroup the contract to develop and produce the M51.4 on August 28, 2025. It will be the fourth version of France’s M51 SLBM, which forms the backbone of its sea-based nuclear deterrent.\nThe M51.4 is expected to enter service in the 2030s aboard the current Le Triomphant-class submarines and France’s future third-generation ballistic missile submarines.\nAccording to the DGA, the new version will offer greater range and accuracy, along with improved capabilities to penetrate adversary missile defenses.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T17:22:24+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dc19be4b4ce62cf709dffb36a18fef05",
+   "url": "https://t.me/OSINTWarfare/7852",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇲🇦\n⚡️\n— First publicly released image of a Turkish-made Bayraktar Akıncı unmanned combat aerial vehicle (UCAV) in service with the Royal Moroccan Air Force (RMAF), flying over Morocco.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T17:18:23+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1865a3b08af6a99a1bccf728cb24aee8",
+   "url": "https://t.me/OSINTWarfare/7851",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— The Islamic Revolutionary Guard Corps (IRGC) has announced that it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Qeshm Island.  @OSINTWarfare",
+   "timestamp": "2026-11-04T16:43:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "a2e9a5372a8cfa28fcc522d08e8ef565",
+   "url": "https://t.me/TerrorAlarm/77",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "With a Democratic shift in Congress, US grand strategy is poised for a major recalibration. Expect a pivot away from direct containment of Iran toward a more aggressive containment posture against the primary pacing threats: Russia and China.\nStrategic implications:\n•\nKyiv & Taipei:\nRenewed security guarantees and long-term defense commitments are likely to stabilize.\n•\nThe Middle East:\nArab states face a growing vacuum, potentially left to counter Tehran’s regional ambitions without a direct US umbrella.\nA return to great power competition means prioritization will dictate compromises.",
+   "timestamp": "2026-11-04T16:21:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ae4f0534a6316d77364202dd887a28b4",
+   "url": "https://t.me/OSINTWarfare/7849",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— The Islamic Revolutionary Guard Corps (IRGC) has announced that it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Qeshm Island.  @OSINTWarfare",
+   "timestamp": "2026-11-04T14:38:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "3a0b2f217d57f63978a0d8590b1ff886",
+   "url": "https://t.me/OSINTWarfare/7848",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— The Islamic Revolutionary Guard Corps (IRGC) has announced that it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over Qeshm Island.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T14:18:06+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b5789994c5daf5df4b16bf961cded558",
+   "url": "https://t.me/OSINTWarfare/7846",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n⚡️\n— The American company Shield AI has unveiled the first full-scale prototype of the X-BAT, a next-generation, AI-powered combat drone featuring stealth technology and vertical takeoff and landing (VTOL) capabilities.\nThe X-BAT is a large jet-powered unmanned aircraft, comparable in size to a conventional fighter jet.\nThe first full-scale prototype has been designated X-BAT 001. It has a stated range of up to 3,700 km and a service ceiling of approximately 15 km. Its wingspan measures around 12 meters, making it wider than that of the F-16.\nAccording to its developers, the X-BAT will be capable of engaging in air-to-air combat, striking ground targets, and conducting reconnaissance missions.\nIt will carry weapons in internal bays and on external hardpoints, while autonomous flight and mission control will be powered by Shield AI’s Hivemind AI system.\nThe U.S. Navy has allocated approximately $200 million toward the X-BAT’s development, with Shield AI committing an additional $200 million.\nThe first prototype is being sent to a test site in Kansas, where engine and VTOL system testing is scheduled to begin before the end of 2026.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T14:07:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6c63bf23fc736f43a15c03b71f16133f",
+   "url": "https://t.me/OSINTWarfare/7845",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n⚡️\n— The Russian-made RB-531B Infauna, a battalion-level electronic warfare (EW) system designed to jam radio communications, has been spotted mounted on a K1Sh1 wheeled chassis and operating with Russia’s Africa Corps in Mali.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T13:58:09+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ae6f124bba9b5aecb280c6ed0279c0ea",
+   "url": "https://t.me/warmonitors/46501",
    "source": "telegram",
    "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nSouth Korea says North Korea has launched an unidentified projectile toward the sea.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-04T01:37:38+00:00",
+   "text": "⚡\n#BREAKING\nThree people were killed in Ukrainian drone strikes on Russia’s Belgorod region, local authorities said\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-04T13:14:36+00:00",
    "has_media": false
   },
   {
-   "id": "de8ed9fce0abe931f10141ed0d792f61",
-   "url": "https://t.me/OSINTWarfare/7833",
+   "id": "66ae8f392a38a346a8195055ae00debb",
+   "url": "https://t.me/OSINTWarfare/7836",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "🇰🇵\n⚡️\n— According to rumors, North Korea is developing a multiple independently targetable reentry vehicle (MIRV) configuration carrying three nuclear warheads for its Hwasong-19 intercontinental ballistic missile (ICBM), while a six-warhead configuration is being developed for the Hwasong-20.\n@OSINTWarfare",
-   "timestamp": "2026-11-03T22:23:32+00:00",
+   "text": "🇹🇷\n⚡️\n— Turkish company Baykar has modified its Bayraktar TB2 unmanned combat aerial vehicle (UCAV) into an FPV drone carrier.\nIn this configuration, the TB2 can carry up to 16 FPV drones while also serving as a communications relay platform.\n@OSINTWarfare",
+   "timestamp": "2026-11-04T11:47:46+00:00",
    "has_media": true
   },
   {
-   "id": "371d51b02815706ee6d31c782488858e",
-   "url": "https://t.me/OSINTWarfare/7832",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n⚡️\n— An empty Ukrainian M903 launcher belonging to the MIM-104 Patriot surface-to-air missile system in the forests of Kyiv Oblast.\n@OSINTWarfare",
-   "timestamp": "2026-11-03T22:10:13+00:00",
-   "has_media": true
-  },
-  {
-   "id": "045385c9ec8ae1f136d9ec83e99c4a66",
-   "url": "https://t.me/OSINTWarfare/7831",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Footage shows Geran-4 loitering munitions equipped with electro-optical (EO) seekers striking Ukrainian energy infrastructure facilities and a locomotive in attacks carried out by the 50th Separate Unmanned Systems Brigade “Varyag”:\n0:08 – 330 kV electrical substation\n0:20 – Locomotive\n0:34 – 150 kV electrical substation\n0:47 – 330 kV electrical substation\n@OSINTWarfare",
-   "timestamp": "2026-11-03T21:47:48+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2a82aef260d1c0f80806673a70f299a5",
-   "url": "https://t.me/warmonitors/46474",
+   "id": "2c602bba8506f939686c05a2b71f245e",
+   "url": "https://t.me/warmonitors/46496",
    "source": "telegram",
    "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition says it intercepted and destroyed a drone over the Eastern Region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-03T20:25:35+00:00",
+   "text": "⚡\n#BREAKING\nIran’s Supreme Leader Khamenei says the path to absolute deterrence lies in an ever more powerful Iran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-04T10:39:08+00:00",
    "has_media": false
   },
   {
-   "id": "cee9c81035915f16db53b3df51c79061",
-   "url": "https://t.me/warmonitors/46472",
+   "id": "ca133626064119a76aaf8cc56c7e9a9a",
+   "url": "https://t.me/warmonitors/46493",
    "source": "telegram",
    "channel": "WarMonitors",
-   "text": "📢\nWarMonitors is now in Arabic, and Russian!\nIf you'd rather to read news in these languages, you can sub now:\nArabic:\n@WarMonitorsAR\nRussian:\n@WarMonitorsRU\nWhich languages should we add next?",
-   "timestamp": "2026-11-03T18:47:36+00:00",
+   "text": "⚡\n#BREAKING\nAn adviser to the IRGC commander says that in the event of war, Iran’s retaliation will not be restricted to the source of the attack, according to Tasnim\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-04T10:14:04+00:00",
    "has_media": false
   },
   {
-   "id": "0585249e554554d84043bf79f120290e",
-   "url": "https://t.me/warmonitors/46470",
+   "id": "8adfe97bac79d5365838260d0083aed9",
+   "url": "https://t.me/TerrorAlarm/76",
    "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA senior Iranian official told Reuters there is no deadline for exchanging messages with Washington through mediators or reviewing responses\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-03T16:13:47+00:00",
-   "has_media": false
-  },
-  {
-   "id": "24c4fd33da51e5f5e69269ffcb1874c3",
-   "url": "https://t.me/warmonitors/46468",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nThe secretary of the supreme national security council in Iran rejects the latest U.S. position on the deal to resume the ceasefire and launch negotiations\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-03T14:53:32+00:00",
-   "has_media": false
-  },
-  {
-   "id": "02780eaebf3d31877fa3eee1e4c53ad7",
-   "url": "https://t.me/OSINTWarfare/7830",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC has released footage showing the interception of the 55th U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the eastern Strait of Hormuz.  @OSINTWarfare",
-   "timestamp": "2026-11-03T13:44:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5f0b16c5f21e5e58d645e06a31421963",
-   "url": "https://t.me/OSINTWarfare/7827",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇹🇼\n🇺🇸\n⚡️\n— Another batch of F-16V Block 70 multirole fighters (serial numbers 6729, 6731, and 6732) destined for Taiwan has left Lockheed Martin's production line in Greenville, South Carolina, and been transported to Fort Worth, Texas.\nFollowing the completion of acceptance procedures, the aircraft will fly to Taiwan via Hawaii.\n@OSINTWarfare",
-   "timestamp": "2026-11-03T13:35:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4002dc646e3d17a6040ee402312bba34",
-   "url": "https://t.me/OSINTWarfare/7826",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— Footage shows an intact U.S. LUCAS (Low-cost Uncrewed Combat Attack System) one-way attack drone recovered from the Persian Gulf. It was apparently brought down using electronic warfare (EW).\n@OSINTWarfare",
-   "timestamp": "2026-11-03T13:24:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7c7c754b8db03577f6f37706b70dd19b",
-   "url": "https://t.me/OSINTWarfare/7825",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC says it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.  @OSINTWarfare",
-   "timestamp": "2026-11-03T02:10:25+00:00",
-   "has_media": true
-  },
-  {
-   "id": "baf66b2fd87b4ae7bc71a17168eb65d7",
-   "url": "https://t.me/OSINTWarfare/7824",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC says it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.  @OSINTWarfare",
-   "timestamp": "2026-11-02T21:25:44+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d7352f0d3f82b0c42596e8083c79020c",
-   "url": "https://t.me/OSINTWarfare/7823",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC says it shot down a U.S. Air Force (USAF) MQ-9A Reaper unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz.\n@OSINTWarfare",
-   "timestamp": "2026-11-02T21:12:20+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1795a385876154aeb45863c7c5734cf9",
-   "url": "https://t.me/OSINTWarfare/7822",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇾🇪\n🇾🇪\n⚡️\n— Ansar Allah has released footage showing Shuwaz FPV drone strikes targeting vehicles and personnel belonging to the Yemeni National Army (YNA) east of Al-Jawf.\n@OSINTWarfare",
-   "timestamp": "2026-11-02T19:23:29+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5635d1979fcbf18e23e05ecd12a32086",
-   "url": "https://t.me/OSINTWarfare/7820",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇲🇱\n⚡️\n— Russia's Africa Corps Su-24M2 tactical bombers conducting operations against the Azawad Liberation Front (FLA) and Jama'at Nusrat al-Islam wal-Muslimin (JNIM) in Mali.\n@OSINTWarfare",
-   "timestamp": "2026-11-02T14:24:29+00:00",
-   "has_media": false
-  },
-  {
-   "id": "dcb98ed3cd07a729c396ae05904f5b3b",
-   "url": "https://t.me/OSINTWarfare/7819",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Debris from a Russian Geran-5 K5-K jet-powered loitering munition was found in the Boryspil district of Kyiv Oblast.\n@OSINTWarfare",
-   "timestamp": "2026-11-02T11:02:14+00:00",
+   "channel": "terroralarm",
+   "text": "Failing to execute a decisive strategy by achieving regime change in Iran will trigger severe domestic political consequences. Left unfinished, this objective will create a vacuum of leadership projection that the progressive left is ready to exploit. Ultimately, strategic irresolution abroad provides the ultimate narrative of failed traditional statecraft, positioning Alexandria Ocasio-Cortez to capitalize on a populist surge and clear her path straight to the presidency.",
+   "timestamp": "2026-11-04T09:18:57+00:00",
    "has_media": true
   },
   {
@@ -162,15 +126,6 @@
    "channel": "terroralarm",
    "text": "When the assassins of former Iranian PM Shapour Bakhtiar tried to flee to Switzerland with fake passports, Swiss guards caught them and handed them to France.\nInexplicably, French authorities let them go allowing the main 2 hitmen to escape to Iran.\nFrance has questions to answer.",
    "timestamp": "2026-11-02T09:23:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ca20f9ba3640129aa7402c679a3fbd9c",
-   "url": "https://t.me/OSINTWarfare/7818",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n🇷🇺\n⚡️\n— Footage shows a Russian fiber-optic FPV drone being intercepted mid-flight by a net-equipped Ukrainian FPV drone as it approaches a military vehicle.\nI think this is the second video released by the Ukrainian side showing such a rare interception.\n@OSINTWarfare",
-   "timestamp": "2026-11-02T08:21:41+00:00",
    "has_media": true
   },
   {
@@ -234,24 +189,6 @@
    "channel": "terroralarm",
    "text": "At least 30 people were killed Thursday when a Russian guided bomb slammed into a street near two packed city buses in Kramatorsk, eastern Ukraine.\nWe condemn the Russian attack on civilian targets. Our thoughts are with the victims, their families and the injured.\nWe call for de-escalation and reiterates that all parties must respect international humanitarian law at all times, particularly the protection of civilians.",
    "timestamp": "2026-10-08T18:56:49+00:00",
-   "has_media": true
-  },
-  {
-   "id": "cacf51255da8602a256d93c754b9225f",
-   "url": "https://t.me/TerrorAlarm/55",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "Advanced military intelligence algorithms and geopolitical risk models are flashing red, indicating that Vladimir Putin's tight grip on Russia may permanently shatter before the end of the year.\nThese predictive models are forecasting that the Russian leader will be assassinated by one of his closest inner-circle allies in a sudden coup.",
-   "timestamp": "2026-09-22T15:04:33+00:00",
-   "has_media": false
-  },
-  {
-   "id": "f573d50e0e80fe3b35d7ae94df8e89e6",
-   "url": "https://t.me/TerrorAlarm/53",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "The Next 6 Weeks Will Change Geopolitical History\nWith the\nIsraeli election on October 27\nand the\nUS midterms on November 3\n, a massive geopolitical window is opening. The explicit goal across both Washington and Jerusalem remains clear: ensuring Iran is permanently stripped of its capability to threaten the free world, regardless of who wins.\n⚠️\nUrgent Warning for Southern Iran:\nTo all anti-regime citizens currently in the southern regions, please consider evacuating north. The impending escalation is expected to be brief but highly destructive. Prioritise your safety now.",
-   "timestamp": "2026-09-18T08:22:37+00:00",
    "has_media": true
   },
   {
