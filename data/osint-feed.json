@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-11-04T22:45:16Z",
- "count": 36,
+ "generated_utc": "2026-11-05T02:48:56Z",
+ "count": 37,
  "items": [
+  {
+   "id": "dfa203e2b7c6f7576d60c41004785217",
+   "url": "https://t.me/OSINTWarfare/7863",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Iranians are celebrating the Republican Party's electoral defeat by burning a poster showing Steve Witkoff, Donald Trump, Benjamin Netanyahu, and JD Vance at Enqelab Square (Islamic Revolution Square) in Tehran.",
+   "timestamp": "2026-11-04T23:12:28+00:00",
+   "has_media": true
+  },
   {
    "id": "b2302c862e754ca17388bb2bae952eb6",
    "url": "https://t.me/OSINTWarfare/7862",
