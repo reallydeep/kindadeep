@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-05T02:48:56Z",
- "count": 37,
+ "generated_utc": "2026-11-05T09:53:32Z",
+ "count": 38,
  "items": [
+  {
+   "id": "1b3a3f69bba127e48b720861c002e22b",
+   "url": "https://t.me/warmonitors/46508",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIran’s IRGC says a tanker struck a mine while using an unauthorized Strait of Hormuz route\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-05T09:38:21+00:00",
+   "has_media": false
+  },
+  {
+   "id": "232cf301266d7444f93f860e5f179144",
+   "url": "https://t.me/OSINTWarfare/7864",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Yesterday, the IRGC struck a tanker with two projectiles approximately 50 nautical miles north of Qatar.\n@OSINTWarfare",
+   "timestamp": "2026-11-05T08:55:22+00:00",
+   "has_media": false
+  },
   {
    "id": "dfa203e2b7c6f7576d60c41004785217",
    "url": "https://t.me/OSINTWarfare/7863",
@@ -99,15 +117,6 @@
    "channel": "OSINTWarfare",
    "text": "🇺🇸\n⚡️\n— The American company Shield AI has unveiled the first full-scale prototype of the X-BAT, a next-generation, AI-powered combat drone featuring stealth technology and vertical takeoff and landing (VTOL) capabilities.\nThe X-BAT is a large jet-powered unmanned aircraft, comparable in size to a conventional fighter jet.\nThe first full-scale prototype has been designated X-BAT 001. It has a stated range of up to 3,700 km and a service ceiling of approximately 15 km. Its wingspan measures around 12 meters, making it wider than that of the F-16.\nAccording to its developers, the X-BAT will be capable of engaging in air-to-air combat, striking ground targets, and conducting reconnaissance missions.\nIt will carry weapons in internal bays and on external hardpoints, while autonomous flight and mission control will be powered by Shield AI’s Hivemind AI system.\nThe U.S. Navy has allocated approximately $200 million toward the X-BAT’s development, with Shield AI committing an additional $200 million.\nThe first prototype is being sent to a test site in Kansas, where engine and VTOL system testing is scheduled to begin before the end of 2026.\n@OSINTWarfare",
    "timestamp": "2026-11-04T14:07:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "6c63bf23fc736f43a15c03b71f16133f",
-   "url": "https://t.me/OSINTWarfare/7845",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n⚡️\n— The Russian-made RB-531B Infauna, a battalion-level electronic warfare (EW) system designed to jam radio communications, has been spotted mounted on a K1Sh1 wheeled chassis and operating with Russia’s Africa Corps in Mali.\n@OSINTWarfare",
-   "timestamp": "2026-11-04T13:58:09+00:00",
    "has_media": true
   },
   {
