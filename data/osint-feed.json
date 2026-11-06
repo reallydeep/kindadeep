@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-05T22:53:14Z",
- "count": 42,
+ "generated_utc": "2026-11-06T02:55:48Z",
+ "count": 43,
  "items": [
+  {
+   "id": "dcb4ee91b46c269d2c7b8ebec737e119",
+   "url": "https://t.me/OSINTWarfare/7879",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇳\n⚡️\n— The Defence Research and Development Organisation (DRDO) successfully conducted another test launch of the Pralay tactical quasi-ballistic missile from Dr. APJ Abdul Kalam Island off the coast of Odisha on November 5, 2026.\n@OSINTWarfare",
+   "timestamp": "2026-11-05T23:03:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5d00eb67b3b63a8d7122e38f5bbb7675",
+   "url": "https://t.me/OSINTWarfare/7878",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇸🇩\n⚡️\n— The Sudanese Armed Forces (SAF) shot down another UAE-operated FH-95 (CH-95) unmanned combat aerial vehicle (UCAV) used by the UAE-backed Rapid Support Forces (RSF) over Al-Khawi in West Kordofan State.\n@OSINTWarfare",
+   "timestamp": "2026-11-05T22:54:50+00:00",
+   "has_media": true
+  },
   {
    "id": "4cd791e827e4e7a1cf5315172f8c692f",
    "url": "https://t.me/warmonitors/46527",
@@ -171,15 +189,6 @@
    "channel": "OSINTWarfare",
    "text": "Iran has successfully achieved regime change in the United States.",
    "timestamp": "2026-11-04T18:00:11+00:00",
-   "has_media": true
-  },
-  {
-   "id": "e178a66fe326173657ba4750f53e0aec",
-   "url": "https://t.me/OSINTWarfare/7853",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇫🇷\n⚡️\n— France’s Directorate General of Armaments (DGA) launched a SyLEx (Système de Lancement d’Expériences) sounding rocket developed by ArianeGroup during the night of November 3–4, 2026, at the Biscarrosse test range. The rocket carried experiments supporting the development of the future M51.4 submarine-launched ballistic missile (SLBM).\nThe launch took place less than a month after an unarmed M51.3 missile was test-fired from the ballistic missile submarine Le Vigilant on October 6, 2026. That test also supported the M51.4 program, with ArianeGroup confirming that the missile carried additional experiments for the next version.\nThe DGA awarded ArianeGroup the contract to develop and produce the M51.4 on August 28, 2025. It will be the fourth version of France’s M51 SLBM, which forms the backbone of its sea-based nuclear deterrent.\nThe M51.4 is expected to enter service in the 2030s aboard the current Le Triomphant-class submarines and France’s future third-generation ballistic missile submarines.\nAccording to the DGA, the new version will offer greater range and accuracy, along with improved capabilities to penetrate adversary missile defenses.\n@OSINTWarfare",
-   "timestamp": "2026-11-04T17:22:24+00:00",
    "has_media": true
   },
   {
