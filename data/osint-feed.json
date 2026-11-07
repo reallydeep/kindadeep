@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-11-07T07:59:41Z",
- "count": 51,
+ "generated_utc": "2026-11-07T14:42:21Z",
+ "count": 49,
  "items": [
+  {
+   "id": "926f1b916ec4f9ab9cd88e49f0114fc3",
+   "url": "https://t.me/OSINTWarfare/7909",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— A Russian Iskander-M ballistic missile equipped with a cluster warhead struck Kyiv moments ago.",
+   "timestamp": "2026-11-07T13:33:59+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d489484f7983346b23060aee6d90eda7",
+   "url": "https://t.me/OSINTWarfare/7906",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— IRGC spokesman Sardar Hussein Mohebbi announced that Iran has exported three products to other countries, the Arman ballistic missile, the 358 loitering surface-to-air missile, and the 3rd Khordad air defense system.",
+   "timestamp": "2026-11-07T13:24:43+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d464e412a1621e7060db24abe2113e53",
+   "url": "https://t.me/OSINTWarfare/7905",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— The 50th Separate Unmanned Systems Brigade “Varyag” carried out strikes against Ukrainian locomotives, a logistics center, a vehicle repair and maintenance facility, and a 330 kV electrical substation using Geran-4 loitering munitions equipped with electro-optical (EO) seekers.\nStrike footage:\n• 0:08 – Locomotive\n• 0:19 – Locomotive\n• 0:29 – Locomotive\n• 0:34 – Logistics center\n• 0:48 – Vehicle repair and maintenance facility\n• 0:56 – 330 kV electrical substation",
+   "timestamp": "2026-11-07T13:12:36+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2b534e10862b5d314546ed24f7a9c421",
+   "url": "https://t.me/warmonitors/46548",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nInsane POV footage from the Ukraine war\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-07T12:33:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c2dbffda9c8be9df8550f9ac0634b5e3",
+   "url": "https://t.me/warmonitors/46547",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nSaudi Civil Defence warns of a potential threat in Najran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-07T12:33:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "81f12c4e01ecf636e4efe1009d04b169",
+   "url": "https://t.me/warmonitors/46542",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nRussia launched 36 ballistic missiles and 172 drones at Ukraine overnight, targeting mainly energy facilities, President Zelenskiy says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-07T09:52:43+00:00",
+   "has_media": false
+  },
   {
    "id": "504cd085f0900401cc7ef16c5888c549",
    "url": "https://t.me/OSINTWarfare/7903",
@@ -156,15 +210,6 @@
    "has_media": false
   },
   {
-   "id": "a0aa3fb708f691040498b677e994e41c",
-   "url": "https://t.me/OSINTWarfare/7888",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇷🇺\n⚡️\n— The Telegraph has reported that Iran and Russia are in advanced negotiations over the delivery of Russian S-400 air defence systems to Iran, following a meeting between Mohsen Rezaei and Vladimir Putin.\nNot sure how seriously to take this report, though xD However, if the report is accurate and an agreement is eventually reached, deliveries are expected to take place after the war.\n@OSINTWarfare",
-   "timestamp": "2026-11-06T17:22:55+00:00",
-   "has_media": true
-  },
-  {
    "id": "9817b98e434174fefeba729cfea7c4eb",
    "url": "https://t.me/warmonitors/46534",
    "source": "telegram",
@@ -174,24 +219,6 @@
    "has_media": false
   },
   {
-   "id": "056331d975ef32171773894a560a0919",
-   "url": "https://t.me/OSINTWarfare/7887",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC says it shot down a U.S. Army MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over Qeshm Island.  @OSINTWarfare",
-   "timestamp": "2026-11-06T14:50:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7ec7bdb036b470fa3feab2aede9399cb",
-   "url": "https://t.me/OSINTWarfare/7886",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Footage from the cockpit of a Ukrainian MiG-29 showing the interception of a jet-powered Geran-4 with a burst from its 30 mm GSh-301 cannon at close range.\n@OSINTWarfare",
-   "timestamp": "2026-11-06T14:19:45+00:00",
-   "has_media": true
-  },
-  {
    "id": "1cde0711776741f7e8c50c2b2444a4cd",
    "url": "https://t.me/warmonitors/46533",
    "source": "telegram",
@@ -199,15 +226,6 @@
    "text": "⚡\n#BREAKING\nIran’s Revolutionary Guards say they shot down a US MQ-1 drone over Qeshm Island, according to the Fars news agency\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-06T14:04:18+00:00",
    "has_media": false
-  },
-  {
-   "id": "4eb34b98e7d47a54fceda08374f53247",
-   "url": "https://t.me/OSINTWarfare/7885",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC says it shot down a U.S. Army MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over Qeshm Island.\n@OSINTWarfare",
-   "timestamp": "2026-11-06T14:01:41+00:00",
-   "has_media": true
   },
   {
    "id": "ff47fc77e347a58d454c673492bc8732",
@@ -228,24 +246,6 @@
    "has_media": true
   },
   {
-   "id": "4cd791e827e4e7a1cf5315172f8c692f",
-   "url": "https://t.me/warmonitors/46527",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA senior Iranian official told Reuters that Iran has sent a nuclear proposal via Qatar, which will be discussed only after Washington meets its seven demands\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T20:26:17+00:00",
-   "has_media": false
-  },
-  {
-   "id": "86af8e80a079ab888e6a31d513feafcf",
-   "url": "https://t.me/warmonitors/46526",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nTwo Egyptian army officers were killed during a crackdown on illegal miners on the southern border, according to a military spokesperson\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T20:26:15+00:00",
-   "has_media": false
-  },
-  {
    "id": "5ca7e4a883a826764ba367416c6b1820",
    "url": "https://t.me/TerrorAlarm/80",
    "source": "telegram",
@@ -253,24 +253,6 @@
    "text": "The Republican defeat wasn't caused by waging the war against Iran, but by freezing operations and failing to finish the job.",
    "timestamp": "2026-11-05T18:03:08+00:00",
    "has_media": true
-  },
-  {
-   "id": "e2015c3b4743925841e725ab7a03361d",
-   "url": "https://t.me/warmonitors/46525",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nYemen’s Houthis say they attacked King Fahd Airport in Dammam, Saudi Arabia\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T17:05:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b80a8ff99829d016eb68e2cbc0132b44",
-   "url": "https://t.me/warmonitors/46522",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nS&P 500 tumbles 3% as AI chip stocks drag Wall Street toward its worst day since Trump's tariff announcements in 2025.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T16:05:27+00:00",
-   "has_media": false
   },
   {
    "id": "a2e9a5372a8cfa28fcc522d08e8ef565",
