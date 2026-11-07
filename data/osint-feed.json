@@ -1,7 +1,79 @@
 {
- "generated_utc": "2026-11-06T22:11:56Z",
- "count": 50,
+ "generated_utc": "2026-11-07T01:56:14Z",
+ "count": 51,
  "items": [
+  {
+   "id": "504cd085f0900401cc7ef16c5888c549",
+   "url": "https://t.me/OSINTWarfare/7903",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— The Saratov Oil Refinery came under attack by Ukrainian drones.\nSeveral Russian military aircraft were evacuated from Engels-2 Air Base amid the threat of further Ukrainian drone strikes.",
+   "timestamp": "2026-11-07T01:21:56+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7db5ccae9c379ac165b793836209be71",
+   "url": "https://t.me/OSINTWarfare/7902",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n🇮🇷\n⚡️\n— The U.S. Department of State’s Rewards for Justice (RFJ) program is offering a reward of up to $20 million, along with possible relocation, for information on Iran’s nuclear program. This includes information about nuclear facilities, equipment, associated personnel, including members of the scientific community, and the movement of any related materials or individuals.",
+   "timestamp": "2026-11-07T01:12:58+00:00",
+   "has_media": false
+  },
+  {
+   "id": "487a6419d24b76c55e8143183320ae7c",
+   "url": "https://t.me/warmonitors/46540",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nThe Wall Street Journal, citing US officials: Higseth and the Central Command chief supported resuming large-scale combat operations against Iran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-07T01:11:17+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8f967d9ebcd2172c5105b1cad033d0d3",
+   "url": "https://t.me/OSINTWarfare/7901",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— A Russian Iskander-M ballistic missile equipped with a cluster warhead struck Kyiv moments ago.",
+   "timestamp": "2026-11-06T23:35:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1b7aac4eca6606d4facc3be34be12ed3",
+   "url": "https://t.me/OSINTWarfare/7900",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— Minutes ago, another Iranian surface-to-air missile was launched from Qeshm Island.  There are also unconfirmed reports that a U.S. MQ-9A Reaper unmanned aerial vehicle (UAV) was shot down.",
+   "timestamp": "2026-11-06T23:04:37+00:00",
+   "has_media": false
+  },
+  {
+   "id": "692218e65d79d7b9e5d4c2a8883c21c6",
+   "url": "https://t.me/warmonitors/46538",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nIranian Tasnim News Agency: Two missiles fell on Qeshm Island\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-06T22:45:49+00:00",
+   "has_media": false
+  },
+  {
+   "id": "34a67c46f0daf8c0a19213670ccefd16",
+   "url": "https://t.me/OSINTWarfare/7898",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n⚡️\n— Minutes ago, another Iranian surface-to-air missile was launched from Qeshm Island.\nThere are also unconfirmed reports that a U.S. MQ-9A Reaper unmanned aerial vehicle (UAV) was shot down.",
+   "timestamp": "2026-11-06T22:35:55+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c5e2c8b26d641fea0eb7fef9a1411edc",
+   "url": "https://t.me/OSINTWarfare/7896",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇦\n🇷🇺\n⚡️\n— A fire broke out at Russia's PJSC Proton-Electrotex electronics plant in Oryol Oblast following an FP-5 Flamingo cruise missile strike.\nThe same facility, which produces semiconductors and power electronics used in Russian weapons systems, was previously struck on October 23, as mentioned in the quoted post.",
+   "timestamp": "2026-11-06T22:30:41+00:00",
+   "has_media": true
+  },
   {
    "id": "f46b5809e9351b4f2e3d6dcf352ccfb9",
    "url": "https://t.me/OSINTWarfare/7895",
@@ -138,15 +210,6 @@
    "has_media": true
   },
   {
-   "id": "ffd926bcba9a18d030c06b6979b01459",
-   "url": "https://t.me/OSINTWarfare/7883",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n⚡️\n— Footage shows a Russian Mi-28NM \"Night Hunter\" attack helicopter launching the new Dan-T low-cost cruise missile in Ukraine.\n@OSINTWarfare",
-   "timestamp": "2026-11-06T13:53:41+00:00",
-   "has_media": true
-  },
-  {
    "id": "ff47fc77e347a58d454c673492bc8732",
    "url": "https://t.me/warmonitors/46532",
    "source": "telegram",
@@ -162,24 +225,6 @@
    "channel": "WarMonitors",
    "text": "⚡\n#BREAKING\nUkraine’s emergency service says the death toll from a Russian air strike on Komyshuvakha has risen to 50\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-06T09:58:36+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dcb4ee91b46c269d2c7b8ebec737e119",
-   "url": "https://t.me/OSINTWarfare/7879",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇳\n⚡️\n— The Defence Research and Development Organisation (DRDO) successfully conducted another test launch of the Pralay tactical quasi-ballistic missile from Dr. APJ Abdul Kalam Island off the coast of Odisha on November 5, 2026.\n@OSINTWarfare",
-   "timestamp": "2026-11-05T23:03:12+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5d00eb67b3b63a8d7122e38f5bbb7675",
-   "url": "https://t.me/OSINTWarfare/7878",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇸🇩\n⚡️\n— The Sudanese Armed Forces (SAF) shot down another UAE-operated FH-95 (CH-95) unmanned combat aerial vehicle (UCAV) used by the UAE-backed Rapid Support Forces (RSF) over Al-Khawi in West Kordofan State.\n@OSINTWarfare",
-   "timestamp": "2026-11-05T22:54:50+00:00",
    "has_media": true
   },
   {
@@ -225,33 +270,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nS&P 500 tumbles 3% as AI chip stocks drag Wall Street toward its worst day since Trump's tariff announcements in 2025.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-05T16:05:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "1a308ba4dd53e2287e122c3c770599be",
-   "url": "https://t.me/warmonitors/46518",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s security chief Rezaei has delivered a message from Supreme Leader Ali Khamenei to Russia’s Vladimir Putin, according to state media\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T15:30:20+00:00",
-   "has_media": false
-  },
-  {
-   "id": "e0608bfe30b6832b0d81625423b4bb52",
-   "url": "https://t.me/OSINTWarfare/7875",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇮🇷\n⚡️\n— According to newly released documents obtained by Dallas Analytics, a Ukrainian private intelligence organization, Russia and Iran had a contract covering the delivery of APU-L dual-rail launchers between 2022 and 2025 for the Kh-39 Light Multipurpose…",
-   "timestamp": "2026-11-05T13:02:59+00:00",
-   "has_media": true
-  },
-  {
-   "id": "4c9d86ce15c1b201432db9de905ebd92",
-   "url": "https://t.me/warmonitors/46517",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nBank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-05T12:44:51+00:00",
    "has_media": false
   },
   {
@@ -325,15 +343,6 @@
    "text": "Strange figures and unexplained injuries: There are many clues Iran's IRGC has infiltrated France’s protests.",
    "timestamp": "2026-10-18T11:23:36+00:00",
    "has_media": true
-  },
-  {
-   "id": "cabb9582c0239599e3d887e6c7898faf",
-   "url": "https://t.me/TerrorAlarm/59",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "There is absolutely zero chance\n🇮🇷\nIran wins a war against a nuclear power\n🇺🇸\n. Even if their army was fully intact and their navy wasn't at the bottom of the sea, the outcome is predetermined. The reason is simple: The nuclear deterrent makes conventional victory impossible.",
-   "timestamp": "2026-10-10T20:23:46+00:00",
-   "has_media": false
   },
   {
    "id": "7b334653b61307c834b09f5daa716ec9",
