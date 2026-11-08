@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-08T01:46:57Z",
- "count": 48,
+ "generated_utc": "2026-11-08T07:59:38Z",
+ "count": 46,
  "items": [
+  {
+   "id": "19bd7e687735d032a1e5d75458c11c57",
+   "url": "https://t.me/OSINTWarfare/7921",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇨🇳\n⚡️\n— China conducted a test of its anti-ballistic missile interceptors.\n@IntelSlava",
+   "timestamp": "2026-11-08T02:15:11+00:00",
+   "has_media": true
+  },
+  {
+   "id": "dbfdc6e8660db292ed1a8574657a06ee",
+   "url": "https://t.me/warmonitors/46566",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSaudi Civil Defense has issued an alert warning of potential danger in Dhahran and Abqaiq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-08T02:12:45+00:00",
+   "has_media": false
+  },
   {
    "id": "3902a2684f1e515509f522f748296dbe",
    "url": "https://t.me/OSINTWarfare/7919",
@@ -192,48 +210,12 @@
    "has_media": true
   },
   {
-   "id": "c2dbffda9c8be9df8550f9ac0634b5e3",
-   "url": "https://t.me/warmonitors/46547",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nSaudi Civil Defence warns of a potential threat in Najran\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-07T12:33:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "81f12c4e01ecf636e4efe1009d04b169",
-   "url": "https://t.me/warmonitors/46542",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nRussia launched 36 ballistic missiles and 172 drones at Ukraine overnight, targeting mainly energy facilities, President Zelenskiy says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-07T09:52:43+00:00",
-   "has_media": false
-  },
-  {
    "id": "504cd085f0900401cc7ef16c5888c549",
    "url": "https://t.me/OSINTWarfare/7903",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n🇺🇦\n⚡️\n— The Saratov Oil Refinery came under attack by Ukrainian drones.\nSeveral Russian military aircraft were evacuated from Engels-2 Air Base amid the threat of further Ukrainian drone strikes.",
    "timestamp": "2026-11-07T01:21:56+00:00",
-   "has_media": true
-  },
-  {
-   "id": "7db5ccae9c379ac165b793836209be71",
-   "url": "https://t.me/OSINTWarfare/7902",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇮🇷\n⚡️\n— The U.S. Department of State’s Rewards for Justice (RFJ) program is offering a reward of up to $20 million, along with possible relocation, for information on Iran’s nuclear program. This includes information about nuclear facilities, equipment, associated personnel, including members of the scientific community, and the movement of any related materials or individuals.",
-   "timestamp": "2026-11-07T01:12:58+00:00",
-   "has_media": false
-  },
-  {
-   "id": "8f967d9ebcd2172c5105b1cad033d0d3",
-   "url": "https://t.me/OSINTWarfare/7901",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— A Russian Iskander-M ballistic missile equipped with a cluster warhead struck Kyiv moments ago.",
-   "timestamp": "2026-11-06T23:35:30+00:00",
    "has_media": true
   },
   {
