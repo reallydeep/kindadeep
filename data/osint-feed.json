@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-07T22:39:21Z",
- "count": 49,
+ "generated_utc": "2026-11-08T01:46:57Z",
+ "count": 48,
  "items": [
+  {
+   "id": "3902a2684f1e515509f522f748296dbe",
+   "url": "https://t.me/OSINTWarfare/7919",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— IRGC spokesman Sardar Hussein Mohebbi announced that Iran has exported three products to other countries, the Arman ballistic missile, the 358 loitering surface-to-air missile, and the 3rd Khordad air defense system.",
+   "timestamp": "2026-11-08T01:42:06+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f8eac057c492509a5a0c311164f07717",
+   "url": "https://t.me/warmonitors/46560",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nExplosions were heard on Qeshm Island, in southern Iran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-07T23:31:15+00:00",
+   "has_media": true
+  },
   {
    "id": "54cbf17c78a60469175482e666ffeecb",
    "url": "https://t.me/OSINTWarfare/7918",
@@ -210,39 +228,12 @@
    "has_media": false
   },
   {
-   "id": "487a6419d24b76c55e8143183320ae7c",
-   "url": "https://t.me/warmonitors/46540",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Wall Street Journal, citing US officials: Higseth and the Central Command chief supported resuming large-scale combat operations against Iran.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-07T01:11:17+00:00",
-   "has_media": false
-  },
-  {
    "id": "8f967d9ebcd2172c5105b1cad033d0d3",
    "url": "https://t.me/OSINTWarfare/7901",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n🇺🇦\n⚡️\n— A Russian Iskander-M ballistic missile equipped with a cluster warhead struck Kyiv moments ago.",
    "timestamp": "2026-11-06T23:35:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1b7aac4eca6606d4facc3be34be12ed3",
-   "url": "https://t.me/OSINTWarfare/7900",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— Minutes ago, another Iranian surface-to-air missile was launched from Qeshm Island.  There are also unconfirmed reports that a U.S. MQ-9A Reaper unmanned aerial vehicle (UAV) was shot down.",
-   "timestamp": "2026-11-06T23:04:37+00:00",
-   "has_media": false
-  },
-  {
-   "id": "34a67c46f0daf8c0a19213670ccefd16",
-   "url": "https://t.me/OSINTWarfare/7898",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— Minutes ago, another Iranian surface-to-air missile was launched from Qeshm Island.\nThere are also unconfirmed reports that a U.S. MQ-9A Reaper unmanned aerial vehicle (UAV) was shot down.",
-   "timestamp": "2026-11-06T22:35:55+00:00",
    "has_media": true
   },
   {
