@@ -1,7 +1,88 @@
 {
- "generated_utc": "2026-11-09T09:40:24Z",
- "count": 43,
+ "generated_utc": "2026-11-09T20:08:03Z",
+ "count": 45,
  "items": [
+  {
+   "id": "35319ab8b1ca5bdf90a92bd914b94b53",
+   "url": "https://t.me/warmonitors/46594",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nYemeni Armed Forces: Approximately 127 Houthi militia leaders and members were killed or wounded.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-09T16:45:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "ac6872537d17b336e157a3be5eb6b0b8",
+   "url": "https://t.me/OSINTWarfare/7945",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia has equipped its 9M723 Iskander-M ballistic missiles with new guidance systems intended to improve their accuracy when targeting bridges across the Dnieper River in Kyiv.\nThe upgrades include 9E436 electro-optical seekers and 9B918 active radar seekers.\nDuring the terminal phase of flight, the radar seeker scans the target area for several seconds before sending course-correction commands to the missile's guidance system, significantly improving its accuracy.\n@OSINTWarfare",
+   "timestamp": "2026-11-09T14:57:16+00:00",
+   "has_media": true
+  },
+  {
+   "id": "e659a9afc8aaa1d85b82d04b9e420a16",
+   "url": "https://t.me/OSINTWarfare/7944",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇧🇩\n🇨🇳\n⚡️\n— Bangladeshi Prime Minister Tarique Rahman has approved the acquisition of 20 Chinese-made J-10CE multirole fighters as part of efforts to modernize and strengthen the Bangladesh Air Force. The deal is valued at approximately $2.13 billion, including financing interest.\nThe country's Ministry of Finance has also approved a state guarantee to secure the payments, with Chinese state-owned company CATIC (China National Aero-Technology Import & Export Corporation) acting as the supplier.\nThe procurement package covers not only the aircraft but also weapons, pilot and technical personnel training, logistical support, and long-term maintenance.\nThe first aircraft could be delivered as early as 2027. However, as of November 9, the final contract has yet to be signed, meaning the purchase and its financing have been approved, but the deal has not yet been formally concluded.\n@OSINTWarfare",
+   "timestamp": "2026-11-09T14:11:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9cff24274c0a1b9b49f807be67817636",
+   "url": "https://t.me/OSINTWarfare/7943",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇹🇷\n🇺🇸\n🇮🇷\n⚡️\n— Turkish National Intelligence Organization (MIT) chief Ibrahim Kalın announced at a conference that U.S. Vice President JD Vance and Iranian Supreme National Security Council Secretary Mohsen Rezaei are expected to meet in Doha, Qatar, next week.\n@OSINTWarfare",
+   "timestamp": "2026-11-09T13:56:53+00:00",
+   "has_media": false
+  },
+  {
+   "id": "7c2d403fe4ec457cdad5542eb555b333",
+   "url": "https://t.me/TerrorAlarm/82",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "Qatar will host Iran's national security chief, Mohsen Rezaei, next week.",
+   "timestamp": "2026-11-09T13:29:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0d5842b6843e8950224f399cd6ae00b9",
+   "url": "https://t.me/OSINTWarfare/7942",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇨🇳\n⚡️\n— China launched the 29th batch of nine Xingwang Digui satellites for its low-Earth orbit Guowang constellation, its equivalent of Starlink, aboard a Long March 12 rocket from a commercial spaceport in Hainan Province on November 8.\nThe constellation now has 231 satellites in orbit, out of the 13,000 planned. The satellites are designed to provide internet services.\n@OSINTWarfare",
+   "timestamp": "2026-11-09T10:45:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "205230aa2a9427304edbce1207b1399c",
+   "url": "https://t.me/OSINTWarfare/7940",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Several explosions were heard in the Strait of Hormuz, likely caused by anti-ship cruise missile launches by the IRGC Navy.",
+   "timestamp": "2026-11-09T10:04:15+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a3d250c1c5e018f1ae465dffb28ffabd",
+   "url": "https://t.me/warmonitors/46584",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡️\nFootage shows strike carried out by a Geran-5 jet-powered drone and the aftermath of the strike on the Pantagruel hotel and restaurant complex in Kremenchuk, Poltava Oblast.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-09T10:04:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "0fce028401a28c7b0bd3b6f2ab7dd2ee",
+   "url": "https://t.me/warmonitors/46583",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nA Russian attack on an infrastructure facility in Ukraine’s Odesa has killed three people, according to the governor\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-09T10:04:14+00:00",
+   "has_media": false
+  },
   {
    "id": "fe71ca0ce6d42fbce151da52738ce1b9",
    "url": "https://t.me/warmonitors/46582",
@@ -120,75 +201,12 @@
    "has_media": false
   },
   {
-   "id": "c0c8a2a889c9575c4e022ed9e54fd811",
-   "url": "https://t.me/warmonitors/46572",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition said it destroyed two ballistic missile launchers in Yemen’s Saada province that were used by the Houthis to attack Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-08T16:11:04+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d2c284bc64b1056664caf1279fe10869",
-   "url": "https://t.me/warmonitors/46571",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nYemen’s Houthis say they targeted Khalid International Airport, Aramco oil storage tanks and a financial center in Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-08T14:25:47+00:00",
-   "has_media": false
-  },
-  {
    "id": "f5004b389f752b8e563c9e3908307fe4",
    "url": "https://t.me/OSINTWarfare/7930",
    "source": "telegram",
    "channel": "OSINTWarfare",
    "text": "🇾🇪\n❌\n🇸🇦\n— Earlier today, the Saudi state-owned Aramco Tower in Riyadh's King Abdullah Financial District (KAFD) was damaged in an Ansar Allah (Houthi) attack on the capital.\nWindows were shattered across several floors of the tower, one of Riyadh's tallest buildings.\nSaudi authorities announced that the damage was limited and that no casualties were reported.",
    "timestamp": "2026-11-08T14:13:18+00:00",
-   "has_media": true
-  },
-  {
-   "id": "27be5bfe3e1a3785d3c5cc35a047693e",
-   "url": "https://t.me/OSINTWarfare/7923",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "It has been known for some time that U.S. Air Force F-15E Strike Eagle crews attempted to use Laser JDAMs (LJDAMs) to shoot down Iranian drones during Iran's attack on Israel on the night of April 13–14, 2024.",
-   "timestamp": "2026-11-08T12:53:19+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d2e50936ff813ea2fc82f9dbd441ddf1",
-   "url": "https://t.me/OSINTWarfare/7924",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The U.S. tried to drop JDAM bombs on... drones???\n🤣\n🤣\n🤣\n🤣\n🤣",
-   "timestamp": "2026-11-08T12:53:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "19bd7e687735d032a1e5d75458c11c57",
-   "url": "https://t.me/OSINTWarfare/7921",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇨🇳\n⚡️\n— China conducted a test of its anti-ballistic missile interceptors.\n@IntelSlava",
-   "timestamp": "2026-11-08T02:15:11+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dbfdc6e8660db292ed1a8574657a06ee",
-   "url": "https://t.me/warmonitors/46566",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSaudi Civil Defense has issued an alert warning of potential danger in Dhahran and Abqaiq\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-08T02:12:45+00:00",
-   "has_media": false
-  },
-  {
-   "id": "3902a2684f1e515509f522f748296dbe",
-   "url": "https://t.me/OSINTWarfare/7919",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— IRGC spokesman Sardar Hussein Mohebbi announced that Iran has exported three products to other countries, the Arman ballistic missile, the 358 loitering surface-to-air missile, and the 3rd Khordad air defense system.",
-   "timestamp": "2026-11-08T01:42:06+00:00",
    "has_media": true
   },
   {
