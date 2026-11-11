@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-10T23:09:25Z",
- "count": 42,
+ "generated_utc": "2026-11-11T02:44:08Z",
+ "count": 43,
  "items": [
+  {
+   "id": "d1f407e8d23ff90b49b0d4cd70fcf647",
+   "url": "https://t.me/warmonitors/46614",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nLithuania’s crisis management centre says an unidentified drone is flying in Lithuanian airspace\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-11T00:27:11+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2d8c48e7bfe6f8a0b9fc6af0d50450b3",
+   "url": "https://t.me/OSINTWarfare/7966",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇱🇹\n🇷🇺\n🇺🇦\n⚡️\n— The Lithuanian Armed Forces report that NATO fighter aircraft have been scrambled from Šiauliai Air Base following a RED air attack warning issued for the Druskininkai and Lazdijai districts.\nFour unidentified drones are currently flying in Lithuanian airspace.",
+   "timestamp": "2026-11-10T23:37:25+00:00",
+   "has_media": false
+  },
   {
    "id": "35ac7d854c0bb42ee3ea8e99cfe724dd",
    "url": "https://t.me/OSINTWarfare/7962",
@@ -172,15 +190,6 @@
    "text": "⚡\nYemeni Armed Forces: Approximately 127 Houthi militia leaders and members were killed or wounded.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-09T16:45:25+00:00",
    "has_media": false
-  },
-  {
-   "id": "ac6872537d17b336e157a3be5eb6b0b8",
-   "url": "https://t.me/OSINTWarfare/7945",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia has equipped its 9M723 Iskander-M ballistic missiles with new guidance systems intended to improve their accuracy when targeting bridges across the Dnieper River in Kyiv.\nThe upgrades include 9E436 electro-optical seekers and 9B918 active radar seekers.\nDuring the terminal phase of flight, the radar seeker scans the target area for several seconds before sending course-correction commands to the missile's guidance system, significantly improving its accuracy.\n@OSINTWarfare",
-   "timestamp": "2026-11-09T14:57:16+00:00",
-   "has_media": true
   },
   {
    "id": "7c2d403fe4ec457cdad5542eb555b333",
