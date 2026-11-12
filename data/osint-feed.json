@@ -1,7 +1,97 @@
 {
- "generated_utc": "2026-11-12T12:35:39Z",
- "count": 43,
+ "generated_utc": "2026-11-12T20:22:20Z",
+ "count": 45,
  "items": [
+  {
+   "id": "f045ede1cfb88455ca919c2e64bcf4da",
+   "url": "https://t.me/OSINTWarfare/7979",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇺🇸\n🇮🇱\n⚡️\n— IRIB has released footage showing an IRGC Aerospace Force missile unit operating during the latest war against Israel and the United States.\nThe footage shows a missile launcher exploding, possibly as a result of an airstrike or an operational accident, while a successful ballistic missile launch is captured in the background.",
+   "timestamp": "2026-11-12T20:05:27+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8f02c10ca77281bebbd88a6ea520b9eb",
+   "url": "https://t.me/OSINTWarfare/7977",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇹🇷\n⚡️\n— A Turkish Land Forces S-70A-series utility helicopter assigned to the 2nd Army Aviation Regiment in Malatya Province has crashed.\nAll four military personnel on board were killed.\n@OSINTWarfare",
+   "timestamp": "2026-11-12T19:44:34+00:00",
+   "has_media": true
+  },
+  {
+   "id": "00a5788040e66cd66d3bdb657827a486",
+   "url": "https://t.me/OSINTWarfare/7976",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Iran’s Assembly of Experts issued an unprecedented statement today, calling for consideration of a withdrawal from the Nuclear Non-Proliferation Treaty (NPT), a review of the country's defense doctrine, and the establishment of the necessary deterrence measures.\nThe Assembly described these steps as an unavoidable necessity and a public and national demand, urging officials to heed this demand under the guidance of Supreme Leader Mojtaba Khamenei.",
+   "timestamp": "2026-11-12T19:29:52+00:00",
+   "has_media": false
+  },
+  {
+   "id": "83fb6b91c01d3420857516208a21f3cb",
+   "url": "https://t.me/warmonitors/46646",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAP: NEW YORK (AP) — Brooklyn building collapse killed 2 children and 6 adults, mayor says.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T18:33:31+00:00",
+   "has_media": false
+  },
+  {
+   "id": "e7716b6467cfcdf30107a0b13bf8ad99",
+   "url": "https://t.me/warmonitors/46645",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nYemen’s Houthis deny launching attacks on the Saudi holy city of Mecca, according to a statement\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T18:33:29+00:00",
+   "has_media": false
+  },
+  {
+   "id": "fd2f2bb821b0ba8fa0a9b9bdbd0c1d62",
+   "url": "https://t.me/warmonitors/46644",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nYemen’s Houthis say they attacked an Aramco building in Riyadh\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T18:33:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1cde123b293f5f3ac7d8a33ee37107df",
+   "url": "https://t.me/warmonitors/46642",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nUS media: One person killed and four others injured in a shooting in Washington DC\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T14:57:48+00:00",
+   "has_media": false
+  },
+  {
+   "id": "d01b46d190dee6f2ac593ce7bbbd4379",
+   "url": "https://t.me/warmonitors/46641",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nIranian state TV reports that the Iranian army says two tankers were hit by naval mines while transiting the Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T14:47:46+00:00",
+   "has_media": false
+  },
+  {
+   "id": "9cc7f2d924c23baf31f31a63ac380e91",
+   "url": "https://t.me/warmonitors/46637",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nPutin says Russia wants the US to work with Europe to decide whether they want peace or war, Interfax reports\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T14:12:39+00:00",
+   "has_media": false
+  },
+  {
+   "id": "6114ab2f7af7e879250c1869b5f947a4",
+   "url": "https://t.me/warmonitors/46635",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nRussia struck a Naftogaz facility with jet-powered drones overnight, the company says\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-12T12:36:22+00:00",
+   "has_media": false
+  },
   {
    "id": "6d8567871afa2b7314520f483d20aa57",
    "url": "https://t.me/OSINTWarfare/7974",
@@ -39,33 +129,6 @@
    "has_media": false
   },
   {
-   "id": "4b605fdb4dd8eb268aa42a02b3f4fe94",
-   "url": "https://t.me/warmonitors/46624",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nYemen’s Houthis say they attacked King Khalid Airport in Riyadh with three cruise missiles\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T18:47:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6817e30953b200c526f0b1e3e2f640c6",
-   "url": "https://t.me/warmonitors/46622",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUkraine’s military says it struck Russia’s Baltic port of Ust-Luga and that the port’s tanks sustained damage\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T18:47:13+00:00",
-   "has_media": false
-  },
-  {
-   "id": "5323058ea450892dd770e9d77e058f06",
-   "url": "https://t.me/warmonitors/46623",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nYemen’s Houthis say they attacked a pumping station in the Yanbu region with a drone\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T18:47:13+00:00",
-   "has_media": false
-  },
-  {
    "id": "567b93ec66d06057a4208f6e8a9ffd1f",
    "url": "https://t.me/OSINTWarfare/7971",
    "source": "telegram",
@@ -84,15 +147,6 @@
    "has_media": true
   },
   {
-   "id": "f272bd7d98f0887e11ea2a9ae942061a",
-   "url": "https://t.me/warmonitors/46621",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIran’s Qalibaf tells Al Jazeera that Iran has no desire for the war to continue and prioritizes peace, provided its demands are met\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T16:56:53+00:00",
-   "has_media": false
-  },
-  {
    "id": "93a388a2d83710be63f18e6eb0ffed10",
    "url": "https://t.me/OSINTWarfare/7968",
    "source": "telegram",
@@ -109,24 +163,6 @@
    "text": "🇨🇳\n⚡️\n— Footage shows China’s Next-Generation Fighter, the J-36, continues its daytime flight testing.\n@OSINTWarfare",
    "timestamp": "2026-11-11T10:05:10+00:00",
    "has_media": true
-  },
-  {
-   "id": "ecde58f8e080221fc409a071ba51ab0f",
-   "url": "https://t.me/warmonitors/46615",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nDrones hit the Ust-Luga Baltic Sea port in Russia’s Leningrad region, according to preliminary data from the governor\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T03:12:40+00:00",
-   "has_media": false
-  },
-  {
-   "id": "d1f407e8d23ff90b49b0d4cd70fcf647",
-   "url": "https://t.me/warmonitors/46614",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nLithuania’s crisis management centre says an unidentified drone is flying in Lithuanian airspace\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T00:27:11+00:00",
-   "has_media": false
   },
   {
    "id": "2d8c48e7bfe6f8a0b9fc6af0d50450b3",
@@ -162,24 +198,6 @@
    "channel": "OSINTWarfare",
    "text": "🇪🇭\n🇲🇦\n⚡️\n—\nBREAKING:\nThe secretary general of the Polisario front, Brahim Ghali, called for a general mobilization following the report of Moroccan military reinforcements being deployed near the border of the Sahrawi Arab Democratic Republic, the Polisario-controlled part of the western Sahara territory.\nThe escalation came following the end of the UN MINURSO peacekeeping mission in Western Sahara, which ended on November 1st after 35 years of existence.",
    "timestamp": "2026-11-10T20:40:14+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8ece1b6feecd4b44199b65867dc7d45b",
-   "url": "https://t.me/OSINTWarfare/7959",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "The underground missile city appears to be packed with Fattah-1 medium-range ballistic missiles (MRBMs), including both complete missiles (boosters and MaRVs) and separately displayed maneuvering re-entry vehicles (MaRVs).",
-   "timestamp": "2026-11-10T19:42:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "8fb8ca61b9f60c4d89702ca10d3076e1",
-   "url": "https://t.me/OSINTWarfare/7956",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Major General Ali Abdollahi, Chief of the General Staff of the Iranian Armed Forces and Commander of the Khatam al-Anbiya Central Headquarters, accompanied by Brigadier General Majid Mousavi, Commander of the IRGC Aerospace Force, visited a newly established…",
-   "timestamp": "2026-11-10T13:26:07+00:00",
    "has_media": true
   },
   {
