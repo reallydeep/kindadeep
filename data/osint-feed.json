@@ -1,7 +1,16 @@
 {
- "generated_utc": "2026-11-12T04:09:59Z",
+ "generated_utc": "2026-11-12T12:35:39Z",
  "count": 43,
  "items": [
+  {
+   "id": "6d8567871afa2b7314520f483d20aa57",
+   "url": "https://t.me/OSINTWarfare/7974",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Reports of two ballistic missiles being launched from Nojeh Air Base in Hamadan Province, western Iran.",
+   "timestamp": "2026-11-12T10:13:29+00:00",
+   "has_media": false
+  },
   {
    "id": "84da02430d89eb68eb6d5c8fd70d283d",
    "url": "https://t.me/warmonitors/46630",
@@ -171,15 +180,6 @@
    "channel": "OSINTWarfare",
    "text": "🇮🇷\n⚡️\n— Major General Ali Abdollahi, Chief of the General Staff of the Iranian Armed Forces and Commander of the Khatam al-Anbiya Central Headquarters, accompanied by Brigadier General Majid Mousavi, Commander of the IRGC Aerospace Force, visited a newly established…",
    "timestamp": "2026-11-10T13:26:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "60a01462147b36bf800f1a2eda8e6fd2",
-   "url": "https://t.me/OSINTWarfare/7952",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Major General Ali Abdollahi, Chief of the General Staff of the Iranian Armed Forces and Commander of the Khatam al-Anbiya Central Headquarters, accompanied by Brigadier General Majid Mousavi, Commander of the IRGC Aerospace Force, visited a newly established…",
-   "timestamp": "2026-11-10T12:58:33+00:00",
    "has_media": true
   },
   {
