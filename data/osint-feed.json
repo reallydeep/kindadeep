@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-11-12T20:22:20Z",
- "count": 45,
+ "generated_utc": "2026-11-13T01:14:53Z",
+ "count": 44,
  "items": [
+  {
+   "id": "af330cb4cf4f051b30e9013b96e4219a",
+   "url": "https://t.me/OSINTWarfare/7983",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n🇮🇷\n⚡️\n— Earlier, a U.S. drone, apparently a LUCAS one-way attack drone, was spotted flying along the Hormozgan coastline in southern Iran.\nIranian forces attempted to shoot it down using small arms fire.\n@OSINTWarfare",
+   "timestamp": "2026-11-12T21:47:47+00:00",
+   "has_media": true
+  },
+  {
+   "id": "d8b57ebd939c3bf4b90f997ecbf1d592",
+   "url": "https://t.me/OSINTWarfare/7982",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n🇮🇷\n⚡️\n— Reports of an explosion in Sirik, Hormozgan Province, southern Iran.\n@OSINTWarfare",
+   "timestamp": "2026-11-12T21:38:20+00:00",
+   "has_media": false
+  },
+  {
+   "id": "a002a26c39886635d000896ec60c0add",
+   "url": "https://t.me/OSINTWarfare/7980",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Iran displayed its Kheibar Shekan ballistic missile during a nighttime gathering at Enghelab Square (Revolution Square) in Tehran.\n@OSINTWarfare",
+   "timestamp": "2026-11-12T21:31:30+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2bf9325ab708fc8757f5e3fec01e1c58",
+   "url": "https://t.me/TerrorAlarm/84",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "If this plan isn’t called off, it’s going to cause a level of damage we haven't seen in decades—not since World War II.",
+   "timestamp": "2026-11-12T21:14:45+00:00",
+   "has_media": false
+  },
   {
    "id": "f045ede1cfb88455ca919c2e64bcf4da",
    "url": "https://t.me/OSINTWarfare/7979",
@@ -102,33 +138,6 @@
    "has_media": false
   },
   {
-   "id": "84da02430d89eb68eb6d5c8fd70d283d",
-   "url": "https://t.me/warmonitors/46630",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nSaudi Civil Defence says debris fell after two ballistic missiles fired towards Mecca were destroyed\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T23:38:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "fb1d6a56563a60e0841f542381cccb54",
-   "url": "https://t.me/warmonitors/46628",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition says it destroyed a drone over the kingdom’s eastern region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T23:23:07+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2d81b5d84c78d1da55af9d67070f4bac",
-   "url": "https://t.me/warmonitors/46629",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nAt least four people were killed in an Israeli strike on a Nasser Hospital building in southern Gaza, according to a Gaza Civil Defence spokesperson\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-11T23:23:07+00:00",
-   "has_media": false
-  },
-  {
    "id": "567b93ec66d06057a4208f6e8a9ffd1f",
    "url": "https://t.me/OSINTWarfare/7971",
    "source": "telegram",
@@ -180,24 +189,6 @@
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n🇺🇦\n⚡️\n— More than 20 explosions have been heard in Kryvyi Rih amid ongoing Russian strikes on energy infrastructure. Power outages have also been reported across the city.\n@OSINTWarfare",
    "timestamp": "2026-11-10T21:34:43+00:00",
-   "has_media": true
-  },
-  {
-   "id": "9ac01f49836a96fd2def29f2d8d28602",
-   "url": "https://t.me/OSINTWarfare/7961",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇪🇭\n🇲🇦\n⚡️\n— BREAKING: The secretary general of the Polisario front, Brahim Ghali, called for a general mobilization following the report of Moroccan military reinforcements being deployed near the border of the Sahrawi Arab Democratic Republic, the Polisario…",
-   "timestamp": "2026-11-10T21:23:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6af5488cc1077b36a65698d6dbc87582",
-   "url": "https://t.me/OSINTWarfare/7960",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇪🇭\n🇲🇦\n⚡️\n—\nBREAKING:\nThe secretary general of the Polisario front, Brahim Ghali, called for a general mobilization following the report of Moroccan military reinforcements being deployed near the border of the Sahrawi Arab Democratic Republic, the Polisario-controlled part of the western Sahara territory.\nThe escalation came following the end of the UN MINURSO peacekeeping mission in Western Sahara, which ended on November 1st after 35 years of existence.",
-   "timestamp": "2026-11-10T20:40:14+00:00",
    "has_media": true
   },
   {
