@@ -1,7 +1,52 @@
 {
- "generated_utc": "2026-11-13T21:42:24Z",
- "count": 46,
+ "generated_utc": "2026-11-14T01:49:17Z",
+ "count": 42,
  "items": [
+  {
+   "id": "dc5dab55d9ec36b54c37a3f60b9ac272",
+   "url": "https://t.me/OSINTWarfare/7997",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🛩️\n/\n🇮🇷\n— ISR drone activites ongoing in the highlighted areas of Iran.\n🚨\nt.me/sigintt",
+   "timestamp": "2026-11-14T01:01:29+00:00",
+   "has_media": true
+  },
+  {
+   "id": "819a7c76b398d381e7317aa697ea82cc",
+   "url": "https://t.me/OSINTWarfare/7996",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n⚡️\n— The U.S. Federal Aviation Administration (FAA) has begun gradually lifting flight restrictions and restoring normal air traffic operations as affected systems come back online.\n@OSINTWarfare",
+   "timestamp": "2026-11-14T00:17:04+00:00",
+   "has_media": false
+  },
+  {
+   "id": "f0cd75f79bf9122c255e927304e0f83d",
+   "url": "https://t.me/OSINTWarfare/7995",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n⚡️\n— An update to the FAA’s private communications network, operated by L3Harris Technologies, reportedly caused the system to reboot and crash, triggering an air traffic control communications outage.\nApproximately 10,000 flights have now been delayed or cancelled, making this the largest disruption to air travel since the September 11 attacks.\n@OSINTWarfare",
+   "timestamp": "2026-11-13T23:39:38+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5ab5854ab645d3f85ec1fb840e96a26e",
+   "url": "https://t.me/OSINTWarfare/7992",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— U.S. airstrikes targeted a missile launcher at Jask port and a radar installation on Iran's Qeshm Island.\n@OSINTWarfare",
+   "timestamp": "2026-11-13T23:03:42+00:00",
+   "has_media": false
+  },
+  {
+   "id": "dcbafd6b4de1a5acf5c6fb122c7448b8",
+   "url": "https://t.me/OSINTWarfare/7991",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇹🇷\n🇶🇦\n⚡️\n— Turkey and Qatar signed five agreements on Friday, including a mutual defense pact, during the 12th meeting of the Turkey-Qatar High Strategic Committee in Istanbul.\n@OSINTWarfare",
+   "timestamp": "2026-11-13T23:00:35+00:00",
+   "has_media": false
+  },
   {
    "id": "600a78f3910a2e1f6807e09a58b53d6e",
    "url": "https://t.me/OSINTWarfare/7990",
@@ -55,51 +100,6 @@
    "text": "⚡\n#BREAKING\nIsraeli spy chief is in Washington as Netanyahu presses Trump to resume the war, Axios reports\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-13T15:03:06+00:00",
    "has_media": false
-  },
-  {
-   "id": "728137b12dab8bacb1df18ca83c248ff",
-   "url": "https://t.me/warmonitors/46660",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Shoutout to our friends at\nINTER BELLUM NEWS\n🤝\nBreaking news is one thing. Getting to the bottom of it is another.\nIBN does both. Fast-moving updates on Telegram, original investigations, exclusive answers from officials and long reads that connect the dots.\n⚡️\nBreaking news, around the clock\n🎙\nExclusive stories & original reporting\n🌍\nConflicts, geopolitics & the bigger picture\nIndependent, not state-funded, and never afraid to ask questions.\n🔹\nTelegram:\n@interbellumnews\n🔹\nWebsite:\ninterbellumnews.com\nGo check them out, tell them War Monitor sent you!",
-   "timestamp": "2026-11-13T14:50:06+00:00",
-   "has_media": true
-  },
-  {
-   "id": "83489470a69a97876664ec7b60d946e4",
-   "url": "https://t.me/warmonitors/46658",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUkraine’s military says it struck Russian drone production sites in the Rostov region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-13T12:07:36+00:00",
-   "has_media": false
-  },
-  {
-   "id": "843e63e8e6ac2a7db92d7e76748df8cb",
-   "url": "https://t.me/warmonitors/46656",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nA Ukrainian attack on an industrial facility in Russia’s Samara region killed four people, according to the governor\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-13T09:57:15+00:00",
-   "has_media": false
-  },
-  {
-   "id": "9be14ad30b822e9128103df3c020c7be",
-   "url": "https://t.me/warmonitors/46655",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nIsraeli drones are flying at low altitude over Beirut.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-13T09:12:06+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ec7e039117ea6659a6d802db11dcf54a",
-   "url": "https://t.me/warmonitors/46652",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nUkrainian drones drones reportedly targeted another oil refinery in Volgograd.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-13T09:07:06+00:00",
-   "has_media": true
   },
   {
    "id": "5083f46419044f2b5f660b3a34669480",
@@ -171,42 +171,6 @@
    "channel": "OSINTWarfare",
    "text": "🇮🇷\n⚡️\n— Iran’s Assembly of Experts issued an unprecedented statement today, calling for consideration of a withdrawal from the Nuclear Non-Proliferation Treaty (NPT), a review of the country's defense doctrine, and the establishment of the necessary deterrence measures.\nThe Assembly described these steps as an unavoidable necessity and a public and national demand, urging officials to heed this demand under the guidance of Supreme Leader Mojtaba Khamenei.",
    "timestamp": "2026-11-12T19:29:52+00:00",
-   "has_media": false
-  },
-  {
-   "id": "6d8567871afa2b7314520f483d20aa57",
-   "url": "https://t.me/OSINTWarfare/7974",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Reports of two ballistic missiles being launched from Nojeh Air Base in Hamadan Province, western Iran.",
-   "timestamp": "2026-11-12T10:13:29+00:00",
-   "has_media": false
-  },
-  {
-   "id": "567b93ec66d06057a4208f6e8a9ffd1f",
-   "url": "https://t.me/OSINTWarfare/7971",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "A newly unveiled stealthy, long-range cruise missile, which they unsuccessfully attempted to censor, was inadvertently shown in the video.  The new missile appears to have been developed from the Soumar (Kh-55) and Paveh cruise missile family. Its design has…",
-   "timestamp": "2026-11-11T17:27:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a337877f56f5a723cd912dfff04eb19b",
-   "url": "https://t.me/OSINTWarfare/7969",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "I've been asked this question several times and have already addressed it, but I've seen claims circulating that Iran used a Fattah-1 warhead mounted on a Kheibar Shekan booster, based solely on the fact that the boosters shown in the footage are unpainted.\nThis claim is incorrect. The Fattah-1 and Kheibar Shekan share an identical booster design, or at the very least, one that is extremely similar. Unpainted boosters are therefore not evidence of a different missile configuration.",
-   "timestamp": "2026-11-11T16:58:45+00:00",
-   "has_media": true
-  },
-  {
-   "id": "93a388a2d83710be63f18e6eb0ffed10",
-   "url": "https://t.me/OSINTWarfare/7968",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇩🇿\n⚡️\n— The Algerian Ministry of National Defence has released new footage showing the Algerian Navy launching Chinese-made CM-302 (YJ-12B) supersonic anti-ship cruise missiles.\n@OSINTWarfare",
-   "timestamp": "2026-11-11T12:12:28+00:00",
    "has_media": false
   },
   {
