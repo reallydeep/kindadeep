@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-15T10:01:32Z",
+ "generated_utc": "2026-11-15T16:58:26Z",
  "count": 53,
  "items": [
+  {
+   "id": "8632fea12edb616fa381dca464c24f30",
+   "url": "https://t.me/OSINTWarfare/8008",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇧🇭\n🇺🇸\n⚡️\n— Earlier, air raid sirens sounded across Bahrain for more than 30 minutes following an Iranian drone attack targeting a U.S. radar installation.  @OSINTWarfare",
+   "timestamp": "2026-11-15T15:17:45+00:00",
+   "has_media": true
+  },
+  {
+   "id": "54d056099bfff1b65aff620024a3a0f6",
+   "url": "https://t.me/OSINTWarfare/8007",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Two more vessels were struck by drones off the coast of Romania. Yesterday, the Greek-flagged tanker EVIAPETROL V and the St. Kitts and Nevis-flagged bulk carrier MARSOL were targeted near Sulina, where both were anchored.\nThe vessels were scheduled to sail along the Danube River, or one of its branches, to Ukrainian ports.\n@OSINTWarfare",
+   "timestamp": "2026-11-15T15:10:13+00:00",
+   "has_media": true
+  },
   {
    "id": "fa50eeda30e30de1e879efc43f4cf0a4",
    "url": "https://t.me/warmonitors/46698",
@@ -252,24 +270,6 @@
    "channel": "terroralarm",
    "text": "Standing with Israel is a Biblical mandate\n🇮🇱",
    "timestamp": "2026-11-13T20:04:01+00:00",
-   "has_media": false
-  },
-  {
-   "id": "529739af72a8a6d9d3a936f22b1603cc",
-   "url": "https://t.me/OSINTWarfare/7987",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Earlier today, Iran's IRGC Navy released footage showing an LNG tanker engulfed in flames after attempting to transit an unauthorized route through the Strait of Hormuz.\nThe vessel was likely struck by an anti-ship cruise missile.\n@OSINTWarfare",
-   "timestamp": "2026-11-13T18:59:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "5083f46419044f2b5f660b3a34669480",
-   "url": "https://t.me/OSINTWarfare/7986",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n🇧🇭\n⚡️\n— According to IRGC-affiliated Tasnim News Agency, the IRGC struck and destroyed a U.S. early-warning radar in Bahrain in retaliation for overnight U.S. airstrikes on southern Iran.\n@OSINTWarfare",
-   "timestamp": "2026-11-13T02:38:56+00:00",
    "has_media": false
   },
   {
