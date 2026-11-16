@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-11-15T21:27:17Z",
+ "generated_utc": "2026-11-16T01:14:14Z",
  "count": 57,
  "items": [
+  {
+   "id": "bec3dea725dd6313362b1783cb4433f9",
+   "url": "https://t.me/OSINTWarfare/8019",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n🇮🇷\n⚡️\n— The U.S. Navy aircraft carrier USS Theodore Roosevelt (CVN-71) arrived in the Middle East on Sunday evening.\nThis brings the number of U.S. aircraft carrier strike groups deployed within the U.S. Central Command (CENTCOM) area of responsibility to three.\n@OSINTWarfare",
+   "timestamp": "2026-11-15T22:45:36+00:00",
+   "has_media": true
+  },
+  {
+   "id": "9f3e8d33b184e3939014cd68455b8a9c",
+   "url": "https://t.me/OSINTWarfare/8018",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n🇧🇭\n⚡️\n— Reports of air raid sirens sounding in Bahrain are false. A source on the ground in Bahrain has confirmed that no alerts were issued.\n@OSINTWarfare",
+   "timestamp": "2026-11-15T22:24:10+00:00",
+   "has_media": false
+  },
+  {
+   "id": "645180a80b05e47e80aca9d04b876ac9",
+   "url": "https://t.me/warmonitors/46707",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nBahraini Ministry of Interior: Warning of danger; we urge citizens and residents to head to the nearest safe place.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-15T22:19:54+00:00",
+   "has_media": false
+  },
+  {
+   "id": "cfd929806603bcf67a5ef33382dedc28",
+   "url": "https://t.me/OSINTWarfare/8017",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Specialists from the Department of Unmanned Systems of Ukraine's Main Intelligence Directorate (GUR) carried out a precision strike on a Russian MiG-29 multirole fighter at Belbek airfield in Crimea.",
+   "timestamp": "2026-11-15T22:17:45+00:00",
+   "has_media": true
+  },
   {
    "id": "9bbddf569a288cfbad846a166959977e",
    "url": "https://t.me/OSINTWarfare/8015",
@@ -255,15 +291,6 @@
    "has_media": true
   },
   {
-   "id": "519634bdc3e9e86af45b64bbffc72cbd",
-   "url": "https://t.me/warmonitors/46686",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nIsraeli strikes on south Lebanon\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-14T15:48:27+00:00",
-   "has_media": true
-  },
-  {
    "id": "4acf6ec31c110f00d320795616fb2656",
    "url": "https://t.me/warmonitors/46687",
    "source": "telegram",
@@ -271,33 +298,6 @@
    "text": "⚡\nThe Saudi-led coalition said it intercepted and destroyed two drones launched by Yemen’s Houthis towards Riyadh and the southern region\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-14T15:48:27+00:00",
    "has_media": false
-  },
-  {
-   "id": "a6103e475d4fde1e810cf24a0a7a0909",
-   "url": "https://t.me/OSINTWarfare/7999",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— The IRGC has released footage showing the interception of a U.S. Army MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over Qeshm Island, which it announced shooting down in a statement earlier this morning.\n@OSINTWarfare",
-   "timestamp": "2026-11-14T15:26:03+00:00",
-   "has_media": true
-  },
-  {
-   "id": "bf1a70de317b8304118c5d388361a9a9",
-   "url": "https://t.me/OSINTWarfare/7998",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Footage shows an oil tanker engulfed in flames after being targeted by the IRGC Navy while attempting to transit the Strait of Hormuz.\n@OSINTWarfare",
-   "timestamp": "2026-11-14T13:36:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "dc5dab55d9ec36b54c37a3f60b9ac272",
-   "url": "https://t.me/OSINTWarfare/7997",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🛩️\n/\n🇮🇷\n— ISR drone activites ongoing in the highlighted areas of Iran.\n🚨\nt.me/sigintt",
-   "timestamp": "2026-11-14T01:01:29+00:00",
-   "has_media": true
   },
   {
    "id": "c898647e9a5d0a8ab9d9d60a3d42e0fd",
