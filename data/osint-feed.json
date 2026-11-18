@@ -1,7 +1,88 @@
 {
- "generated_utc": "2026-11-17T18:40:15Z",
- "count": 52,
+ "generated_utc": "2026-11-18T01:19:12Z",
+ "count": 54,
  "items": [
+  {
+   "id": "63905f2a3ed8973b01f8350f972d2f60",
+   "url": "https://t.me/warmonitors/46742",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nKuwaiti Army: The sounds of explosions that may be heard are due to air defenses intercepting attacks.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-18T00:34:32+00:00",
+   "has_media": false
+  },
+  {
+   "id": "25f05e7f68a4d96c9379fe206590e3ef",
+   "url": "https://t.me/OSINTWarfare/8054",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n⚡️\n— Speaking at a US-ASEAN dinner reception in Manila, Philippines, following the 49th ASEAN Summit, Donald Trump said that defense contractors are currently building more than 22 new production facilities to manufacture Patriot and THAAD systems, Tomahawk missiles, and other weapons, aiming to expand production capacity and fulfill orders more quickly.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T00:29:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1cd871b20538fef15fb33ae0eb2c2d37",
+   "url": "https://t.me/OSINTWarfare/8053",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇧🇭\n🇺🇸\n— Bahrain is also coming under attack.  @OSINTWarfare",
+   "timestamp": "2026-11-17T23:28:27+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2fe66de4f8403b1bf1b2f857815370df",
+   "url": "https://t.me/OSINTWarfare/8052",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇧🇭\n🇺🇸\n— Bahrain is also coming under attack.\n@OSINTWarfare",
+   "timestamp": "2026-11-17T23:09:57+00:00",
+   "has_media": false
+  },
+  {
+   "id": "2f9ab767ff8319d45b3a405f6acac10c",
+   "url": "https://t.me/OSINTWarfare/8051",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "Unconfirmed footage shows a surface-to-air missile engaging an incoming Iranian drone, allegedly over Kuwait. Explosions can also be heard in the background.\nI tried reverse-searching the footage but couldn't find any matches. It's unclear whether it was filmed tonight or is older footage.",
+   "timestamp": "2026-11-17T22:57:02+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1aadbf6b07d862239fd968e3296162c5",
+   "url": "https://t.me/OSINTWarfare/8050",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n🇮🇷\n⚡️\n— U.S. Navy Secretary nominee Hung Cao revealed that the Navy used expired munitions during Operation Epic Fury against Iran after recoding them.\n@OSINTWarfare",
+   "timestamp": "2026-11-17T22:12:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "47f817d2103ce1e0f2f18851db2fbfbf",
+   "url": "https://t.me/OSINTWarfare/8049",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇰🇼\n🇺🇸\n— The Kuwait Army General Staff announced that its air defenses are engaging incoming Iranian drones.\n@OSINTWarfare",
+   "timestamp": "2026-11-17T21:45:05+00:00",
+   "has_media": false
+  },
+  {
+   "id": "81ea4cb03eadad12477de44b100c530d",
+   "url": "https://t.me/OSINTWarfare/8048",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— Footage shows an oil tanker engulfed in flames after being struck by an IRGC Navy anti-ship cruise missile while transiting the Strait of Hormuz along an unauthorized route.\n@OSINTWarfare",
+   "timestamp": "2026-11-17T21:07:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6f06d038790c4102d06fcc59a45f1072",
+   "url": "https://t.me/warmonitors/46740",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera correspondent: A series of violent explosions in the Yemeni capital, Sana'a\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-17T20:37:49+00:00",
+   "has_media": false
+  },
   {
    "id": "b98c82070c8651a5a4c7a064072faccf",
    "url": "https://t.me/OSINTWarfare/8047",
@@ -156,15 +237,6 @@
    "has_media": true
   },
   {
-   "id": "2ed4490560f979f655355f3e4efe1891",
-   "url": "https://t.me/OSINTWarfare/8031",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia targeted Kyiv's Pivnichnyi Bridge (Northern Bridge) in retaliation for Ukrainian UAV attacks on the Crimean Bridge.\n@OSINTWarfare",
-   "timestamp": "2026-11-16T23:04:18+00:00",
-   "has_media": true
-  },
-  {
    "id": "241938c076a57626a1cc70a76af75fc2",
    "url": "https://t.me/warmonitors/46727",
    "source": "telegram",
@@ -172,42 +244,6 @@
    "text": "⚡\nThe Israeli military says it has received reports of an attempted attack near Jericho in the occupied West Bank and has dispatched soldiers to the scene\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-16T22:46:14+00:00",
    "has_media": false
-  },
-  {
-   "id": "00fc820131c18052a1c85c8e28112eff",
-   "url": "https://t.me/OSINTWarfare/8030",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇮🇶\n⚡️\n— Air raid sirens have sounded at the Khor Mor Oil and Gas Field in Iraq's Kurdistan Region, in Sulaymaniyah Governorate, amid a threat of an incoming drone attack.\n@OSINTWarfare",
-   "timestamp": "2026-11-16T21:48:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "ae736430bc1b7b542d0ae5a3062c67de",
-   "url": "https://t.me/OSINTWarfare/8029",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— Several explosions have been reported in Sirik. It remains unclear whether they were caused by U.S. airstrikes or the launch of anti-ship cruise missiles targeting vessels in the Strait of Hormuz.\n@OSINTWarfare",
-   "timestamp": "2026-11-16T19:58:23+00:00",
-   "has_media": false
-  },
-  {
-   "id": "51f4605f9a238ae741074cf3f7924594",
-   "url": "https://t.me/OSINTWarfare/8028",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— IRIB has released, for the first time, footage showing the moment a U.S. Air Force (USAF) F-15E Strike Eagle was shot down by IRGC air defenses on April 3, 2026.\n@OSINTWarfare",
-   "timestamp": "2026-11-16T18:38:32+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d09bf7c01c82ecc89447fa36e68f47a3",
-   "url": "https://t.me/OSINTWarfare/8027",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n⚡️\n— Iran has released footage showing the interception of a U.S. Army MQ-1C Gray Eagle unmanned combat aerial vehicle (UCAV) over the Strait of Hormuz by the Iranian Army's Air Defense Force.\n@OSINTWarfare",
-   "timestamp": "2026-11-16T16:27:54+00:00",
-   "has_media": true
   },
   {
    "id": "ed3ea1262511ddf2902ed226daa6e65b",
@@ -235,24 +271,6 @@
    "text": "⚡\nThe EU Commission has disbursed another €1.71 billion to Ukraine for drones, ammunition and air defence systems\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-16T11:13:06+00:00",
    "has_media": false
-  },
-  {
-   "id": "329c5ed58a23a5a012e95e69fd979acf",
-   "url": "https://t.me/warmonitors/46720",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nRussian strikes on Dnipro\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-16T09:57:57+00:00",
-   "has_media": true
-  },
-  {
-   "id": "f57d326d8486ae9b58e50cc7c11df245",
-   "url": "https://t.me/warmonitors/46719",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡️\nA fire broke out on the Preobrazhensky bridge in Zaporizhzhia this morning after being hit by a kamikaze drone, the \"Geran-4\".\nAs a result, traffic on the bridge was temporarily suspended for several hours, but it has now been resumed.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-16T09:57:56+00:00",
-   "has_media": true
   },
   {
    "id": "9516583a225852dfa06073d3615c283c",
