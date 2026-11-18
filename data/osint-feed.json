@@ -1,15 +1,87 @@
 {
- "generated_utc": "2026-11-18T08:36:14Z",
- "count": 54,
+ "generated_utc": "2026-11-18T17:29:39Z",
+ "count": 43,
  "items": [
   {
-   "id": "a044ea5ca59dc69d2fb624b7f7af114d",
-   "url": "https://t.me/OSINTWarfare/8055",
+   "id": "2d5f66498d81cdbae6237bf3ef510222",
+   "url": "https://t.me/OSINTWarfare/8075",
    "source": "telegram",
    "channel": "OSINTWarfare",
-   "text": "🇷🇺\n❌\n🇺🇦\n— Ukrainian monitoring channels have issued a “red” ballistic missile threat alert for the next 48 hours, warning that Russia may be planning strikes against bridges in Kyiv and critical energy infrastructure.\nAccording to preliminary information, the potential targets include:\n• Bridges: Northern (Pivnichnyi), Southern (Pivdennyi), and Darnytskyi Bridges.\n• Power plants: Kyiv TPP-2, TPP-4, TPP-5, and TPP-6.\n• Substation: Nyvky electrical substation.\nThe monitoring channels warn that such strikes could cause widespread disruptions to electricity, heating, and water supplies across the capital.\n@OSINTWarfare",
-   "timestamp": "2026-11-18T02:26:58+00:00",
+   "text": "🇷🇺\n⚡️\n— The Russian Navy has commissioned the Project 12700 Alexandrit-class minesweeper Dmitry Lysov.\nThe Russian Naval Ensign was raised aboard the vessel today in Baltiysk, officially marking its entry into service with the Russian Navy.\nThe Dmitry Lysov was built at the United Shipbuilding Corporation's Sredne-Nevsky Shipyard.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T15:35:49+00:00",
    "has_media": true
+  },
+  {
+   "id": "08a1741ff1ac215620289004609ba8f7",
+   "url": "https://t.me/OSINTWarfare/8074",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇵🇰\n#Pakistan -\n🇨🇳\n#China: Pakistan has released footage showing the launch of the new Fatah-3 (Fatah-III) supersonic cruise missile, which appears to be derived from the Chinese-made HD-1 supersonic land-attack and anti-ship missile.  Reported performance…",
+   "timestamp": "2026-11-18T15:08:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "c6f7dd7e144119492018edaee0755c20",
+   "url": "https://t.me/OSINTWarfare/8065",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇲🇱\n🇷🇺\n⚡️\n— On November 16, a formal handover ceremony for newly acquired aviation equipment took place at Modibo Keita International Airport in Bamako, with the equipment being delivered to the Malian Armed Forces (FAMa).\nThe ceremony was attended by Mali's transitional President, Army General Assimi Goïta, who personally inspected the newly delivered aircraft.\nThe delivery includes four Mi-8MTV-5 transport helicopters, two Mi-24P attack helicopters, and one Il-76TD transport aircraft.\nAccording to FAMa command, the equipment was purchased using state funds as part of military-technical cooperation with Russia.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T14:24:04+00:00",
+   "has_media": true
+  },
+  {
+   "id": "b3b225a2fc73d29ad61c7f9d4d2dc137",
+   "url": "https://t.me/OSINTWarfare/8064",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇶\n🇮🇶\n⚡️\n— The Iraqi government has set Friday as the deadline for Kata'ib Hezbollah to withdraw its forces from Jurf al-Nasr (formerly Jurf al-Sakhr) in Babil Governorate.\nThe Popular Mobilization Authority has been formally notified of the decision to replace Kata'ib Hezbollah units in the area with the Interior Ministry's 17th Brigade, alongside the PMF's 72nd and 79th Brigades and Iraqi Army units.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T14:10:15+00:00",
+   "has_media": true
+  },
+  {
+   "id": "1e4d179c19a045f9542cc2b2ba64b7af",
+   "url": "https://t.me/warmonitors/46748",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSky News Arabia: The UAE strongly condemns the renewed Iranian aggression against Bahrain.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-18T13:42:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8c3a77dc5115c2cb23f95e0f22c03dbb",
+   "url": "https://t.me/warmonitors/46747",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIsraeli media: The army begins its first large-scale military operation in Gaza since the ceasefire agreement.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-18T13:07:35+00:00",
+   "has_media": false
+  },
+  {
+   "id": "649e13ea982c406ca2ef55afb41b28cc",
+   "url": "https://t.me/OSINTWarfare/8063",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇬🇷\n🇮🇱\n⚡️\n— Following their modernization, the Hellenic Army Aviation's AH-64A+ Apache attack helicopters have, for the first time, been equipped with Israeli-made SPIKE NLOS precision-guided missiles.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T13:03:05+00:00",
+   "has_media": true
+  },
+  {
+   "id": "8fadc3e20120ce103a37aaf73eab3237",
+   "url": "https://t.me/OSINTWarfare/8058",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇨🇳\n⚡️\n— New Chinese unmanned ground vehicles (UGVs) designed for assault operations are being prepared for display at the 16th China International Aviation and Aerospace Exhibition (Airshow China 2026) in Zhuhai.\n@OSINTWarfare",
+   "timestamp": "2026-11-18T12:42:23+00:00",
+   "has_media": true
+  },
+  {
+   "id": "21881e23556144c180fb10f6efca9b21",
+   "url": "https://t.me/warmonitors/46746",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nIranian Army: We shot down an American MQ-9 drone over the Strait of Hormuz\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-18T11:31:19+00:00",
+   "has_media": false
   },
   {
    "id": "63905f2a3ed8973b01f8350f972d2f60",
@@ -21,69 +93,6 @@
    "has_media": false
   },
   {
-   "id": "25f05e7f68a4d96c9379fe206590e3ef",
-   "url": "https://t.me/OSINTWarfare/8054",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n⚡️\n— Speaking at a US-ASEAN dinner reception in Manila, Philippines, following the 49th ASEAN Summit, Donald Trump said that defense contractors are currently building more than 22 new production facilities to manufacture Patriot and THAAD systems, Tomahawk missiles, and other weapons, aiming to expand production capacity and fulfill orders more quickly.\n@OSINTWarfare",
-   "timestamp": "2026-11-18T00:29:08+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1cd871b20538fef15fb33ae0eb2c2d37",
-   "url": "https://t.me/OSINTWarfare/8053",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇧🇭\n🇺🇸\n— Bahrain is also coming under attack.  @OSINTWarfare",
-   "timestamp": "2026-11-17T23:28:27+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2fe66de4f8403b1bf1b2f857815370df",
-   "url": "https://t.me/OSINTWarfare/8052",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇧🇭\n🇺🇸\n— Bahrain is also coming under attack.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T23:09:57+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2f9ab767ff8319d45b3a405f6acac10c",
-   "url": "https://t.me/OSINTWarfare/8051",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "Unconfirmed footage shows a surface-to-air missile engaging an incoming Iranian drone, allegedly over Kuwait. Explosions can also be heard in the background.\nI tried reverse-searching the footage but couldn't find any matches. It's unclear whether it was filmed tonight or is older footage.",
-   "timestamp": "2026-11-17T22:57:02+00:00",
-   "has_media": true
-  },
-  {
-   "id": "1aadbf6b07d862239fd968e3296162c5",
-   "url": "https://t.me/OSINTWarfare/8050",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇮🇷\n⚡️\n— U.S. Navy Secretary nominee Hung Cao revealed that the Navy used expired munitions during Operation Epic Fury against Iran after recoding them.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T22:12:19+00:00",
-   "has_media": true
-  },
-  {
-   "id": "47f817d2103ce1e0f2f18851db2fbfbf",
-   "url": "https://t.me/OSINTWarfare/8049",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇰🇼\n🇺🇸\n— The Kuwait Army General Staff announced that its air defenses are engaging incoming Iranian drones.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T21:45:05+00:00",
-   "has_media": false
-  },
-  {
-   "id": "81ea4cb03eadad12477de44b100c530d",
-   "url": "https://t.me/OSINTWarfare/8048",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Footage shows an oil tanker engulfed in flames after being struck by an IRGC Navy anti-ship cruise missile while transiting the Strait of Hormuz along an unauthorized route.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T21:07:50+00:00",
-   "has_media": true
-  },
-  {
    "id": "6f06d038790c4102d06fcc59a45f1072",
    "url": "https://t.me/warmonitors/46740",
    "source": "telegram",
@@ -91,42 +100,6 @@
    "text": "⚡\nAl Jazeera correspondent: A series of violent explosions in the Yemeni capital, Sana'a\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-17T20:37:49+00:00",
    "has_media": false
-  },
-  {
-   "id": "b98c82070c8651a5a4c7a064072faccf",
-   "url": "https://t.me/OSINTWarfare/8047",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n⚡️\n— The National Security Agency's (NSA) classified internal network, known as NSA Net and used for internal communications and intelligence operations, has gone down.  @OSINTWarfare",
-   "timestamp": "2026-11-17T18:20:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "34e45436d34d56c30adc265fd25eec53",
-   "url": "https://t.me/OSINTWarfare/8046",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n⚡️\n— The National Security Agency's (NSA) classified internal network, known as NSA Net and used for internal communications and intelligence operations, has gone down.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T15:42:29+00:00",
-   "has_media": false
-  },
-  {
-   "id": "08ced0a7face555532424ff70ed92b31",
-   "url": "https://t.me/OSINTWarfare/8043",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇲🇩\n⚡️\n— A Russian Gerbera-2 long-range strike drone was spotted flying over Chișinău, Moldova's capital.\nThe Moldovan Ministry of Defense has confirmed that a drone violated the country's airspace.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T15:27:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "abe03abc29bdbc508e87ca91460d4ec8",
-   "url": "https://t.me/OSINTWarfare/8042",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇸\n⚡️\n— A Serbian Air Force and Air Defence (SAFAD) MiG-29SM+ multirole fighter assigned to the 204th Aviation Brigade at Batajnica Air Base crashed northwest of Belgrade on November 17, 2026, killing the pilot.\nThe aircraft went down in an open field near Stara Pazova at approximately 8:45 a.m. local time.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T15:09:34+00:00",
-   "has_media": true
   },
   {
    "id": "a1c024a7e8824c9bc2a8957736652498",
@@ -165,48 +138,12 @@
    "has_media": true
   },
   {
-   "id": "14f3c82bb412dc6df1d73516820f5ef2",
-   "url": "https://t.me/OSINTWarfare/8041",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n🇺🇸\n🇧🇭\n⚡️\n— The IRGC Aerospace Force released footage showing this morning's launches of Shahed-136 and jet-powered Shahed-238 loitering munitions targeting radar positions at the U.S.-used Sheikh Isa Air Base in Bahrain.\nHowever, there is so far no confirmation that any of the radars were actually hit.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T14:17:27+00:00",
-   "has_media": true
-  },
-  {
-   "id": "a94fb628c852a4cecf5bea3d59f9b7fc",
-   "url": "https://t.me/OSINTWarfare/8040",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n❌\n🇮🇷\n— Earlier, a U.S. airstrike targeted the Nariman air defense position on Qeshm Island.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T14:09:22+00:00",
-   "has_media": true
-  },
-  {
-   "id": "aacab67773273824a5c6ebc9685f4085",
-   "url": "https://t.me/OSINTWarfare/8038",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n⚡️\n— Footage shows several vessels burning in the Strait of Hormuz after being targeted by the IRGC Navy for attempting to transit the waterway without authorization.\n@OSINTWarfare",
-   "timestamp": "2026-11-17T13:58:16+00:00",
-   "has_media": true
-  },
-  {
    "id": "2598978fc0f07ddf2b735eb6fa3a19a3",
    "url": "https://t.me/warmonitors/46735",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡️\n#NOW\nU.S bombs Iran\nImages circulating online show smoke rising from Qeshm Island in Iran following explosions.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-17T13:51:39+00:00",
-   "has_media": true
-  },
-  {
-   "id": "55e9b1ce3e931610745a595b6f40d8c0",
-   "url": "https://t.me/OSINTWarfare/8037",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n🇷🇺\n⚡️\n— The Crimean Bridge was hit bad by Ukrainian UAVs.  @OSINTWarfare",
-   "timestamp": "2026-11-17T11:59:43+00:00",
    "has_media": true
   },
   {
@@ -234,42 +171,6 @@
    "channel": "WarMonitors",
    "text": "⚡\nRussia repelled a drone attack on industrial areas in Ufa and Salavat, TASS reported citing local officials\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-17T05:49:24+00:00",
-   "has_media": false
-  },
-  {
-   "id": "0636e4a401604aab173e6bc0501ca9fc",
-   "url": "https://t.me/OSINTWarfare/8035",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia targeted Kyiv's Pivnichnyi Bridge (Northern Bridge) in retaliation for Ukrainian UAV attacks on the Crimean Bridge.  @OSINTWarfare",
-   "timestamp": "2026-11-17T00:21:54+00:00",
-   "has_media": true
-  },
-  {
-   "id": "241938c076a57626a1cc70a76af75fc2",
-   "url": "https://t.me/warmonitors/46727",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Israeli military says it has received reports of an attempted attack near Jericho in the occupied West Bank and has dispatched soldiers to the scene\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-16T22:46:14+00:00",
-   "has_media": false
-  },
-  {
-   "id": "ed3ea1262511ddf2902ed226daa6e65b",
-   "url": "https://t.me/warmonitors/46724",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nThe Saudi-led coalition said it intercepted and destroyed two drones launched by the Houthis toward the Mecca and Riyadh regions\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-16T13:19:29+00:00",
-   "has_media": false
-  },
-  {
-   "id": "45dd15440de986bacdf32d295be6b792",
-   "url": "https://t.me/warmonitors/46723",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nUkraine’s military says it struck Russia’s Ilsky oil refinery\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-16T12:14:18+00:00",
    "has_media": false
   },
   {
