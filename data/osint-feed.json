@@ -1,7 +1,106 @@
 {
- "generated_utc": "2026-11-20T10:25:52Z",
- "count": 42,
+ "generated_utc": "2026-11-20T18:40:36Z",
+ "count": 46,
  "items": [
+  {
+   "id": "0ff4cd2f15d45b5288cf7f904fd3de4d",
+   "url": "https://t.me/OSINTWarfare/8127",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Smoke seen rising from Qeshm City, Hormozgan province.  @OSINTWarfare",
+   "timestamp": "2026-11-20T18:14:53+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1288500ef268103fdd101431bdf7458b",
+   "url": "https://t.me/OSINTWarfare/8126",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— UKMTO reports that a tanker transiting the Strait of Hormuz was struck by a projectile on its port bow, sparking a fire onboard.\nNo casualties or environmental damage have been reported.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T16:32:44+00:00",
+   "has_media": true
+  },
+  {
+   "id": "72fab492263cf61a3278e3f9c3459484",
+   "url": "https://t.me/OSINTWarfare/8124",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n❌\n🇺🇸\n— Iranian air defenses intercepted an unidentified object, likely a UAV, over Qeshm Island.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T16:18:10+00:00",
+   "has_media": true
+  },
+  {
+   "id": "6c7504308f3dd8d380053cde5694b994",
+   "url": "https://t.me/warmonitors/46779",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nIranian media: Explosions heard on Qeshm Island\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-20T15:57:13+00:00",
+   "has_media": false
+  },
+  {
+   "id": "0b8748139b4f8ded7768ceb2405c50f2",
+   "url": "https://t.me/OSINTWarfare/8123",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Unconfirmed reports of explosions on Qeshm Island.  @OSINTWarfare",
+   "timestamp": "2026-11-20T15:45:21+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2d0de198bbe15cf41e93e46d37b437f6",
+   "url": "https://t.me/OSINTWarfare/8122",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇦\n🇷🇺\n⚡️\n— Footage shows a Ukrainian IRIS-T SLS air defense system engaging incoming cruise missiles over western Ukraine during today's attack.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T15:33:03+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5310447d31c611c0320fdfead513377e",
+   "url": "https://t.me/warmonitors/46778",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSky News Arabia: Saudi Arabia: Debris falls after two missiles are intercepted in the Al-Shuqaiq area of ​​Jazan\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-20T15:32:08+00:00",
+   "has_media": false
+  },
+  {
+   "id": "8427b894fb9ca743571498b058528d19",
+   "url": "https://t.me/OSINTWarfare/8121",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇺🇸\n❌\n🇮🇷\n— Unconfirmed reports of explosions on Qeshm Island.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T15:25:29+00:00",
+   "has_media": false
+  },
+  {
+   "id": "b995355a633440ecd64c0fcba087ea46",
+   "url": "https://t.me/OSINTWarfare/8120",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇾🇪\n❌\n🇸🇦\n— The Royal Saudi Air Force (RSAF) carried out multiple airstrikes targeting Hodeidah Port in western Yemen.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T15:18:50+00:00",
+   "has_media": true
+  },
+  {
+   "id": "2579f2d73c4e35298c91d3ff90391b51",
+   "url": "https://t.me/warmonitors/46776",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\n#BREAKING\nSaudi Civil Defense: An alert was issued in the Jazan region to warn of a danger.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-20T12:55:41+00:00",
+   "has_media": false
+  },
+  {
+   "id": "775eb67b806dad03fe9850045941a77e",
+   "url": "https://t.me/warmonitors/46775",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nRussian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-20T12:40:38+00:00",
+   "has_media": false
+  },
   {
    "id": "e9f2688eb5f379ffc374b54788657ba8",
    "url": "https://t.me/TerrorAlarm/95",
@@ -111,75 +210,12 @@
    "has_media": true
   },
   {
-   "id": "5a54f5a8863b77b3632782ee6df6c51d",
-   "url": "https://t.me/OSINTWarfare/8107",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇹🇷\n⚡️\n— Baykar has announced the delivery of three KIZILELMA stealth unmanned combat aerial vehicles (UCAVs) to the Turkish Armed Forces (TAF).\nIt remains unclear which service branch will receive the aircraft. Both the Turkish Air Force (TurAF) and the Turkish Naval Forces are expected to operate the KIZILELMA in the future.\n@OSINTWarfare",
-   "timestamp": "2026-11-19T15:49:13+00:00",
-   "has_media": true
-  },
-  {
    "id": "f3eb425d42b056ae9a1388f1b6662045",
    "url": "https://t.me/warmonitors/46760",
    "source": "telegram",
    "channel": "WarMonitors",
    "text": "⚡\nAl Jazeera correspondent: Successive explosions in the Ukrainian capital, Kyiv, caused by attacks using drones that struck the city center.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-19T15:12:03+00:00",
-   "has_media": false
-  },
-  {
-   "id": "66610363bbb8250c7968a25182e4a38e",
-   "url": "https://t.me/OSINTWarfare/8105",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇾🇪\n❌\n🇸🇦\n— Ansar Allah (Houthis) have struck the PIF Tower, Riyadh’s tallest skyscraper, damaging the headquarters of Saudi Arabia’s Public Investment Fund.\n@OSINTWarfare",
-   "timestamp": "2026-11-19T15:03:42+00:00",
-   "has_media": true
-  },
-  {
-   "id": "d8a55dd53408a0aa7456aa57a35d483f",
-   "url": "https://t.me/OSINTWarfare/8104",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n🇷🇺\n⚡️\n— Ukraine’s Main Intelligence Directorate (GUR) “Prymary” Special Unit carried out precision strikes on several high-value Russian assets.\nIn late October and early November 2026, the unit struck the following Russian targets:\nCommunications antennas;\n• A Starlink jamming station;\n• Fuel and lubricant storage tanks;\n• An electrical substation transformer;\n• Military vehicles;\n• Mobile fire teams;\n• Armored fighting vehicles (AFVs);\n• Engineering equipment and trucks;\n• A 9A331 TELAR of the Tor-M1 surface-to-air missile system.\n@OSINTWarfare",
-   "timestamp": "2026-11-19T13:25:18+00:00",
-   "has_media": false
-  },
-  {
-   "id": "bfd5053fe6b75c34b6d08eac90c2e410",
-   "url": "https://t.me/warmonitors/46758",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nSHENZHEN, China (AP) — China and Russia say they and US agree on UN reforms, boosting fuel supplies and dialogue to reduce nuclear risks.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-19T13:11:43+00:00",
-   "has_media": false
-  },
-  {
-   "id": "363973766751b8f0199bd6af4aab887e",
-   "url": "https://t.me/OSINTWarfare/8094",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n⚡️\n— Russia’s United Aircraft Corporation (UAC) has delivered another batch of Su-57 multirole fighters to the Russian Aerospace Forces (VKS).\nThe exact number of aircraft delivered has not been disclosed.\n@OSINTWarfare",
-   "timestamp": "2026-11-19T12:11:10+00:00",
-   "has_media": true
-  },
-  {
-   "id": "80acd9c5a3b14cfa5b236b43eeb1c6ac",
-   "url": "https://t.me/warmonitors/46757",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nXi to Putin and Trump: A nuclear war cannot be won, must not be fought, and everything possible must be done to prevent it.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-19T09:16:06+00:00",
-   "has_media": false
-  },
-  {
-   "id": "7dfae448c6d0ab7660a6b171cb607276",
-   "url": "https://t.me/warmonitors/46756",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\nAxios: Israel warns of Iranian chemical weapons\nAh fr?\n😂\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-19T09:16:04+00:00",
    "has_media": false
   },
   {
