@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-11-20T02:37:53Z",
- "count": 39,
+ "generated_utc": "2026-11-20T10:25:52Z",
+ "count": 42,
  "items": [
+  {
+   "id": "e9f2688eb5f379ffc374b54788657ba8",
+   "url": "https://t.me/TerrorAlarm/95",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "Syria\n✅\nIraq\n⏳\nIran\n⏳\nTurkey\n⏳\nLebanon\n⏳\nYemen\n⏳\nRussia\n⏳\nEgypt\n⏳\nSudan\n⏳\nOman\n⏳\nMyanmar\n⏳\nBelarus\n⏳\nTunisia\n⏳\nNorth Korea\n⏳\n2027: The Year of Liberation.",
+   "timestamp": "2026-11-20T09:21:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f8d31027cc66bc029c96e15eda62a50a",
+   "url": "https://t.me/OSINTWarfare/8117",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n❌\n🇺🇦\n— Aftermath of a Geran-4/5 jet-powered loitering munition strike or interception near residential apartment buildings in Lviv.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T03:28:12+00:00",
+   "has_media": true
+  },
+  {
+   "id": "aab993f08a4ba168cc3a50b8f1f36dfb",
+   "url": "https://t.me/OSINTWarfare/8116",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n❌\n🇺🇦\n— Footage shows a residential building on fire in Zhovti Vody, Dnipropetrovsk Oblast. It remains unclear whether the building was directly hit or damaged by falling debris.\nReports indicate fatalities and injuries.\n@OSINTWarfare",
+   "timestamp": "2026-11-20T03:12:24+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7cb2eebde1844a5e2f7b8762ad8c20b2",
+   "url": "https://t.me/OSINTWarfare/8114",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n❌\n🇺🇦\n— CCTV footage captures two Russian Iskander-M ballistic missile impacts in Kyiv, while a third missile was intercepted at low altitude.  The impacts apparently occurred in the industrial area.  @OSINTWarfare",
+   "timestamp": "2026-11-20T02:55:49+00:00",
+   "has_media": true
+  },
   {
    "id": "0c1bde61c289a6d109db9b3e5ac023ce",
    "url": "https://t.me/OSINTWarfare/8113",
@@ -225,15 +261,6 @@
    "channel": "terroralarm",
    "text": "When the assassins of former Iranian PM Shapour Bakhtiar tried to flee to Switzerland with fake passports, Swiss guards caught them and handed them to France.\nInexplicably, French authorities let them go allowing the main 2 hitmen to escape to Iran.\nFrance has questions to answer.",
    "timestamp": "2026-11-02T09:23:40+00:00",
-   "has_media": true
-  },
-  {
-   "id": "55f1db7426e1c70fa539304c2fb2043a",
-   "url": "https://t.me/TerrorAlarm/71",
-   "source": "telegram",
-   "channel": "terroralarm",
-   "text": "The Mecca Alliance failed to persuade Iran to pressure the Houthis to halt their attacks on Saudi Arabia, and the Saudis' $1 billion ceasefire fund intended to incentivize the Houthis to stop the attacks got pocketed straight by the IRGC.",
-   "timestamp": "2026-10-29T15:32:58+00:00",
    "has_media": true
   },
   {
