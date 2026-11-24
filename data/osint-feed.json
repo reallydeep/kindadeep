@@ -1,7 +1,34 @@
 {
- "generated_utc": "2026-11-23T21:42:46Z",
- "count": 44,
+ "generated_utc": "2026-11-24T05:32:44Z",
+ "count": 46,
  "items": [
+  {
+   "id": "665d88d72c37ae5a70e849a4e4b9eb44",
+   "url": "https://t.me/OSINTWarfare/8177",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇮🇷\n⚡️\n— The IRGC says it targeted three vessels attempting to transit the Strait of Hormuz via an unauthorized route.\n@OSINTWarfare",
+   "timestamp": "2026-11-23T22:55:51+00:00",
+   "has_media": false
+  },
+  {
+   "id": "525e98624bbd792273447efd86548b1c",
+   "url": "https://t.me/OSINTWarfare/8176",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇩🇪\n⚡️\n— On November 23, 2026, the employee works council at Airbus’s Manching plant in Bavaria urged the German Federal Chancellery to immediately approve a nationally led sixth-generation fighter jet program and reject joining the Global Combat Air Programme (GCAP).\n@OSINTWarfare",
+   "timestamp": "2026-11-23T22:04:49+00:00",
+   "has_media": true
+  },
+  {
+   "id": "024520677541ecf9be9301db6738c319",
+   "url": "https://t.me/OSINTWarfare/8175",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇬🇧\n🇷🇺\n⚡️\n— The UK is considering conscripting unemployed and homeless people into the armed forces amid preparations for a potential full-scale war with Russia.\n@OSINTWarfare",
+   "timestamp": "2026-11-23T21:50:37+00:00",
+   "has_media": false
+  },
   {
    "id": "d972a850dc1a27de706771c4cbf015fa",
    "url": "https://t.me/OSINTWarfare/8174",
@@ -117,15 +144,6 @@
    "channel": "OSINTWarfare",
    "text": "🇷🇺\n🇺🇦\n⚡️\n— Earlier, a Russian Geran-5 jet-powered loitering munition struck a railway station in Lyubotyn, Kharkiv Oblast.\n@OSINTWarfare",
    "timestamp": "2026-11-22T21:50:07+00:00",
-   "has_media": true
-  },
-  {
-   "id": "2efdcacf3650758cd5dba5357a356323",
-   "url": "https://t.me/OSINTWarfare/8155",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇦\n❌\n🇷🇺\n— Earlier today, the Russian Navy's Project 20380 corvette Mercury (734), which was docked at the Libyan port of Benghazi, was struck by a Ukrainian uncrewed surface vessel (USV).\nThe corvette had been used to escort Russian naval convoys in the Mediterranean Sea and had docked in Benghazi to replenish supplies and refuel.\n@OSINTWarfare",
-   "timestamp": "2026-11-22T19:48:36+00:00",
    "has_media": true
   },
   {
