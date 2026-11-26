@@ -1,7 +1,43 @@
 {
- "generated_utc": "2026-11-25T19:16:35Z",
- "count": 47,
+ "generated_utc": "2026-11-26T02:13:40Z",
+ "count": 46,
  "items": [
+  {
+   "id": "e3021158abfaf160d3721136c614b2e2",
+   "url": "https://t.me/OSINTWarfare/8207",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Russia launched at least eight RM-48U ballistic missiles at Kyiv, with energy infrastructure reportedly among the targets.\n@OSINTWarfare",
+   "timestamp": "2026-11-25T23:29:19+00:00",
+   "has_media": true
+  },
+  {
+   "id": "f1a87293934140f3b4396fc8488b722c",
+   "url": "https://t.me/warmonitors/46806",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nAl Jazeera correspondent: An explosion rocks the Yemeni capital, Sana'a.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-25T23:08:14+00:00",
+   "has_media": false
+  },
+  {
+   "id": "127c7708d5eef701cc1a337ad7bcaedd",
+   "url": "https://t.me/OSINTWarfare/8205",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇪🇬\n⚡️\n— A truck carrying petroleum products overturned and caught fire on Cairo's Ring Road in the Warraq district of Giza, Egypt, killing 30 people and injuring 15 others.\n@OSINTWarfare",
+   "timestamp": "2026-11-25T21:59:08+00:00",
+   "has_media": true
+  },
+  {
+   "id": "03c03767bc04024a01ea2a7ba5dd5c55",
+   "url": "https://t.me/TerrorAlarm/96",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "We were hoping it was Qatar again,\nbut it turned out to be\nthe Saudis! Why did MBS transfer\n$3 billion in cash\nto Tehran?",
+   "timestamp": "2026-11-25T19:33:29+00:00",
+   "has_media": false
+  },
   {
    "id": "46922455239ad53ca3dc1b3ba18dbda0",
    "url": "https://t.me/OSINTWarfare/8204",
@@ -138,42 +174,6 @@
    "has_media": true
   },
   {
-   "id": "d8d6b36d2fc9586e10c28a7e5140c532",
-   "url": "https://t.me/OSINTWarfare/8189",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇺🇦\n⚡️\n— The US is delaying the transfer of 60 Patriot missiles to Ukraine. Kyiv was due to receive 8 PAC-3 missiles in September, 10 in October, another 10 in November and 12 in December. The transfer of an additional 20 PAC-2 missiles also requires Pentagon…",
-   "timestamp": "2026-11-24T17:14:34+00:00",
-   "has_media": false
-  },
-  {
-   "id": "2650e7136884bbde760301ac2c44ed63",
-   "url": "https://t.me/OSINTWarfare/8188",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇺🇦\n⚡️\n— The US is delaying the transfer of 60 Patriot missiles to Ukraine. Kyiv was due to receive 8 PAC-3 missiles in September, 10 in October, another 10 in November and 12 in December. The transfer of an additional 20 PAC-2 missiles also requires Pentagon approval, despite the deliveries being funded by European countries.\nDang, that's extremely low. The US has its own stockpile shortages to deal with, and although it's trying to ramp up production, that will take time.\nI think Ukraine would be much better off relying more on European alternatives that it already operates, such as IRIS-T SLM and SAMP/T, rather than waiting for just 10 PAC-3 missiles a month. Those could be used up in a single hour during a major Russian missile attack. At some point, you have to accept that Iskander-Ms will get through and save the interceptors for other incoming threats.\n@OSINTWarfare",
-   "timestamp": "2026-11-24T17:05:30+00:00",
-   "has_media": true
-  },
-  {
-   "id": "248725edb3db3704b46319b75ea1f2c7",
-   "url": "https://t.me/OSINTWarfare/8186",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇮🇷\n❌\n🇺🇸\n🇯🇴\n🇸🇦\n🇧🇭\n🇰🇼\n🇶🇦\n🇦🇪\n— On November 23, 2026, Hassan Abdolianpour, head of Iran’s Judiciary Center for Lawyers, announced that Iran had filed lawsuits against Jordan and several Gulf countries seeking compensation for their role in supporting U.S. military operations against Iran, including by allowing their territory, airspace, military bases, and other facilities to be used in strikes against the country.\n@OSINTWarfare",
-   "timestamp": "2026-11-24T14:11:11+00:00",
-   "has_media": false
-  },
-  {
-   "id": "b0e02fd7e39fdcdfb9cbafbce38e6bc5",
-   "url": "https://t.me/OSINTWarfare/8185",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇷🇺\n⚡️\n— Two Russian Aerospace Forces (VKS) Tu-160M1 strategic bombers, escorted by Su-35S, Su-30SM and Su-57 multirole fighters, conducted a scheduled flight over the international waters of the Sea of Japan.\n@OSINTWarfare",
-   "timestamp": "2026-11-24T12:50:35+00:00",
-   "has_media": true
-  },
-  {
    "id": "0340c74c39ae3e2199380e21b54c4006",
    "url": "https://t.me/warmonitors/46796",
    "source": "telegram",
@@ -208,15 +208,6 @@
    "text": "⚡\nTrump: We shot down all Iranian drones and missiles and they caused no damage.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-22T23:15:21+00:00",
    "has_media": false
-  },
-  {
-   "id": "017398c6d1090f54a7cdc654b31e3177",
-   "url": "https://t.me/warmonitors/46784",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "⚡\n#BREAKING\nA 6.7 magnitude earthquake strikes central Peru\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
-   "timestamp": "2026-11-21T00:44:45+00:00",
-   "has_media": true
   },
   {
    "id": "e9f2688eb5f379ffc374b54788657ba8",
