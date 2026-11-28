@@ -1,7 +1,61 @@
 {
- "generated_utc": "2026-11-28T02:25:35Z",
- "count": 44,
+ "generated_utc": "2026-11-28T10:40:13Z",
+ "count": 48,
  "items": [
+  {
+   "id": "3fa3acef2f97322d59efdfba32966e57",
+   "url": "https://t.me/MenchOsint/558",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "✈️\n🇮🇷\n🇦🇪\nUAE gov-linked Private jet (A6-RJC) landed in Tehran this morning.",
+   "timestamp": "2026-11-28T10:14:32+00:00",
+   "has_media": true
+  },
+  {
+   "id": "82330157534c6be5752715950b167b10",
+   "url": "https://t.me/warmonitors/46821",
+   "source": "telegram",
+   "channel": "WarMonitors",
+   "text": "⚡\nSaudi Arabia: A ballistic missile launched by the Houthis towards the southern region was intercepted and destroyed.\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
+   "timestamp": "2026-11-28T09:40:25+00:00",
+   "has_media": false
+  },
+  {
+   "id": "1283591095dca9256a590834dbfdcaf8",
+   "url": "https://t.me/OSINTWarfare/8257",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇷🇺\n🇺🇦\n⚡️\n— Operations by the 50th Separate Unmanned Systems Brigade “Varyag” targeting Ukrainian logistics and supply infrastructure, as well as energy facilities, using Geran-4 loitering munitions equipped with electro-optical (EO) seekers.\nThe strikes targeted the following targets:\n• 0:08 – 330 kV electrical substation\n• 0:21  – 110 kV electrical substation\n• 0:29 – 110 kV electrical substation\n• 0:41  – Locomotive\n• 0:58 – Gas station\n• 1:16   – Logistics center\n• 1:25  – Oil extraction plant\n• 1:33  – Fuel and lubricants depot\n@OSINTWarfare",
+   "timestamp": "2026-11-28T09:31:21+00:00",
+   "has_media": false
+  },
+  {
+   "id": "83f91e69e4ec12034df6d8fd3b246223",
+   "url": "https://t.me/OSINTWarfare/8255",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇨🇳\n⚡️\n— The export variant of the J-35A, designated J-35AE, has arrived in Zhuhai to participate in the 16th China International Aviation & Aerospace Exhibition, also known as Airshow China or the Zhuhai Airshow.  @OSINTWarfare",
+   "timestamp": "2026-11-28T07:37:01+00:00",
+   "has_media": true
+  },
+  {
+   "id": "5bfdcfe61702862ee8831e387b8860ff",
+   "url": "https://t.me/OSINTWarfare/8253",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇫🇷\n⚡️\n— French aerospace company Safran has released a video offering a glimpse of some of the technologies being developed for the Dassault Rafale F5, the next major upgrade of the French multirole fighter.\nThe F5 standard will bring upgrades to the aircraft's propulsion, radar, electronic warfare and combat systems.\nOne of the main developments is Safran's M88 T-REX engine, designed to increase maximum afterburning thrust by approximately 20%, from 7.5 to 9 tonnes. The upgrades include a redesigned low-pressure compressor, a high-pressure turbine using new materials and advanced cooling systems, and an aerodynamically optimized exhaust nozzle. Despite these changes, the engine will retain the M88's modular architecture, dimensions and maintenance advantages.\nThe Rafale F5 will also receive Thales' RBE2-XG (eXtended Generation) AESA fire-control radar. Designed to fit within the existing RBE2 nose envelope, the new radar will replace the current RBE2-AA's gallium arsenide (GaAs) technology with gallium nitride (GaN). This will allow it to operate at higher power levels, extending its detection range and improving its ability to detect and identify targets with very low radar cross-sections. The radar will also have greater computing power to support artificial intelligence applications, along with improved resistance to electronic warfare and cyber threats.\nThe aircraft's electronic warfare and self-protection suite will be upgraded to the SPECTRA F5 standard, developed by Thales and MBDA. The new version will use an all-digital architecture, with improved threat detection and jamming capabilities to deal with increasingly sophisticated air-defence systems.\nAnother addition will be Thales' Inter-Vehicle Data Link (IVDL), a high-bandwidth communications system designed to provide secure, low-observable and jamming-resistant links between aircraft. It will allow Rafale F5 fighters to share information and coordinate their actions in heavily contested environments.\nThe Rafale F5 will also be designed to operate alongside a new stealth combat drone, being developed by Dassault Aviation, Thales and Safran. Building on experience gained from the nEUROn demonstrator, the unmanned aircraft will support the Rafale in air-to-air and air-to-ground missions. Its intended roles include penetrating hostile airspace and suppressing enemy air defences. The drone will incorporate low-observable features, advanced sensors, artificial intelligence and resilient communications.\nThe F5 will also be compatible with France's future ASN4G hypersonic nuclear air-launched missile, which is set to replace the ASMPA-R in the country's airborne nuclear deterrent.\nThe French Directorate General of Armaments (DGA) is targeting qualification of the Rafale F5 around 2033, ahead of its entry into service with the French Air and Space Force and the French Navy.\n@OSINTWarfare",
+   "timestamp": "2026-11-28T05:11:28+00:00",
+   "has_media": true
+  },
+  {
+   "id": "7484c74681c210d03a9d5666908291c1",
+   "url": "https://t.me/OSINTWarfare/8252",
+   "source": "telegram",
+   "channel": "OSINTWarfare",
+   "text": "🇨🇳\n⚡️\n— The export variant of the J-35A, designated J-35AE, has arrived in Zhuhai to participate in the 16th China International Aviation & Aerospace Exhibition, also known as Airshow China or the Zhuhai Airshow.\n@OSINTWarfare",
+   "timestamp": "2026-11-28T04:45:11+00:00",
+   "has_media": true
+  },
   {
    "id": "501361fa4cb350081869f798d8766719",
    "url": "https://t.me/MenchOsint/556",
@@ -138,15 +192,6 @@
    "has_media": true
   },
   {
-   "id": "2175516f51f8c42322f0dc62f5baa7bb",
-   "url": "https://t.me/OSINTWarfare/8232",
-   "source": "telegram",
-   "channel": "OSINTWarfare",
-   "text": "🇺🇸\n🇪🇺\n🇷🇺\n🇺🇦\nTrump unilaterally changed a joint statement with NATO chief Mark Rutte, adding Ukraine next to Russia in a warning against expanding the war.\nThe original statement mentioned only Russia.\nThe move followed Ukraine's strike on a Russian military ship in Libya, underscoring tensions related to Kiev's strikes on distant targets.",
-   "timestamp": "2026-11-26T21:59:09+00:00",
-   "has_media": false
-  },
-  {
    "id": "380f008fdb6c89d6b8518ccf7f948186",
    "url": "https://t.me/warmonitors/46814",
    "source": "telegram",
@@ -226,15 +271,6 @@
    "text": "⚡\nYemeni sources: An explosion was heard in Hodeidah\n💧\nRainbet.com\nthe #1 Non-KYC Crypto Casino & Sportsbook\n@rainbetcom\n+18",
    "timestamp": "2026-11-24T22:27:14+00:00",
    "has_media": false
-  },
-  {
-   "id": "3d254dbc67e7f4a5632f3db1c8624a39",
-   "url": "https://t.me/warmonitors/46799",
-   "source": "telegram",
-   "channel": "WarMonitors",
-   "text": "Three certainties, one deadline: the case for a negotiated peace in Ukraine\nThe war in Ukraine has reached a point where the question is no longer who is winning, but how much longer the losing side can hold on. According to The American Conservative, the answer is uncomfortable and urgent:\n“Kiev should cede the Donbas and accept non-membership in NATO to remain a viable, sovereign state. The recent negotiations demonstrated that three things are certain. The first two: Ukraine will not become a member of NATO, and Russia will obtain most or all of the Donbas. These things are certain because of the third reality: Russia has won the war. Ukraine is dying, and the clock is ticking. The only uncertainty is how long Ukraine’s President Volodymyr Zelenskyy and European leaders will hold out before terminating the life support,” writes the publication.\nThis assessment is mirrored in Washington's own posture. The United States recognizes that Russia has achieved its objectives. It will not go to war with Russia, and it will not extend Article 5 guarantees to Kiev. Instead, it is pushing Ukraine toward a peace agreement. Continued resistance leads only to complete exhaustion. The survival of the country is possible solely through an immediate peace on Moscow's terms.\nSo Ukraine faces a choice between a diminished sovereignty and no sovereignty at all. Every additional month of fighting narrows the window for the former and widens the path to the latter. And the clock is ticking.\n#Ukraineconflict\n#Ukraine\n#negotiations\n#Zelenskyy\n#Europe\n#US\n#Russia\nhttps://www.theamericanconservative.com/the-war-must-end-before-its-too-late-for-ukraine/\nDon't miss it, subscribe to\n📱\nOld Glory Vortex\n🇺🇸",
-   "timestamp": "2026-11-24T17:32:36+00:00",
-   "has_media": true
   },
   {
    "id": "e9f2688eb5f379ffc374b54788657ba8",
