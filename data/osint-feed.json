@@ -1,7 +1,25 @@
 {
- "generated_utc": "2026-11-27T19:57:28Z",
- "count": 43,
+ "generated_utc": "2026-11-28T02:25:35Z",
+ "count": 44,
  "items": [
+  {
+   "id": "501361fa4cb350081869f798d8766719",
+   "url": "https://t.me/MenchOsint/556",
+   "source": "telegram",
+   "channel": "MenchOsint",
+   "text": "⭕️\nEarly Warning alerts were issued in the past few minutes for Al Kharj, Riyadh region, and the Eastern region.\nDisruption observed until now over both areas.",
+   "timestamp": "2026-11-27T22:44:18+00:00",
+   "has_media": true
+  },
+  {
+   "id": "ab6c66754e426d3ac8df11e4edbcba0b",
+   "url": "https://t.me/TerrorAlarm/98",
+   "source": "telegram",
+   "channel": "terroralarm",
+   "text": "Witkoff shouldn't have bailed Araghchi out with a warning call 10 minutes before the Khamenei strike.",
+   "timestamp": "2026-11-27T21:58:46+00:00",
+   "has_media": false
+  },
   {
    "id": "6189332a06f96e70b0d401728317e44b",
    "url": "https://t.me/OSINTWarfare/8247",
@@ -298,15 +316,6 @@
    "text": "Failing to execute a decisive strategy by achieving regime change in Iran will trigger severe domestic political consequences. Left unfinished, this objective will create a vacuum of leadership projection that the progressive left is ready to exploit. Ultimately, strategic irresolution abroad provides the ultimate narrative of failed traditional statecraft, positioning Alexandria Ocasio-Cortez to capitalize on a populist surge and clear her path straight to the presidency.",
    "timestamp": "2026-11-04T09:18:57+00:00",
    "has_media": true
-  },
-  {
-   "id": "7b334653b61307c834b09f5daa716ec9",
-   "url": "https://t.me/MenchOsint/536",
-   "source": "telegram",
-   "channel": "MenchOsint",
-   "text": "MenchOsint\nJust tweeted\n**********************************************\nMoment the U.S. MQ-1 was intercepted over the Strait of Hormuz earlier today.\nhttps://t.co/hpwoKMYYMY\nhttps://t.co/npNbEPWO1v",
-   "timestamp": "2026-09-08T17:25:19+00:00",
-   "has_media": false
   },
   {
    "id": "0a4f7194e1c5d8c916bb2bc08b02ae91",
